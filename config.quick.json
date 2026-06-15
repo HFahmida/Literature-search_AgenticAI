@@ -1,0 +1,34 @@
+{
+  "topic": "Eco-HAB mouse social behavior automated home-cage monitoring",
+  "review_question": "What automated home-cage monitoring approaches have been used to quantify social behavior in mice, and what outcomes have they reported?",
+  "search_terms": [
+    "\"home cage\" mouse social behavior automated monitoring"
+  ],
+  "inclusion_criteria": [
+    "Primary research article or preprint",
+    "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+    "Reports behavioral, social, preference, dominance, activity, or interaction outcomes",
+    "Provides extractable methods and results"
+  ],
+  "exclusion_criteria": [
+    "Review, editorial, protocol-only, or commentary article",
+    "No automated monitoring or no behavioral outcome",
+    "Non-rodent study unless directly relevant as a method comparison",
+    "Unavailable abstract and unavailable full text"
+  ],
+  "databases": ["crossref"],
+  "max_results_per_source": 3,
+  "max_papers_to_extract": 1,
+  "min_relevance_score": 3,
+  "extract_full_text_when_pdf_available": false,
+  "output_dir": "runs",
+  "llm_provider": "ollama",
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "extract_model": "qwen2.5:7b",
+  "draft_model": "qwen2.5:7b",
+  "use_pubmedbert_ranking": true,
+  "pubmedbert_model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "max_ranked_candidates": 1,
+  "draft_interval_seconds": 120,
+  "concurrency": 1
+}
