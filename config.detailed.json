@@ -1,0 +1,59 @@
+{
+  "topic": "Automated home-cage monitoring for mouse behavior and social interaction",
+  "review_question": "What automated home-cage monitoring systems have been used to measure mouse behavior, especially social interaction, activity, preference, dominance, feeding, drinking, cognition, or welfare-related outcomes, and what results have these studies reported?",
+  "search_terms": [
+    "\"automated home cage\" mice behavior",
+    "\"home-cage monitoring\" mouse behavior",
+    "\"home cage\" mouse social interaction automated",
+    "\"RFID\" mouse home cage behavior",
+    "\"Eco-HAB\" mice social behavior",
+    "\"automated home-cage\" mouse activity social"
+  ],
+  "inclusion_criteria": [
+    "Primary research article or preprint",
+    "Studies mice or rats using automated home-cage, RFID, video, sensor, or semi-natural monitoring",
+    "Reports behavioral, social, preference, dominance, activity, feeding, drinking, cognition, pain, welfare, or interaction outcomes",
+    "Provides extractable methods and results"
+  ],
+  "exclusion_criteria": [
+    "Review, editorial, protocol-only, or commentary article",
+    "No automated monitoring system",
+    "No behavioral or welfare-related outcome",
+    "Non-rodent study unless it directly informs an automated monitoring method",
+    "Unavailable abstract and unavailable full text"
+  ],
+  "databases": ["crossref", "pubmed"],
+  "max_results_per_source": 20,
+  "max_papers_to_extract": 20,
+  "min_relevance_score": 3,
+  "extract_full_text_when_pdf_available": true,
+  "output_dir": "runs",
+  "llm_provider": "ollama",
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "extract_model": "qwen2.5:7b",
+  "draft_model": "qwen2.5:7b",
+  "use_pubmedbert_ranking": true,
+  "pubmedbert_model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "max_ranked_candidates": 25,
+  "extraction_detail_instructions": [
+    "Write a detailed 6-10 sentence paper summary when abstract or full-text metadata is available.",
+    "Separate methods, outcomes, main results, conclusions, limitations, and review relevance.",
+    "Capture animal species, strain, sex, age, sample size, monitoring duration, apparatus/system name, sensors, behavioral variables, and experimental condition whenever reported.",
+    "Extract numerical findings, p-values, effect directions, units, time windows, and confidence intervals whenever reported.",
+    "Clearly mark fields as missing when the abstract or metadata does not provide the information.",
+    "Do not invent details. If only title/abstract metadata is available, state that the extraction is abstract-limited."
+  ],
+  "custom_extraction_questions": [
+    "What automated home-cage, RFID, video, sensor, or monitoring system was used?",
+    "What behavior categories were measured, especially social interaction, activity, preference, dominance, feeding, drinking, cognition, pain, or welfare?",
+    "What animal model, strain, sex, age, sample size, and group structure were used?",
+    "What was the monitoring duration and experimental timeline?",
+    "What were the main behavioral findings and were numerical results reported?",
+    "How directly does this paper answer the review question?",
+    "What important information is missing from the abstract or metadata?"
+  ],
+  "draft_during_extraction": false,
+  "draft_manuscript": true,
+  "draft_interval_seconds": 120,
+  "concurrency": 1
+}

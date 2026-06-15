@@ -32,6 +32,8 @@ class ReviewConfig(BaseModel):
     use_pubmedbert_ranking: bool = True
     pubmedbert_model: str = "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
     max_ranked_candidates: int = 30
+    extraction_detail_instructions: list[str] = Field(default_factory=list)
+    custom_extraction_questions: list[str] = Field(default_factory=list)
     draft_during_extraction: bool = False
     draft_manuscript: bool = True
     draft_interval_seconds: int = 120

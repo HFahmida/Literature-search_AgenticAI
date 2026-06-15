@@ -42,6 +42,8 @@ class OllamaAgent:
             "inclusion_criteria": self.config.inclusion_criteria,
             "exclusion_criteria": self.config.exclusion_criteria,
             "minimum_relevance_score_for_inclusion": self.config.min_relevance_score,
+            "extraction_detail_instructions": self.config.extraction_detail_instructions,
+            "custom_extraction_questions": self.config.custom_extraction_questions,
             "paper_metadata": _candidate_for_prompt(candidate),
             "json_template": STUDY_EXTRACTION_TEMPLATE,
         }
@@ -75,7 +77,7 @@ class OllamaAgent:
             "inclusion_criteria": self.config.inclusion_criteria,
             "exclusion_criteria": self.config.exclusion_criteria,
             "run_stats": run_stats,
-            "evidence": [item.model_dump() for item in extractions],
+            "evidence": [_extraction_for_manuscript(item) for item in extractions],
             "is_final_draft": final,
             "json_template": MANUSCRIPT_TEMPLATE,
         }
@@ -178,6 +180,18 @@ def _normalize_study_extraction_payload(payload: dict[str, Any]) -> None:
                 screening[field] = []
             elif isinstance(screening.get(field), str):
                 screening[field] = [screening[field]]
+    for field in [
+        "overall_concept_summary",
+        "detailed_summary",
+        "methods_summary",
+        "results_summary",
+        "conclusion_summary",
+        "relevance_to_review",
+    ]:
+        if payload.get(field) is None:
+            payload[field] = ""
+    if not payload.get("overall_concept_summary"):
+        payload["overall_concept_summary"] = payload.get("detailed_summary") or payload.get("title") or "No summary available from the supplied metadata."
 
 
 def _normalize_manuscript_payload(payload: dict[str, Any]) -> None:
@@ -186,6 +200,51 @@ def _normalize_manuscript_payload(payload: dict[str, Any]) -> None:
             payload[field] = []
         elif isinstance(payload.get(field), str):
             payload[field] = [payload[field]]
+    for field in [
+        "title",
+        "abstract",
+        "introduction",
+        "methods",
+        "results",
+        "discussion",
+        "limitations",
+        "conclusions",
+        "prisma_flow_summary",
+        "tables_markdown",
+    ]:
+        if payload.get(field) is None:
+            payload[field] = ""
+
+
+def _truncate(text: str | None, max_chars: int = 900) -> str:
+    if not text:
+        return ""
+    text = " ".join(str(text).split())
+    return text if len(text) <= max_chars else text[: max_chars - 3] + "..."
+
+
+def _extraction_for_manuscript(extraction: StudyExtraction) -> dict[str, Any]:
+    return {
+        "title": extraction.title,
+        "year": extraction.year,
+        "authors": extraction.authors[:6],
+        "journal": extraction.journal,
+        "doi": extraction.doi,
+        "screening": extraction.screening.model_dump(),
+        "objective": _truncate(extraction.objective, 500),
+        "study_design": extraction.study_design,
+        "population_or_sample": _truncate(extraction.population_or_sample, 400),
+        "setting": _truncate(extraction.setting, 300),
+        "methods_summary": _truncate(extraction.methods_summary, 700),
+        "outcomes_measured": extraction.outcomes_measured[:8],
+        "results_summary": _truncate(extraction.results_summary, 900),
+        "main_results": [_truncate(item, 350) for item in extraction.main_results[:8]],
+        "conclusion_summary": _truncate(extraction.conclusion_summary, 650),
+        "limitations": [_truncate(item, 250) for item in extraction.limitations[:5]],
+        "relevance_to_review": _truncate(extraction.relevance_to_review, 600),
+        "key_takeaways": [_truncate(item, 250) for item in extraction.key_takeaways[:6]],
+        "extraction_confidence": extraction.extraction_confidence,
+    }
 
 
 EXTRACTION_SYSTEM_PROMPT = """You are a careful systematic-review extraction agent.

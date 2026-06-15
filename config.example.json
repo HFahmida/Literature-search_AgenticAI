@@ -31,6 +31,20 @@
   "use_pubmedbert_ranking": true,
   "pubmedbert_model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
   "max_ranked_candidates": 30,
+  "extraction_detail_instructions": [
+    "Write a detailed 6-10 sentence paper summary when abstract or full-text metadata is available.",
+    "Separate methods, outcomes, main results, conclusions, limitations, and review relevance.",
+    "Capture sample size, animal strain/species, sex, intervention, comparator, time window, apparatus, and measured variables whenever reported.",
+    "Extract numerical findings, p-values, effect directions, units, and confidence intervals whenever reported.",
+    "Clearly mark fields as missing when the abstract or metadata does not provide the information."
+  ],
+  "custom_extraction_questions": [
+    "What automated home-cage or monitoring system was used?",
+    "What behavior categories were measured, especially social interaction, activity, preference, dominance, feeding, drinking, or cognition?",
+    "What animal model, strain, sex, age, and sample size were used?",
+    "What were the main behavioral findings and how strong was the evidence?",
+    "How directly does this paper answer the review question?"
+  ],
   "draft_during_extraction": false,
   "draft_manuscript": true,
   "draft_interval_seconds": 120,

@@ -193,11 +193,55 @@ class ReviewPipeline:
             self.stats.extraction_errors += 1
             self.storage.save_error("manuscript", repr(exc))
             self.storage.save_stats(self.stats)
-            console.print("[yellow]Manuscript drafting failed; extraction will continue.[/yellow]")
-            return False
+            fallback = self._fallback_manuscript_markdown(included, repr(exc))
+            path = self.storage.save_manuscript(fallback, index, final=final)
+            console.print(f"[yellow]Manuscript drafting failed; saved evidence-based fallback draft:[/yellow] {path}")
+            return True
         path = self.storage.save_manuscript(manuscript_to_markdown(draft), index, final=final)
         console.print(f"[green]Saved manuscript draft:[/green] {path}")
         return True
+
+    def _fallback_manuscript_markdown(self, included: list[StudyExtraction], error: str) -> str:
+        rows = [
+            "| Study | Design / sample | Outcomes | Main findings |",
+            "|---|---|---|---|",
+        ]
+        for item in included:
+            study = f"{item.title} ({item.year or 'n.d.'})"
+            design = " ".join(part for part in [item.study_design or "", item.population_or_sample or ""] if part)
+            outcomes = "; ".join(item.outcomes_measured[:5])
+            findings = item.results_summary or "; ".join(item.main_results[:3]) or item.overall_concept_summary
+            rows.append(
+                "| "
+                + " | ".join(
+                    text.replace("|", "/").replace("\n", " ")
+                    for text in [study, design, outcomes, findings]
+                )
+                + " |"
+            )
+        summaries = []
+        for item in included:
+            summaries.append(
+                f"### {item.title}\n\n"
+                f"**Relevance:** {item.relevance_to_review or item.screening.reason}\n\n"
+                f"**Methods:** {item.methods_summary or 'Not available from extracted metadata.'}\n\n"
+                f"**Results:** {item.results_summary or '; '.join(item.main_results) or 'Not available from extracted metadata.'}\n\n"
+                f"**Key takeaways:**\n"
+                + "\n".join(f"- {takeaway}" for takeaway in item.key_takeaways)
+            )
+        return (
+            "# Systematic Review Evidence Draft\n\n"
+            "The local LLM manuscript writer failed to produce valid structured manuscript JSON, "
+            "so this fallback draft was generated directly from the validated extraction files.\n\n"
+            f"Drafting error recorded in logs: `{error}`\n\n"
+            "## Evidence Table\n\n"
+            + "\n".join(rows)
+            + "\n\n## Study-Level Summaries\n\n"
+            + "\n\n".join(summaries)
+            + "\n\n## Human Reviewer Notes\n\n"
+            "- Verify every extracted result against the source paper.\n"
+            "- Use this fallback as a synthesis scaffold, not a final manuscript.\n"
+        )
 
 
 async def run_review(config: ReviewConfig) -> RunStorage:

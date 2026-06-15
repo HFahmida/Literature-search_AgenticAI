@@ -159,6 +159,38 @@ Use:
 
 The default example can extract up to 30 ranked papers. On CPU-only laptops, this may take hours.
 
+For a more detailed but still laptop-friendly run, use:
+
+```powershell
+.\.venv\Scripts\python.exe run_review.py --config config.detailed.json
+```
+
+`config.detailed.json` uses more specific extraction instructions and custom extraction questions. It also avoids Semantic Scholar by default because that API often rate-limits unauthenticated users.
+
+## Generate Only The Manuscript
+
+If you already completed a literature search and extraction run, you can regenerate only the manuscript without repeating search, ranking, or extraction.
+
+Use the newest run folder:
+
+```powershell
+.\.venv\Scripts\python.exe generate_manuscript.py --latest --config config.detailed.json
+```
+
+Or use a specific previous run folder:
+
+```powershell
+.\.venv\Scripts\python.exe generate_manuscript.py --run-dir "D:\Literature_Search\runs\YOUR_RUN_FOLDER_NAME" --config config.detailed.json
+```
+
+The manuscript will be saved to:
+
+```text
+runs/YOUR_RUN_FOLDER_NAME/manuscripts/manuscript_final.md
+```
+
+This manuscript-only command reads the existing `extractions/*.json` files, keeps only studies marked `include` with a relevance score at or above `min_relevance_score`, and asks the local Qwen model to draft the manuscript. If the local model fails to produce valid structured output, the script still saves a fallback evidence-based manuscript draft instead of leaving the `manuscripts/` folder empty.
+
 ## Configure Your Own Review
 
 Copy the example config:
