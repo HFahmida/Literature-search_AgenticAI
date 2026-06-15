@@ -1,0 +1,575 @@
+Local Literature Review Agent: Detailed Project Description
+
+Project Overview
+================
+
+The Local Literature Review Agent is a free, local-first agentic system for assisting with systematic literature reviews, scoping reviews, and topic-based evidence extraction. The pipeline automatically searches scientific databases, identifies potentially relevant papers, ranks them against a user-defined review question, extracts structured information from matching papers, creates detailed paper-level summaries, and drafts a PRISMA-style systematic review manuscript.
+
+The system is designed to avoid paid LLM APIs. It runs locally using Ollama and an open-source Qwen model for generative reasoning, extraction, summarization, and manuscript drafting. It also uses PubMedBERT for biomedical/scientific relevance ranking before sending papers to the local LLM.
+
+The goal is to reduce the manual burden of early-stage literature review work while keeping the process transparent, auditable, and human-verifiable.
+
+
+Main Components
+===============
+
+1. User Configuration
+---------------------
+
+The user defines the review in a JSON configuration file. This file controls the topic, review question, search terms, eligibility criteria, database selection, number of papers to process, model settings, and output behavior.
+
+Important configuration fields include:
+
+- topic:
+  A short description of the review area.
+
+- review_question:
+  The central question the literature search should answer.
+
+- search_terms:
+  Search strings used to query literature databases.
+
+- inclusion_criteria:
+  Rules that define what papers should be considered relevant.
+
+- exclusion_criteria:
+  Rules that define what papers should be excluded.
+
+- databases:
+  Literature sources to search, such as Crossref, PubMed, and Semantic Scholar.
+
+- max_results_per_source:
+  Maximum number of search results collected per database query.
+
+- max_papers_to_extract:
+  Maximum number of ranked papers sent to the local LLM for extraction.
+
+- max_ranked_candidates:
+  Number of top-ranked papers selected after PubMedBERT ranking.
+
+- extract_model:
+  Local Ollama model used for paper screening and information extraction.
+
+- draft_model:
+  Local Ollama model used for manuscript drafting.
+
+- use_pubmedbert_ranking:
+  Enables biomedical relevance ranking before LLM extraction.
+
+- draft_manuscript:
+  Determines whether the system creates a manuscript draft after extraction.
+
+
+2. Literature Search
+--------------------
+
+The pipeline searches scientific literature databases using the user-provided search terms.
+
+Current supported sources include:
+
+- Crossref:
+  Retrieves bibliographic metadata for journal articles, including title, DOI, journal, authors, publication year, abstract when available, and links.
+
+- PubMed:
+  Retrieves biomedical article metadata, abstracts, authors, journal information, publication year, DOI, and PubMed links.
+
+- Semantic Scholar:
+  Retrieves paper metadata, abstracts, authors, citation counts, fields of study, DOI, open-access PDF links when available, and Semantic Scholar URLs.
+
+The search stage produces a collection of candidate paper records. At this stage, the system does not yet decide whether a paper should be included. It only gathers potentially relevant records.
+
+Each candidate record may contain:
+
+- title
+- abstract
+- DOI
+- source database
+- source-specific identifier
+- authors
+- journal or venue
+- publication year
+- URL
+- PDF URL if available
+- keywords or fields of study
+- citation count if available
+- raw source metadata
+
+
+3. Deduplication
+----------------
+
+After collecting search results, the pipeline removes duplicate papers.
+
+Deduplication is performed using:
+
+- DOI matching:
+  If two records have the same DOI, they are treated as the same paper.
+
+- Normalized title matching:
+  If DOI is unavailable, titles are lowercased, whitespace is normalized, and duplicate titles are removed.
+
+This prevents the same article from being extracted multiple times when it appears in more than one database.
+
+Output from this step:
+
+- A unique list of candidate papers.
+- A count of duplicate records removed.
+- Candidate JSON files saved in the run folder.
+
+
+4. PubMedBERT Relevance Ranking
+-------------------------------
+
+Before sending papers to the local LLM, the system ranks candidates using PubMedBERT.
+
+Model used:
+
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+
+Role of PubMedBERT:
+
+PubMedBERT is not used to write summaries or generate JSON. It is an encoder model specialized for biomedical and scientific text. In this pipeline, it is used to estimate how closely each paper matches the review topic, review question, and inclusion criteria.
+
+What PubMedBERT does:
+
+1. Creates an embedding for the review topic, review question, and inclusion criteria.
+2. Creates embeddings for candidate papers using title, abstract, journal, and keywords.
+3. Calculates semantic similarity between the review embedding and each paper embedding.
+4. Combines semantic similarity with lexical keyword overlap.
+5. Sorts candidate papers from most relevant to least relevant.
+
+Why this step matters:
+
+Local LLM extraction is slow on CPU-only machines. PubMedBERT reduces wasted computation by selecting the most relevant papers before Qwen performs deeper extraction.
+
+Output from this step:
+
+- ranked_candidates.json
+
+This file records each candidate paper and its ranking score.
+
+
+5. Top Paper Selection
+----------------------
+
+After ranking, the system selects the top N papers for extraction.
+
+The number of selected papers is controlled by:
+
+- max_ranked_candidates
+- max_papers_to_extract
+
+For example, if max_papers_to_extract is 30, the top 30 ranked papers are sent to the local LLM for screening and extraction.
+
+For quick testing, config.quick.json selects only one paper. This is only for smoke testing and is not intended for real review runs.
+
+
+6. Local LLM Screening With Ollama + Qwen
+-----------------------------------------
+
+Selected papers are sent one at a time to a local LLM running through Ollama.
+
+Recommended model:
+
+qwen2.5:7b
+
+Role of Qwen in screening:
+
+The local Qwen model evaluates each candidate paper against the review question, inclusion criteria, and exclusion criteria.
+
+For each paper, Qwen produces:
+
+- decision:
+  One of include, maybe, or exclude.
+
+- relevance_score:
+  A score from 0 to 5.
+
+- reason:
+  A short explanation of the decision.
+
+- matched_inclusion_criteria:
+  Which inclusion criteria the paper appears to satisfy.
+
+- matched_exclusion_criteria:
+  Which exclusion criteria the paper appears to satisfy.
+
+Relevance score meaning:
+
+- 0: unrelated
+- 1: weak background relevance
+- 2: tangential method or topic relevance
+- 3: eligible but limited
+- 4: clearly eligible
+- 5: central paper for the review
+
+Papers with decision include and a score above the configured threshold are counted as included studies.
+
+
+7. Structured Information Extraction
+------------------------------------
+
+After screening, the Qwen model extracts structured evidence from each processed paper.
+
+The extraction is saved as JSON in the extractions folder.
+
+The model extracts the following fields:
+
+Bibliographic information:
+
+- paper_id
+- title
+- citation
+- DOI
+- URL
+- PDF URL
+- year
+- authors
+- journal
+
+Screening information:
+
+- relevance score
+- include/maybe/exclude decision
+- decision reason
+- matched inclusion criteria
+- matched exclusion criteria
+
+Study-level information:
+
+- overall_concept_summary:
+  A concise explanation of the paper's main idea.
+
+- detailed_summary:
+  A longer summary of the paper, usually 6 to 10 sentences when enough information is available.
+
+- background_rationale:
+  Why the study was performed or what problem it addresses.
+
+- objective:
+  The main goal or research question of the paper.
+
+- study_design:
+  The type of study or experimental design.
+
+- population_or_sample:
+  The animals, humans, cells, datasets, or samples studied.
+
+- setting:
+  The study setting, such as home-cage monitoring, laboratory experiment, clinical setting, or database analysis.
+
+- intervention_or_exposure:
+  Treatment, exposure, system, method, or condition being studied.
+
+- comparator:
+  Control group, baseline group, comparison method, or alternative condition if reported.
+
+Methods information:
+
+- methods:
+  Specific methods used in the paper.
+
+- methods_summary:
+  A narrative summary of how the study was conducted.
+
+- outcomes_measured:
+  Variables, behavioral outcomes, biomarkers, or endpoints measured.
+
+Results information:
+
+- main_results:
+  Key findings reported by the paper.
+
+- results_summary:
+  Narrative summary of the results.
+
+- extracted_numeric_results:
+  Structured numeric results when available, such as sample sizes, p-values, effect sizes, confidence intervals, measurement values, or units.
+
+Conclusion and interpretation:
+
+- conclusions:
+  Main conclusions stated by the authors.
+
+- conclusion_summary:
+  Narrative summary of the paper's conclusions.
+
+- relevance_to_review:
+  Explanation of how the paper contributes to the user's review question.
+
+- key_takeaways:
+  Bullet-style takeaways useful for synthesis.
+
+Quality and uncertainty:
+
+- limitations:
+  Study limitations reported or apparent from the metadata/abstract.
+
+- risk_of_bias_notes:
+  Potential bias, design limitations, missing control information, or uncertainty.
+
+- extraction_confidence:
+  high, medium, or low confidence.
+
+- missing_information:
+  Important information not available from the abstract or metadata.
+
+- evidence_quotes_or_locations:
+  Short evidence snippets or location notes when available.
+
+Important note:
+
+If only the abstract is available, the extraction is abstract-limited. The system should not invent unavailable full-text details.
+
+
+8. Paper-Level Markdown Summaries
+---------------------------------
+
+For each extracted paper, the system creates a readable Markdown summary.
+
+These files are saved in:
+
+paper_summaries/
+
+Each summary includes:
+
+- screening decision
+- relevance score
+- decision reason
+- detailed summary
+- review relevance
+- key takeaways
+- methods summary
+- outcomes
+- results summary
+- conclusion summary
+- limitations
+- missing information
+- citation details
+
+Purpose of this output:
+
+The JSON files are useful for downstream processing, but the Markdown summaries are easier for researchers to read and verify manually.
+
+
+9. Manuscript Drafting
+----------------------
+
+After paper extraction is complete, the system can draft a manuscript using the included papers.
+
+Model used:
+
+Ollama + Qwen
+
+The manuscript draft is based only on the extracted structured evidence, not directly on all raw search results.
+
+The manuscript draft includes:
+
+- title
+- abstract
+- introduction
+- methods
+- results
+- study summary table
+- PRISMA-style flow summary
+- discussion
+- limitations
+- conclusions
+- references
+- notes for human reviewer
+
+The manuscript is saved in:
+
+manuscripts/manuscript_final.md
+
+The drafting step is optional and controlled by:
+
+draft_manuscript
+
+For CPU-only machines, drafting during extraction is disabled by default. This allows the system to finish extracting papers first before using the local LLM for manuscript drafting.
+
+
+10. Run Outputs
+---------------
+
+Each run creates a timestamped folder:
+
+runs/YYYYMMDD-HHMMSS-topic-slug/
+
+Inside each run folder:
+
+- review_config.json:
+  Copy of the configuration used for that run.
+
+- run_stats.json:
+  Counts for records identified, duplicates removed, unique records screened, reports extracted, exclusions, included studies, and errors.
+
+- ranked_candidates.json:
+  Ranked list of candidate papers after PubMedBERT scoring.
+
+- candidates/:
+  Raw candidate paper metadata saved as JSON.
+
+- extractions/:
+  Structured extraction JSON for processed papers.
+
+- paper_summaries/:
+  Human-readable Markdown summaries for processed papers.
+
+- logs/:
+  JSONL logs for candidates, extractions, and errors.
+
+- manuscripts/:
+  Manuscript draft files.
+
+
+Models Used In The Pipeline
+===========================
+
+1. PubMedBERT
+-------------
+
+Model:
+
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+
+Used for:
+
+- biomedical/scientific relevance ranking
+- candidate paper prioritization
+- semantic similarity between review question and paper metadata
+
+Not used for:
+
+- long-form summarization
+- manuscript writing
+- JSON generation
+
+Why it is useful:
+
+PubMedBERT is trained on biomedical literature and is better suited than generic text embeddings for ranking biomedical or scientific paper abstracts.
+
+
+2. Qwen Through Ollama
+----------------------
+
+Recommended model:
+
+qwen2.5:7b
+
+Used for:
+
+- paper screening
+- structured JSON extraction
+- detailed paper summaries
+- key takeaways
+- methods/results/conclusions extraction
+- manuscript drafting
+
+Why it is useful:
+
+Qwen is an open-source instruction-following LLM that can run locally through Ollama. It can generate structured JSON and narrative summaries without requiring a paid API.
+
+Limitations:
+
+- Slower than cloud APIs on CPU-only machines.
+- Less accurate than large commercial models such as GPT-5.5, Claude Opus/Sonnet, or Gemini Pro.
+- Requires human verification.
+- May occasionally produce incomplete or malformed JSON, though the pipeline includes parsing and validation safeguards.
+
+
+Human Review Requirement
+========================
+
+This system is not a replacement for a human systematic reviewer.
+
+Researchers must verify:
+
+- whether each paper truly meets inclusion criteria
+- whether exclusion decisions are correct
+- whether extracted methods and results match the source paper
+- whether numeric results are accurate
+- whether limitations and risk-of-bias notes are appropriate
+- whether the final manuscript draft is scientifically valid
+- whether PRISMA reporting requirements are fully satisfied
+
+The system should be treated as a first-pass assistant for literature mapping, extraction, organization, and drafting.
+
+
+Typical Workflow
+================
+
+1. Install Ollama.
+2. Download qwen2.5:7b.
+3. Create Python virtual environment.
+4. Install Python requirements.
+5. Run scripts/check_setup.py.
+6. Edit config.example.json or create a custom review config.
+7. Run config.quick.json to confirm the pipeline works.
+8. Run the full config.
+9. Inspect ranked_candidates.json.
+10. Review paper_summaries/.
+11. Check extraction JSON files.
+12. Review manuscript_final.md.
+13. Manually verify all important claims against source papers.
+
+
+Example Commands
+================
+
+Install model:
+
+ollama pull qwen2.5:7b
+
+Run setup check:
+
+python scripts/check_setup.py
+
+Quick test:
+
+python run_review.py --config config.quick.json
+
+Full example run:
+
+python run_review.py --config config.example.json
+
+
+Intended Use Cases
+==================
+
+- systematic review preparation
+- scoping review preparation
+- rapid literature mapping
+- biomedical evidence extraction
+- behavioral neuroscience literature review
+- home-cage monitoring literature review
+- local privacy-preserving paper analysis
+- structured organization of paper metadata and findings
+
+
+Key Strengths
+=============
+
+- Free local workflow.
+- No paid LLM API required.
+- Transparent JSON and Markdown outputs.
+- PubMedBERT improves candidate ranking.
+- Qwen provides local extraction and summarization.
+- Outputs are organized for human review.
+- GitHub-ready project structure.
+
+
+Key Limitations
+===============
+
+- CPU-only runs can be slow.
+- Abstract-only extraction may miss full-text details.
+- Local 7B models are less accurate than large commercial LLMs.
+- Search database APIs can rate-limit requests.
+- Human verification is required before publication.
+
+
+Summary
+=======
+
+The Local Literature Review Agent combines database search, PubMedBERT ranking, local Qwen-based extraction, structured JSON output, Markdown paper summaries, and manuscript drafting into a single free pipeline. It is designed to help researchers organize and accelerate systematic review workflows while preserving transparency and local control.
