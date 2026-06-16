@@ -1,0 +1,48 @@
+# ── Day 1: Setup ──────────────────────────────────────────────────
+
+# Get the gold datasets
+git clone https://github.com/CLEF-TAR/tar.git
+git clone https://github.com/bepnye/EBM-NLP.git
+
+# Install dependencies
+pip install datasets evaluate rouge_score bert_score scikit-learn numpy
+
+# Convert all datasets to eval-ready JSON format
+python prepare_eval_data.py
+
+
+# ── Day 2: Quick smoke test (5 topics, confirm pipeline works) ────
+
+python generate_clef_configs.py \
+    --topics-dir tar/2019/Task2/topics \
+    --run \
+    --limit 5
+
+# Inspect one output to make sure fields look correct
+cat clef_configs/batch_summary.json
+ls runs/ | tail -5
+
+
+# ── Day 3: Full run on all 123 topics (leave overnight on CPU) ────
+
+python generate_clef_configs.py \
+    --topics-dir tar/2019/Task2/topics \
+    --run \
+    --ablation-no-bert
+
+
+# ── Day 4: Evaluate ───────────────────────────────────────────────
+
+# Screening metrics (WSS@95, nDCG, Recall, F1, Kappa)
+# Run once per topic run folder, or write a loop:
+for run_dir in runs/*/; do
+    python evaluate_screening.py \
+        --extractions "${run_dir}extractions/" \
+        --gold        gold/clef_tar_2019_labels.json \
+        >> results/screening_all.txt
+done
+
+# Faithfulness evaluation on all extraction summaries
+for run_dir in runs/*/; do
+    python evaluate_faithfulness.py "${run_dir}extractions/" qwen2.5:7b
+done
