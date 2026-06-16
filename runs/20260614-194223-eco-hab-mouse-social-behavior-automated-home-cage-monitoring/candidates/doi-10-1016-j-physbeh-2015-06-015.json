@@ -1,0 +1,640 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.physbeh.2015.06.015",
+  "title": "Assessment of incising ethology in the absence and presence of jaw muscle hyperalgesia in a mouse home cage environment",
+  "abstract": null,
+  "year": 2015,
+  "authors": [
+    "C.G. Widmer",
+    "J. Morris-Wiman"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/j.physbeh.2015.06.015",
+  "url": "https://doi.org/10.1016/j.physbeh.2015.06.015",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          2
+        ]
+      ],
+      "date-time": "2025-11-02T16:42:00Z",
+      "timestamp": 1762101720244
+    },
+    "reference-count": 37,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2015-10-01T00:00:00Z",
+          "timestamp": 1443657600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "National Institute of Dental and Craniofacial Research/National Institutes of Health",
+        "award": [
+          "DE021849"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE021849"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.fr",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.physbeh.2015.06.015",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          14
+        ]
+      ],
+      "date-time": "2015-06-14T02:48:16Z",
+      "timestamp": 1434250096000
+    },
+    "page": "229-238",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": [
+      "Assessment of incising ethology in the absence and presence of jaw muscle hyperalgesia in a mouse home cage environment"
+    ],
+    "prefix": "10.1016",
+    "volume": "149",
+    "author": [
+      {
+        "given": "C.G.",
+        "family": "Widmer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Morris-Wiman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1046",
+        "DOI": "10.1242/jeb.02733",
+        "article-title": "Modulation of mandibular loading and bite force in mammals during mastication",
+        "volume": "210",
+        "author": "Ross",
+        "year": "2007",
+        "journal-title": "J. Exp. Biol."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.brainres.2004.04.061",
+        "article-title": "The involvement of brain-derived neurotrophic factor in the pattern generator of mastication",
+        "volume": "1016",
+        "author": "Okayasu",
+        "year": "2004",
+        "journal-title": "Brain Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0015",
+        "first-page": "99",
+        "article-title": "Functional anatomy of the masticatory apparatus in the rabbit",
+        "volume": "31",
+        "author": "Weijs",
+        "year": "1981",
+        "journal-title": "Neth. J. Zool."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1002/aja.1001540410",
+        "article-title": "Functional heterogeneity in a multipinnate muscle",
+        "volume": "154",
+        "author": "Herring",
+        "year": "1979",
+        "journal-title": "Am. J. Anat."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1016/S0031-9384(01)00662-X",
+        "article-title": "Electrophysiological analysis of rhythmic jaw movements in the freely moving mouse",
+        "volume": "75",
+        "author": "Kobayashi",
+        "year": "2002",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "594",
+        "DOI": "10.1177/154405910208100903",
+        "article-title": "Characteristics of mastication in the anodontic mouse",
+        "volume": "81",
+        "author": "Kobayashi",
+        "year": "2002",
+        "journal-title": "J. Dent. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/S1350-4533(01)00038-8",
+        "article-title": "Development of a three-dimensional jaw-tracking system implanted in the freely moving mouse",
+        "volume": "23",
+        "author": "Koga",
+        "year": "2001",
+        "journal-title": "Med. Eng. Phys."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1016/j.jneumeth.2014.03.001",
+        "article-title": "Reproducibility and relevance of future behavioral sciences should benefit from a cross fertilization of past recommendations and today's technology: “Back to the future”",
+        "volume": "234",
+        "author": "Spruijt",
+        "year": "2014",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "1146",
+        "DOI": "10.1124/jpet.102.033167",
+        "article-title": "Chronic muscle pain induced by repeated acid injection is reversed by spinally administered mu- and delta-, but not kappa-, opioid receptor agonists",
+        "volume": "302",
+        "author": "Sluka",
+        "year": "2002",
+        "journal-title": "J. Pharmacol. Exp. Ther."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1002/jmor.1052260106",
+        "article-title": "Incisal biting in the mountain beaver (Aplodontia rufa) and woodchuck (Marmota monax)",
+        "volume": "226",
+        "author": "Druzinsky",
+        "year": "1995",
+        "journal-title": "J. Morphol."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.33549/physiolres.930278",
+        "article-title": "Level of vigilance influences licking frequency in rats",
+        "volume": "52",
+        "author": "Vajnerova",
+        "year": "2003",
+        "journal-title": "Physiol. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1043",
+        "DOI": "10.1016/0003-9969(83)90060-2",
+        "article-title": "Relationship of masseter electromyographic activity to mandible position in the freely-moving rat",
+        "volume": "28",
+        "author": "Thomas",
+        "year": "1983",
+        "journal-title": "Arch. Oral Biol."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "939",
+        "DOI": "10.1016/0003-9969(83)90090-0",
+        "article-title": "An electromyographic study of mastication in the freely-moving rat",
+        "volume": "28",
+        "author": "Thomas",
+        "year": "1983",
+        "journal-title": "Arch. Oral Biol."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "995",
+        "DOI": "10.1063/1.1795471",
+        "article-title": "Bifurcation of synchronous oscillations into torus in a system of two reciprocally inhibitory silicon neurons: experimental observation and modeling",
+        "volume": "14",
+        "author": "Bondarenko",
+        "year": "2004",
+        "journal-title": "Chaos"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/0303-2647(96)01624-3",
+        "article-title": "Information coding on the basis of synchronization of neuronal activity",
+        "volume": "40",
+        "author": "Borisyuk",
+        "year": "1997",
+        "journal-title": "Bio Systems"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "2983",
+        "DOI": "10.1103/PhysRevLett.82.2983",
+        "article-title": "Oscillatory neurocomputers with dynamic connectivity",
+        "volume": "82",
+        "author": "Hoppensteadt",
+        "year": "1999",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "5140",
+        "DOI": "10.1523/JNEUROSCI.0482-04.2004",
+        "article-title": "Dynamic interaction of oscillatory neurons coupled with reciprocally inhibitory synapses acts to stabilize the rhythm period",
+        "volume": "24",
+        "author": "Mamiya",
+        "year": "2004",
+        "journal-title": "J Neurosci."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1206",
+        "DOI": "10.1177/0022034511416669",
+        "article-title": "Time–frequency analysis of chewing activity in the natural environment",
+        "volume": "90",
+        "author": "Po",
+        "year": "2011",
+        "journal-title": "J. Dent. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0095",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0073064",
+        "article-title": "Ablation of the ID2 gene results in altered circadian feeding behavior, and sex-specific enhancement of insulin sensitivity and elevated glucose uptake in skeletal muscle and brown adipose tissue",
+        "volume": "8",
+        "author": "Mathew",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1016/S0031-9384(02)00645-5",
+        "article-title": "Rat sex and strain differences in responses to stress",
+        "volume": "75",
+        "author": "Faraday",
+        "year": "2002",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "990",
+        "DOI": "10.1016/j.pain.2010.12.003",
+        "article-title": "Behavioral indices of ongoing pain are largely unchanged in male mice with tissue or nerve injury-induced mechanical hypersensitivity",
+        "volume": "152",
+        "author": "Urban",
+        "year": "2011",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1016/j.pain.2013.04.018",
+        "article-title": "Paradoxical surrogate markers of dental injury-induced pain in the mouse",
+        "volume": "154",
+        "author": "Gibbs",
+        "year": "2013",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "683",
+        "DOI": "10.1139/y91-102",
+        "article-title": "The pain-adaptation model: a discussion of the relationship between chronic musculoskeletal pain and motor activity",
+        "volume": "69",
+        "author": "Lund",
+        "year": "1991",
+        "journal-title": "Can. J. Physiol. Pharmacol."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/0304-3959(95)00028-Q",
+        "article-title": "Modification of rhythmical jaw movements by noxious pressure applied to the periosteum of the zygoma in decerebrate rabbits",
+        "volume": "63",
+        "author": "Schwartz",
+        "year": "1995",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1002/1097-4598(200101)24:1<37::AID-MUS4>3.0.CO;2-8",
+        "article-title": "Unilateral intramuscular injections of acidic saline produce a bilateral, long-lasting hyperalgesia",
+        "volume": "24",
+        "author": "Sluka",
+        "year": "2001",
+        "journal-title": "Muscle Nerve"
+      },
+      {
+        "issue": "Spec Iss A",
+        "key": "10.1016/j.physbeh.2015.06.015_bb0130",
+        "first-page": "1521",
+        "article-title": "Bilateral trigeminal ganglia neuroplastic changes after unilateral masseter acidic exposure",
+        "volume": "84",
+        "author": "Widmer",
+        "year": "2005",
+        "journal-title": "J. Dent. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1016/S0031-9384(99)00136-5",
+        "article-title": "An improved method for assessing mechanical allodynia in the rat",
+        "volume": "67",
+        "author": "Ren",
+        "year": "1999",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1016/j.jneumeth.2011.07.006",
+        "article-title": "Assessing nociceptive sensitivity in mouse models of inflammatory and neuropathic trigeminal pain",
+        "volume": "201",
+        "author": "Krzyzanowska",
+        "year": "2011",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/j.jneumeth.2010.01.012",
+        "article-title": "The dolognawmeter: a novel instrument and assay to quantify nociception in rodent models of orofacial pain",
+        "volume": "187",
+        "author": "Dolan",
+        "year": "2010",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1016/j.pain.2005.05.011",
+        "article-title": "Use of a novel thermal operant behavioral assay for characterization of orofacial pain sensitivity",
+        "volume": "116",
+        "author": "Neubert",
+        "year": "2005",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1016/j.bbr.2012.06.020",
+        "article-title": "Assessment of chronic trigeminal neuropathic pain by the orofacial operant test in rats",
+        "volume": "234",
+        "author": "Cha",
+        "year": "2012",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1111/eos.12110",
+        "article-title": "Evaluation of pain in rats through facial expression following experimental tooth movement",
+        "volume": "122",
+        "author": "Liao",
+        "year": "2014",
+        "journal-title": "Eur. J. Oral Sci."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.neulet.2008.10.008",
+        "article-title": "Bite force and pattern measurements for dental pain assessment in the rat",
+        "volume": "447",
+        "author": "Khan",
+        "year": "2008",
+        "journal-title": "Neurosci. Lett."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1016/j.neures.2006.09.014",
+        "article-title": "Blocking the glial function suppresses subcutaneous formalin-induced nociceptive behavior in the rat",
+        "volume": "57",
+        "author": "Lan",
+        "year": "2007",
+        "journal-title": "Neurosci. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/S0304-3959(98)00039-6",
+        "article-title": "Behavioral assessment of facial pain in rats: face grooming patterns after painful and non-painful sensory disturbances in the territory of the rat's infraorbital nerve",
+        "volume": "76",
+        "author": "Vos",
+        "year": "1998",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.neures.2006.06.001",
+        "article-title": "Assessing mechanical sensitivity of masseter muscle in lightly anesthetized rats: a model for craniofacial muscle hyperalgesia",
+        "volume": "56",
+        "author": "Ro",
+        "year": "2006",
+        "journal-title": "Neurosci. Res."
+      },
+      {
+        "key": "10.1016/j.physbeh.2015.06.015_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1038/nmeth.2935",
+        "article-title": "Olfactory exposure to males, including men, causes stress and related analgesia in rodents",
+        "volume": "11",
+        "author": "Sorge",
+        "year": "2014",
+        "journal-title": "Nat. Methods"
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938415003510?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938415003510?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ],
+      "date-time": "2023-08-11T08:12:18Z",
+      "timestamp": 1691741538000
+    },
+    "score": 24.379354,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031938415003510"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "references-count": 37,
+    "alternative-id": [
+      "S0031938415003510"
+    ],
+    "URL": "https://doi.org/10.1016/j.physbeh.2015.06.015",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Assessment of incising ethology in the absence and presence of jaw muscle hyperalgesia in a mouse home cage environment",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Physiology & Behavior",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.physbeh.2015.06.015",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

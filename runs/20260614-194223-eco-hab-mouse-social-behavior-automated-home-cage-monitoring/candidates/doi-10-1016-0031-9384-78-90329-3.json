@@ -1,0 +1,229 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0031-9384(78)90329-3",
+  "title": "Adrenal activity in isolated mice and mice of different social status",
+  "abstract": null,
+  "year": 1978,
+  "authors": [
+    "D BENTON",
+    "J GOLDSMITH",
+    "L GAMALELDIN",
+    "P BRAIN",
+    "F HUCKLEBRIDGE"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/0031-9384(78)90329-3",
+  "url": "https://doi.org/10.1016/0031-9384(78)90329-3",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T10:47:53Z",
+      "timestamp": 1758970073617
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1978,
+              4,
+              1
+            ]
+          ],
+          "date-time": "1978-04-01T00:00:00Z",
+          "timestamp": 260236800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/0031-9384(78)90329-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2003-04-25T05:14:23Z",
+      "timestamp": 1051247663000
+    },
+    "page": "459-464",
+    "source": "Crossref",
+    "is-referenced-by-count": 59,
+    "title": [
+      "Adrenal activity in isolated mice and mice of different social status"
+    ],
+    "prefix": "10.1016",
+    "volume": "20",
+    "author": [
+      {
+        "given": "D",
+        "family": "BENTON",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "GOLDSMITH",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L",
+        "family": "GAMALELDIN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P",
+        "family": "BRAIN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F",
+        "family": "HUCKLEBRIDGE",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938478903293?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938478903293?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2019-03-22T04:29:12Z",
+      "timestamp": 1553228952000
+    },
+    "score": 18.763723,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0031938478903293"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1978,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1978,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0031938478903293"
+    ],
+    "URL": "https://doi.org/10.1016/0031-9384(78)90329-3",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1978,
+          4
+        ]
+      ]
+    }
+  }
+}

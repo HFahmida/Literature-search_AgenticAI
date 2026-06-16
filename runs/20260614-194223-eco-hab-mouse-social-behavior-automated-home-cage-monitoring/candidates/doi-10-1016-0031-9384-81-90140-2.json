@@ -1,0 +1,621 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0031-9384(81)90140-2",
+  "title": "Hypertension, social rank, and aortic arteriosclerosis in CBA/J mice",
+  "abstract": null,
+  "year": 1981,
+  "authors": [
+    "Daniel L. Ely"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/0031-9384(81)90140-2",
+  "url": "https://doi.org/10.1016/0031-9384(81)90140-2",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          1
+        ]
+      ],
+      "date-time": "2026-01-01T13:45:58Z",
+      "timestamp": 1767275158124
+    },
+    "reference-count": 44,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1981,
+              4,
+              1
+            ]
+          ],
+          "date-time": "1981-04-01T00:00:00Z",
+          "timestamp": 354931200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1981,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/0031-9384(81)90140-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2003-04-25T08:53:03Z",
+      "timestamp": 1051260783000
+    },
+    "page": "655-661",
+    "source": "Crossref",
+    "is-referenced-by-count": 50,
+    "title": [
+      "Hypertension, social rank, and aortic arteriosclerosis in CBA/J mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Daniel L.",
+        "family": "Ely",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB1",
+        "first-page": "415s",
+        "article-title": "Catecholamines and hypertension",
+        "volume": "51",
+        "author": "Axelrod",
+        "year": "1976",
+        "journal-title": "Clin. Sci. Molec. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1086/physzool.30.4.30152215",
+        "article-title": "Spontaneous aggressiveness in two strains of mice castrated and treated with one of three androgens",
+        "volume": "30",
+        "author": "Bevan",
+        "year": "1957",
+        "journal-title": "Physiol. Zool."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "625",
+        "DOI": "10.1016/S0091-6773(73)80056-2",
+        "article-title": "The preputial gland as an indicator of social dominance",
+        "volume": "9",
+        "author": "Bronson",
+        "year": "1973",
+        "journal-title": "Behav. Biol."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB4",
+        "series-title": "The Limbic and Autonomic Nervous Systems",
+        "first-page": "137",
+        "article-title": "A model of agonistic behavior: Endocrine and autonomic correlates",
+        "author": "Candland",
+        "year": "1974"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB5",
+        "first-page": "501",
+        "article-title": "The role of endocrines in the self-regulation of mammalian populations",
+        "volume": "21",
+        "author": "Christian",
+        "year": "1965",
+        "journal-title": "Recent Prog. Horm. Res."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.2307/1375908",
+        "article-title": "Territoriality in wild house mice",
+        "volume": "36",
+        "author": "Crowcroft",
+        "year": "1955",
+        "journal-title": "J. Mammal."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB7",
+        "article-title": "Methods for preparing coronary arterial corrosion casts of the mouse heart",
+        "author": "Daniel",
+        "year": "1970"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB8",
+        "first-page": "728",
+        "article-title": "Relations of adrenal weight to social rank of mice",
+        "volume": "94",
+        "author": "Davis",
+        "year": "1957"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/0014-2999(74)90232-5",
+        "article-title": "Altered norepinephrine synthesis on splanchnic vessels in neurogenic hypertension",
+        "volume": "26",
+        "author": "DeQuattro",
+        "year": "1974",
+        "journal-title": "Eur. J. Pharmac."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1016/0002-9149(76)90358-1",
+        "article-title": "Increased plasma catecholamines in high renin hypertension",
+        "volume": "38",
+        "author": "DeQuattro",
+        "year": "1976",
+        "journal-title": "Am. J. Cardiol."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.3109/10641967809068595",
+        "article-title": "Clinical assessment of sympathetic tone: orthostatic blood pressure responses in borderline primary hypertension",
+        "volume": "1",
+        "author": "Eide",
+        "year": "1978",
+        "journal-title": "Clin. expl Hyper."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/S0091-6773(76)91082-8",
+        "article-title": "Minicomputer monitored social behavior of mice with hippocampus lesions",
+        "volume": "16",
+        "author": "Ely",
+        "year": "1976",
+        "journal-title": "Behav. Biol."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1075",
+        "DOI": "10.1016/0031-9384(77)90014-2",
+        "article-title": "Effects of hippocampal lesion on cardiovascular, adrenocortical, and behavioral response patterns in mice",
+        "volume": "18",
+        "author": "Ely",
+        "year": "1977",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "733",
+        "DOI": "10.1037/h0036958",
+        "article-title": "Effects of prolonged social deprivation on murine behavior patterns, blood pressure and adrenal weight",
+        "volume": "87",
+        "author": "Ely",
+        "year": "1974",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "675",
+        "DOI": "10.1016/0031-9384(72)90031-5",
+        "article-title": "A monitoring technique providing quantitative rodent behavior analysis",
+        "volume": "9",
+        "author": "Ely",
+        "year": "1972",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/S0091-6773(75)91290-0",
+        "article-title": "Effects of marihuana (Δ9-THC) on behavior patterns and social roles in colonies of CBA mice",
+        "volume": "13",
+        "author": "Ely",
+        "year": "1975",
+        "journal-title": "Behav. Biol."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1016/0018-506X(78)90005-3",
+        "article-title": "Neuroendocrine response patterns in dominant and subordinate mice",
+        "volume": "10",
+        "author": "Ely",
+        "year": "1978",
+        "journal-title": "Hormones and Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1016/0031-9384(79)90399-8",
+        "article-title": "Behavioral and biochemical measures of stress in hooded rats from different sources",
+        "volume": "22",
+        "author": "File",
+        "year": "1979",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1111/j.1748-1716.1958.tb01626.x",
+        "article-title": "Adaptive structural changes of the vascular walls in hypertension and their relation to the control of the peripheral resistance",
+        "volume": "44",
+        "author": "Folkow",
+        "year": "1958",
+        "journal-title": "Acta physiol. scand."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1111/j.1748-1716.1966.tb03401.x",
+        "article-title": "Cardiovascular effects of acute and chronic stimulations of the hypothalamic defense area in the rat",
+        "volume": "68",
+        "author": "Folkow",
+        "year": "1966",
+        "journal-title": "Acta physiol. scand."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1016/0026-0495(75)90022-0",
+        "article-title": "Plasma catecholamine response of coronary-prone subjects (Type A) to a specific challenge",
+        "volume": "24",
+        "author": "Friedman",
+        "year": "1975",
+        "journal-title": "Metabolism"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB22",
+        "series-title": "Type A Behavior and Your Heart",
+        "author": "Friedman",
+        "year": "1974"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB23",
+        "first-page": "1305",
+        "article-title": "Adrenal response to excess corticotropin in coronary-prone men",
+        "volume": "131",
+        "author": "Friedman",
+        "year": "1969"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "758",
+        "DOI": "10.1172/JCI104092",
+        "article-title": "Excretion of catecholamines, 17-ketosteroids, 17-hydroxy-corticoids and 5-hydroxyindole in men exhibiting a particular behavior pattern (A) associated with a high incidence of clinical coronary artery disease",
+        "volume": "39",
+        "author": "Friedman",
+        "year": "1960",
+        "journal-title": "J. clin. Invest."
+      },
+      {
+        "issue": "Suppl. 424",
+        "key": "10.1016/0031-9384(81)90140-2_BIB25",
+        "article-title": "Interaction between central neurogenic mechanisms and changes in cardiovascular design in primary hypertension. Experimental Studies in spontaneously hypertensive rats",
+        "author": "Halback",
+        "year": "1975",
+        "journal-title": "Acta physiol. scand."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1198",
+        "DOI": "10.1210/endo-98-5-1198",
+        "article-title": "Relationship between individual differences in sexual behavior and plasma testosterone levels in the guinea pig",
+        "volume": "98",
+        "author": "Harding",
+        "year": "1976",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB27",
+        "series-title": "Physiology, Emotion, and Psychosomatic Illness",
+        "first-page": "225",
+        "article-title": "Changes in catecholamine-controlling enzymes in response to psychosocial activation of defense and alarm reactions",
+        "author": "Henry",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1016/0021-9150(71)90050-5",
+        "article-title": "The role of psychosocial factors in the development of arteriosclerosis in CBA mice: Observations on the heart, kidney and aorta",
+        "volume": "14",
+        "author": "Henry",
+        "year": "1971",
+        "journal-title": "Atherosclerosis"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1097/00006842-196709000-00002",
+        "article-title": "The use of psychosocial stimuli to induce prolonged systolic hypertension in mice",
+        "volume": "29",
+        "author": "Henry",
+        "year": "1967",
+        "journal-title": "Psychosom. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1093/geronj/20.2.239",
+        "article-title": "Arterial pressure in CBA mice as related to age",
+        "volume": "20",
+        "author": "Henry",
+        "year": "1965",
+        "journal-title": "J. Geront."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1097/00006842-197105000-00004",
+        "article-title": "Effect of psychosocial stimulation on the enzymes involved in the biosynthesis and metabolism of noradrenaline and adrenaline",
+        "volume": "33",
+        "author": "Henry",
+        "year": "1971",
+        "journal-title": "Psychosom. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1161/01.RES.36.1.156",
+        "article-title": "A model of psychosocial hypertension showing reversibility and progression of cardiovascular complications",
+        "volume": "36",
+        "author": "Henry",
+        "year": "1975",
+        "journal-title": "Circulation Res."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB33",
+        "article-title": "Physiological and social concomittants of dominance in interacting colonies of CBA/USC mice",
+        "author": "Jarosz",
+        "year": "1977"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB34",
+        "first-page": "309",
+        "article-title": "A specific radioimmunoassay for testosterone in peripheral plasma",
+        "volume": "82",
+        "author": "Kinouchi",
+        "year": "1973",
+        "journal-title": "J. Lab. clin. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB35",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1016/0031-9384(72)90326-5",
+        "article-title": "Endorcrine effects of grouping and dominance rank in squirrel monkeys",
+        "volume": "8",
+        "author": "Leshner",
+        "year": "1972",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB36",
+        "doi-asserted-by": "crossref",
+        "first-page": "531",
+        "DOI": "10.1016/0031-9384(79)90021-0",
+        "article-title": "Hormonal control of submissiveness in mice: irrelevance of the androgens and relevance of the pituitary adrenal hormones",
+        "volume": "22",
+        "author": "Leshner",
+        "year": "1979",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB37",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1016/0031-9384(80)90087-6",
+        "article-title": "Effects of corticosterone on submissiveness in mice: some temporal and theoretical considerations",
+        "volume": "24",
+        "author": "Leshner",
+        "year": "1980",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB38",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/S0016-6480(67)80006-6",
+        "article-title": "The relation between social rank and plasma corticosterone levels in mice",
+        "volume": "8",
+        "author": "Louch",
+        "year": "1967",
+        "journal-title": "Gen. comp. Endocr."
+      },
+      {
+        "issue": "Suppl. 408",
+        "key": "10.1016/0031-9384(81)90140-2_BIB39",
+        "article-title": "Adaptive changes of cardiovascular design in spontaneous and renal hypertension: hemodynamic studies in rats",
+        "author": "Lundgren",
+        "year": "1974",
+        "journal-title": "Acta physiol. scand."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB40",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1097/00006842-197105000-00007",
+        "article-title": "Relation of psychologic measures of aggression and hostility to testosterone production in man",
+        "volume": "33",
+        "author": "Perksy",
+        "year": "1971",
+        "journal-title": "Psychosom. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB41",
+        "first-page": "751",
+        "article-title": "Adaptation of orbital bleeding technique to rapid serial blood studies",
+        "volume": "104",
+        "author": "Riley",
+        "year": "1960"
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB42",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1097/00006842-197501000-00006",
+        "article-title": "Consequences of social conflict on plasma testosterone levels in rhesus monkeys",
+        "volume": "37",
+        "author": "Rose",
+        "year": "1975",
+        "journal-title": "Psychosom. Med."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB43",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1161/01.RES.28.6.622",
+        "article-title": "Effects of hypertension and its reversal on the thoracic aorta of male and female rats",
+        "volume": "28",
+        "author": "Wolinsky",
+        "year": "1971",
+        "journal-title": "Circulation Res."
+      },
+      {
+        "key": "10.1016/0031-9384(81)90140-2_BIB44",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1161/01.RES.30.3.301",
+        "article-title": "Long-term effects of hypertension on the rat aortic wall and their relation to concurrent aging changes",
+        "volume": "30",
+        "author": "Wolinsky",
+        "year": "1972",
+        "journal-title": "Circulation Res."
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938481901402?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938481901402?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2019-03-22T10:21:07Z",
+      "timestamp": 1553250067000
+    },
+    "score": 17.920343,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0031938481901402"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1981,
+          4
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1981,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0031938481901402"
+    ],
+    "URL": "https://doi.org/10.1016/0031-9384(81)90140-2",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1981,
+          4
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "source": "crossref",
+  "source_id": "10.1523/eneuro.0292-19.2019",
+  "title": "An Open-Source, Automated Home-Cage Sipper Device for Monitoring Liquid Ingestive Behavior in Rodents",
+  "abstract": "Measuring ingestive behavior of liquids in rodents is commonly used in studies of reward, metabolism, and circadian biology. Common approaches for measuring liquid intake in real time include computer-tethered lickometers or video-based systems. Additionally, liquids can be measured or weighed to determine the amount consumed without real-time sensing. Here, we built a photobeam-based sipper device that has the following advantages over traditional methods: (1) it is battery powered and fits in vivarium caging to allow home-cage measurements; (2) it quantifies the intake of two different liquids simultaneously for preference studies; (3) it is low cost and easily constructed, enabling high-throughput experiments; and (4) it is open source so that others can modify it to fit their experimental needs. We validated the performance of this device in three experiments. First, we calibrated our device using time-lapse video-based measurements of liquid intake and correlated sipper interactions with liquid intake. Second, we used the sipper device to measure preference for water versus chocolate milk, demonstrating its utility for two-bottle choice tasks. Third, we integrated the device with fiber photometry, establishing its utility for measuring neural activity in studies of ingestive behavior. This device requires no special equipment or caging, and is small, battery powered, and wireless, allowing it to be placed directly in rodent home cages. The total cost of fabrication is less than $100, and all design files and code are open source. Together, these factors greatly increase scalability and utility for a variety of behavioral neuroscience applications.",
+  "year": 2019,
+  "authors": [
+    "Elizabeth Godynyuk",
+    "Maya N. Bluitt",
+    "Jessica R. Tooley",
+    "Alexxai V. Kravitz",
+    "Meaghan C. Creed"
+  ],
+  "journal": "eneuro",
+  "doi": "10.1523/eneuro.0292-19.2019",
+  "url": "https://doi.org/10.1523/eneuro.0292-19.2019",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2026-06-09T08:57:59Z",
+      "timestamp": 1780995479856,
+      "version": "3.54.1"
+    },
+    "reference-count": 34,
+    "publisher": "Society for Neuroscience",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2020-03-01T00:00:00Z",
+          "timestamp": 1583020800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 182,
+        "URL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000026",
+        "name": "HHS | NIH | National Institute on Drug Abuse",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "R21-DA047127"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "R21-DA047127"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000026",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100001447",
+        "name": "Rita Allen Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "Scholar Award"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "Scholar Award"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100001447",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100001391",
+        "name": "Whitehall Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2017-12-54"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2017-12-54"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100001391",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000874",
+        "name": "Brain and Behavior Research Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NARSAD 27197"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NARSAD 27197"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000874",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000874",
+        "name": "Brain and Behavior Research Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NARSAD 27461"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NARSAD 27461"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000874",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "eNeuro"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Measuring ingestive behavior of liquids in rodents is commonly used in studies of reward, metabolism, and circadian biology. Common approaches for measuring liquid intake in real time include computer-tethered lickometers or video-based systems. Additionally, liquids can be measured or weighed to determine the amount consumed without real-time sensing. Here, we built a photobeam-based sipper device that has the following advantages over traditional methods: (1) it is battery powered and fits in vivarium caging to allow home-cage measurements; (2) it quantifies the intake of two different liquids simultaneously for preference studies; (3) it is low cost and easily constructed, enabling high-throughput experiments; and (4) it is open source so that others can modify it to fit their experimental needs. We validated the performance of this device in three experiments. First, we calibrated our device using time-lapse video-based measurements of liquid intake and correlated sipper interactions with liquid intake. Second, we used the sipper device to measure preference for water versus chocolate milk, demonstrating its utility for two-bottle choice tasks. Third, we integrated the device with fiber photometry, establishing its utility for measuring neural activity in studies of ingestive behavior. This device requires no special equipment or caging, and is small, battery powered, and wireless, allowing it to be placed directly in rodent home cages. The total cost of fabrication is less than $100, and all design files and code are open source. Together, these factors greatly increase scalability and utility for a variety of behavioral neuroscience applications.</jats:p>",
+    "DOI": "10.1523/eneuro.0292-19.2019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2019-09-18T21:49:17Z",
+      "timestamp": 1568843357000
+    },
+    "page": "ENEURO.0292-19.2019",
+    "source": "Crossref",
+    "is-referenced-by-count": 65,
+    "title": [
+      "An Open-Source, Automated Home-Cage Sipper Device for Monitoring Liquid Ingestive Behavior in Rodents"
+    ],
+    "prefix": "10.1523",
+    "volume": "6",
+    "author": [
+      {
+        "given": "Elizabeth",
+        "family": "Godynyuk",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maya N.",
+        "family": "Bluitt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica R.",
+        "family": "Tooley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexxai V.",
+        "family": "Kravitz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meaghan C.",
+        "family": "Creed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "393",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/appe.1993.1037"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/chemse/bjt049"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0893-133X(02)00295-6"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pbb.2017.08.013"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroscience.2017.03.002"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnbeh.2016.00106"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0031-9384(90)90137-S"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/oby.21871"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4172/2155-6105.S2-004"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21769/BioProtoc.1822"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ohx.2019.e00061"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbr.2004.06.021"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00008877-200312000-00005"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/1801292a0"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.15",
+        "unstructured": "Greenleaf JE (1994) Environmental issues that influence intake of replacement beverages. Washington, DC: National Academies."
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jneumeth.2005.10.023"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0031-9384(88)90221-1"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0735-7044.97.2.234"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1530-0277.2011.01545.x"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ntr/ntp076"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14814/phy2.12703"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41596-018-0011-z"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.2693-17.2018"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fninf.2015.00007"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0031-9384(01)00591-1"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00496860"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0165-0270(01)00341-7"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.28",
+        "first-page": "39",
+        "article-title": "A device for continuous monitoring of water consumption by rats",
+        "volume": "25",
+        "year": "1989",
+        "journal-title": "Biomed Sci Instrum"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.10-11-03685.1990"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0091-3057(92)90382-P"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/chemse/bjm034"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physbeh.2007.03.025"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.33",
+        "first-page": "17",
+        "article-title": "Measuring food and water intake in rats and mice",
+        "volume": "12",
+        "year": "2008",
+        "journal-title": "ALN Mag"
+      },
+      {
+        "key": "2023041302140242000_6.5.ENEURO.0292-19.2019.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0149-7634(98)00003-7"
+      }
+    ],
+    "container-title": [
+      "eneuro"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1523/ENEURO.0292-19.2019",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1523/ENEURO.0292-19.2019",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2023-04-13T09:48:12Z",
+      "timestamp": 1681379292000
+    },
+    "score": 24.92994,
+    "resource": {
+      "primary": {
+        "URL": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0292-19.2019"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1523/ENEURO.0292-19.2019"
+    ],
+    "URL": "https://doi.org/10.1523/eneuro.0292-19.2019",
+    "ISSN": [
+      "2373-2822"
+    ],
+    "issn-type": [
+      {
+        "value": "2373-2822",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "paper_id": "doi:10.1016/s0031-9384(01)00494-2",
+  "title": "Social stress in mice",
+  "citation": null,
+  "doi": "10.1016/s0031-9384(01)00494-2",
+  "url": "https://doi.org/10.1016/s0031-9384(01)00494-2",
+  "pdf_url": null,
+  "year": 2001,
+  "authors": [
+    "Paola Palanza",
+    "Laura Gioiosa",
+    "Stefano Parmigiani"
+  ],
+  "journal": "Physiology & Behavior",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Reports social behavior outcomes in mice using automated home-cage monitoring, but lacks detailed methods and results.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The paper discusses the use of automated home-cage monitoring to study social stress in mice.",
+  "detailed_summary": null,
+  "background_rationale": "The authors aim to understand social stress in mice using automated monitoring techniques, which can provide objective data on behavior and interaction patterns.",
+  "methods_summary": "No detailed methods are provided; the paper focuses on outcomes rather than methodology.",
+  "results_summary": "Reports findings on social behavior but lacks specific details on the automated home-cage monitoring system used or the exact behavioral measures.",
+  "conclusion_summary": "Concludes that social stress can be effectively studied using automated monitoring, though no detailed results are presented in this paper.",
+  "relevance_to_review": "Relevant as it discusses the use of automated monitoring for studying social behavior but does not provide sufficient detail on methods and outcomes to fully address the review question.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can be used to study social stress in mice",
+    "The paper highlights the potential of such technology but lacks specific methodological details"
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [
+    "social behavior outcomes"
+  ],
+  "main_results": [],
+  "conclusions": [
+    "Automated monitoring can be used to study social stress in mice",
+    "Further research is needed for detailed methodological validation and specific outcome reporting"
+  ],
+  "limitations": [
+    "Lacks detailed methods and results, making it difficult to fully assess the automated home-cage monitoring system's effectiveness"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Detailed methods of automated home-cage monitoring",
+    "Specific behavioral outcomes and their measurement"
+  ]
+}

@@ -1,0 +1,899 @@
+{
+  "source": "crossref",
+  "source_id": "10.3390/socsci15020088",
+  "title": "How Does Eco-Anxiety Relate to Pro-Environmental Behavior? A Correlational Meta-Analysis with Clinical and Social Implications",
+  "abstract": "Eco-anxiety has emerged as a significant psychological response to the climate crisis. Yet its relationship with pro-environmental behavior remains far from settled, with findings ranging from behavioral paralysis to active engagement and seemingly contradictory evidence accumulating across studies. To clarify both the magnitude of this association and the conditions under which it holds, we conducted a systematic review and three-level random-effects meta-analysis. We systematically searched five databases (ProQuest, APA PsycArticles, PubMed, among others) through April 2025, identifying 20 independent studies that contributed 60 effect sizes (N = 34,206). The pooled results revealed a significant, small-to-moderate positive association between eco-anxiety and pro-environmental behavior (r = 0.24, 95% CI [0.15, 0.32], p",
+  "year": 2026,
+  "authors": [
+    "Dario Davì",
+    "Calogero Lo Destro",
+    "Francesco Melchiori"
+  ],
+  "journal": "Social Sciences",
+  "doi": "10.3390/socsci15020088",
+  "url": "https://doi.org/10.3390/socsci15020088",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2026-02-03T23:39:34Z",
+      "timestamp": 1770161974522,
+      "version": "3.49.0"
+    },
+    "reference-count": 76,
+    "publisher": "MDPI AG",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              2
+            ]
+          ],
+          "date-time": "2026-02-02T00:00:00Z",
+          "timestamp": 1769990400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Social Sciences"
+    ],
+    "abstract": "<jats:p>Eco-anxiety has emerged as a significant psychological response to the climate crisis. Yet its relationship with pro-environmental behavior remains far from settled, with findings ranging from behavioral paralysis to active engagement and seemingly contradictory evidence accumulating across studies. To clarify both the magnitude of this association and the conditions under which it holds, we conducted a systematic review and three-level random-effects meta-analysis. We systematically searched five databases (ProQuest, APA PsycArticles, PubMed, among others) through April 2025, identifying 20 independent studies that contributed 60 effect sizes (N = 34,206). The pooled results revealed a significant, small-to-moderate positive association between eco-anxiety and pro-environmental behavior (r = 0.24, 95% CI [0.15, 0.32], p &lt; 0.001). So far, fairly straightforward. The complication emerged when examining heterogeneity: we observed substantial variation across studies (I2 = 95.4%), with a 95% prediction interval ranging from −0.22 to 0.61. What this tells us is that eco-anxiety does not uniformly predict action across contexts; the variability is considerable and meaningful. Moderator analyses offered important clarification. The association proved significantly stronger for public and collective behaviors, such as activism and advocacy (r = 0.36), compared to private sphere actions (r = 0.22). Beyond this, effects were more robust in adult samples (r = 0.30) than among adolescents (r = 0.18). These findings suggest something worth emphasizing: eco-anxiety appears to function not merely as a pathological burden but as an adaptive, context-sensitive correlate of collective engagement. Put differently, the distress people experience in response to climate change may channel productively into systemic action, particularly when social and collective pathways are available. What this means for practice is significant. Future interventions, in this perspective, should focus on channeling climate distress toward collective, structural engagement rather than defaulting to individual behavioral prescriptions alone.</jats:p>",
+    "DOI": "10.3390/socsci15020088",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2026-02-03T10:48:01Z",
+      "timestamp": 1770115681000
+    },
+    "page": "88",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "How Does Eco-Anxiety Relate to Pro-Environmental Behavior? A Correlational Meta-Analysis with Clinical and Social Implications"
+    ],
+    "prefix": "10.3390",
+    "volume": "15",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-9751-6899",
+        "authenticated-orcid": false,
+        "given": "Dario",
+        "family": "Davì",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Economic, Psychological, Communication, Educational, and Motor Sciences, Niccolo Cusano University, Via Don Carlo Gnocchi, 00166 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Calogero",
+        "family": "Lo Destro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Scienze della Società e della Comunicazione, Telematic University Universitas Mercatorum, 00186 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Melchiori",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Economic, Psychological, Communication, Educational, and Motor Sciences, Niccolo Cusano University, Via Don Carlo Gnocchi, 00166 Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Albrecht, Glenn (2011). Chronic Environmental Change: Emerging ‘Psychoterratic’ Syndromes. Climate Change and Human Well-Being, a cura di Inka Weissbecker, Springer. International and Cultural Psychology.",
+        "DOI": "10.1007/978-1-4419-9742-5_3"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "102220",
+        "DOI": "10.1016/j.jenvp.2023.102220",
+        "article-title": "Climate Stress and Anxiety, Environmental Context, and Civic Engagement: A Nationally Representative Study",
+        "volume": "93",
+        "author": "Anneser",
+        "year": "2024",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ágoston, Csilla, Csaba, Benedek, Nagy, Bence, Kőváry, Zoltán, Dúll, Andrea, Rácz, József, and Demetrovics, Zsolt (2022). Identifying types of eco-anxiety, eco-guilt, eco-grief, and eco-coping in a climate-sensitive population: A qualitative study. International Journal of Environmental Research and Public Health, 19.",
+        "DOI": "10.3390/ijerph19042461"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "104847",
+        "DOI": "10.1016/j.actpsy.2025.104847",
+        "article-title": "Assessing the relationship between climate change anxiety, ecological coping, and pro-environmental behavior: Evidence from Gen Z Bangladeshis",
+        "volume": "254",
+        "author": "Bakul",
+        "year": "2025",
+        "journal-title": "Acta Psychologica"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1136/ebmental-2019-300117",
+        "article-title": "How to Perform a Meta-Analysis with R: A Practical Tutorial",
+        "volume": "22",
+        "author": "Balduzzi",
+        "year": "2019",
+        "journal-title": "Evidence Based Mental Health"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/j.jenvp.2015.06.006",
+        "article-title": "Collective Climate Action: Determinants of Participation Intention in Community-Based pro-Environmental Initiatives",
+        "volume": "43",
+        "author": "Bamberg",
+        "year": "2015",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "100283",
+        "DOI": "10.1016/j.joclim.2023.100283",
+        "article-title": "Rethinking Ecoanxiety through Environmental Moral Distress: An Ethics Reflection",
+        "volume": "15",
+        "author": "Banwell",
+        "year": "2024",
+        "journal-title": "The Journal of Climate Change and Health"
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1270",
+        "DOI": "10.1111/jcpp.14035",
+        "article-title": "Feeling Anxious and Being Engaged in a Warming World: Climate Anxiety and Adolescents’ Pro-environmental Behavior",
+        "volume": "65",
+        "author": "Becht",
+        "year": "2024",
+        "journal-title": "Journal of Child Psychology and Psychiatry"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "118049",
+        "DOI": "10.1016/j.envres.2023.118049",
+        "article-title": "Global Production Patterns: Understanding the Relationship between Greenhouse Gas Emissions, Agriculture Greening and Climate Variability",
+        "volume": "245",
+        "author": "Bhatti",
+        "year": "2024",
+        "journal-title": "Environmental Research"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1111/bjso.12343",
+        "article-title": "Against the odds: Hope as an antecedent of support for climate change action",
+        "volume": "59",
+        "author": "Bury",
+        "year": "2020",
+        "journal-title": "The British Journal of Social Psychology"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cannavò, Michele, Davì, Dario, and Cervellione, Brenda (2025). Gestalt Therapy and Somatic Symptom Disorder: Clinical Reflections on Embodiment, Contact, and Relational Field. The Journal of Humanistic Counseling.",
+        "DOI": "10.1002/johc.70025"
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "102848",
+        "DOI": "10.1016/j.janxdis.2024.102848",
+        "article-title": "Climate Change on the Brain: Neural Correlates of Climate Anxiety",
+        "volume": "103",
+        "author": "Carlson",
+        "year": "2024",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Charlson, Fiona, Ali, Suhailah, Benmarhnia, Tarik, Pearl, Madeleine, Massazza, Alessandro, Augustinavicius, Jura, and Scott, James G. (2021). Climate Change and Mental Health: A Scoping Review. International Journal of Environmental Research and Public Health, 18.",
+        "DOI": "10.3390/ijerph18094486"
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1037/a0032968",
+        "article-title": "Modeling dependent effect sizes with three-level meta-analyses: A structural equation modeling approach",
+        "volume": "19",
+        "author": "Cheung",
+        "year": "2014",
+        "journal-title": "Psychological Methods"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.59249/EARX2427",
+        "article-title": "Eco-emotions and Psychoterratic Syndromes: Reshaping Mental HealthAssessment Under Climate Change",
+        "volume": "96",
+        "author": "Cianconi",
+        "year": "2023",
+        "journal-title": "The Yale Journal of Biology and Medicine"
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "102263",
+        "DOI": "10.1016/j.janxdis.2020.102263",
+        "article-title": "Climate anxiety: Psychological responses to climate change",
+        "volume": "74",
+        "author": "Clayton",
+        "year": "2020",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_17",
+        "unstructured": "Clayton, Susan, Manning, Christie, Krygsman, Kirra, and Speiser, Meighen (2017). Mental Health and Our Changing Climate: Impacts, Implications, and Guidance, American Psychological Association, and ecoAmerica. Available online: https://www.apa.org/news/press/releases/2017/03/mental-health-climate.pdf."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Coates, Zac, Kelly, Michelle, and Brown, Scott (2024). The Relationship between Climate Anxiety and Pro-Environment Behaviours. Sustainability, 16.",
+        "DOI": "10.3390/su16125211"
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "100047",
+        "DOI": "10.1016/j.joclim.2021.100047",
+        "article-title": "Understanding Eco-Anxiety: A Systematic Scoping Review of Current Literature and Identified Knowledge Gaps",
+        "volume": "3",
+        "author": "Coffey",
+        "year": "2021",
+        "journal-title": "The Journal of Climate Change and Health"
+      },
+      {
+        "key": "ref_20",
+        "unstructured": "Cohen, Jacob (1988). Statistical Power Analysis for the Behavioral Sciences, Lawrence Erlbaum Associates Inc."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "102822",
+        "DOI": "10.1016/j.janxdis.2023.102822",
+        "article-title": "When Eco-Anger (but Not Eco-Anxiety nor Eco-Sadness) Makes You Change! A Temporal Network Approach to the Emotional Experience of Climate Change",
+        "volume": "102",
+        "author": "Contreras",
+        "year": "2024",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1007/s44202-024-00212-8",
+        "article-title": "A theoretical model of climate anxiety and coping",
+        "volume": "4",
+        "author": "Crandon",
+        "year": "2024",
+        "journal-title": "Discover Psychology"
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davì, Dario, Prestano, Claudia, and Vegni, Nicoletta (2024). Exploring therapeutic responsiveness: A comparative textual analysis across different models. Frontiers in Psychology, 15.",
+        "DOI": "10.3389/fpsyg.2024.1412220"
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1167",
+        "DOI": "10.1007/s10260-023-00681-6",
+        "article-title": "Perceived climate change risk and global green activism among young people",
+        "volume": "32",
+        "author": "Piscitelli",
+        "year": "2023",
+        "journal-title": "Statistical Methods & Applications"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fielding, Kelly S., and Hornsey, Matthew J. (2016). A Social Identity Analysis of Climate Change and Environmental Attitudes and Behaviors: Insights and Opportunities. Frontiers in Psychology, 7.",
+        "DOI": "10.3389/fpsyg.2016.00121"
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.12740/PP/OnlineFirst/131991",
+        "article-title": "Climate change and mental health: A review of current literature",
+        "volume": "56",
+        "author": "Gawrych",
+        "year": "2022",
+        "journal-title": "Psychiatria Polska"
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "102482",
+        "DOI": "10.1016/j.jenvp.2024.102482",
+        "article-title": "Climate change terminology does not influence willingness to take climate action",
+        "volume": "100",
+        "author": "Goldwert",
+        "year": "2024",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1111/josi.12369",
+        "article-title": "My Influence on the World (of Others): Goal Efficacy Beliefs and Efficacy Affect Predict Private, Public, and Activist Pro-environmental Behavior",
+        "volume": "76",
+        "author": "Hamann",
+        "year": "2020",
+        "journal-title": "Journal of Social Issues"
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "102654",
+        "DOI": "10.1016/j.janxdis.2022.102654",
+        "article-title": "Understanding climate anxiety: What decision-makers, health care providers, and the mental health community need to know to promote adaptative coping",
+        "volume": "93",
+        "author": "Heeren",
+        "year": "2023",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1007/s10584-022-03402-2",
+        "article-title": "On Climate Anxiety and the Threat It May Pose to Daily Life Functioning and Adaptation: A Study among European and African French-Speaking Participants",
+        "volume": "173",
+        "author": "Heeren",
+        "year": "2022",
+        "journal-title": "Climatic Change"
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "e863",
+        "DOI": "10.1016/S2542-5196(21)00278-3",
+        "article-title": "Climate Anxiety in Children and Young People and Their Beliefs about Government Responses to Climate Change: A Global Survey",
+        "volume": "5",
+        "author": "Hickman",
+        "year": "2021",
+        "journal-title": "The Lancet Planetary Health"
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1136/bmj.327.7414.557",
+        "article-title": "Measuring inconsistency in meta-analyses",
+        "volume": "327",
+        "author": "Higgins",
+        "year": "2003",
+        "journal-title": "bmj"
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "102249",
+        "DOI": "10.1016/j.jenvp.2024.102249",
+        "article-title": "Clarifying the Nature of the Association between Eco-Anxiety, Wellbeing and pro-Environmental Behaviour",
+        "volume": "95",
+        "author": "Hogg",
+        "year": "2024",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "845",
+        "DOI": "10.1038/s41561-024-01511-4",
+        "article-title": "Strong Regional Trends in Extreme Weather over the next Two Decades under High- and Low-Emissions Pathways",
+        "volume": "17",
+        "author": "Iles",
+        "year": "2024",
+        "journal-title": "Nature Geoscience"
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Innocenti, Matteo, Santarelli, Gabriele, Lombardi, Gaia Surya, Ciabini, Lorenzo, Zjalic, Doris, Di Russo, Mattia, and Cadeddu, Chiara (2023). How can climate change anxiety induce both pro-environmental behaviours and eco-paralysis? The mediating role of general self-efficacy. International Journal of Environmental Research and Public Health, 20.",
+        "DOI": "10.3390/ijerph20043085"
+      },
+      {
+        "key": "ref_36",
+        "unstructured": "IPCC (2026, January 24). Available online: https://www.ipcc.ch/report/ar6/syr/."
+      },
+      {
+        "key": "ref_37",
+        "first-page": "012007",
+        "article-title": "Eco-anxiety and environmental concern as predictors of eco-activism",
+        "volume": "1084",
+        "author": "Jain",
+        "year": "2022",
+        "journal-title": "IOP Conference Series: Earth and Environmental Science"
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1080/14742837.2017.1344546",
+        "article-title": "Fear, Hope, Anger, and Guilt in Climate Activism",
+        "volume": "16",
+        "author": "Kleres",
+        "year": "2017",
+        "journal-title": "Social Movement Studies"
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.gloenvcha.2013.05.014",
+        "article-title": "A Comprehensive Model of the Psychology of Environmental Behaviour—A Meta-Analysis",
+        "volume": "23",
+        "year": "2013",
+        "journal-title": "Global Environmental Change"
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kossmeier, Michael, Tran, Ulrich S., and Voracek, Martin (2020). Charting the Landscape of Graphical Displays for Meta-Analysis and Systematic Reviews: A Comprehensive Review, Taxonomy, and Feature Analysis. BMC Medical Research Methodology, 20.",
+        "DOI": "10.1186/s12874-020-0911-9"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kurth, Charlie, and Pihkala, Panu (2022). Eco-anxiety: What it is and why it matters. Frontiers in Psychology, 13.",
+        "DOI": "10.3389/fpsyg.2022.981814"
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1016/j.jenvp.2019.04.009",
+        "article-title": "Measuring Pro-Environmental Behavior: Review and Recommendations",
+        "volume": "63",
+        "author": "Lange",
+        "year": "2019",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "100146",
+        "DOI": "10.1016/j.joclim.2022.100146",
+        "article-title": "What Predicts Climate Change Activism?: An Examination of How Depressive Symptoms, Climate Change Distress, and Social Norms Are Associated with Climate Change Activism",
+        "volume": "8",
+        "author": "Latkin",
+        "year": "2022",
+        "journal-title": "The Journal of Climate Change and Health"
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leite, Ângela, Lopes, Diana, and Pereira, Linda (2023). Pro-Environmental Behavior and Climate Change Anxiety, Perception, Hope, and Despair According to Political Orientation. Behavioral Sciences, 13.",
+        "DOI": "10.20944/preprints202310.2031.v1"
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lenhard, Fabian, De La Cruz, Lorena Fernández, Wahlund, Tove, Andersson, Erik, Åhlén, Johan, Nerini, Francesco Fuso, Akay, Haluk, and Mataix-Cols, David (2024). Climate Worry: Associations with Functional Impairment, pro-Environmental Behaviors and Perceived Need for Support. BMC Psychology, 12.",
+        "DOI": "10.1186/s40359-024-02244-0"
+      },
+      {
+        "key": "ref_46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Léger-Goodes, Terra, Malboeuf-Hurtubise, Catherine, Mastine, Trinity, Généreux, Mélissa, Paradis, Pier-Olivier, and Camden, Chantal (2022). Eco-anxiety in children: A scoping review of the mental health impacts of the awareness of climate change. Frontiers in Psychology, 13.",
+        "DOI": "10.3389/fpsyg.2022.872544"
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "100110",
+        "DOI": "10.1016/j.cresp.2023.100110",
+        "article-title": "Eco-Anxiety in Daily Life: Relationships with Well-Being and pro-Environmental Behavior",
+        "volume": "4",
+        "author": "Lutz",
+        "year": "2023",
+        "journal-title": "Current Research in Ecological and Social Psychology"
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Malboeuf-Hurtubise, Catherine, Léger-Goodes, Terra, Herba, Catherine M., Bélanger, Nadia, Smith, Jonathan, and Marks, Elizabeth (2024). Meaning making and fostering radical hope: Applying positive psychology to eco-anxiety research in youth. Frontiers in Child and Adolescent Psychiatry, 3.",
+        "DOI": "10.3389/frcha.2024.1296446"
+      },
+      {
+        "key": "ref_49",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maran, Daniela Acquadro, and Begotti, Tatiana (2021). Media Exposure to Climate Change, Anxiety, and Efficacy Beliefs in a Sample of Italian University Students. International Journal of Environmental Research and Public Health, 18.",
+        "DOI": "10.3390/ijerph18179358"
+      },
+      {
+        "key": "ref_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "102745",
+        "DOI": "10.1016/j.janxdis.2023.102745",
+        "article-title": "Ecological Anxiety and Pro-Environmental Behaviour: The Role of Attention",
+        "volume": "98",
+        "author": "Todd",
+        "year": "2023",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Niedzwiedz, Claire L., Kankawale, Shamal M., and Katikireddi, S. Vittal (2023). Eco-Anxiety among Children and Young People: A Systematic Review of Social, Political, and Geographic Determinants. Preprint, Public and Global Health.",
+        "DOI": "10.1101/2023.12.19.23300198"
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "first-page": "101887",
+        "DOI": "10.1016/j.jenvp.2022.101887",
+        "article-title": "Climate Anxiety, Wellbeing and pro-Environmental Action: Correlates of Negative Emotional Responses to Climate Change in 32 Countries",
+        "volume": "84",
+        "author": "Ogunbode",
+        "year": "2022",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1177/0047287517751676",
+        "article-title": "Tackling the Complexity of the Pro-Environmental Behavior Intentions of Visitors to Turtle Sites",
+        "volume": "58",
+        "author": "Olya",
+        "year": "2019",
+        "journal-title": "Journal of Travel Research"
+      },
+      {
+        "key": "ref_54",
+        "doi-asserted-by": "crossref",
+        "first-page": "102799",
+        "DOI": "10.1016/j.janxdis.2023.102799",
+        "article-title": "The Influence of Environmental Crisis Perception and Trait Anxiety on the Level of Eco-Worry and Climate Anxiety",
+        "volume": "101",
+        "author": "Parmentier",
+        "year": "2024",
+        "journal-title": "Journal of Anxiety Disorders"
+      },
+      {
+        "key": "ref_55",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1111/camh.12532",
+        "article-title": "Young people’s engagement with climate change issues through digital media—A content analysis",
+        "volume": "27",
+        "author": "Parry",
+        "year": "2022",
+        "journal-title": "Child and Adolescent Mental Health"
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "1062",
+        "DOI": "10.1007/s11031-023-10038-x",
+        "article-title": "Eco-Anxiety Motivates pro-Environmental Behaviors: A Two-Wave Longitudinal Study",
+        "volume": "47",
+        "author": "Pavani",
+        "year": "2023",
+        "journal-title": "Motivation and Emotion"
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pihkala, Panu (2020). Anxiety and the Ecological Crisis: An Analysis of Eco-Anxiety and Climate Anxiety. Sustainability, 12.",
+        "DOI": "10.3390/su12197836"
+      },
+      {
+        "key": "ref_58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pihkala, Panu (2022). Toward a Taxonomy of Climate Emotions. Frontiers in Climate, 3.",
+        "DOI": "10.3389/fclim.2021.738154"
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pinho, Mariana (2025). Climate change anxiety and pro-environmental behaviours: Disentangling gender disparities. Frontiers in Sociology, 10.",
+        "DOI": "10.3389/fsoc.2025.1589501"
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "first-page": "102886",
+        "DOI": "10.1016/j.gloenvcha.2024.102886",
+        "article-title": "Pathways to Conventional and Radical Climate Action: The Role of Temporal Orientation, Environmental Cognitive Alternatives, and Eco-Anxiety",
+        "volume": "87",
+        "author": "Pittaway",
+        "year": "2024",
+        "journal-title": "Global Environmental Change"
+      },
+      {
+        "key": "ref_61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qin, Ziqi, Wu, Qi, Bi, Cuihua, Deng, Yanwei, and Hu, Qiuyun (2024). The Relationship between Climate Change Anxiety and Pro-Environmental Behavior in Adolescents: The Mediating Role of Future Self-Continuity and the Moderating Role of Green Self-Efficacy. BMC Psychology, 12.",
+        "DOI": "10.1186/s40359-024-01746-1"
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1080/00221325.2024.2316804",
+        "article-title": "Adolescents and Young Adults’ Participation in Pro-Environmental Movements: A Systematic Review",
+        "volume": "185",
+        "author": "Romano",
+        "year": "2024",
+        "journal-title": "The Journal of Genetic Psychology"
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "first-page": "102130",
+        "DOI": "10.1016/j.jenvp.2023.102130",
+        "article-title": "Media coverage of climate change, eco-anxiety and pro-environmental behavior: Experimental evidence and the resilience paradox",
+        "volume": "91",
+        "author": "Shao",
+        "year": "2023",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "ref_64",
+        "doi-asserted-by": "crossref",
+        "first-page": "100003",
+        "DOI": "10.1016/j.joclim.2021.100003",
+        "article-title": "From anger to action: Differential impacts of eco-anxiety, eco-depression, and eco-anger on climate action and wellbeing",
+        "volume": "1",
+        "author": "Stanley",
+        "year": "2021",
+        "journal-title": "The Journal of Climate Change and Health"
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1111/0022-4537.00175",
+        "article-title": "New Environmental Theories: Toward a Coherent Theory of Environmentally Significant Behavior",
+        "volume": "56",
+        "author": "Stern",
+        "year": "2000",
+        "journal-title": "Journal of Social Issues"
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.copsyc.2021.10.004",
+        "article-title": "Existential Threat as a Challenge for Individual and Collective Engagement: Climate Change and the Motivation to Act",
+        "volume": "42",
+        "author": "Stollberg",
+        "year": "2021",
+        "journal-title": "Current Opinion in Psychology"
+      },
+      {
+        "key": "ref_67",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thomson, Emily E., and Roach, Sean P. (2023). The relationships among nature connectedness, climate anxiety, climate action, climate knowledge, and mental health. Frontiers in Psychology, 14.",
+        "DOI": "10.3389/fpsyg.2023.1241400"
+      },
+      {
+        "key": "ref_68",
+        "doi-asserted-by": "crossref",
+        "first-page": "100099",
+        "DOI": "10.1016/j.cresp.2023.100099",
+        "article-title": "Panic Internally, Act Sustainably: Climate Change Distress Predicts pro-Environmental Behavior in a Modified Work for Environmental Protection Task and a Dictator Game",
+        "volume": "4",
+        "author": "Urbild",
+        "year": "2023",
+        "journal-title": "Current Research in Ecological and Social Psychology"
+      },
+      {
+        "key": "ref_69",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vecina, María Luisa, Alonso-Ferres, María, and Díaz-Silveira, Cintia (2025). Eco-anxiety or simply eco-worry? Incremental validity study in a representative Spanish sample. Frontiers in Psychology, 16.",
+        "DOI": "10.3389/fpsyg.2025.1560024"
+      },
+      {
+        "key": "ref_70",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Verplanken, Bas, and Roy, Deborah (2013). “My Worries Are Rational, Climate Change Is Not”: Habitual Ecological Worrying Is an Adaptive Response. PLoS ONE, 8.",
+        "DOI": "10.1371/journal.pone.0074708"
+      },
+      {
+        "key": "ref_71",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v036.i03",
+        "article-title": "Conducting Meta-Analyses in R with the Metafor Package",
+        "volume": "36",
+        "author": "Viechtbauer",
+        "year": "2010",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "ref_72",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Von Gal, Alessandro, Fabiani, Greta, and Piccardi, Laura (2024). Climate change anxiety, fear, and intention to act. Frontiers in Psychology, 15.",
+        "DOI": "10.3389/fpsyg.2024.1341921"
+      },
+      {
+        "key": "ref_73",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wickham, Hadley (2016). Data Analysis. ggplot2: Elegant Graphics for Data Analysis, Springer International Publishing.",
+        "DOI": "10.1007/978-3-319-24277-4_9"
+      },
+      {
+        "key": "ref_74",
+        "unstructured": "Worley, D. Robert (2026, January 24). Lasswell Power and Personality 1948. Available online: https://www.researchgate.net/publication/349517982_Lasswell_Power_and_Personality_1948."
+      },
+      {
+        "key": "ref_75",
+        "doi-asserted-by": "crossref",
+        "first-page": "712",
+        "DOI": "10.1177/00139165211065008",
+        "article-title": "Access to Environmental Cognitive Alternatives Predicts Pro-Environmental Activist Behavior",
+        "volume": "54",
+        "author": "Wright",
+        "year": "2022",
+        "journal-title": "Environment and Behavior"
+      },
+      {
+        "key": "ref_76",
+        "doi-asserted-by": "crossref",
+        "first-page": "101683",
+        "DOI": "10.1016/j.jenvp.2021.101683",
+        "article-title": "Avoidance, Rationalization, and Denial: Defensive Self-Protection in the Face of Climate Change Negatively Predicts Pro-Environmental Behavior",
+        "volume": "77",
+        "author": "Wullenkord",
+        "year": "2021",
+        "journal-title": "Journal of Environmental Psychology"
+      }
+    ],
+    "container-title": [
+      "Social Sciences"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-0760/15/2/88/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2026-02-03T11:00:34Z",
+      "timestamp": 1770116434000
+    },
+    "score": 18.218155,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2076-0760/15/2/88"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 76,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "socsci15020088"
+    ],
+    "URL": "https://doi.org/10.3390/socsci15020088",
+    "ISSN": [
+      "2076-0760"
+    ],
+    "issn-type": [
+      {
+        "value": "2076-0760",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    }
+  }
+}

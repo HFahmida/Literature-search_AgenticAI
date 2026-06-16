@@ -1,0 +1,602 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.ddtec.2006.06.010",
+  "title": "Advanced behavioural screening: automated home cage ethology",
+  "abstract": null,
+  "year": 2006,
+  "authors": [
+    "Berry M. Spruijt",
+    "Leonie DeVisser"
+  ],
+  "journal": "Drug Discovery Today: Technologies",
+  "doi": "10.1016/j.ddtec.2006.06.010",
+  "url": "https://doi.org/10.1016/j.ddtec.2006.06.010",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T12:02:14Z",
+      "timestamp": 1779364934942,
+      "version": "3.53.0"
+    },
+    "reference-count": 40,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2006-06-01T00:00:00Z",
+          "timestamp": 1149120000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Drug Discovery Today: Technologies"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ddtec.2006.06.010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2006-07-12T14:03:06Z",
+      "timestamp": 1152712986000
+    },
+    "page": "231-237",
+    "source": "Crossref",
+    "is-referenced-by-count": 66,
+    "title": [
+      "Advanced behavioural screening: automated home cage ethology"
+    ],
+    "prefix": "10.1016",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Berry M.",
+        "family": "Spruijt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leonie",
+        "family": "DeVisser",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1002/ajmg.b.20044",
+        "article-title": "Nature and nurture: Interaction and coaction",
+        "volume": "124B",
+        "author": "McClearn",
+        "year": "2004",
+        "journal-title": "Am. J. Med. Genet. Part B: Neuropsychiatr. Genet."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1037/h0083747",
+        "article-title": "Effects of enriched and restricted early environments on the learning ability of bright and dull rats",
+        "volume": "12",
+        "author": "Cooper",
+        "year": "1958",
+        "journal-title": "Can. J. Psychol."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1046/j.1601-1848.2001.00006.x",
+        "article-title": "Behavioral phenotyping enhanced – beyond (environmental) standardization",
+        "volume": "1",
+        "author": "Würbel",
+        "year": "2002",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1016/S0166-2236(02)02250-6",
+        "article-title": "Phenomics: Fiction or the future?",
+        "volume": "25",
+        "author": "Gerlai",
+        "year": "2002",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/S0166-2236(03)00033-X",
+        "article-title": "In search of a better mouse test",
+        "volume": "26",
+        "author": "Wahlsten",
+        "year": "2003",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib6",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S1359-6446(02)02423-6",
+        "article-title": "In need of high-throughput behavioral systems",
+        "volume": "7",
+        "author": "Brunner",
+        "year": "2002",
+        "journal-title": "Drug Discov. Today"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.1038/432821a",
+        "article-title": "Laboratory animal welfare cage enrichment and mouse behaviour",
+        "volume": "432",
+        "author": "Wolfer",
+        "year": "2004",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1111/j.1601-183X.2004.00083.x",
+        "article-title": "The individuality of mice",
+        "volume": "3",
+        "author": "Lathe",
+        "year": "2004",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib9",
+        "series-title": "Ethology and psychopharmacology",
+        "first-page": "85",
+        "article-title": "The development of an animal model of panic with predictive and face validity",
+        "author": "Hendrie",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1016/S0149-7634(01)00009-4",
+        "article-title": "Mouse defensive behaviors: Pharmacological and behavioral assays for anxiety and panic",
+        "volume": "25",
+        "author": "Blanchard",
+        "year": "2001",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/0014-2999(81)90305-8",
+        "article-title": "Injection of low doses of apomorphine into the nucleus accumbens of rats reduces locomotor activity",
+        "volume": "72",
+        "author": "van Ree",
+        "year": "1981",
+        "journal-title": "Eur. J. Pharmacol."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib13",
+        "series-title": "What's wrong with my mouse? Behavioural phenotyping of transgenic and knockout mice",
+        "author": "Crawley",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/S0376-6357(99)00057-1",
+        "article-title": "Comparative study of emotional behaviour in three inbred strains of mice",
+        "volume": "47",
+        "author": "Kopp",
+        "year": "1999",
+        "journal-title": "Behav. Process."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1007/s002130050038",
+        "article-title": "Differences in anxiety-related behaviours and in sensitivity to diazepam in inbred and outbred strains of mice",
+        "volume": "148",
+        "author": "Griebel",
+        "year": "2000",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1016/S0166-4328(01)00452-1",
+        "article-title": "Evaluation of the elevated plus-maze and open-field tests for the assessment of anxiety-related behaviour in inbred mice",
+        "volume": "134",
+        "author": "Carola",
+        "year": "2002",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1007/BF02244948",
+        "article-title": "Differences in fear motivated behaviors among inbred mouse strains",
+        "volume": "111",
+        "author": "Trullas",
+        "year": "1993",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1023/A:1001999020138",
+        "article-title": "Features of the genetically defined anxiety in mice",
+        "volume": "30",
+        "author": "Avgustinovich",
+        "year": "2000",
+        "journal-title": "Behav. Genet."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1007/s002130050327",
+        "article-title": "Behavioral phenotypes of inbred mouse strains: Implications and recommendations for molecular studies",
+        "volume": "132",
+        "author": "Crawley",
+        "year": "1997",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib21",
+        "series-title": "Different data from different labs: Lessons form studies of gene-environment interaction",
+        "author": "Wahlsten",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1038/72945",
+        "article-title": "Enrichment induces structural changes and recovery from nonspatial memory deficits in ca1 nmdar1-knockout mice",
+        "volume": "3",
+        "author": "Rampon",
+        "year": "2000",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1007/BF00442237",
+        "article-title": "Temporal and sequential patterns of agonistic behavior: effects of alcohol, anxiolytics and psychomotor stimulants",
+        "volume": "97",
+        "author": "Miczek",
+        "year": "1989",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib24",
+        "series-title": "Ethology and psychopharmacology",
+        "first-page": "85",
+        "article-title": "Prediction of antidepressant activity from ethological analysis of agonistic behaviour in rats",
+        "author": "Mitchell",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib25",
+        "series-title": "Ethology and psychopharmacology",
+        "first-page": "85",
+        "article-title": "The elevated plus-maze: pharmacology, methodology and ethology",
+        "author": "Rodgers",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1016/S0091-3057(99)00210-5",
+        "article-title": "Test conditions influence the response to a drug challenge in rodents",
+        "volume": "65",
+        "author": "Harkin",
+        "year": "2000",
+        "journal-title": "Pharmacol. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1016/j.bbr.2004.09.012",
+        "article-title": "Acute and chronic cocaine behavioral effects in novel versus familiar environments: open-field familiarity differentiates cocaine locomotor stimulant effects from cocaine emotional behavioral effects",
+        "volume": "158",
+        "author": "Carey",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1007/BF02193478",
+        "article-title": "Eating, drinking and activity in rats following 5-hydroxytryptophan (5-htp) administration",
+        "volume": "5",
+        "author": "Joyce",
+        "year": "1964",
+        "journal-title": "Psychopharmacologia"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/S0166-2236(98)01346-0",
+        "article-title": "Analysing hippocampal function in transgenic mice: An ethological perspective",
+        "volume": "22",
+        "author": "Gerlai",
+        "year": "1999",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1007/s003359900551",
+        "article-title": "Behavioral and functional analysis of mouse phenotype: SHIRPA, a proposed protocol for comprehensive phenotype assessment",
+        "volume": "8",
+        "author": "Rogers",
+        "year": "1997",
+        "journal-title": "Mamm. Genome"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "765",
+        "DOI": "10.1016/0091-3057(83)90077-1",
+        "article-title": "Prolonged animal observation by use of digitized videodisplays",
+        "volume": "19",
+        "author": "Spruijt",
+        "year": "1983",
+        "journal-title": "Pharmacol. Biochem. Behavior."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.bbr.2004.06.021",
+        "article-title": "A comparison of wild-caught wood mice and bank voles in the intellicage: Assessing exploration, daily activity patterns and place learning paradigms",
+        "volume": "157",
+        "author": "Galsworthy",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.bbr.2004.12.004",
+        "article-title": "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion",
+        "volume": "160",
+        "author": "DeVisser",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib34",
+        "unstructured": "DeVisser, L. et al. Novel approach to the behavioural characterization of inbred mice: automated home cage observations. Genes Brain Behav. (in press)"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib35",
+        "series-title": "5th International Conference on Methods and Techniques in Behavioral Research",
+        "article-title": "Monitoring animal behavior in the smart vivarium",
+        "author": "Belongie",
+        "year": "2005"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/S0376-6357(00)00135-2",
+        "article-title": "Validation of a new system for the automatic registration of behaviour in mice and rats",
+        "volume": "53",
+        "author": "van de Weerd",
+        "year": "2001",
+        "journal-title": "Behav. Process."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/S0165-0270(03)00227-9",
+        "article-title": "LABORAS™: initial pharmacological validation of a system allowing continuous monitoring of laboratory rodent behaviour",
+        "volume": "130",
+        "author": "Quinn",
+        "year": "2003",
+        "journal-title": "J. Neurosc. Methods"
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.3758/BF03200792",
+        "article-title": "Discovering hidden time patterns in behavior: T-patterns and their detection",
+        "volume": "32",
+        "author": "Magnusson",
+        "year": "2000",
+        "journal-title": "Behav. Res. Methods Instrum. Comput."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.3758/BF03200789",
+        "article-title": "Classification of rat behavior with an image-processing method and a neural network",
+        "volume": "32",
+        "author": "Rousseau",
+        "year": "2000",
+        "journal-title": "Behav. Res. Methods Instrum. Comput."
+      },
+      {
+        "key": "10.1016/j.ddtec.2006.06.010_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1253",
+        "DOI": "10.1016/S1359-6446(05)03581-6",
+        "article-title": "Artificial intelligence and robotics in high throughput post-genomics",
+        "volume": "10",
+        "author": "Laghaee",
+        "year": "2005",
+        "journal-title": "Drug Discov. Today"
+      }
+    ],
+    "container-title": [
+      "Drug Discovery Today: Technologies"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1740674906000345?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1740674906000345?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2019-01-15T03:21:22Z",
+      "timestamp": 1547522482000
+    },
+    "score": 23.421593,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1740674906000345"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1740674906000345"
+    ],
+    "URL": "https://doi.org/10.1016/j.ddtec.2006.06.010",
+    "ISSN": [
+      "1740-6749"
+    ],
+    "issn-type": [
+      {
+        "value": "1740-6749",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    }
+  }
+}

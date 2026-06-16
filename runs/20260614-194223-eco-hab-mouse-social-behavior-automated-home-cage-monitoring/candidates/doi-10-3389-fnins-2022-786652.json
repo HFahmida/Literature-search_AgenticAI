@@ -1,0 +1,373 @@
+{
+  "source": "crossref",
+  "source_id": "10.3389/fnins.2022.786652",
+  "title": "Using Home-Cage Monitoring to Determine the Impact of Timed Mating on Male Mouse Welfare",
+  "abstract": "Some of our breeding programs include the use of Prm1 male Homozygous mice which are naturally sterile. This removes the need to use vasectomized males to induce pseudopregnancy in female mice. These males can be kept for up to 9 months and are housed with a companion female. During the timed mating period the companion female is replaced with a new female. This procedure can occur at regular intervals causing a significant increase in cage activity; one of our objectives was to determine whether this was as a result of timed mating. We wanted to investigate the disruption caused to mice during the day of the swap and how long it would take for the cage activity to return to pre-replacement baseline levels. We hypothesized that this impact would be reflected as a significant increase in cage activity, which in itself may not be a result of a negative experience but the potential of repeated disruption to their activity pattern should be considered. We used a well-known home-cage monitoring system to assess changes to the activity pattern in cages when a companion female is replaced. Data from our initial study showed that in the 2-h period after the female is replaced there is a significant increase in cage activity compared to the same time frame on the previous day. In the subsequent study, where no cage change occurred, an increase in activity was also observed when females were replaced; this returned to baseline after approximately 4 h. Prolonged activity during the rest period of mice (over 2 h) could lead to them being fatigued during their active period; therefore, as a refinement we propose that timed matings be performed later in the day, at a time when the animals are active.",
+  "year": 2022,
+  "authors": [
+    "Joanna L. Moore",
+    "Eloisa I. Brook"
+  ],
+  "journal": "Frontiers in Neuroscience",
+  "doi": "10.3389/fnins.2022.786652",
+  "url": "https://doi.org/10.3389/fnins.2022.786652",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T07:32:00Z",
+      "timestamp": 1776497520635,
+      "version": "3.51.2"
+    },
+    "reference-count": 19,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              23
+            ]
+          ],
+          "date-time": "2022-02-23T00:00:00Z",
+          "timestamp": 1645574400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Neurosci."
+    ],
+    "abstract": "<jats:p>Some of our breeding programs include the use of Prm1 male Homozygous mice which are naturally sterile. This removes the need to use vasectomized males to induce pseudopregnancy in female mice. These males can be kept for up to 9 months and are housed with a companion female. During the timed mating period the companion female is replaced with a new female. This procedure can occur at regular intervals causing a significant increase in cage activity; one of our objectives was to determine whether this was as a result of timed mating. We wanted to investigate the disruption caused to mice during the day of the swap and how long it would take for the cage activity to return to pre-replacement baseline levels. We hypothesized that this impact would be reflected as a significant increase in cage activity, which in itself may not be a result of a negative experience but the potential of repeated disruption to their activity pattern should be considered. We used a well-known home-cage monitoring system to assess changes to the activity pattern in cages when a companion female is replaced. Data from our initial study showed that in the 2-h period after the female is replaced there is a significant increase in cage activity compared to the same time frame on the previous day. In the subsequent study, where no cage change occurred, an increase in activity was also observed when females were replaced; this returned to baseline after approximately 4 h. Prolonged activity during the rest period of mice (over 2 h) could lead to them being fatigued during their active period; therefore, as a refinement we propose that timed matings be performed later in the day, at a time when the animals are active.</jats:p>",
+    "DOI": "10.3389/fnins.2022.786652",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2022-02-23T09:55:30Z",
+      "timestamp": 1645610130000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Using Home-Cage Monitoring to Determine the Impact of Timed Mating on Male Mouse Welfare"
+    ],
+    "prefix": "10.3389",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Joanna L.",
+        "family": "Moore",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eloisa I.",
+        "family": "Brook",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "first-page": "42",
+        "article-title": "Laboratory routines cause animal stress.",
+        "volume": "45",
+        "author": "Balcombe",
+        "year": "2004",
+        "journal-title": "J. Am. Assoc. Lab. Anim. Sci."
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1177/0023677213516312",
+        "article-title": "FELASA recommendations for the health monitoring of mouse, rat, hamster, guinea pig and rabbit colonies in breeding and experimental units.",
+        "volume": "48",
+        "author": "Berard",
+        "year": "2014",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnsys.2013.00106",
+        "article-title": "Experimental sleep deprivation as a tool to test memory deficits in rodents.",
+        "volume": "7",
+        "author": "Colavito",
+        "year": "2013",
+        "journal-title": "Front. Syst. Neurosci."
+      },
+      {
+        "key": "B4",
+        "first-page": "29",
+        "article-title": "Effects of housing condition and cage change on characteristics of sleep in mice.",
+        "volume": "53",
+        "author": "Febinger",
+        "year": "2014",
+        "journal-title": "J. Am. Assoc. Lab. Anim. Sci."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "757",
+        "DOI": "10.1016/0031-9384(78)90015-x",
+        "article-title": "Effects of the duration of individual or group housing on behavioural and adrenocortical reactivity in male mice.",
+        "volume": "21",
+        "author": "Goldsmith",
+        "year": "1978",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "821",
+        "DOI": "10.1016/0003-3472(95)90055-1",
+        "article-title": "The effects of cage cleaning on aggression within groups of male laboratory mice.",
+        "volume": "49",
+        "author": "Gray",
+        "year": "1995",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "151",
+        "DOI": "10.1002/dvg.20598",
+        "article-title": "Genetic vasectomy-overexpression of Prm1-EGFP fusion protein in elongating spermatids causes dominant male sterility in mice.",
+        "volume": "48",
+        "author": "Haueter",
+        "year": "2010",
+        "journal-title": "Genesis"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "165",
+        "DOI": "10.1016/0301-0511(84)90001-2",
+        "article-title": "The consolidation hypothesis for REM sleep function: Stress and other confounding factors – a review.",
+        "volume": "18",
+        "author": "Horne",
+        "year": "1984",
+        "journal-title": "Biol. Psychol."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.heliyon.2019.e01454",
+        "article-title": "Non-intrusive high throughput automated data collection from the home cage.",
+        "volume": "5",
+        "author": "Iannello",
+        "year": "2019",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0111065",
+        "article-title": "The lonely mouse – single housing affects serotonergic signalling integrity measured by 8-OH-DPAT-induced hypothermia in male mice.",
+        "volume": "9",
+        "author": "Kalliokoski",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "126",
+        "DOI": "10.30802/AALAS-JAALAS-18-000056",
+        "article-title": "Retrospective analysis of the effects of identification procedures and cage changing by using data from automated, continuous monitoring.",
+        "volume": "58",
+        "author": "Lim",
+        "year": "2019",
+        "journal-title": "J. Am. Assoc. Lab. Anim. Sci."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1146/annurev-statistics-010814-020413",
+        "article-title": "Functional regression.",
+        "volume": "2",
+        "author": "Morris",
+        "year": "2015",
+        "journal-title": "Ann. Rev. Stat. Appl."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.1016/j.nlm.2005.11.005",
+        "article-title": "Sleep deprivation impairs object recognition in mice.",
+        "volume": "85",
+        "author": "Palchykova",
+        "year": "2006",
+        "journal-title": "Neurobiol Learn. Mem."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0211063",
+        "article-title": "Towards large scale automated cage monitoring – Diurnal rhythm and impact of interventions on in-cage activity of C57BL/6J mice recorded 24/7 with a non-disrupting capacitive-based technique.",
+        "volume": "2019",
+        "author": "Pernold",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B15",
+        "first-page": "763",
+        "article-title": "Effects of cage-change frequency and bedding volume on mice and their microenvironment dirtiness of cage and welfare of mice.",
+        "volume": "48",
+        "author": "Rosenbaum",
+        "year": "2009",
+        "journal-title": "J. Am. Assoc. Lab. Anim. Sci."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "419",
+        "DOI": "10.1016/j.physbeh.2005.05.008",
+        "article-title": "Differential effects of two types of environmental novelty on activity and sleep in BALB/cJ and C57BL/6J mice.",
+        "volume": "85",
+        "author": "Tang",
+        "year": "2005",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B17",
+        "first-page": "319",
+        "article-title": "Body condition scoring: a rapid and accurate method for assessing health status in mice.",
+        "volume": "49",
+        "author": "Ullman-Cullere",
+        "year": "1999",
+        "journal-title": "Lab. Anim. Sci."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "300",
+        "DOI": "10.1258/002367703322389870",
+        "article-title": "Male management: coping with aggression problems in male laboratory mice.",
+        "volume": "37",
+        "author": "Van Loo",
+        "year": "2002",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B19",
+        "author": "Westfall",
+        "year": "1993",
+        "journal-title": "Resampling-based multiple testing: Examples and methods for p-value adjustment."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Neuroscience"
+    ],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2022.786652/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2022-02-23T09:55:39Z",
+      "timestamp": 1645610139000
+    },
+    "score": 22.000343,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2022.786652/full"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 19,
+    "alternative-id": [
+      "10.3389/fnins.2022.786652"
+    ],
+    "URL": "https://doi.org/10.3389/fnins.2022.786652",
+    "ISSN": [
+      "1662-453X"
+    ],
+    "issn-type": [
+      {
+        "value": "1662-453X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          23
+        ]
+      ]
+    },
+    "article-number": "786652"
+  }
+}

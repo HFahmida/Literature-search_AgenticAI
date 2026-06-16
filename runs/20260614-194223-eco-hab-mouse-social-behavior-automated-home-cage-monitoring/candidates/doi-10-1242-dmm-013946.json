@@ -1,0 +1,576 @@
+{
+  "source": "crossref",
+  "source_id": "10.1242/dmm.013946",
+  "title": "Early motor deficits in mouse disease models are reliably uncovered using an automated home cage wheel-running system: a cross-laboratory validation",
+  "abstract": "Summary Deficits in motor function are debilitating features in disorders affecting neurological, neuromuscular and musculoskeletal systems. Although these can vary greatly with respect to age of onset, symptomatic presentation, rate of progression and severity, the study of these disease models in mice is confined to use of a small number of tests, most commonly the Rotarod test. To expand the repertoire of meaningful motor function tests in mice, we tested, optimised and validated an automated home-cage based running-wheel system, incorporating a conventional wheel with evenly-spaced rungs and a complex wheel with particular rungs absent. The system enables automated assessment of motor function without handler interference which is desirable in longitudinal studies involving continuous monitoring of motor performance. In baseline studies at two test centres, consistently significant differences in performance on both wheels were detectable among four common inbred strains. As further validation, we studied performance in mutant models of progressive neurodegenerative disease, Huntington's Disease, TgN(HD82Gln)81Dbo (HD) and Amyotrophic Lateral Sclerosis, Tg(SOD1G93A)dl1/GurJ (SOD1) and in a mutant strain with subtle gait abnormalities, C-Snap25Bdr/H (Blind-drunk, Bdr). In both models of progressive disease, as with the third mutant, we could reliably and consistently detect specific motor function deficits at ages far earlier than any previously-recorded symptoms in vivo, 7-8 weeks for the HD mice and 12 weeks for the SOD1 mice. This included longitudinal analysis of Rotarod and grip strength performance where deficits were still not detectable at 12 weeks and 23 weeks respectively. Several new parameters of motor behaviour were uncovered using Principal Component Analysis, indicating that the wheel-running assay could record features of motor function that are independent of Rotarod performance. This represents a powerful new method to detect motor deficits at pre-symptomatic stages in mouse disease models and should be considered as a valid tool to investigate the efficacy of therapeutic agents.",
+  "year": 2014,
+  "authors": [
+    "Silvia Mandillo",
+    "Ines Heise",
+    "Luciana Garbugino",
+    "Glauco P. Tocchini-Valentini",
+    "Alessandro Giuliani",
+    "Sara Wells",
+    "Patrick M. Nolan"
+  ],
+  "journal": "Disease Models & Mechanisms",
+  "doi": "10.1242/dmm.013946",
+  "url": "https://doi.org/10.1242/dmm.013946",
+  "pdf_url": "http://journals.biologists.com/dmm/article-pdf/7/3/397/1867186/397.pdf",
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2026-05-16T00:58:25Z",
+      "timestamp": 1778893105486,
+      "version": "3.51.4"
+    },
+    "reference-count": 27,
+    "publisher": "The Company of Biologists",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2021-05-18T00:00:00Z",
+          "timestamp": 1621296000000
+        },
+        "content-version": "am",
+        "delay-in-days": 2694,
+        "URL": "http://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n               <jats:p>Deficits in motor function are debilitating features in disorders affecting neurological, neuromuscular and musculoskeletal systems. Although these can vary greatly with respect to age of onset, symptomatic presentation, rate of progression and severity, the study of these disease models in mice is confined to use of a small number of tests, most commonly the Rotarod test. To expand the repertoire of meaningful motor function tests in mice, we tested, optimised and validated an automated home-cage based running-wheel system, incorporating a conventional wheel with evenly-spaced rungs and a complex wheel with particular rungs absent. The system enables automated assessment of motor function without handler interference which is desirable in longitudinal studies involving continuous monitoring of motor performance. In baseline studies at two test centres, consistently significant differences in performance on both wheels were detectable among four common inbred strains. As further validation, we studied performance in mutant models of progressive neurodegenerative disease, Huntington's Disease, TgN(HD82Gln)81Dbo (HD) and Amyotrophic Lateral Sclerosis, Tg(SOD1G93A)dl1/GurJ (SOD1) and in a mutant strain with subtle gait abnormalities, C-Snap25Bdr/H (Blind-drunk, Bdr). In both models of progressive disease, as with the third mutant, we could reliably and consistently detect specific motor function deficits at ages far earlier than any previously-recorded symptoms in vivo, 7-8 weeks for the HD mice and 12 weeks for the SOD1 mice. This included longitudinal analysis of Rotarod and grip strength performance where deficits were still not detectable at 12 weeks and 23 weeks respectively. Several new parameters of motor behaviour were uncovered using Principal Component Analysis, indicating that the wheel-running assay could record features of motor function that are independent of Rotarod performance. This represents a powerful new method to detect motor deficits at pre-symptomatic stages in mouse disease models and should be considered as a valid tool to investigate the efficacy of therapeutic agents.</jats:p>",
+    "DOI": "10.1242/dmm.013946",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2014-01-15T06:26:42Z",
+      "timestamp": 1389767202000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Early motor deficits in mouse disease models are reliably uncovered using an automated home cage wheel-running system: a cross-laboratory validation"
+    ],
+    "prefix": "10.1242",
+    "author": [
+      {
+        "given": "Silvia",
+        "family": "Mandillo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "CNR - Inst. Cell Biol. and Neurobiology-EMMA, Monterotondo Scalo, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ines",
+        "family": "Heise",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MRC Harwell, Oxfordshire, UK;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Luciana",
+        "family": "Garbugino",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CNR - Inst. Cell Biol. and Neurobiology-EMMA, Monterotondo Scalo, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Glauco P.",
+        "family": "Tocchini-Valentini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CNR - Inst. Cell Biol. and Neurobiology-EMMA, Monterotondo Scalo, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "Giuliani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Istituto Superiore di Sanita, Rome, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sara",
+        "family": "Wells",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MRC Harwell, Oxfordshire, UK;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Patrick M.",
+        "family": "Nolan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MRC Harwell, Oxfordshire, UK;"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "237",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2021042501164836100_b1-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "686",
+        "DOI": "10.1242/dmm.007237",
+        "article-title": "A comprehensive assessment of the SOD1G93A low-copy transgenic mouse, which models human amyotrophic lateral sclerosis",
+        "volume": "4",
+        "author": "Acevedo-Arozena",
+        "year": "2011",
+        "journal-title": "Dis. Model. Mech."
+      },
+      {
+        "key": "2021042501164836100_b2-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1111/j.1601-183X.2004.00070.x",
+        "article-title": "Screening for novel ENU-induced rhythm, entrainment and activity mutants",
+        "volume": "3",
+        "author": "Bacon",
+        "year": "2004",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "2021042501164836100_b3-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1038/nrn2652",
+        "article-title": "Tests to assess motor phenotype in mice: a user’s guide",
+        "volume": "10",
+        "author": "Brooks",
+        "year": "2009",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "2021042501164836100_b4-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "3248",
+        "DOI": "10.1523/JNEUROSCI.19-08-03248.1999",
+        "article-title": "Characterization of progressive motor deficits in mice transgenic for the human Huntington’s disease mutation",
+        "volume": "19",
+        "author": "Carter",
+        "year": "1999",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "2021042501164836100_b5-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "1732",
+        "DOI": "10.1093/brain/awt061",
+        "article-title": "Interferon β induces clearance of mutant ataxin 7 and improves locomotion in SCA7 knock-in mice",
+        "volume": "136",
+        "author": "Chort",
+        "year": "2013",
+        "journal-title": "Brain"
+      },
+      {
+        "key": "2021042501164836100_b6-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1093/hmg/ddr477",
+        "article-title": "α-Synuclein levels modulate Huntington’s disease in mice",
+        "volume": "21",
+        "author": "Corrochano",
+        "year": "2012",
+        "journal-title": "Hum. Mol. Genet."
+      },
+      {
+        "key": "2021042501164836100_b7-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2021042501164836100_b8-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1002/jps.3030460322",
+        "article-title": "A note on a simple apparatus for detecting neurological deficit in rats and mice",
+        "volume": "46",
+        "author": "Dunham",
+        "year": "1957",
+        "journal-title": "J. Am. Pharm. Assoc."
+      },
+      {
+        "key": "2021042501164836100_b9-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/S0165-0270(01)00485-X",
+        "article-title": "A simple method to measure stride length as an index of nigrostriatal dysfunction in mice",
+        "volume": "113",
+        "author": "Fernagut",
+        "year": "2002",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "2021042501164836100_b10-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "1721",
+        "DOI": "10.1056/NEJM199412223312516",
+        "article-title": "Transgenic-mouse model of amyotrophic lateral sclerosis",
+        "volume": "331",
+        "author": "Gurney",
+        "year": "1994",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "key": "2021042501164836100_b11-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1002/mus.10023",
+        "article-title": "Running endurance abnormality in mdx mice",
+        "volume": "25",
+        "author": "Hara",
+        "year": "2002",
+        "journal-title": "Muscle Nerve"
+      },
+      {
+        "key": "2021042501164836100_b12-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "2431",
+        "DOI": "10.1073/pnas.0610222104",
+        "article-title": "A dominant mutation in Snap25 causes impaired vesicle trafficking, sensorimotor gating, and ataxia in the blind-drunk mouse",
+        "volume": "104",
+        "author": "Jeans",
+        "year": "2007",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "2021042501164836100_b13-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.expneurol.2006.05.032",
+        "article-title": "Effects of commissural de- and remyelination on motor skill behaviour in the cuprizone mouse model of multiple sclerosis",
+        "volume": "202",
+        "author": "Liebetanz",
+        "year": "2006",
+        "journal-title": "Exp. Neurol."
+      },
+      {
+        "key": "2021042501164836100_b14-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/j.expneurol.2007.01.030",
+        "article-title": "A highly sensitive automated complex running wheel test to detect latent motor deficits in the mouse MPTP model of Parkinson’s disease",
+        "volume": "205",
+        "author": "Liebetanz",
+        "year": "2007",
+        "journal-title": "Exp. Neurol."
+      },
+      {
+        "key": "2021042501164836100_b15-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1152/physiolgenomics.90207.2008",
+        "article-title": "Reliability, robustness, and reproducibility in mouse behavioral phenotyping: a cross-laboratory study",
+        "volume": "34",
+        "author": "Mandillo",
+        "year": "2008",
+        "journal-title": "Physiol. Genomics"
+      },
+      {
+        "key": "2021042501164836100_b16-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "440",
+        "DOI": "10.1038/78140",
+        "article-title": "A systematic, genome-wide, phenotype-driven mutagenesis programme for gene function studies in the mouse",
+        "volume": "25",
+        "author": "Nolan",
+        "year": "2000",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "2021042501164836100_b17-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1016/j.bbr.2011.09.044",
+        "article-title": "Parallel contributions of cerebellar, striatal and M1 mechanisms to motor sequence learning",
+        "volume": "226",
+        "author": "Penhune",
+        "year": "2012",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "2021042501164836100_b18-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "771",
+        "DOI": "10.1038/ng1591",
+        "article-title": "Dynein mutations impair autophagic clearance of aggregate-prone proteins",
+        "volume": "37",
+        "author": "Ravikumar",
+        "year": "2005",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "2021042501164836100_b19-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/S0361-9230(01)00633-5",
+        "article-title": "Wheel running behavior is impaired by both surgical section and genetic absence of the mouse corpus callosum",
+        "volume": "57",
+        "author": "Schalomon",
+        "year": "2002",
+        "journal-title": "Brain Res. Bull."
+      },
+      {
+        "key": "2021042501164836100_b20-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1093/hmg/8.3.397",
+        "article-title": "Intranuclear inclusions and neuritic aggregates in transgenic mice expressing a mutant N-terminal fragment of huntingtin",
+        "volume": "8",
+        "author": "Schilling",
+        "year": "1999",
+        "journal-title": "Hum. Mol. Genet."
+      },
+      {
+        "key": "2021042501164836100_b21-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "R82",
+        "DOI": "10.1186/gb-2013-14-7-r82",
+        "article-title": "A comparative phenotypic and genomic analysis of C57BL/6J and C57BL/6N mouse strains",
+        "volume": "14",
+        "author": "Simon",
+        "year": "2013",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "2021042501164836100_b22-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1002/9783527611942.ch6",
+        "article-title": "Behavioural and neurological phenotyping in the mouse",
+        "volume-title": "Standards of Mouse Model Phenotyping",
+        "author": "Tucci",
+        "year": "2006"
+      },
+      {
+        "key": "2021042501164836100_b23-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1186/1471-2202-11-92",
+        "article-title": "Automated quantitative gait analysis in animal models of movement disorders",
+        "volume": "11",
+        "author": "Vandeputte",
+        "year": "2010",
+        "journal-title": "BMC Neurosci."
+      },
+      {
+        "key": "2021042501164836100_b24-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1002/neu.10173",
+        "article-title": "Different data from different labs: lessons from studies of gene-environment interaction",
+        "volume": "54",
+        "author": "Wahlsten",
+        "year": "2003",
+        "journal-title": "J. Neurobiol."
+      },
+      {
+        "key": "2021042501164836100_b25-0070397",
+        "first-page": "1051",
+        "article-title": "Assessing disease onset and progression in the SOD1 mouse model of ALS",
+        "volume": "14",
+        "author": "Weydt",
+        "year": "2003",
+        "journal-title": "Neuroreport"
+      },
+      {
+        "key": "2021042501164836100_b26-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1002/mus.20228",
+        "article-title": "Gait analysis detects early changes in transgenic SOD1(G93A) mice",
+        "volume": "32",
+        "author": "Wooley",
+        "year": "2005",
+        "journal-title": "Muscle Nerve"
+      },
+      {
+        "key": "2021042501164836100_b27-0070397",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1016/j.physbeh.2008.10.020",
+        "article-title": "Age, experience and genetic background influence treadmill walking in mice",
+        "volume": "96",
+        "author": "Wooley",
+        "year": "2009",
+        "journal-title": "Physiol. Behav."
+      }
+    ],
+    "container-title": [
+      "Disease Models &amp; Mechanisms"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.biologists.com/dmm/article-pdf/7/3/397/1867186/397.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://journals.biologists.com/dmm/article-pdf/doi/10.1242/dmm.013946/2032395/dmm_013946.pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://journals.biologists.com/dmm/article-pdf/doi/10.1242/dmm.013946/2032395/dmm_013946.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2021-05-18T21:05:44Z",
+      "timestamp": 1621371944000
+    },
+    "score": 24.543797,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.biologists.com/dmm/article/doi/10.1242/dmm.013946/261912/Early-motor-deficits-in-mouse-disease-models-are"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 27,
+    "URL": "https://doi.org/10.1242/dmm.013946",
+    "ISSN": [
+      "1754-8411",
+      "1754-8403"
+    ],
+    "issn-type": [
+      {
+        "value": "1754-8411",
+        "type": "electronic"
+      },
+      {
+        "value": "1754-8403",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          1
+        ]
+      ]
+    },
+    "article-number": "dmm.013946"
+  }
+}

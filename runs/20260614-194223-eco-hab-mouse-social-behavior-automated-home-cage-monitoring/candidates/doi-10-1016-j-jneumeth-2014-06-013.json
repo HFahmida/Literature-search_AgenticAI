@@ -1,0 +1,1338 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.jneumeth.2014.06.013",
+  "title": "Comparison of automated home-cage monitoring systems: Emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions",
+  "abstract": null,
+  "year": 2014,
+  "authors": [
+    "Lianne Robinson",
+    "Gernot Riedel"
+  ],
+  "journal": "Journal of Neuroscience Methods",
+  "doi": "10.1016/j.jneumeth.2014.06.013",
+  "url": "https://doi.org/10.1016/j.jneumeth.2014.06.013",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T07:31:46Z",
+      "timestamp": 1776497506174,
+      "version": "3.51.2"
+    },
+    "reference-count": 99,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2014-08-01T00:00:00Z",
+          "timestamp": 1406851200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2014-08-01T00:00:00Z",
+          "timestamp": 1406851200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jneumeth.2014.06.013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2014-06-17T20:02:19Z",
+      "timestamp": 1403035339000
+    },
+    "page": "13-25",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 58,
+    "special_numbering": "C",
+    "title": [
+      "Comparison of automated home-cage monitoring systems: Emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions"
+    ],
+    "prefix": "10.1016",
+    "volume": "234",
+    "author": [
+      {
+        "given": "Lianne",
+        "family": "Robinson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gernot",
+        "family": "Riedel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0005",
+        "series-title": "Frontiers in catecholamine research",
+        "first-page": "643",
+        "article-title": "Central dopaminergic neurons: neurophysiological identification and responses to drugs",
+        "author": "Aghajanian",
+        "year": "1973"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "414",
+        "DOI": "10.1016/S0893-133X(98)00116-X",
+        "article-title": "A behavioural analysis of the spatial learning deficit induced by the NMDA receptor antagonist MK-801 (dizocilpine) in the rat",
+        "volume": "21",
+        "author": "Ahlander",
+        "year": "1999",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1007/BF01067443",
+        "article-title": "Learning in inbred mice: strain-specific abilities across three radial maze problems",
+        "volume": "23",
+        "author": "Ammassari-Teule",
+        "year": "1993",
+        "journal-title": "Behav Genet"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/S0166-4328(97)00213-1",
+        "article-title": "Posterior parietal cortex lesions severely disrupt spatial learning in DBA mice characterized by a genetic hippocampal dysfunction",
+        "volume": "95",
+        "author": "Ammassari-Teule",
+        "year": "1998",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1016/0091-3057(75)90182-3",
+        "article-title": "Dissociation of disinhibitory effects of scopolamine: strain and task factors",
+        "volume": "3",
+        "author": "Anisman",
+        "year": "1975",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "643",
+        "DOI": "10.1016/S0022-3565(24)38001-2",
+        "article-title": "Disruption of prepulse inhibition and increases in locomotor activity by competitive N-methyl-d-aspartate receptor antagonists in rats",
+        "volume": "288",
+        "author": "Bakshi",
+        "year": "1999",
+        "journal-title": "J Pharmacol Exp Ther"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1097/FBP.0b013e32832c70f5",
+        "article-title": "Scopolamine induced deficits in a battery of rat cognitive tests: comparisons of sensitivity and specificity",
+        "volume": "20",
+        "author": "Bartholomew Hodges",
+        "year": "2009",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1007/s002130051086",
+        "article-title": "Sensitization of apomorphine induced stereotyped behavior in mice is context dependent",
+        "volume": "146",
+        "author": "Battisti",
+        "year": "1999",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1016/S0091-3057(97)00421-8",
+        "article-title": "Genetic determinants of morphine activity and thermal responses in 15 inbred mouse strains",
+        "volume": "59",
+        "author": "Belknap",
+        "year": "1998",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "486",
+        "DOI": "10.1016/j.euroneuro.2007.12.001",
+        "article-title": "Repeated low dose of phencyclidine administration impairs spatial learning in mice: Blockade by clozapine but not by haloperidol",
+        "volume": "18",
+        "author": "Beraki",
+        "year": "2008",
+        "journal-title": "Eur Neuropsychopharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1017/S1461145708009152",
+        "article-title": "Effects of repeated treatment of phencyclidine on cognition and gene expression in C57BL/6 mice",
+        "volume": "12",
+        "author": "Beraki",
+        "year": "2009",
+        "journal-title": "Int J Neuropsychopharm"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "647",
+        "DOI": "10.1016/S0091-3057(01)00448-8",
+        "article-title": "Effects of MDL 73005 on water-maze performances and locomotor activity in scopolamine-treated rats",
+        "volume": "68",
+        "author": "Bertrand",
+        "year": "2001",
+        "journal-title": "Pharm Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0166-4328(01)00245-5",
+        "article-title": "Dopaminergic and cholinergic antagonismin a novel-object detection task with rats",
+        "volume": "126",
+        "author": "Besheer",
+        "year": "2001",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.1001/archpsyc.1990.01810140081011",
+        "article-title": "Sensorimotor gating and schizophrenia: human and animal model studies",
+        "volume": "47",
+        "author": "Braff",
+        "year": "1990",
+        "journal-title": "Arch Gen Psychiatry"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1038/newbio245123a0",
+        "article-title": "Comparison of effects of ldopa, amphetamine and apomorphine on firing rate of rat dopaminergic neurons",
+        "volume": "245",
+        "author": "Bunney",
+        "year": "1973",
+        "journal-title": "Nat New Biol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/0924-977X(90)90005-U",
+        "article-title": "A dose-related impairment of spatial learning by the NMDA receptor antagonist 2-amino-5-phosphonovalerate (AP5)",
+        "volume": "1",
+        "author": "Butcher",
+        "year": "1990",
+        "journal-title": "Eur Neuropsychopharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1016/S0031-9384(96)00463-5",
+        "article-title": "Parallel strain-dependent susceptibility to environmentally induced stereotypies and stress-induced behavioral sensitization in mice",
+        "volume": "61",
+        "author": "Cabib",
+        "year": "1997",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1016/j.brainres.2004.05.091",
+        "article-title": "Dopaminergic and serotonergic autoreceptor stimulation effects are equivalent and additive in the suppression of spontaneous and cocaine induced locomotor activity",
+        "volume": "1019",
+        "author": "Carey",
+        "year": "2004",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/s00213-011-2474-2",
+        "article-title": "Memory re-consolidation and drug conditioning: an apomorphine conditioned locomotor stimulant response can be enhanced or reversed by a single high versus low apomorphine post-trial treatment",
+        "volume": "220",
+        "author": "Carrera",
+        "year": "2012",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "863",
+        "DOI": "10.1016/S0031-9384(04)00302-6",
+        "article-title": "Cannabinoid (CB)1 receptor antagonist, AM251, causes a sustained reduction of daily food intake in the rat",
+        "volume": "82",
+        "author": "Chambers",
+        "year": "2004",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "176",
+        "DOI": "10.1016/j.brainres.2006.06.006",
+        "article-title": "Effects of the CB1 cannabinoid receptor inverse agonist AM251 on food intake and body weight in mice lacking μ-opioid receptors",
+        "volume": "1108",
+        "author": "Chen",
+        "year": "2006",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/S0091-3057(03)00196-5",
+        "article-title": "Role of cholinergic receptors in locomotion induced by scopolamine and oxotremorine-M",
+        "volume": "76",
+        "author": "Chintoh",
+        "year": "2003",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/0091-3057(86)90267-4",
+        "article-title": "Genetic differences in locomotor activation in mice",
+        "volume": "25",
+        "author": "Crabbe",
+        "year": "1986",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.1016/0361-9230(82)90087-9",
+        "article-title": "Baseline exploratory activity predicts anxiolytic responsiveness to diazepam in five mouse strains",
+        "volume": "8",
+        "author": "Crawley",
+        "year": "1982",
+        "journal-title": "Brain Res Bull"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1007/s002130050327",
+        "article-title": "Behavioral phenotypes of inbred mouse strains: implications and recommendations for molecular studies",
+        "volume": "132",
+        "author": "Crawley",
+        "year": "1997",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "723",
+        "DOI": "10.1016/0091-3057(91)90233-R",
+        "article-title": "Cholinergic activity in the rat hippocampus, cortex and striatum correlates with locomotor activity: an in vivo microdialysis study",
+        "volume": "38",
+        "author": "Day",
+        "year": "1991",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1016/j.bbr.2010.11.036",
+        "article-title": "The cholinergic system and spatial learning",
+        "volume": "221",
+        "author": "Deiana",
+        "year": "2011",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1006/nlme.1999.3919",
+        "article-title": "Genetic differences in response to novelty and spatial memory using a two-trial recognition task in mice",
+        "volume": "73",
+        "author": "Dellu",
+        "year": "2000",
+        "journal-title": "Neurobiol Learn Mem"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "de Visser",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.bbr.2006.11.019",
+        "article-title": "Effects of genetic background and environmental novelty on wheel running as a rewarding behaviour in mice",
+        "volume": "177",
+        "author": "de Visser",
+        "year": "2007",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1038/267270a0",
+        "article-title": "Postsynaptic receptors are not essential for dopaminergic feedback regulation",
+        "volume": "267",
+        "author": "Di Chiara",
+        "year": "1977",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1173",
+        "DOI": "10.1097/00001756-199703240-00023",
+        "article-title": "Scopolamine-induced deficits in a two-trial object recognition task in mice",
+        "volume": "8",
+        "author": "Dodhart",
+        "year": "1997",
+        "journal-title": "NeuroReport"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1016/j.npep.2009.08.007",
+        "article-title": "Evidence from knockout mice for distinct implications of neuropeptide-Y Y2 and Y4 receptors in the circadian control of locomotion, exploration, water and food intake",
+        "volume": "43",
+        "author": "Edelsbrunner",
+        "year": "2009",
+        "journal-title": "Neuropeptides"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.bbr.2004.06.021",
+        "article-title": "A comparison of wild-caught wood mice and bank voles in the IntelliCage: assessing exploration, daily activity patterns and place learning paradigms",
+        "volume": "157",
+        "author": "Galsworthy",
+        "year": "2005",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.ejphar.2005.11.032",
+        "article-title": "Suppression of feeding, drinking and locomotion by a putative cannabinoid receptor ‘silent antagonist’",
+        "volume": "530",
+        "author": "Gardner",
+        "year": "2006",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1007/s002130100811",
+        "article-title": "Pharmacological studies of prepulse inhibition models of sensorimotor gating deficits in schizophrenia: a decade in review",
+        "volume": "156",
+        "author": "Geyer",
+        "year": "2001",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1002/nrc.10049",
+        "article-title": "Effects of low-dose scopolamine on locomotor activity: no dissociation between cognitive and non-cognitive effects",
+        "volume": "31",
+        "author": "Gholamreza",
+        "year": "2002",
+        "journal-title": "Neurosci Res Commun"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.neulet.2007.09.049",
+        "article-title": "Low doses of apomorphine transiently reduce locomotor activity in MPTP-treated mice",
+        "volume": "428",
+        "author": "Gunzler",
+        "year": "2007",
+        "journal-title": "Neurosci Lett"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1016/S0091-3057(99)00210-5",
+        "article-title": "Test conditions influence the response to a drug challenge in rodents",
+        "volume": "65",
+        "author": "Harkin",
+        "year": "2000",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1007/s00213-002-1231-y",
+        "article-title": "Comparison of smoked marijuana and oral Δ9-tetrahydrocannabinol in humans",
+        "volume": "164",
+        "author": "Hart",
+        "year": "2002",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/j.beproc.2004.03.021",
+        "article-title": "Room novelty, sex, scopolamine and their interactions as determinants of general activity and rearing, and light–dark preferences in rats",
+        "volume": "67",
+        "author": "Hughes",
+        "year": "2004",
+        "journal-title": "Behav Process"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2813",
+        "DOI": "10.1046/j.1460-9568.1999.00701.x",
+        "article-title": "Visuospatial attentional functioning in mice: interactions between cholinergic manipulations and genotype",
+        "volume": "11",
+        "author": "Humby",
+        "year": "1999",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1016/j.physbeh.2005.08.033",
+        "article-title": "Effect of Delta9-tetrahydrocannabinol on sucrose palatability as measured by the taste reactivity test",
+        "volume": "86",
+        "author": "Jarrett",
+        "year": "2005",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1016/j.physbeh.2006.10.003",
+        "article-title": "Effect of Delta(9)-tetrahydrocannabinol on quinine palatability and AM251 on sucrose and quinine palatability using the taste reactivity test",
+        "volume": "90",
+        "author": "Jarrett",
+        "year": "2007",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/S0893-133X(98)00060-8",
+        "article-title": "The neuropsychopharmacology of phencyclidine: from NMDA receptor hypofunction to the dopamine hypothesis of schizophrenia",
+        "volume": "20",
+        "author": "Jentsch",
+        "year": "1999",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1769",
+        "DOI": "10.1523/JNEUROSCI.17-05-01769.1997",
+        "article-title": "Phencyclidine increases forebrain monoamine metabolism in rats and monkeys: modulation by the isomers of HA966",
+        "volume": "17",
+        "author": "Jentsch",
+        "year": "1997",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/j.neulet.2003.08.078",
+        "article-title": "Spatial learning is delayed and brain-derived neurotrophic factor mRNA expression inhibited by administration of MK-801 in rats",
+        "volume": "353",
+        "author": "Kesslak",
+        "year": "2003",
+        "journal-title": "Neurosci Lett"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1124/jpet.103.048702",
+        "article-title": "Metabotropic glutamate subtype 5 receptors modulate locomotor activity and sensorimotor gating in rodents",
+        "volume": "306",
+        "author": "Kinney",
+        "year": "2003",
+        "journal-title": "J Pharmacol Exp Ther"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.1016/j.neubiorev.2010.04.001",
+        "article-title": "The validity of scopolamine as a pharmacological model for cognitive impairment: a review of animal behavioral studies",
+        "volume": "34",
+        "author": "Klinkenberg",
+        "year": "2010",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.1016/S0091-3057(01)00467-1",
+        "article-title": "Δ9-THC stimulates food intake in Lewis rats effects on chow, high-fat and sweet high-fat diets",
+        "volume": "68",
+        "author": "Koch",
+        "year": "2001",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "1251",
+        "DOI": "10.1016/0091-3057(82)90129-0",
+        "article-title": "Circadian variation in methamphetamine- and apomorphine-induced increase in ambulatory activity in mice",
+        "volume": "17",
+        "author": "Kuribara",
+        "year": "1982",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1016/j.brainres.2009.11.048",
+        "article-title": "The novel neurotensin analog NT69L blocks phencyclidine (PCP)-induced increases in locomotor activity and PCP-induced increases in monoamine and amino acids levels in the medial prefrontal cortex",
+        "volume": "1311",
+        "author": "Li",
+        "year": "2010",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1152/physiolgenomics.00125.2004",
+        "article-title": "Genetic influence on daily wheel running activity level",
+        "volume": "19",
+        "author": "Lightfoot",
+        "year": "2004",
+        "journal-title": "Physiol Genomics"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "533",
+        "DOI": "10.1097/00008877-200311000-00006",
+        "article-title": "Repeated administration of phencyclidine, amphetamine and MK-801 selectively impairs spatial learning in mice: a possible model of psychotomimetic drug-induced cognitive deficits",
+        "volume": "14",
+        "author": "Mandillo",
+        "year": "2003",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1007/BF00431856",
+        "article-title": "A gradual score to evaluate the climbing behaviour elicited by apomorphine in mice",
+        "volume": "56",
+        "author": "Marcais",
+        "year": "1978",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1016/j.ejphar.2006.03.046",
+        "article-title": "Effect of scopolamine on the hippocampal theta rhythm during an eight-arm radial maze task in rats",
+        "volume": "539",
+        "author": "Masuoka",
+        "year": "2006",
+        "journal-title": "Eur J Psychopharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1016/0160-5402(90)90022-D",
+        "article-title": "Methamphetamine and apomorphine-induced changes in spontaneous motor activity using a new system to detect and analyze motor activity in mice",
+        "volume": "24",
+        "author": "Matsumoto",
+        "year": "1990",
+        "journal-title": "Pharmacol Methods"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "699",
+        "DOI": "10.1016/0091-3057(91)90150-Z",
+        "article-title": "Apparent enhancement by SCH 23390 of apomorphine-induced locomotor activity in mice",
+        "volume": "39",
+        "author": "Matsumoto",
+        "year": "1991",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "583",
+        "DOI": "10.1097/00008877-200312000-00002",
+        "article-title": "The cannabinoid CB1 antagonists SR 141716A and AM251 suppress food intake and food-reinforced behaviour in a variety of tasks in rats",
+        "volume": "14",
+        "author": "McLaughlin",
+        "year": "2003",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1152/physrev.1998.78.1.189",
+        "article-title": "Dopamine receptors: from structure to function",
+        "volume": "78",
+        "author": "Missale",
+        "year": "1998",
+        "journal-title": "Physiol Rev"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/s002130050052",
+        "article-title": "Phencyclidine-induced abnormal behaviors in rats as measured by the hole board apparatus",
+        "volume": "148",
+        "author": "Morita",
+        "year": "2000",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/j.neuint.2007.06.019",
+        "article-title": "Phencyclidine animal models of schizophrenia: approaches from abnormality of glutamatergic neurotransmission and neurodevelopment",
+        "volume": "51",
+        "author": "Mouri",
+        "year": "2007",
+        "journal-title": "Neurochem Int"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1016/j.ejphar.2003.09.041",
+        "article-title": "Cognitive side effects in rats caused by pharmacological agents used to prevent soman-induced lethality",
+        "volume": "483",
+        "author": "Myhrer",
+        "year": "2004",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "490",
+        "DOI": "10.1248/bpb.17.490",
+        "article-title": "Role of cholinergic neurotransmission in the amygdala on performances of passive avoidance learning in mice",
+        "volume": "17",
+        "author": "Nomura",
+        "year": "1994",
+        "journal-title": "Biol Pharm Bull"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "523",
+        "DOI": "10.1016/S0022-3956(99)00029-1",
+        "article-title": "NMDA receptor hypofunction model of schizophrenia",
+        "volume": "33",
+        "author": "Olney",
+        "year": "1999",
+        "journal-title": "J Psychiatry Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "1087",
+        "DOI": "10.1016/S0306-4522(97)00165-6",
+        "article-title": "Assessment of learning by the Morris water task and fear conditioning in inbred mouse strains and F1 hybrids: implications of genetic background for single gene mutations and quantitative trait loci analyses",
+        "volume": "80",
+        "author": "Owen",
+        "year": "1997",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0340",
+        "first-page": "15",
+        "article-title": "l-Dopa: how it may exacerbate parkinsonian symptoms",
+        "volume": "9",
+        "author": "Paalzow",
+        "year": "1986",
+        "journal-title": "TIPS"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "1415",
+        "DOI": "10.1037/0735-7044.110.6.1415",
+        "article-title": "Developmental differences in place-learning performance between C57BL/6 and DBA/2 mice parallel the ontogeny of hippocampal protein kinase C",
+        "volume": "110",
+        "author": "Paylor",
+        "year": "1996",
+        "journal-title": "Behav Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "789",
+        "DOI": "10.1037/0735-7044.108.4.789",
+        "article-title": "Behavioral sensitization to drug stimulant effects in C57BL/6J and DBA/2J inbred mice",
+        "volume": "108",
+        "author": "Phillips",
+        "year": "1994",
+        "journal-title": "Behav Neurosci"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "e27068",
+        "DOI": "10.1371/journal.pone.0027068",
+        "article-title": "Abnormal cognition, sleep, EEG and brain metabolism in a novel knock-in Alzheimer mouse, PLB1",
+        "volume": "6",
+        "author": "Platt",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1034/j.1601-183X.2002.10205.x",
+        "article-title": "Strain differences in activity and emotionality do not account for differences in learning and memory performance between C57BL/6 and DBA/2 mice",
+        "volume": "1",
+        "author": "Podhorna",
+        "year": "2002",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1097/00008877-200502000-00003",
+        "article-title": "Performance of male C57BL/6J mice and Wistar rats in the water maze following various schedules of phencyclidine treatment",
+        "volume": "16",
+        "author": "Podhorna",
+        "year": "2005",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "1154",
+        "DOI": "10.1111/j.1476-5381.2008.00107.x",
+        "article-title": "Synthetic and plant-derived cannabinoid receptor antagonists show hypophagic properties in fasted and non-fasted mice",
+        "volume": "156",
+        "author": "Riedel",
+        "year": "2009",
+        "journal-title": "Br J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.bbr.2013.04.041",
+        "article-title": "Long-term home cage activity scans reveal lowered exploratory behaviour in symptomatic female Rett mice",
+        "volume": "250",
+        "author": "Robinson",
+        "year": "2013",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1007/s002130100910",
+        "article-title": "Effects of the cannabinoid receptor antagonist SR 141716, alone and in combination with dexfenfluramine or naloxone, on food intake in rats",
+        "volume": "159",
+        "author": "Rowland",
+        "year": "2001",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "2603",
+        "DOI": "10.1007/s00018-013-1314-4",
+        "article-title": "Spatial learning impairments in PLB1 Triple knock-in Alzheimer mice are task-specific and age-dependent",
+        "volume": "70",
+        "author": "Ryan",
+        "year": "2013",
+        "journal-title": "Cell Mol Life Sci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.1097/00008877-200312000-00001",
+        "article-title": "Antidepressant-like and anorectic effects of the cannabinoid CB1 receptor inverse agonist AM251 in mice",
+        "volume": "14",
+        "author": "Shearman",
+        "year": "2003",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1006/anbe.1998.0836",
+        "article-title": "Voluntary wheel running: a review and novel interpretation",
+        "volume": "56",
+        "author": "Sherwin",
+        "year": "1998",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1007/s002130051164",
+        "article-title": "Dose–response curves and time-course effects of selected anticholinergics on locomotor activity in rats",
+        "volume": "147",
+        "author": "Sipos",
+        "year": "1999",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/S0736-5748(03)00026-1",
+        "article-title": "Postnatal phencyclidine-induced deficit in adult water maze performance is associated with N-methyl-d-aspartate receptor up regulation",
+        "volume": "21",
+        "author": "Sircar",
+        "year": "2003",
+        "journal-title": "Int J Dev Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/S0014-2999(98)00382-3",
+        "article-title": "Differences in pre- and post-synaptic sensitivity to apomorphine between saline and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated C57BL/6 mice as reflected in climbing activity",
+        "volume": "353",
+        "author": "Spooren",
+        "year": "1998",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0415",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1007/BF00498588",
+        "article-title": "Catecholamine receptor agonists: effects on motor activity and rate of tyrosine hydroxylation in mouse brain",
+        "volume": "292",
+        "author": "Strombom",
+        "year": "1976",
+        "journal-title": "Naunyn-Schmiedebergs Arch Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/0014-2999(79)90279-6",
+        "article-title": "Behavioral rating scales for assessing phencyclidine-induced locomotor activity, stereotyped behavior and ataxia in rats",
+        "volume": "59",
+        "author": "Sturgeon",
+        "year": "1979",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "1983",
+        "DOI": "10.1172/JCI25811",
+        "article-title": "Ghrelin action in the brain controls adipocyte metabolism",
+        "volume": "116",
+        "author": "Theander-Carrillo",
+        "year": "2006",
+        "journal-title": "J Clin Invest"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1007/BF02244948",
+        "article-title": "Differences in fear motivated behaviors among inbred mouse strains",
+        "volume": "111",
+        "author": "Trullas",
+        "year": "1993",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0435",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.1002/hipo.20329",
+        "article-title": "The role of the direct perforant path input to the CA1 subregion of the dorsal hippocampus in memory retention and retrieval",
+        "volume": "17",
+        "author": "Vago",
+        "year": "2007",
+        "journal-title": "Hippocampus"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/j.bbr.2008.01.002",
+        "article-title": "Disruption of the direct perforant path input to the CA1 subregion of the dorsal hippocampus interferes with spatial working memory and novelty detection",
+        "volume": "189",
+        "author": "Vago",
+        "year": "2008",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.neulet.2003.10.035",
+        "article-title": "Consumption of high carbohydrate, high fat and normal chow is equally suppressed by a cannabinoid receptor antagonist in non-deprived rats",
+        "volume": "354",
+        "author": "Verty",
+        "year": "2004",
+        "journal-title": "Neurosci Lett"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1007/s00213-002-1384-8",
+        "article-title": "Preferential effects of the cannabinoid CB1 receptor antagonist, SR 141716, on food intake and body weight gain of obese (fa/fa) compared to lean Zucker rats",
+        "volume": "167",
+        "author": "Vickers",
+        "year": "2003",
+        "journal-title": "Psychopharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1016/S0031-9384(00)00405-4",
+        "article-title": "Strain and gender differences in the behavior of mouse lines commonly used in transgenic studies",
+        "volume": "72",
+        "author": "Voikar",
+        "year": "2001",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1016/S0306-4522(01)00384-0",
+        "article-title": "Long-term behavioral and neurodegenerative effects of perinatal phencyclidine administration: implications for schizophrenia",
+        "volume": "107",
+        "author": "Wang",
+        "year": "2001",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1016/j.bbr.2006.03.036",
+        "article-title": "Effects of phencyclidine on spatial learning and memory: nitric oxide-dependent mechanisms",
+        "volume": "171",
+        "author": "Wass",
+        "year": "2006",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0470",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.brainres.2009.02.024",
+        "article-title": "Brief exposure to methamphetamine (METH) and phencyclidine (PCP) during late development leads to long-term learning deficits in rats",
+        "volume": "1266",
+        "author": "White",
+        "year": "2009",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0475",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1016/0091-3057(80)90411-6",
+        "article-title": "Apomorphine-induced stereotypic cage climbing in mice as a model for studying changes in dopamine receptor sensitivity",
+        "volume": "12",
+        "author": "Wilcox",
+        "year": "1980",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0480",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1038/sj.bjp.0706157",
+        "article-title": "CB1 cannabinoid receptor-mediated modulation of food intake in mice",
+        "volume": "145",
+        "author": "Wiley",
+        "year": "2005",
+        "journal-title": "Br J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0485",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1016/S0031-9384(02)00725-4",
+        "article-title": "Observational analysis of feeding induced by Δ9-THC and anandamide",
+        "volume": "76",
+        "author": "Williams",
+        "year": "2002",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0490",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1016/S0091-3057(01)00694-3",
+        "article-title": "Reversal of Δ9-THC hyperphagia by SR 141716 and naloxone but not dexfenfluramine",
+        "volume": "71",
+        "author": "Williams",
+        "year": "2002",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2014.06.013_bib0495",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1002/cne.21383",
+        "article-title": "Distribution of type 1 cannabinoid receptor (CB1)-immunoreactive axons in the mouse hypothalamus",
+        "volume": "503",
+        "author": "Wittman",
+        "year": "2007",
+        "journal-title": "J Comp Neurol"
+      }
+    ],
+    "container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027014002258?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027014002258?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2025-09-28T00:34:50Z",
+      "timestamp": 1759019690000
+    },
+    "score": 21.080282,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0165027014002258"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8
+        ]
+      ]
+    },
+    "references-count": 99,
+    "alternative-id": [
+      "S0165027014002258"
+    ],
+    "URL": "https://doi.org/10.1016/j.jneumeth.2014.06.013",
+    "ISSN": [
+      "0165-0270"
+    ],
+    "issn-type": [
+      {
+        "value": "0165-0270",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Comparison of automated home-cage monitoring systems: Emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Neuroscience Methods",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jneumeth.2014.06.013",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2014 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/s0031-9384(98)00205-4",
+  "title": "Lowered Sperm Motility in Subordinate Social Status of Mice",
+  "abstract": null,
+  "year": 1998,
+  "authors": [
+    "Sachiko Koyama",
+    "Shinji Kamimura"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/s0031-9384(98)00205-4",
+  "url": "https://doi.org/10.1016/s0031-9384(98)00205-4",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2026-01-08T07:45:27Z",
+      "timestamp": 1767858327340,
+      "version": "3.49.0"
+    },
+    "reference-count": 32,
+    "publisher": "Elsevier BV",
+    "issue": "4-5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              10,
+              1
+            ]
+          ],
+          "date-time": "1998-10-01T00:00:00Z",
+          "timestamp": 907200000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0031-9384(98)00205-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T11:31:16Z",
+      "timestamp": 1027596676000
+    },
+    "page": "665-669",
+    "source": "Crossref",
+    "is-referenced-by-count": 44,
+    "title": [
+      "Lowered Sperm Motility in Subordinate Social Status of Mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "65",
+    "author": [
+      {
+        "given": "Sachiko",
+        "family": "Koyama",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shinji",
+        "family": "Kamimura",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB1",
+        "series-title": "Germ cells",
+        "first-page": "81",
+        "article-title": "Spermatogenesis",
+        "author": "Abe",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/0031-9384(87)90153-3",
+        "article-title": "Intermale social aggression",
+        "volume": "39",
+        "author": "Albert",
+        "year": "1987",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "723",
+        "DOI": "10.1016/0031-9384(89)90285-0",
+        "article-title": "Competitive experience activates testosterone-dependent social aggression toward unfamiliar males",
+        "volume": "45",
+        "author": "Albert",
+        "year": "1989",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1071/RD9930361",
+        "article-title": "The epididymis and sperm maturation",
+        "volume": "5",
+        "author": "Amann",
+        "year": "1993",
+        "journal-title": "Reprod. Fertil. Dev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB5",
+        "first-page": "341",
+        "article-title": "Long-term isolation stress and its effects on drug response in rodents",
+        "volume": "21",
+        "author": "Baer",
+        "year": "1971",
+        "journal-title": "Lab. Anim. Sci."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/0166-4328(93)90096-9",
+        "article-title": "Subordination stress",
+        "volume": "58",
+        "author": "Blanchard",
+        "year": "1993",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1016/0024-3205(75)90017-X",
+        "article-title": "What does individual housing mean to a mouse?",
+        "volume": "16",
+        "author": "Brain",
+        "year": "1975",
+        "journal-title": "Life Sci."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB8",
+        "series-title": "The physiology of aggression and defeat",
+        "first-page": "43",
+        "article-title": "Steroid hormones and aggressive behavior in mammals",
+        "author": "Bronson",
+        "year": "1971"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1038/379212a0",
+        "article-title": "Social stress and dominance",
+        "volume": "379",
+        "author": "Creel",
+        "year": "1996",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1051/rnd:19800617",
+        "article-title": "Relations between the fertilizing ability, motility, and metabolism of epididymal spermatozoa",
+        "volume": "20",
+        "author": "Dacheux",
+        "year": "1980",
+        "journal-title": "Reprod. Nutr. Dev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/0162-3095(95)00050-U",
+        "article-title": "Dominance and reproductive success among nonhuman animals",
+        "volume": "16",
+        "author": "Ellis",
+        "year": "1995",
+        "journal-title": "Ethol. Sociobiol."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "857",
+        "DOI": "10.1016/0031-9384(94)00333-Z",
+        "article-title": "Individual characteristics of behavior, blood pressure, and adrenal hormone in colony rats",
+        "volume": "57",
+        "author": "Fokkema",
+        "year": "1995",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1016/0149-7634(80)90011-1",
+        "article-title": "Gonadal hormones and the induction of intraspecific fighting in mice",
+        "volume": "4",
+        "author": "Gandelman",
+        "year": "1980",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.1016/0003-3472(95)80213-4",
+        "article-title": "The effects of cage cleaning on aggression within groups of male laboratory mice",
+        "volume": "49",
+        "author": "Gray",
+        "year": "1995",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1016/0149-7634(86)90007-2",
+        "article-title": "A brief review comparing the effects of sex steroids on two forms of aggression in laboratory mice",
+        "volume": "10",
+        "author": "Haug",
+        "year": "1986",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1002/ab.2480150402",
+        "article-title": "Comparison between BALB/cJ and BALB/cByJ mice in tests of social behavior and resident-intruder aggression",
+        "volume": "15",
+        "author": "Hilakivi",
+        "year": "1989",
+        "journal-title": "Aggress. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1002/(SICI)1097-0169(1996)35:2<147::AID-CM7>3.0.CO;2-7",
+        "article-title": "Changes in flageller movement of rat spermatozoa along the length of the epididymis",
+        "volume": "35",
+        "author": "Jeulin",
+        "year": "1996",
+        "journal-title": "Cell Motil. Cytoskel."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/S0149-7634(88)80001-0",
+        "article-title": "Testicular hormones reduce individual differences in the aggressive behavior of male mice",
+        "volume": "12",
+        "author": "Johnson",
+        "year": "1988",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1007/BF02350046",
+        "article-title": "Isolation effect in mice (Mus musculus)",
+        "volume": "11",
+        "author": "Koyama",
+        "year": "1993",
+        "journal-title": "J. Ethol."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.3758/BF03333000",
+        "article-title": "The effects of castration and androgen on the social dominance of BALB/cJ male mice",
+        "volume": "2",
+        "author": "Lee",
+        "year": "1974",
+        "journal-title": "Physiol. Psychol."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1016/0031-9384(75)90240-1",
+        "article-title": "A model of hormones and agonistic behavior",
+        "volume": "15",
+        "author": "Leshner",
+        "year": "1975",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "695",
+        "DOI": "10.1016/0031-9384(75)90121-3",
+        "article-title": "Androgens and agonistic behavior in mice",
+        "volume": "15",
+        "author": "Leshner",
+        "year": "1975",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1016/0018-506X(81)90013-1",
+        "article-title": "Age-associated changes in plasma testosterone levels in male mice and their relation to social dominance or subordinance",
+        "volume": "15",
+        "author": "Machida",
+        "year": "1981",
+        "journal-title": "Horm. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/1043-2760(94)00215-P",
+        "article-title": "Hormonal control of spermatogenesis",
+        "volume": "6",
+        "author": "McLachlan",
+        "year": "1995",
+        "journal-title": "Trends Endocrinol. Metab."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1037/h0035320",
+        "article-title": "Intermale fighting affected by home-cage odors of male and female mice",
+        "volume": "84",
+        "author": "Mugford",
+        "year": "1973",
+        "journal-title": "J. Comp. Physiol. Psychol."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB26",
+        "series-title": "Spermatology",
+        "first-page": "43",
+        "article-title": "The process of spermatogenesis",
+        "author": "Nagai",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "2840",
+        "DOI": "10.1073/pnas.88.7.2840",
+        "article-title": "Sperm attraction to a follicular factor(s) correlates with human egg fertilizability",
+        "volume": "88",
+        "author": "Ralt",
+        "year": "1991",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "657",
+        "DOI": "10.1006/anbe.1996.0070",
+        "article-title": "Behavioural and endocrine predictors of dominance and tolerance in female common marmosets, Callithrix jacchus",
+        "volume": "51",
+        "author": "Saltzman",
+        "year": "1996",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1677/joe.0.1130001",
+        "article-title": "Testosterone and spermatogenesis",
+        "volume": "113",
+        "author": "Sharpe",
+        "year": "1987",
+        "journal-title": "J. Endocrinol."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1002/mrd.1080360113",
+        "article-title": "Multiple activation of mouse sperm motility",
+        "volume": "36",
+        "author": "Si",
+        "year": "1993",
+        "journal-title": "Mol. Rep. Dev."
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1007/BF00421275",
+        "article-title": "The “isolation syndrome” in mice",
+        "volume": "31",
+        "author": "Valzelli",
+        "year": "1973",
+        "journal-title": "Psychopharmacologia"
+      },
+      {
+        "key": "10.1016/S0031-9384(98)00205-4_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.1006/anbe.1993.1108",
+        "article-title": "Testosterone and competitive ability in male house mice, Mus musculus. Laboratory and field studies",
+        "volume": "45",
+        "author": "Zielinski",
+        "year": "1993",
+        "journal-title": "Anim. Behav."
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938498002054?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938498002054?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2019-04-26T23:53:19Z",
+      "timestamp": 1556322799000
+    },
+    "score": 17.69917,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031938498002054"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          10
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "4-5",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0031938498002054"
+    ],
+    "URL": "https://doi.org/10.1016/s0031-9384(98)00205-4",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          10
+        ]
+      ]
+    }
+  }
+}

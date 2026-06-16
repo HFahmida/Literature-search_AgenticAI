@@ -1,0 +1,583 @@
+{
+  "source": "crossref",
+  "source_id": "10.1073/pnas.0809053106",
+  "title": "A robust automated system elucidates mouse home cage behavioral structure",
+  "abstract": "Patterns of behavior exhibited by mice in their home cages reflect the function and interaction of numerous behavioral and physiological systems. Detailed assessment of these patterns thus has the potential to provide a powerful tool for understanding basic aspects of behavioral regulation and their perturbation by disease processes. However, the capacity to identify and examine these patterns in terms of their discrete levels of organization across diverse behaviors has been difficult to achieve and automate. Here, we describe an automated approach for the quantitative characterization of fundamental behavioral elements and their patterns in the freely behaving mouse. We demonstrate the utility of this approach by identifying unique features of home cage behavioral structure and changes in distinct levels of behavioral organization in mice with single gene mutations altering energy balance. The robust, automated, reproducible quantification of mouse home cage behavioral structure detailed here should have wide applicability for the study of mammalian physiology, behavior, and disease.",
+  "year": 2008,
+  "authors": [
+    "Evan H. Goulding",
+    "A. Katrin Schenk",
+    "Punita Juneja",
+    "Adrienne W. MacKay",
+    "Jennifer M. Wade",
+    "Laurence H. Tecott"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.0809053106",
+  "url": "https://doi.org/10.1073/pnas.0809053106",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2026-06-10T14:41:01Z",
+      "timestamp": 1781102461290,
+      "version": "3.54.1"
+    },
+    "reference-count": 55,
+    "publisher": "National Academy of Sciences",
+    "issue": "52",
+    "content-domain": {
+      "domain": [
+        "www.pnas.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Proc. Natl. Acad. Sci. U.S.A."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Patterns of behavior exhibited by mice in their home cages reflect the function and interaction of numerous behavioral and physiological systems. Detailed assessment of these patterns thus has the potential to provide a powerful tool for understanding basic aspects of behavioral regulation and their perturbation by disease processes. However, the capacity to identify and examine these patterns in terms of their discrete levels of organization across diverse behaviors has been difficult to achieve and automate. Here, we describe an automated approach for the quantitative characterization of fundamental behavioral elements and their patterns in the freely behaving mouse. We demonstrate the utility of this approach by identifying unique features of home cage behavioral structure and changes in distinct levels of behavioral organization in mice with single gene mutations altering energy balance. The robust, automated, reproducible quantification of mouse home cage behavioral structure detailed here should have wide applicability for the study of mammalian physiology, behavior, and disease.</jats:p>",
+    "DOI": "10.1073/pnas.0809053106",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2008-12-23T21:48:53Z",
+      "timestamp": 1230068933000
+    },
+    "page": "20575-20582",
+    "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+    "source": "Crossref",
+    "is-referenced-by-count": 147,
+    "title": [
+      "A robust automated system elucidates mouse home cage behavioral structure"
+    ],
+    "prefix": "10.1073",
+    "volume": "105",
+    "author": [
+      {
+        "given": "Evan H.",
+        "family": "Goulding",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of California, San Francisco, CA 94143; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A. Katrin",
+        "family": "Schenk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Physiology, University of California, San Francisco, CA 94148"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Punita",
+        "family": "Juneja",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of California, San Francisco, CA 94143; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adrienne W.",
+        "family": "MacKay",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of California, San Francisco, CA 94143; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer M.",
+        "family": "Wade",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of California, San Francisco, CA 94143; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurence H.",
+        "family": "Tecott",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of California, San Francisco, CA 94143; and"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "341",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_1_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x"
+      },
+      {
+        "key": "e_1_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn1225"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/269015a0"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/225797a0"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/105971239900700105"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0047-6374(01)00324-4"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0031-9384(92)90173-Y"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.npp.1301008"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/art.21403"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0610779104"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00316429"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physbeh.2004.10.017"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "first-page": "R1450",
+        "article-title": "Measuring meals: Structure of prandial food and water intake of rats",
+        "volume": "288",
+        "author": "Zorrilla EP",
+        "year": "2005",
+        "unstructured": "EP Zorrilla, et al., Measuring meals: Structure of prandial food and water intake of rats. Am J Physiol 288, R1450–R1467 (2005).",
+        "journal-title": "Am J Physiol"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00213-007-0994-6"
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1359-6446(02)02423-6"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1475-925X-7-14"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbr.2004.06.021"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0735-7044.122.4.769"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.npp.1301161"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00349198"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/283458"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-18264-8"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1374834"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7998.1998.tb00160.x"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/4373"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1377575"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1139/z90-092"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/anbe.1993.1201"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156853977X00171"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0031-9384(99)00195-X"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/anbe.1998.1022"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156853995X00144"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/27376"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2007-0927"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2337/diabetes.52.2.315"
+      },
+      {
+        "key": "e_1_3_3_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/2647"
+      },
+      {
+        "key": "e_1_3_3_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.beproc.2004.03.003"
+      },
+      {
+        "key": "e_1_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2796.2007.01842.x"
+      },
+      {
+        "key": "e_1_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511663246"
+      },
+      {
+        "key": "e_1_3_3_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1933949"
+      },
+      {
+        "key": "e_1_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082-989X.8.2.129"
+      },
+      {
+        "key": "e_1_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0149-7634(01)00022-7"
+      },
+      {
+        "key": "e_1_3_3_43_2",
+        "first-page": "137",
+        "article-title": "The behavioral ecology of intermittent locomotion",
+        "volume": "41",
+        "author": "Kramer DL",
+        "year": "2001",
+        "unstructured": "DL Kramer, RL McLaughlin, The behavioral ecology of intermittent locomotion. Am Zool 41, 137–153 (2001).",
+        "journal-title": "Am Zool"
+      },
+      {
+        "key": "e_1_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0077040"
+      },
+      {
+        "key": "e_1_3_3_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0031-9384(03)00066-0"
+      },
+      {
+        "key": "e_1_3_3_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0031-9384(72)90038-8"
+      },
+      {
+        "key": "e_1_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0031-9384(82)90244-X"
+      },
+      {
+        "key": "e_1_3_3_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/ajp.2006.163.5.893"
+      },
+      {
+        "key": "e_1_3_3_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1099020"
+      },
+      {
+        "key": "e_1_3_3_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature06958"
+      },
+      {
+        "key": "e_1_3_3_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1040-3590.19.1.44"
+      },
+      {
+        "key": "e_1_3_3_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/jmir.9.2.e7"
+      },
+      {
+        "key": "e_1_3_3_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compenvurbsys.2007.08.002"
+      },
+      {
+        "key": "e_1_3_3_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156853986X00243"
+      },
+      {
+        "key": "e_1_3_3_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.1995.10476522"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://pnas.org/doi/pdf/10.1073/pnas.0809053106",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2022-04-12T17:57:56Z",
+      "timestamp": 1649786276000
+    },
+    "score": 23.458565,
+    "resource": {
+      "primary": {
+        "URL": "https://pnas.org/doi/full/10.1073/pnas.0809053106"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          30
+        ]
+      ]
+    },
+    "references-count": 55,
+    "journal-issue": {
+      "issue": "52",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            12,
+            30
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1073/pnas.0809053106"
+    ],
+    "URL": "https://doi.org/10.1073/pnas.0809053106",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.1139115.596234",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0027-8424",
+      "1091-6490"
+    ],
+    "issn-type": [
+      {
+        "value": "0027-8424",
+        "type": "print"
+      },
+      {
+        "value": "1091-6490",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          30
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2008-09-14",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2008-12-30",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

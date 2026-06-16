@@ -1,0 +1,1164 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.pbb.2024.173824",
+  "title": "Clemastine improves emotional and social deficits in adolescent social isolation mice by reversing demyelination",
+  "abstract": null,
+  "year": 2024,
+  "authors": [
+    "Dan Guo",
+    "Yuan Yao",
+    "Xiumin Liu",
+    "Ying Han"
+  ],
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "doi": "10.1016/j.pbb.2024.173824",
+  "url": "https://doi.org/10.1016/j.pbb.2024.173824",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T14:11:08Z",
+      "timestamp": 1780495868008,
+      "version": "3.54.1"
+    },
+    "reference-count": 72,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.pbb.2024.173824",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2024-07-11T21:23:47Z",
+      "timestamp": 1720733027000
+    },
+    "page": "173824",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "special_numbering": "C",
+    "title": [
+      "Clemastine improves emotional and social deficits in adolescent social isolation mice by reversing demyelination"
+    ],
+    "prefix": "10.1016",
+    "volume": "242",
+    "author": [
+      {
+        "given": "Dan",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuan",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiumin",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ying",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "9",
+        "key": "10.1016/j.pbb.2024.173824_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1136/jnnp-2022-329221",
+        "article-title": "Plasma neurofilament light chain levels suggest neuroaxonal stability following therapeutic remyelination in people with multiple sclerosis",
+        "volume": "93",
+        "author": "Abdelhak",
+        "year": "2022",
+        "journal-title": "J. Neurol. Neurosurg. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1175874",
+        "DOI": "10.3389/fimmu.2023.1175874",
+        "article-title": "Potential biological contributers to the sex difference in multiple sclerosis progression",
+        "volume": "14",
+        "author": "Alvarez-Sanchez",
+        "year": "2023",
+        "journal-title": "Front. Immunol."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "4596",
+        "DOI": "10.3390/ijms24054596",
+        "article-title": "Demyelinating diseases: from molecular mechanisms to therapeutic strategies",
+        "volume": "24",
+        "author": "Bernardo",
+        "year": "2023",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.pbb.2024.173824_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "3331",
+        "DOI": "10.1093/brain/awad057",
+        "article-title": "Promyelinating drugs promote functional recovery in an autism spectrum disorder mouse model of Pitt–Hopkins syndrome",
+        "volume": "146",
+        "author": "Bohlen",
+        "year": "2023",
+        "journal-title": "Brain"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1038/s41398-022-02178-4",
+        "article-title": "The effects of social isolation stress and discrimination on mental health",
+        "volume": "12",
+        "author": "Brandt",
+        "year": "2022",
+        "journal-title": "Transl. Psychiatry"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1186/s13287-021-02563-8",
+        "article-title": "Neural stem cells derived from primitive mesenchymal stem cells reversed disease symptoms and promoted neurogenesis in an experimental autoimmune encephalomyelitis mouse model of multiple sclerosis",
+        "volume": "12",
+        "author": "Brown",
+        "year": "2021",
+        "journal-title": "Stem Cell Res Ther"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1235524",
+        "DOI": "10.3389/fnins.2023.1235524",
+        "article-title": "Sex, myelin, and clinical characteristics of Parkinson’s disease",
+        "volume": "17",
+        "author": "Cai",
+        "year": "2023",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1016/j.bbi.2017.04.009",
+        "article-title": "Early enriched physical environment reverses impairments of the hippocampus, but not medial prefrontal cortex, of socially-isolated mice",
+        "volume": "64",
+        "author": "Cao",
+        "year": "2017",
+        "journal-title": "Brain Behav. Immun."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0045",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41380-022-01664-x",
+        "article-title": "Celsr2 regulates NMDA receptors and dendritic homeostasis in dorsal CA1 to enable social memory",
+        "author": "Chen",
+        "year": "2022",
+        "journal-title": "Mol Psychiatry. Published online"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.pbb.2024.173824_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "2292",
+        "DOI": "10.1016/j.neuron.2021.05.012",
+        "article-title": "Enhancing myelin renewal reverses cognitive dysfunction in a murine model of Alzheimer's disease",
+        "volume": "109",
+        "author": "Chen",
+        "year": "2021",
+        "journal-title": "Neuron"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.pbb.2024.173824_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "2292",
+        "DOI": "10.1016/j.neuron.2021.05.012",
+        "article-title": "Enhancing myelin renewal reverses cognitive dysfunction in a murine model of Alzheimer’s disease",
+        "volume": "109",
+        "author": "Chen",
+        "year": "2021",
+        "journal-title": "Neuron"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "8499",
+        "DOI": "10.1038/s41467-023-43438-1",
+        "article-title": "ANKS1B encoded AIDA-1 regulates social behaviors by controlling oligodendrocyte function",
+        "volume": "14",
+        "author": "Cho",
+        "year": "2023",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0065",
+        "article-title": "Optogenetic stimulation of mPFC alleviates white matter injury-related cognitive decline after chronic ischemia through adaptive myelination",
+        "volume": "10",
+        "author": "Deng",
+        "year": "2023",
+        "journal-title": "Adv Sci (Weinh)"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0070",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.psychres.2023.115327",
+        "article-title": "Loneliness during the last phase of the COVID-19 pandemic in Spain: a longitudinal study of group-based trajectories, risk factors, and consequences in mental health",
+        "volume": "326",
+        "author": "Domènech-Abella",
+        "year": "2023",
+        "journal-title": "Psychiatry Res."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0075",
+        "first-page": "1119",
+        "article-title": "Medicare spends more on socially isolated older adults",
+        "volume": "125",
+        "author": "Flowers",
+        "year": "2017",
+        "journal-title": "Insight on the Issues"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.pbb.2024.173824_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "1087",
+        "DOI": "10.1016/j.neubiorev.2008.03.003",
+        "article-title": "Behavioural and neurochemical effects of post-weaning social isolation in rodents-relevance to developmental neuropsychiatric disorders",
+        "volume": "32",
+        "author": "Fone",
+        "year": "2008",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0085",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7554/eLife.59161",
+        "article-title": "Analysis of ultrasonic vocalizations from mice using computer vision and machine learning",
+        "volume": "10",
+        "author": "Fonseca",
+        "year": "2021",
+        "journal-title": "Elife"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.pbb.2024.173824_bb0090",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.isci.2020.100895",
+        "article-title": "Pi4KIIα regulates unconditioned stimulus-retrieval-induced fear memory reconsolidation through endosomal trafficking of AMPA receptors",
+        "volume": "23",
+        "author": "Guo",
+        "year": "2020",
+        "journal-title": "iScience"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.pbb.2024.173824_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "1260",
+        "DOI": "10.1038/s41380-019-0470-9",
+        "article-title": "Systemic immunization with altered myelin basic protein peptide produces sustained antidepressant-like effects",
+        "volume": "25",
+        "author": "Han",
+        "year": "2020",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "737",
+        "DOI": "10.1016/0041-008X(65)90132-8",
+        "article-title": "Isolation syndrome in the rat",
+        "volume": "7",
+        "author": "Hatch",
+        "year": "1965",
+        "journal-title": "Toxicol. Appl. Pharmacol."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.pbb.2024.173824_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1007/s12160-010-9210-8",
+        "article-title": "Loneliness matters: a theoretical and empirical review of consequences and mechanisms",
+        "volume": "40",
+        "author": "Hawkley",
+        "year": "2010",
+        "journal-title": "Ann. Behav. Med."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.pbb.2024.173824_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1518",
+        "DOI": "10.1038/nn.3815",
+        "article-title": "Modulation of oligodendrocyte generation during a critical temporal window after NG2 cell division",
+        "volume": "17",
+        "author": "Hill",
+        "year": "2014",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "6807",
+        "key": "10.1016/j.pbb.2024.173824_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "963",
+        "DOI": "10.1038/35039559",
+        "article-title": "Regenerating the damaged central nervous system",
+        "volume": "407",
+        "author": "Horner",
+        "year": "2000",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "6212983",
+        "DOI": "10.1155/2016/6212983",
+        "article-title": "Social isolation stress induces anxious-depressive-like behavior and alterations of neuroplasticity-related genes in adult male mice",
+        "volume": "2016",
+        "author": "Ieraci",
+        "year": "2016",
+        "journal-title": "Neural Plast."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1186/s13293-024-00616-0",
+        "article-title": "Early adversity causes sex-specific deficits in perforant pathway connectivity and contextual memory in adolescent mice",
+        "volume": "15",
+        "author": "Islam",
+        "year": "2024",
+        "journal-title": "Biol. Sex Differ."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.pbb.2024.173824_bb0130",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1172/JCI164223",
+        "article-title": "Neuron-oligodendrocyte potassium shuttling at nodes of Ranvier protects against inflammatory demyelination",
+        "volume": "133",
+        "author": "Kapell",
+        "year": "2023",
+        "journal-title": "J. Clin. Invest."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0135",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0169705",
+        "article-title": "Early-life social isolation influences mouse ultrasonic vocalizations during male-male social encounters",
+        "volume": "12",
+        "author": "Keesom",
+        "year": "2017",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1038/s41577-023-00907-4",
+        "article-title": "Microglia regulation of central nervous system myelin health and regeneration",
+        "volume": "24",
+        "author": "Kent",
+        "year": "2024",
+        "journal-title": "Nat. Rev. Immunol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "2975",
+        "DOI": "10.1038/s41467-023-38799-6",
+        "article-title": "Adolescent stress impairs postpartum social behavior via anterior insula-prelimbic pathway in mice",
+        "volume": "14",
+        "author": "Kin",
+        "year": "2023",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "2597",
+        "DOI": "10.1038/s41467-023-38338-3",
+        "article-title": "Dynamic and stable hippocampal representations of social identity and reward expectation support associative social memory in male mice",
+        "volume": "14",
+        "author": "Kong",
+        "year": "2023",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0155",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.neuint.2021.105213",
+        "article-title": "Activation of 5-HT1A receptor reduces abnormal emotionality in stress-maladaptive mice by alleviating decreased myelin protein in the ventral hippocampus",
+        "volume": "151",
+        "author": "Kurokawa",
+        "year": "2021",
+        "journal-title": "Neurochem. Int."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/j.puhe.2017.07.035",
+        "article-title": "An overview of systematic reviews on the public health consequences of social isolation and loneliness",
+        "volume": "152",
+        "author": "Leigh-Hunt",
+        "year": "2017",
+        "journal-title": "Public Health"
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.pbb.2024.173824_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "4152",
+        "DOI": "10.1016/j.cell.2023.08.010",
+        "article-title": "Corticotropin-releasing hormone signaling from prefrontal cortex to lateral septum suppresses interaction with familiar mice",
+        "volume": "186",
+        "author": "de León Reyes",
+        "year": "2023",
+        "journal-title": "Cell"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.pbb.2024.173824_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1038/mp.2017.85",
+        "article-title": "Uncoupling DAPK1 from NMDA receptor GluN2B subunit exerts rapid antidepressant-like effects",
+        "volume": "23",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.pbb.2024.173824_bb0175",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1172/JCI161559",
+        "article-title": "The Eph receptor A4 plays a role in demyelination and depression-related behavior",
+        "volume": "132",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "J. Clin. Invest."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.pbb.2024.173824_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "eadk3931",
+        "DOI": "10.1126/sciadv.adk3931",
+        "article-title": "RNF220-mediated K63-linked polyubiquitination stabilizes Olig proteins during oligodendroglial development and myelination",
+        "volume": "10",
+        "author": "Li",
+        "year": "2024",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1007/s12264-015-1555-3",
+        "article-title": "Clemastine rescues behavioral changes and enhances remyelination in the cuprizone mouse model of demyelination",
+        "volume": "31",
+        "author": "Li",
+        "year": "2015",
+        "journal-title": "Neurosci. Bull."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.pbb.2024.173824_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "1621",
+        "DOI": "10.1038/nn.3263",
+        "article-title": "Impaired adult myelination in the prefrontal cortex of socially isolated mice",
+        "volume": "15",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.1016/j.bbi.2024.01.012",
+        "article-title": "Glia-derived adenosine in the ventral hippocampus drives pain-related anxiodepression in a mouse model resembling trigeminal neuralgia",
+        "volume": "117",
+        "author": "Lv",
+        "year": "2024",
+        "journal-title": "Brain Behav. Immun."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.pbb.2024.173824_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/j.biopsych.2024.03.008",
+        "article-title": "Prefrontal regulation of social behavior and related deficits: insights from rodent studies",
+        "volume": "96",
+        "author": "Mack",
+        "year": "2024",
+        "journal-title": "Biol. Psychiatry"
+      },
+      {
+        "issue": "6100",
+        "key": "10.1016/j.pbb.2024.173824_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "1357",
+        "DOI": "10.1126/science.1220845",
+        "article-title": "A critical period for social experience-dependent oligodendrocyte maturation and myelination",
+        "volume": "337",
+        "author": "Makinodan",
+        "year": "2012",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0210",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7554/eLife.18246",
+        "article-title": "Accelerated remyelination during inflammatory demyelination prevents axonal loss and improves functional recovery",
+        "volume": "5",
+        "author": "Mei",
+        "year": "2016",
+        "journal-title": "Elife"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "328",
+        "DOI": "10.3389/fncel.2015.00328",
+        "article-title": "Oligodendroglial argonaute protein Ago2 associates with molecules of the MBP mRNA localization machinery and is a downstream target of Fyn kinase",
+        "volume": "9",
+        "author": "Müller",
+        "year": "2015",
+        "journal-title": "Front. Cell. Neurosci."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "1205",
+        "DOI": "10.1016/j.biopha.2018.05.086",
+        "article-title": "Neurobiology and consequences of social isolation stress in animal model-a comprehensive review",
+        "volume": "105",
+        "author": "Mumtaz",
+        "year": "2018",
+        "journal-title": "Biomed. Pharmacother."
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.pbb.2024.173824_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "eadg4881",
+        "DOI": "10.1126/sciadv.adg4881",
+        "article-title": "Fear extinction relies on ventral hippocampal safety codes shaped by the amygdala",
+        "volume": "9",
+        "author": "Nguyen",
+        "year": "2023",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.pbb.2024.173824_bb0230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1172/jci.insight.123434",
+        "article-title": "Neuronal activity in vivo enhances functional myelin repair",
+        "volume": "5",
+        "author": "Ortiz",
+        "year": "2019",
+        "journal-title": "JCI Insight"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.pbb.2024.173824_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1038/s41583-022-00609-1",
+        "article-title": "Dynamic influences on the neural encoding of social valence",
+        "volume": "23",
+        "author": "Padilla-Coreano",
+        "year": "2022",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1121/10.0012350",
+        "article-title": "Automatic segmentation and classification of mice ultrasonic vocalizations",
+        "volume": "152",
+        "author": "Pessoa",
+        "year": "2022",
+        "journal-title": "J. Acoust. Soc. Am."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.pbb.2024.173824_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1016/j.tins.2023.08.003",
+        "article-title": "The role of the hippocampus in the consolidation of emotional memories during sleep",
+        "volume": "46",
+        "author": "Pronier",
+        "year": "2023",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "issue": "Pt A",
+        "key": "10.1016/j.pbb.2024.173824_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.physbeh.2015.09.005",
+        "article-title": "Attenuation of social interaction-associated ultrasonic vocalizations and spatial working memory performance in rats exposed to chronic unpredictable stress",
+        "volume": "152",
+        "author": "Riaz",
+        "year": "2015",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.pbb.2024.173824_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "411",
+        "DOI": "10.1038/s41593-020-0584-z",
+        "article-title": "Ultrasonic signals associated with different types of social behavior of mice",
+        "volume": "23",
+        "author": "Sangiamo",
+        "year": "2020",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.pbb.2024.173824_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "1218",
+        "DOI": "10.1038/s41593-023-01366-9",
+        "article-title": "Myelin insulation as a risk factor for axonal degeneration in autoimmune demyelinating disease",
+        "volume": "26",
+        "author": "Schäffner",
+        "year": "2023",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.pbb.2024.173824_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "e164",
+        "DOI": "10.1212/WNL.0000000000200583",
+        "article-title": "Associations of social isolation and loneliness with later dementia",
+        "volume": "99",
+        "author": "Shen",
+        "year": "2022",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0270",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.neuropharm.2018.11.008",
+        "article-title": "Ultrasonic vocalizations as a tool in studying emotional states in rodent models of social behavior and brain disease",
+        "volume": "159",
+        "author": "Simola",
+        "year": "2019",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "issue": "10078",
+        "key": "10.1016/j.pbb.2024.173824_bb0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "1539",
+        "DOI": "10.1016/S0140-6736(17)30045-4",
+        "article-title": "Child-to-adult neurodevelopmental and mental health trajectories after early life deprivation: the young adult follow-up of the longitudinal English and Romanian adoptees study",
+        "volume": "389",
+        "author": "Sonuga-Barke",
+        "year": "2017",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "9820",
+        "key": "10.1016/j.pbb.2024.173824_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "1056",
+        "DOI": "10.1016/S0140-6736(11)60871-4",
+        "article-title": "Depression in adolescence",
+        "volume": "379",
+        "author": "Thapar",
+        "year": "2012",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1186/s12929-022-00834-x",
+        "article-title": "A dorsal CA2 to ventral CA1 circuit contributes to oxytocinergic modulation of long-term social recognition memory",
+        "volume": "29",
+        "author": "Tsai",
+        "year": "2022",
+        "journal-title": "J. Biomed. Sci."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.pbb.2024.173824_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1038/s41593-020-0588-8",
+        "article-title": "Myelin degeneration and diminished myelin renewal contribute to age-related deficits in memory",
+        "volume": "23",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.pbb.2024.173824_bb0295",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0012824",
+        "article-title": "The QKI-6 RNA binding protein localizes with the MBP mRNAs in stress granules of glial cells",
+        "volume": "5",
+        "author": "Wang",
+        "year": "2010",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1186/s12974-023-02764-3",
+        "article-title": "Microglial aryl hydrocarbon receptor enhances phagocytic function via SYK and promotes remyelination in the cuprizone mouse model of demyelination",
+        "volume": "20",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "J. Neuroinflammation"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "7903",
+        "DOI": "10.1038/s41467-023-43636-x",
+        "article-title": "The claustrum-prelimbic cortex circuit through dynorphin/κ-opioid receptor signaling underlies depression-like behaviors associated with social stress etiology",
+        "volume": "14",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.pbb.2024.173824_bb0310",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1101/cshperspect.a039198",
+        "article-title": "Sex differences in major depressive disorder (MDD) and preclinical animal models for the study of depression",
+        "volume": "14",
+        "author": "Williams",
+        "year": "2022",
+        "journal-title": "Cold Spring Harb. Perspect. Biol."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0315",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fcell.2021.733945",
+        "article-title": "Clemastine ameliorates myelin deficits via preventing senescence of oligodendrocytes precursor cells in Alzheimer’s disease model mouse",
+        "volume": "9",
+        "author": "Xie",
+        "year": "2021",
+        "journal-title": "Front. Cell Dev. Biol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.pbb.2024.173824_bb0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1038/s41380-022-01835-w",
+        "article-title": "Social isolation and the brain: effects and mechanisms",
+        "volume": "28",
+        "author": "Xiong",
+        "year": "2023",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.pbb.2024.173824_bb0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1016/j.molcel.2018.09.011",
+        "article-title": "Mixed lineage kinase domain-like protein MLKL breaks down myelin following nerve injury",
+        "volume": "72",
+        "author": "Ying",
+        "year": "2018",
+        "journal-title": "Mol. Cell"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "1406",
+        "DOI": "10.1038/s41380-024-02419-6",
+        "article-title": "(R)-ketamine restores anterior insular cortex activity and cognitive deficits in social isolation-reared mice",
+        "volume": "29",
+        "author": "Yokoyama",
+        "year": "2024",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.pbb.2024.173824_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "2522",
+        "DOI": "10.1038/s41380-022-01495-w",
+        "article-title": "Neurocan regulates vulnerability to stress and the anti-depressant effect of ketamine in adolescent rats",
+        "volume": "27",
+        "author": "Yu",
+        "year": "2022",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0340",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.brainres.2021.147497",
+        "article-title": "Involvement of the dopamine system in the effect of chronic social isolation during adolescence on social behaviors in male C57 mice",
+        "volume": "1765",
+        "author": "Zhang",
+        "year": "2021",
+        "journal-title": "Brain Res."
+      },
+      {
+        "issue": "35",
+        "key": "10.1016/j.pbb.2024.173824_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "eabo4884",
+        "DOI": "10.1126/sciadv.abo4884",
+        "article-title": "Encoding of social novelty by sparse GABAergic neural ensembles in the prelimbic cortex",
+        "volume": "8",
+        "author": "Zhao",
+        "year": "2022",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "1221890",
+        "DOI": "10.3389/fcell.2023.1221890",
+        "article-title": "Neuronal activity and remyelination: new insights into the molecular mechanisms and therapeutic advancements",
+        "volume": "11",
+        "author": "Zhou",
+        "year": "2023",
+        "journal-title": "Front. Cell Dev. Biol."
+      },
+      {
+        "key": "10.1016/j.pbb.2024.173824_bb0355",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.nbd.2023.106375",
+        "article-title": "Clemastine-induced enhancement of hippocampal myelination alleviates memory impairment in mice with chronic pain",
+        "volume": "190",
+        "author": "Zhu",
+        "year": "2024",
+        "journal-title": "Neurobiol. Dis."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.pbb.2024.173824_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "992",
+        "DOI": "10.1038/s41593-019-0394-3",
+        "article-title": "Compulsivity and impulsivity traits linked to attenuated developmental frontostriatal myelination trajectories",
+        "volume": "22",
+        "author": "Ziegler",
+        "year": "2019",
+        "journal-title": "Nat. Neurosci."
+      }
+    ],
+    "container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0091305724001187?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0091305724001187?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2024-07-26T17:16:33Z",
+      "timestamp": 1722014193000
+    },
+    "score": 17.819641,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0091305724001187"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "references-count": 72,
+    "alternative-id": [
+      "S0091305724001187"
+    ],
+    "URL": "https://doi.org/10.1016/j.pbb.2024.173824",
+    "ISSN": [
+      "0091-3057"
+    ],
+    "issn-type": [
+      {
+        "value": "0091-3057",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Clemastine improves emotional and social deficits in adolescent social isolation mice by reversing demyelination",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Pharmacology Biochemistry and Behavior",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.pbb.2024.173824",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "173824"
+  }
+}

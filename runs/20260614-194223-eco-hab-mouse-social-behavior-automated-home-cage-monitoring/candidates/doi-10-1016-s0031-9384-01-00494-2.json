@@ -1,0 +1,893 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/s0031-9384(01)00494-2",
+  "title": "Social stress in mice",
+  "abstract": null,
+  "year": 2001,
+  "authors": [
+    "Paola Palanza",
+    "Laura Gioiosa",
+    "Stefano Parmigiani"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/s0031-9384(01)00494-2",
+  "url": "https://doi.org/10.1016/s0031-9384(01)00494-2",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T02:55:07Z",
+      "timestamp": 1780455307465,
+      "version": "3.54.1"
+    },
+    "reference-count": 67,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2001-06-01T00:00:00Z",
+          "timestamp": 991353600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0031-9384(01)00494-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T12:29:37Z",
+      "timestamp": 1027600177000
+    },
+    "page": "411-420",
+    "source": "Crossref",
+    "is-referenced-by-count": 205,
+    "title": [
+      "Social stress in mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "73",
+    "author": [
+      {
+        "given": "Paola",
+        "family": "Palanza",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Gioiosa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "Parmigiani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB1",
+        "series-title": "Life events and illness",
+        "author": "Brown",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1152/physrev.1991.71.1.305",
+        "article-title": "Cardiovascular response to stress",
+        "volume": "71",
+        "author": "Herd",
+        "year": "1991",
+        "journal-title": "Physiol Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB3",
+        "series-title": "Handbook of behavioral medicine",
+        "first-page": "174",
+        "article-title": "Behavioral and psychological influences on gastrointestinal pathology; experimental techniques and findings",
+        "author": "Weiss",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1006/brbi.1998.0521",
+        "article-title": "Stress-induced modulation of anti-viral immunity",
+        "volume": "12",
+        "author": "Sheridan",
+        "year": "1998",
+        "journal-title": "Brain Behav Immun"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB5",
+        "first-page": "369",
+        "article-title": "Stress and cancer",
+        "volume": "89",
+        "author": "Sklar",
+        "year": "1981",
+        "journal-title": "Physiol Bull"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB6",
+        "series-title": "Stress: from synapse to syndrome",
+        "first-page": "23",
+        "article-title": "The role of life events in the aetiology of depressive and anxiety disorders",
+        "author": "Brown",
+        "year": "1993"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1016/S0031-9384(99)00203-6",
+        "article-title": "Animal models of disease",
+        "volume": "68",
+        "author": "McCabe",
+        "year": "2000",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1016/0165-6147(91)90529-2",
+        "article-title": "Animal models as simulations of depression",
+        "volume": "12",
+        "author": "Willner",
+        "year": "1991",
+        "journal-title": "Trends Pharmacol Sci"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1002/(SICI)1098-2337(1998)24:4<241::AID-AB1>3.0.CO;2-M",
+        "article-title": "Social defeat and subordination as a model of social stress in laboratory rodents: a review",
+        "volume": "24",
+        "author": "Martinez",
+        "year": "1998",
+        "journal-title": "Aggressive Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1017/S0924270800037479",
+        "article-title": "Social stress in rats: an animal model of depression?",
+        "volume": "7",
+        "author": "Koolhaas",
+        "year": "1995",
+        "journal-title": "Acta Neuropsychiatr"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/0306-4530(94)E0045-B",
+        "article-title": "Visible barrow system as a model of chronic social stress: behavioral and neuroendocrine correlates",
+        "volume": "20",
+        "author": "Blanchard",
+        "year": "1995",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/0091-3057(95)02166-3",
+        "article-title": "Psychosocial stress in tree shrews: clomipramine counteract behavioral and endocrine changes",
+        "volume": "54",
+        "author": "Fuchs",
+        "year": "1996",
+        "journal-title": "Pharmacol, Biochem Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1002/1098-2337(1991)17:5<285::AID-AB2480170505>3.0.CO;2-P",
+        "article-title": "A sensory contact model for the study of aggressive and submissive behavior in male mice",
+        "volume": "17",
+        "author": "Kundryavsteva",
+        "year": "1991",
+        "journal-title": "Aggressive Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB14",
+        "series-title": "Stress and related disorders from adaptation to dysfunction",
+        "article-title": "Psychosocial stress, anxiety and depression: physiological and neuroendocrine correlated in animal models",
+        "author": "Bohus",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB15",
+        "first-page": "187",
+        "article-title": "Social stress by repeated defeat: effects on social behavior and emotionality",
+        "volume": "430",
+        "author": "Albonetti",
+        "year": "1991",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/0166-4328(93)90096-9",
+        "article-title": "Subordination stress: behavioral, brain and neuroendocrine correlates",
+        "volume": "58",
+        "author": "Blanchard",
+        "year": "1993",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB17",
+        "series-title": "Stress neurobiology and neuroendocrinology",
+        "first-page": "323",
+        "article-title": "Subordinate animals. Behavioral and physiological adaptation and opioid tolerance",
+        "author": "Miczek",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "918",
+        "DOI": "10.1016/0006-3223(95)00546-3",
+        "article-title": "Social isolation in animal models of relevance to neuropsychiatric disorders",
+        "volume": "40",
+        "author": "Kim",
+        "year": "1996",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1016/0031-9384(95)02043-8",
+        "article-title": "Effects of housing on male and female rats: crowding stresses males but calms females",
+        "volume": "58",
+        "author": "Brown",
+        "year": "1995",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/S0361-9230(99)00087-8",
+        "article-title": "Defeat is a major stressor in males while social instability is stressful mainly in females: towards the development of a social stress model in female rats",
+        "volume": "50",
+        "author": "Haller",
+        "year": "1999",
+        "journal-title": "Brain Res Bull"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB21",
+        "first-page": "1",
+        "article-title": "Sex differences in psychiatric disorders: origins and developmental influences",
+        "volume": "5",
+        "author": "Earls",
+        "year": "1987",
+        "journal-title": "Psychiatr Dev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB22",
+        "series-title": "Psychosocial disorders in young people",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB23",
+        "first-page": "4687",
+        "article-title": "Gender differences in risk factors for mood and anxiety disorders: implications for clinical treatment research",
+        "volume": "31",
+        "author": "Blehar",
+        "year": "1995",
+        "journal-title": "Psychopharmacol Bull"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/S0010-440X(97)90028-6",
+        "article-title": "Gender differences in DSM-IV alcohol use disorders and major depression as distributed in the general population: clinical implications",
+        "volume": "38",
+        "author": "Hanna",
+        "year": "1997",
+        "journal-title": "Compr Psychiatry"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "362",
+        "DOI": "10.1177/070674379904400406",
+        "article-title": "Sex differences relating to psychiatric treatment",
+        "volume": "44",
+        "author": "Godfroid",
+        "year": "1999",
+        "journal-title": "Can J Psychiatry"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1016/0001-6918(71)90029-1",
+        "article-title": "Sex differences in emotional behavior in mammals including man: endocrine bases",
+        "volume": "35",
+        "author": "Gray",
+        "year": "1971",
+        "journal-title": "Acta Psychol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "4451",
+        "DOI": "10.1016/S0091-6773(75)90636-7",
+        "article-title": "Rodent sex differences in emotional and related behavior",
+        "volume": "14",
+        "author": "Archer",
+        "year": "1975",
+        "journal-title": "Behav Biol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1016/0031-9384(91)90039-Q",
+        "article-title": "Sex differences in animal tests of anxiety",
+        "volume": "49",
+        "author": "Johnston",
+        "year": "1991",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/S0149-7634(05)80132-0",
+        "article-title": "Sex effects in defensive behavior: baseline differences and drug interactions",
+        "volume": "15",
+        "author": "Blanchard",
+        "year": "1991",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/S0306-4530(99)00054-2",
+        "article-title": "Influence of a natural stressor (predator odor) on locomotor activity in the meadow vole (Microtus pennsylvanicus): modulation by sex, reproductive condition and gonadal hormones",
+        "volume": "25",
+        "author": "Perrot-Sinal",
+        "year": "2000",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/0278-5846(88)90061-9",
+        "article-title": "A regional study of sex differences in rat brain serotonin",
+        "volume": "12",
+        "author": "Carlsson",
+        "year": "1988",
+        "journal-title": "Prog Neuropsychopharmacol Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1007/BF00228750",
+        "article-title": "Sex differences in GABA/benzodiazepine receptor changes and corticosterone release after acute stress in rats",
+        "volume": "101",
+        "author": "Wilson",
+        "year": "1994",
+        "journal-title": "Exp Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB33",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1016/0091-3057(90)90044-I",
+        "article-title": "The actions of diazepam and serotonergic anxiolytics vary according to the gender and the estrus cycle phase",
+        "volume": "37",
+        "author": "Fernandez-Guasti",
+        "year": "1990",
+        "journal-title": "Pharmacol, Biochem Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB34",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/S0166-4328(97)00047-8",
+        "article-title": "Anxiolytic actions of diazepam, but not buspirone, are influenced by gender and the endocrine stage",
+        "volume": "88",
+        "author": "Fernandez-Guasti",
+        "year": "1997",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB35",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/0031-9384(91)90232-D",
+        "article-title": "Sex differences in behavioral despair: relationships between behavioral despair and open field activity",
+        "volume": "49",
+        "author": "Alonso",
+        "year": "1991",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB36",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1016/0031-9384(93)90079-U",
+        "article-title": "Sex differences in open field behavior in response to the beta-carboline FG7142 in rats",
+        "volume": "54",
+        "author": "Meng",
+        "year": "1993",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB37",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1016/S0149-7634(98)00029-3",
+        "article-title": "Ethopharmacology of imipramine in the forced-swim test: gender differences",
+        "volume": "23",
+        "author": "Barros",
+        "year": "1998",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB38",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1177/026988119500900201",
+        "article-title": "Gender bias in the preclinical psychopharmacology of anxiety: male models for (predominantly) female disorders",
+        "volume": "9",
+        "author": "Blanchard",
+        "year": "1995",
+        "journal-title": "J Psychopharmacol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1198",
+        "DOI": "10.1038/2011198a0",
+        "article-title": "Effects of induced estrus on emotional behavior of in selected strain of rats",
+        "volume": "201",
+        "author": "Gray",
+        "year": "1964",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB40",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.1016/S0306-4530(96)00015-7",
+        "article-title": "Effects of the estrous cycle and ovarian hormones on behavioral indices of anxiety in female rats",
+        "volume": "21",
+        "author": "Mora",
+        "year": "1997",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB41",
+        "doi-asserted-by": "crossref",
+        "first-page": "957",
+        "DOI": "10.1016/S0149-7634(99)00029-9",
+        "article-title": "Selection, evolution of behavior and animal models in behavioral neuroscience",
+        "volume": "23",
+        "author": "Parmigiani",
+        "year": "1999",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB42",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/S0149-7634(01)00010-0",
+        "article-title": "Animal models of anxiety and depression: how are females different?",
+        "volume": "25",
+        "author": "Palanza",
+        "year": "2001",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB43",
+        "series-title": "Animal models in psychopharmacology. Advances in pharmacological sciences",
+        "first-page": "117",
+        "article-title": "Risk assessment and animal models of anxiety",
+        "author": "Blanchard",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB44",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0149-7634(01)00011-2",
+        "article-title": "A detailed ethological analysis of the mouse open field test: effect of diazepam, chlorodiazepoxide and an extremely low frequency pulsed magnetic field",
+        "volume": "25",
+        "author": "Choleris",
+        "year": "2001",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB45",
+        "series-title": "Ethology and psychopharmacology",
+        "first-page": "9",
+        "article-title": "The elevated plus-maze: pharmacology, methodology and ethology",
+        "author": "Rodgers",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB46",
+        "doi-asserted-by": "crossref",
+        "first-page": "637",
+        "DOI": "10.1097/00008877-199312000-00009",
+        "article-title": "The free-exploratory paradigm: an effective method for measuring neophobic behaviour in mice and testing potential neophobia-reducing drugs",
+        "volume": "4",
+        "author": "Griebel",
+        "year": "1993",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB47",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1111/j.1469-185X.1992.tb01192.x",
+        "article-title": "Life history and bioeconomy of the house mouse",
+        "volume": "67",
+        "author": "Berry",
+        "year": "1992",
+        "journal-title": "Biol Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB48",
+        "series-title": "The development of sex differences and similarities in behavior",
+        "first-page": "191",
+        "article-title": "Intraspecific aggression in mice (Mus domesticus): male and female strategies",
+        "author": "Palanza",
+        "year": "1993"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB49",
+        "series-title": "The descent of man and selection in relation to sex",
+        "author": "Darwin",
+        "year": "1871"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB50",
+        "series-title": "Sexual selection and the descent of man 1871–1971",
+        "first-page": "136",
+        "article-title": "Parental investment and sexual selection",
+        "author": "Trivers",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB51",
+        "first-page": "306",
+        "article-title": "Stress and differential alterations in immune functions: conclusions from social stress studies in animals",
+        "volume": "39",
+        "author": "Bohus",
+        "year": "1991",
+        "journal-title": "Ned J Med"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB52",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1006/anbe.1996.0179",
+        "article-title": "Housing and welfare in laboratory rats: time-budgeting and pathophysiology in single-sex groups",
+        "volume": "52",
+        "author": "Hurst",
+        "year": "1996",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB53",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1016/0091-3057(89)90516-9",
+        "article-title": "Effect of isolation on brain monoamines and the behavior of mice in tests of exploration. Locomotion, anxiety and behavioral “despair”",
+        "volume": "33",
+        "author": "Hilakivi",
+        "year": "1989",
+        "journal-title": "Pharmacol, Biochem Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB54",
+        "first-page": "3",
+        "article-title": "Exploratory and aggressive behaviour of isolated, dominant and subordinated mice",
+        "volume": "114",
+        "author": "Parmigiani",
+        "year": "1980",
+        "journal-title": "Accad Sci Lett"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB55",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1016/0031-9384(93)90084-S",
+        "article-title": "Influence of social isolation, gender, strain and prior novelty on plus-maze behaviour in mice",
+        "volume": "54",
+        "author": "Rodgers",
+        "year": "1993",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB56",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1111/j.1744-7348.1969.tb02891.x",
+        "article-title": "Aggressive behaviour in related and unrelated wild house mice (Mus musculus)",
+        "volume": "64",
+        "author": "Rowe",
+        "year": "1969",
+        "journal-title": "Ann Appl Biol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB57",
+        "doi-asserted-by": "crossref",
+        "first-page": "594",
+        "DOI": "10.1016/S0003-3472(82)80073-0",
+        "article-title": "The importance of kinship and familiarity in social interactions between mice",
+        "volume": "30",
+        "author": "Kareem",
+        "year": "1982",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB58",
+        "doi-asserted-by": "crossref",
+        "first-page": "1107",
+        "DOI": "10.1016/0031-9384(91)90338-O",
+        "article-title": "“Isolation stress” revisited: isolation rearing effects depend on animal care methods",
+        "volume": "49",
+        "author": "Holson",
+        "year": "1991",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB59",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/0306-4530(82)90015-4",
+        "article-title": "Effects of isolation, handling and novelty on the pituitary–adrenal response in the mouse",
+        "volume": "7",
+        "author": "Misslin",
+        "year": "1982",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB60",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1016/0024-3205(79)90119-X",
+        "article-title": "The interpretation of physiological correlates of differential housing in laboratory rats",
+        "volume": "24",
+        "author": "Brain",
+        "year": "1979",
+        "journal-title": "Life Sci"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB61",
+        "doi-asserted-by": "crossref",
+        "first-page": "764",
+        "DOI": "10.1016/0006-3223(85)90156-8",
+        "article-title": "Animal models of depression: parallels and correlates to severe depression in humans",
+        "volume": "20",
+        "author": "Jesberger",
+        "year": "1985",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB62",
+        "first-page": "459",
+        "article-title": "What does individual housing mean to a research worker?",
+        "volume": "5",
+        "author": "Brain",
+        "year": "1977",
+        "journal-title": "IRCS J Med Sci"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1119",
+        "DOI": "10.1016/0031-9384(93)90335-D",
+        "article-title": "Sex differences in anxiety behavior in rats: role of gonadal hormones",
+        "volume": "54",
+        "author": "Zimmerberg",
+        "year": "1993",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB64",
+        "doi-asserted-by": "crossref",
+        "first-page": "1704",
+        "DOI": "10.1210/endo-94-6-1704",
+        "article-title": "Plasma concentration of LH, FSH, prolactin, progesterone and estradiol-17beta throughout the 4 day estrous cycle of the rat",
+        "volume": "94",
+        "author": "Butcher",
+        "year": "1974",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB65",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/0306-4530(84)90008-8",
+        "article-title": "Effect of ovarian hormones on conflict behavior",
+        "volume": "9",
+        "author": "Rodriguez-Sierra",
+        "year": "1984",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/S0031-9384(01)00494-2_BIB66",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1016/S0091-3057(97)00339-0",
+        "article-title": "Behaviorally selective effects of neuroactive steroids on plus-maze anxiety in mice",
+        "volume": "59",
+        "author": "Rodgers",
+        "year": "1998",
+        "journal-title": "Pharmacol, Biochem Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00494-2_BIB67",
+        "doi-asserted-by": "crossref",
+        "first-page": "3251",
+        "DOI": "10.1002/dev.420110309",
+        "article-title": "Differential effects of handling on exploration in male and female rats",
+        "volume": "11",
+        "author": "Weinberg",
+        "year": "1978",
+        "journal-title": "Dev Psychobiol"
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938401004942?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938401004942?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          11
+        ]
+      ],
+      "date-time": "2020-01-11T09:57:10Z",
+      "timestamp": 1578736630000
+    },
+    "score": 18.497833,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031938401004942"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    },
+    "references-count": 67,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0031938401004942"
+    ],
+    "URL": "https://doi.org/10.1016/s0031-9384(01)00494-2",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    }
+  }
+}

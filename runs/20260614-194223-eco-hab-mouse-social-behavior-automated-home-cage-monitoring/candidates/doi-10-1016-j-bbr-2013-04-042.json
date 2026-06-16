@@ -1,0 +1,668 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.bbr.2013.04.042",
+  "title": "Automated home cage assessment shows behavioral changes in a transgenic mouse model of spinocerebellar ataxia type 17",
+  "abstract": null,
+  "year": 2013,
+  "authors": [
+    "Esteban Portal",
+    "Olaf Riess",
+    "Huu Phuc Nguyen"
+  ],
+  "journal": "Behavioural Brain Research",
+  "doi": "10.1016/j.bbr.2013.04.042",
+  "url": "https://doi.org/10.1016/j.bbr.2013.04.042",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2025-10-31T14:08:14Z",
+      "timestamp": 1761919694917
+    },
+    "reference-count": 38,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2013-08-01T00:00:00Z",
+          "timestamp": 1375315200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Behavioural Brain Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bbr.2013.04.042",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2013-05-08T00:18:43Z",
+      "timestamp": 1367972323000
+    },
+    "page": "157-165",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "special_numbering": "C",
+    "title": [
+      "Automated home cage assessment shows behavioral changes in a transgenic mouse model of spinocerebellar ataxia type 17"
+    ],
+    "prefix": "10.1016",
+    "volume": "250",
+    "author": [
+      {
+        "given": "Esteban",
+        "family": "Portal",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Olaf",
+        "family": "Riess",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Huu Phuc",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "11",
+        "key": "10.1016/j.bbr.2013.04.042_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "2047",
+        "DOI": "10.1093/hmg/8.11.2047",
+        "article-title": "A neurological disease caused by an expanded CAG trinucleotide repeat in the TATA-binding protein gene: a new polyglutamine disease?",
+        "volume": "8",
+        "author": "Koide",
+        "year": "1999",
+        "journal-title": "Human Molecular Genetics"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.bbr.2013.04.042_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1441",
+        "DOI": "10.1093/hmg/10.14.1441",
+        "article-title": "SCA17, a novel autosomal dominant cerebellar ataxia caused by an expanded polyglutamine in TATA-binding protein",
+        "volume": "10",
+        "author": "Nakamura",
+        "year": "2001",
+        "journal-title": "Human Molecular Genetics"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.bbr.2013.04.042_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1314",
+        "DOI": "10.1001/archneur.61.8.1314",
+        "article-title": "Behavioral disorder, dementia, ataxia, and rigidity in a large family with TATA box-binding protein mutation",
+        "volume": "61",
+        "author": "Bruni",
+        "year": "2004",
+        "journal-title": "Archives of Neurology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1002/ana.10676",
+        "article-title": "Clinical features and neuropathology of autosomal dominant spinocerebellar ataxia (SCA17)",
+        "volume": "54",
+        "author": "Rolfs",
+        "year": "2003",
+        "journal-title": "Annals of Neurology"
+      },
+      {
+        "issue": "Pt 7",
+        "key": "10.1016/j.bbr.2013.04.042_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1599",
+        "DOI": "10.1093/brain/awg155",
+        "article-title": "Neurosciences, Huntington's disease-like phenotype due to trinucleotide repeat expansions in the TBP and JPH3 genes",
+        "volume": "126",
+        "author": "Stevanin",
+        "year": "2003",
+        "journal-title": "Brain"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.bbr.2013.04.042_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1519",
+        "DOI": "10.1038/nn2011",
+        "article-title": "Polyglutamine domain modulates the TBP-TFIIB interaction: implications for its normal function and neurodegeneration",
+        "volume": "10",
+        "author": "Friedman",
+        "year": "2007",
+        "journal-title": "Nature Neuroscience"
+      },
+      {
+        "issue": "5420",
+        "key": "10.1016/j.bbr.2013.04.042_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "464",
+        "DOI": "10.1037/0735-7044.117.3.464",
+        "article-title": "SEE locomotor behavior test discriminates C57BL/6J and DBA/2J mouse inbred strains across laboratories and protocol conditions",
+        "volume": "117",
+        "author": "Kafkafi",
+        "year": "2003",
+        "journal-title": "Behavioral Neuroscience"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.bbr.2013.04.042_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "4619",
+        "DOI": "10.1073/pnas.0409554102",
+        "article-title": "Genotype–environment interactions in mouse behavior: a way out of the problem",
+        "volume": "102",
+        "author": "Kafkafi",
+        "year": "2005",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2013.04.042_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1258/002367795780740249",
+        "article-title": "Stress measurements in mice after transportation",
+        "volume": "29",
+        "author": "Tuli",
+        "year": "1995",
+        "journal-title": "Laboratory Animals"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2013.04.042_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1983",
+        "DOI": "10.1073/pnas.0610779104",
+        "article-title": "The power of automated high-resolution behavior analysis revealed by its application to mouse models of Huntington's and prion diseases",
+        "volume": "104",
+        "author": "Steele",
+        "year": "2007",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2013.04.042_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1016/j.conb.2011.11.004",
+        "article-title": "The surveillance state of behavioral automation",
+        "volume": "22",
+        "author": "Schaefer",
+        "year": "2012",
+        "journal-title": "Current Opinion in Neurobiology"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.bbr.2013.04.042_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nature Neuroscience"
+      },
+      {
+        "key": "10.1016/j.bbr.2013.04.042_bib0195",
+        "series-title": "Verhaltensphysiologische Untersuchung von vier Rattenstämmen zur Detektion von Stammunterschieden mithilfe des automatisierten Verhaltenstestsystems PhenoTyper und den klassischen Verhaltenstest Open Field und Elevated Plus Maze",
+        "author": "Franke",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.bbr.2013.04.042_bib0075",
+        "series-title": "R: A Language and Environment for Statistical Computing",
+        "author": "R Development Core Team",
+        "year": "2009"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2013.04.042_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1016/j.anbehav.2011.11.020",
+        "article-title": "Inferential and visual analysis of ethogram data using multivariate techniques",
+        "volume": "83",
+        "author": "Stafford",
+        "year": "2012",
+        "journal-title": "Animal Behaviour"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1016/j.ecoinf.2009.06.001",
+        "article-title": "Use of confidence radii to visualise significant differences in principal components analysis: application to mammal assemblages at locations with different disturbance levels",
+        "volume": "4",
+        "author": "Catlin-Groves",
+        "year": "2009",
+        "journal-title": "Ecological Informatics"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2013.04.042_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1016/j.jgg.2012.04.009",
+        "article-title": "Automated behavioral phenotyping reveals presymptomatic alterations in a SCA3 genetrap mouse model",
+        "volume": "39",
+        "author": "Hübener",
+        "year": "2012",
+        "journal-title": "Journal of Genetics and Genomics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1016/S0092-8674(00)81369-0",
+        "article-title": "Exon 1 of the HD gene with an expanded CAG repeat is sufficient to cause a progressive neurological phenotype in transgenic mice",
+        "volume": "87",
+        "author": "Mangiarini",
+        "year": "1996",
+        "journal-title": "Cell"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1016/j.neures.2004.03.012",
+        "article-title": "Neurobehavioral evaluation of Reln-rl-orl mutant mice and correlations with cytochrome oxidase activity",
+        "volume": "49",
+        "author": "Lalonde",
+        "year": "2004",
+        "journal-title": "Neuroscience Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1016/S0306-4522(99)00464-9",
+        "article-title": "Regional brain variations of cytochrome oxidase activity and motor co-ordination in staggerer mutant mice",
+        "volume": "95",
+        "author": "Deiss",
+        "year": "2000",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.bbr.2013.04.042_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "3248",
+        "DOI": "10.1523/JNEUROSCI.19-08-03248.1999",
+        "article-title": "Characterization of progressive motor deficits in mice transgenic for the human Huntington's disease mutation",
+        "volume": "19",
+        "author": "Carter",
+        "year": "1999",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.bbr.2013.04.042_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1016/j.cmet.2006.10.004",
+        "article-title": "Thermoregulatory and metabolic defects in Huntington's disease transgenic mice implicate PGC-1alpha in Huntington's disease neurodegeneration",
+        "volume": "4",
+        "author": "Weydt",
+        "year": "2006",
+        "journal-title": "Cell Metabolism"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2013.04.042_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1093/hmg/10.2.145",
+        "article-title": "Abnormalities in the functioning of adipocytes from R6/2 mice that are transgenic for the Huntington's disease mutation",
+        "volume": "10",
+        "author": "Fain",
+        "year": "2001",
+        "journal-title": "Human Molecular Genetics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2013.04.042_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "691",
+        "DOI": "10.1016/j.expneurol.2007.12.026",
+        "article-title": "The metabolic profile of early Huntington's disease – a combined human and transgenic mouse study",
+        "volume": "210",
+        "author": "Goodman",
+        "year": "2008",
+        "journal-title": "Experimental Neurology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2013.04.042_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.nbd.2007.07.029",
+        "article-title": "Increased metabolism in the R6/2 mouse model of Huntington's disease",
+        "volume": "29",
+        "author": "van der Burg",
+        "year": "2008",
+        "journal-title": "Neurobiology of Disease"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1016/j.nbd.2009.05.007",
+        "article-title": "Systematic behavioral evaluation of Huntington's disease transgenic and knock-in mouse models",
+        "volume": "35",
+        "author": "Menalled",
+        "year": "2009",
+        "journal-title": "Neurobiology of Disease"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.bbr.2013.04.042_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "1528",
+        "DOI": "10.1093/hmg/ddq026",
+        "article-title": "Full-length huntingtin levels modulate body weight by influencing insulin-like growth factor 1 expression",
+        "volume": "19",
+        "author": "Pouladi",
+        "year": "2010",
+        "journal-title": "Human Molecular Genetics"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.bbr.2013.04.042_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "825",
+        "DOI": "10.1038/nmeth.1500",
+        "article-title": "Taming anxiety in laboratory mice",
+        "volume": "7",
+        "author": "Hurst",
+        "year": "2010",
+        "journal-title": "Nature Methods"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.bbr.2013.04.042_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1887",
+        "DOI": "10.1016/S0047-6374(01)00324-4",
+        "article-title": "Automated measurement of age-related changes in the locomotor response to environmental novelty and home-cage activity",
+        "volume": "122",
+        "author": "Casadesus",
+        "year": "2001",
+        "journal-title": "Mechanisms of Ageing and Development"
+      },
+      {
+        "issue": "52",
+        "key": "10.1016/j.bbr.2013.04.042_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "20575",
+        "DOI": "10.1073/pnas.0809053106",
+        "article-title": "A robust automated system elucidates mouse home cage behavioral structure",
+        "volume": "105",
+        "author": "Goulding",
+        "year": "2008",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "key": "10.1016/j.bbr.2013.04.042_bib0160",
+        "series-title": "Proceedings of Measuring Behavior 2005",
+        "first-page": "66",
+        "article-title": "Automated behavioral analysis of mice using INTELLICAGE: inter-laboratory comparisons and validation with exploratory behavior and spatial learning",
+        "author": "Lipp",
+        "year": "2005"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.3758/BF03195394",
+        "article-title": "EthoVision: a versatile video tracking system for automation of behavioral experiments",
+        "volume": "33",
+        "author": "Noldus",
+        "year": "2001",
+        "journal-title": "Behavior Research Methods, Instruments, & Computers"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2013.04.042_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1016/j.bbr.2012.01.015",
+        "article-title": "An open system for automatic home-cage behavioral analysis and its application to male and female mouse models of Huntington's disease",
+        "volume": "229",
+        "author": "Zarringhalam",
+        "year": "2012",
+        "journal-title": "Behavioural Brain Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2013.04.042_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1016/j.jneumeth.2007.06.020",
+        "article-title": "OpenControl: a free opensource software for video tracking and automated control of behavioral mazes",
+        "volume": "166",
+        "author": "Aguiar",
+        "year": "2007",
+        "journal-title": "Journal of Neuroscience Methods"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2013.04.042_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.physbeh.2004.10.017",
+        "article-title": "Home cage activity and activity-based measures of anxiety in 129P3/J, 129X1/SvJ and C57BL/6J mice",
+        "volume": "84",
+        "author": "Tang",
+        "year": "2005",
+        "journal-title": "Physiology and Behavior"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2013.04.042_bib0185",
+        "first-page": "292",
+        "article-title": "The effects of exercise on the pharmacokinetics of drugs",
+        "volume": "3",
+        "author": "Khazaeinia",
+        "year": "2000",
+        "journal-title": "Journal of Pharmacy and Pharmaceutical Sciences"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.bbr.2013.04.042_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "504",
+        "DOI": "10.5414/CPP41504",
+        "article-title": "A review of the effects of chronic exercise and physical fitness level on resting pharmacokinetics",
+        "volume": "41",
+        "author": "Persky",
+        "year": "2003",
+        "journal-title": "International Journal of Clinical Pharmacology and Therapeutics"
+      }
+    ],
+    "container-title": [
+      "Behavioural Brain Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432813002507?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432813002507?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2019-07-13T14:14:51Z",
+      "timestamp": 1563027291000
+    },
+    "score": 27.127464,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0166432813002507"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "references-count": 38,
+    "alternative-id": [
+      "S0166432813002507"
+    ],
+    "URL": "https://doi.org/10.1016/j.bbr.2013.04.042",
+    "ISSN": [
+      "0166-4328"
+    ],
+    "issn-type": [
+      {
+        "value": "0166-4328",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Automated home cage assessment shows behavioral changes in a transgenic mouse model of spinocerebellar ataxia type 17",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Behavioural Brain Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bbr.2013.04.042",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2013 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

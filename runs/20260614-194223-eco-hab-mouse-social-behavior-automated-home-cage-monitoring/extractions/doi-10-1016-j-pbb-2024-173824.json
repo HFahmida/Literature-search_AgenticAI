@@ -1,0 +1,67 @@
+{
+  "paper_id": "doi:10.1016/j.pbb.2024.173824",
+  "title": "Clemastine improves emotional and social deficits in adolescent social isolation mice by reversing demyelination",
+  "citation": null,
+  "doi": "10.1016/j.pbb.2024.173824",
+  "url": "https://doi.org/10.1016/j.pbb.2024.173824",
+  "pdf_url": null,
+  "year": 2024,
+  "authors": [
+    "Dan Guo",
+    "Yuan Yao",
+    "Xiumin Liu",
+    "Ying Han"
+  ],
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Reports behavioral outcomes in mice but does not focus on automated home-cage monitoring.",
+    "matched_inclusion_criteria": [
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This study investigates the effects of clemastine on emotional and social behaviors in mice that were socially isolated during adolescence.",
+  "detailed_summary": null,
+  "background_rationale": "The paper explores how clemastine can improve social behavior deficits in adolescent mice subjected to social isolation, focusing on demyelination reversal as a mechanism.",
+  "methods_summary": "Mice were socially isolated for two weeks. Behavioral tests included social interaction and preference tests. Demyelination was assessed using MRI.",
+  "results_summary": "Clemastine treatment improved social behavior deficits and reduced demyelination in the brain.",
+  "conclusion_summary": "Clemastine can ameliorate emotional and social deficits by reversing demyelination in socially isolated adolescent mice.",
+  "relevance_to_review": "Weakly relevant as it reports behavioral outcomes but does not use automated home-cage monitoring.",
+  "key_takeaways": [
+    "Clemastine improves social behavior",
+    "Demyelination is involved in social deficits"
+  ],
+  "objective": "To evaluate the effects of clemastine on emotional and social behaviors in socially isolated adolescent mice",
+  "study_design": "Preclinical study with behavioral tests and MRI analysis",
+  "population_or_sample": "Adolescent mice subjected to social isolation for two weeks",
+  "setting": "Laboratory setting",
+  "intervention_or_exposure": "Clemastine treatment",
+  "comparator": "Socially isolated control group without clemastine",
+  "methods": [
+    "Behavioral tests",
+    "MRI analysis"
+  ],
+  "outcomes_measured": [
+    "Social interaction and preference",
+    "Demyelination in the brain"
+  ],
+  "main_results": [
+    "Improvement in social behavior deficits with clemastine treatment",
+    "Reduction in demyelination observed"
+  ],
+  "conclusions": [
+    "Clemastine can improve social behaviors by reversing demyelination in socially isolated mice"
+  ],
+  "limitations": [
+    "No automated home-cage monitoring used for behavioral assessment"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Automated home-cage monitoring details"
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.heliyon.2019.e01454",
+  "title": "Non-intrusive high throughput automated data collection from the home cage",
+  "abstract": null,
+  "year": 2019,
+  "authors": [
+    "Fabio Iannello"
+  ],
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2019.e01454",
+  "url": "https://doi.org/10.1016/j.heliyon.2019.e01454",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2026-06-02T11:19:08Z",
+      "timestamp": 1780399148050,
+      "version": "3.54.1"
+    },
+    "reference-count": 26,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2019-04-01T00:00:00Z",
+          "timestamp": 1554076800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2019-04-01T00:00:00Z",
+          "timestamp": 1554076800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              27
+            ]
+          ],
+          "date-time": "2019-03-27T00:00:00Z",
+          "timestamp": 1553644800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100010739",
+        "name": "Università degli Studi di Camerino",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100010739",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cell.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heliyon"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.heliyon.2019.e01454",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2019-04-04T16:07:29Z",
+      "timestamp": 1554394049000
+    },
+    "page": "e01454",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 77,
+    "title": [
+      "Non-intrusive high throughput automated data collection from the home cage"
+    ],
+    "prefix": "10.1016",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Fabio",
+        "family": "Iannello",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.20506/rst.24.2.1585",
+        "article-title": "Science-based assessment of animal welfare: laboratory animals",
+        "volume": "24",
+        "author": "Baumans",
+        "year": "2005",
+        "journal-title": "Rev. Sci. Tech. - Int. Off. Epizoot."
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1152/physiolgenomics.00164.2002",
+        "article-title": "Evaluation and applications of radiotelemetry in small laboratory animals",
+        "volume": "13",
+        "author": "Kramer",
+        "year": "2003",
+        "journal-title": "Physiol. Genomics"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.applanim.2014.11.018",
+        "article-title": "The power of automated behavioural homecage technologies in characterizing disease progression in laboratory mice: a review",
+        "volume": "163",
+        "author": "Richardson",
+        "year": "2015",
+        "journal-title": "Appl. Anim. Behav. Sci."
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1038/nprot.2018.031",
+        "article-title": "An approach to monitoring home-cage behavior in mice that facilitates data sharing",
+        "volume": "13",
+        "author": "Balzani",
+        "year": "2018",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1016/j.jneumeth.2017.04.014",
+        "article-title": "Assessing mouse behaviour throughout the light/dark cycle using automated in-cage analysis tools",
+        "volume": "300",
+        "author": "Bains",
+        "year": "2018",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "Jhuang",
+        "year": "2010",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1152/physiolgenomics.00139.2006",
+        "article-title": "Novel method for high-throughput phenotyping of sleep in mice",
+        "volume": "28",
+        "author": "Pack",
+        "year": "2007",
+        "journal-title": "Physiol. Genomics"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0080",
+        "author": "TSE Systems"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0090",
+        "author": "Metris B.V."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0100",
+        "article-title": "Compass: continuous open mouse phenotyping of activity and sleep status [version 2; referees: 4 approved]",
+        "volume": "1",
+        "author": "Brown",
+        "year": "2017",
+        "journal-title": "Wellcome Open Res."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1109/TBME.2006.886938",
+        "article-title": "Pattern recognition of sleep in rodents using piezoelectric signals generated by gross body movements",
+        "volume": "54",
+        "author": "Flores",
+        "year": "2007",
+        "journal-title": "IEEE Trans. Biomed. Eng."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.heliyon.2019.e01454_br0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1186/s13036-017-0079-y",
+        "article-title": "A simplified microwave-based motion detector for home cage activity monitoring in mice",
+        "volume": "11",
+        "author": "Genewsky",
+        "year": "2017",
+        "journal-title": "J. Biol. Eng."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.heliyon.2019.e01454_br0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1371/journal.pone.0108563",
+        "article-title": "Sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using home-cage monitoring",
+        "volume": "9",
+        "author": "Loos",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1152/japplphysiol.00058.2018",
+        "article-title": "A noninterfering system to measure in-cage spontaneous physical activity in mice",
+        "volume": "125",
+        "author": "Poffé",
+        "year": "2018",
+        "journal-title": "J. Appl. Physiol."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.heliyon.2019.e01454_br0150",
+        "first-page": "42",
+        "article-title": "Laboratory routines cause animal stress",
+        "volume": "43",
+        "author": "Balcombe",
+        "year": "2004",
+        "journal-title": "JAALAS"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.heliyon.2019.e01454_br0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "R714",
+        "DOI": "10.1152/ajpregu.00479.2013",
+        "article-title": "Methodological considerations for measuring spontaneous physical activity in rodents",
+        "volume": "306",
+        "author": "Teske",
+        "year": "2014",
+        "journal-title": "Am. J. Physiol., Regul. Integr. Comp. Physiol."
+      },
+      {
+        "issue": "5420",
+        "key": "10.1016/j.heliyon.2019.e01454_br0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0180",
+        "author": "Tecniplast SpA"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.heliyon.2019.e01454_br0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1177/0748730411431550",
+        "article-title": "Rapid assessment of sleep-wake behavior in mice",
+        "volume": "27",
+        "author": "Fisher",
+        "year": "2012",
+        "journal-title": "J. Biol. Rhythms"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0200",
+        "unstructured": "F.T. Ulaby, U. Ravaioli, Fundamentals of applied electromagnetics, 7th edition."
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0210",
+        "series-title": "Algorithms for Image Processing and Computer Vision",
+        "isbn-type": "print",
+        "author": "Parker",
+        "year": "1996",
+        "ISBN": "https://id.crossref.org/isbn/0471140562"
+      },
+      {
+        "key": "10.1016/j.heliyon.2019.e01454_br0220",
+        "author": "OpenCV"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.heliyon.2019.e01454_br0240",
+        "first-page": "1",
+        "article-title": "Towards large scale automated cage monitoring - diurnal rhythm and impact of interventions on in-cage activity of c57bl/6j mice recorded 24/7 with a non-disrupting capacitive-based technique",
+        "volume": "14",
+        "author": "Pernold",
+        "year": "2012",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.heliyon.2019.e01454_br0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1016/j.neubiorev.2010.04.004",
+        "article-title": "Ten ways to improve the quality of descriptions of whole-animal movement",
+        "volume": "34",
+        "author": "Benjamini",
+        "year": "2010",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.heliyon.2019.e01454_br0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1371/journal.pone.0204066",
+        "article-title": "Food and water restriction lead to differential learning behaviors in a head-fixed two-choice visual discrimination task for mice",
+        "volume": "13",
+        "author": "Goltstein",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.heliyon.2019.e01454_br0270",
+        "first-page": "236",
+        "article-title": "Effect of environmental enrichment on aggression in balb/cj and balb/cbyj mice monitored by using an automated system",
+        "volume": "57",
+        "author": "Jareca",
+        "year": "2018",
+        "journal-title": "JAALAS"
+      }
+    ],
+    "container-title": [
+      "Heliyon"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S240584401838472X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S240584401838472X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2025-11-07T10:28:28Z",
+      "timestamp": 1762511308000
+    },
+    "score": 23.76288,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S240584401838472X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S240584401838472X"
+    ],
+    "URL": "https://doi.org/10.1016/j.heliyon.2019.e01454",
+    "ISSN": [
+      "2405-8440"
+    ],
+    "issn-type": [
+      {
+        "value": "2405-8440",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Non-intrusive high throughput automated data collection from the home cage",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heliyon",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.heliyon.2019.e01454",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2019 The Author. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "e01454"
+  }
+}

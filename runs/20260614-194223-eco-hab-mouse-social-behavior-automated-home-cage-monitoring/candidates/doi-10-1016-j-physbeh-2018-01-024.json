@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "29382562",
+  "title": "Behavioural characterization of C57BL/6N and BALB/c female mice in social home cage - Effect of mixed housing in complex environment.",
+  "abstract": "Developing reliable mouse models for social behaviour is challenging. Different tests have been proposed, but most of them consist of rather artificial confrontations of unfamiliar mice in novel arenas or are relying on social stress induced by aggressive conspecifics. Natural social interaction in home cage in laboratory has not been investigated well. IntelliCage is a fully automated home-cage system, where activity of the group-housed mice can be monitored along with various cognitive tasks. Here we report the behavioural profile of C57BL/6N (B6) and BALB/c (BALB) female mice in IntelliCage when separated by strain, followed by monitoring of activity and formation of 'home-base' after mixing two strains. For that purpose, 3 cages were connected. Significant differences between the strains were established in baseline behaviour in conventional tests and in IntelliCage. The B6 mice showed reduced anxiety-like behaviour in open field and light-dark box, slightly enhanced exploratory activity in IntelliCage during initial adaptation and clearly distinct circadian activity. Mixing of two strains resulted in reduction of body weight and anhedonia in B6 mice. In addition, the B6 mice showed clear preference to previous home-cage, and formed a new home-base faster than BALB mice. In contrast, BALB mice showed enhanced activity and moving between the cages without showing any preference to previous home-cage. It could be argued that social challenge caused changes in both strains and different coping styles are responsible for behavioural manifestations. Altogether, this approach could be useful in modelling and validating mouse models for disorders with disturbed social behaviour.",
+  "year": 2018,
+  "authors": [
+    "Indrek Heinla",
+    "Johanna Åhlgren",
+    "Eero Vasar",
+    "Vootele Voikar"
+  ],
+  "journal": "Physiology & behavior",
+  "doi": "10.1016/j.physbeh.2018.01.024",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29382562/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "29382562"
+  }
+}

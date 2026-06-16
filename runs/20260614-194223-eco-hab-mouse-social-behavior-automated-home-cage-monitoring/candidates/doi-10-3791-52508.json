@@ -1,0 +1,203 @@
+{
+  "source": "crossref",
+  "source_id": "10.3791/52508",
+  "title": "Experimental Assessment of Mouse Sociability Using an Automated Image Processing Approach",
+  "abstract": null,
+  "year": 2016,
+  "authors": [
+    "Frency Varghese",
+    "Jessica A. Burket",
+    "Andrew D. Benson",
+    "Stephen I. Deutsch",
+    "Christian W. Zemlin"
+  ],
+  "journal": "Journal of Visualized Experiments",
+  "doi": "10.3791/52508",
+  "url": "https://doi.org/10.3791/52508",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2026-01-07T13:36:28Z",
+      "timestamp": 1767792988870,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "MyJove Corporation",
+    "issue": "111",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JoVE"
+    ],
+    "DOI": "10.3791/52508",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2016-05-15T20:00:07Z",
+      "timestamp": 1463342407000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Experimental Assessment of Mouse Sociability Using an Automated Image Processing Approach"
+    ],
+    "prefix": "10.3791",
+    "author": [
+      {
+        "given": "Frency",
+        "family": "Varghese",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jessica A.",
+        "family": "Burket",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew D.",
+        "family": "Benson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stephen I.",
+        "family": "Deutsch",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christian W.",
+        "family": "Zemlin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2098",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Visualized Experiments"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.jove.com/video/52508/experimental-assessment-mouse-sociability-using-an-automated-image",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2025-02-27T15:25:00Z",
+      "timestamp": 1740669900000
+    },
+    "score": 23.938513,
+    "resource": {
+      "primary": {
+        "URL": "https://app.jove.com/t/52508"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          15
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "111",
+      "published-online": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3791/52508",
+    "ISSN": [
+      "1940-087X"
+    ],
+    "issn-type": [
+      {
+        "value": "1940-087X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          15
+        ]
+      ]
+    }
+  }
+}

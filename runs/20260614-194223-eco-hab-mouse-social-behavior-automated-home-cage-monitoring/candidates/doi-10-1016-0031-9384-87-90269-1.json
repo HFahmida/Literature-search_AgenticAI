@@ -1,0 +1,315 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0031-9384(87)90269-1",
+  "title": "Social structure and plasma corticosterone level in female albino mice",
+  "abstract": null,
+  "year": 1987,
+  "authors": [
+    "Beate Schuhr"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/0031-9384(87)90269-1",
+  "url": "https://doi.org/10.1016/0031-9384(87)90269-1",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2026-02-21T02:06:04Z",
+      "timestamp": 1771639564798,
+      "version": "3.50.1"
+    },
+    "reference-count": 13,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1987,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1987-01-01T00:00:00Z",
+          "timestamp": 536457600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/0031-9384(87)90269-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2003-04-25T08:37:02Z",
+      "timestamp": 1051259822000
+    },
+    "page": "689-693",
+    "source": "Crossref",
+    "is-referenced-by-count": 53,
+    "title": [
+      "Social structure and plasma corticosterone level in female albino mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "40",
+    "author": [
+      {
+        "given": "Beate",
+        "family": "Schuhr",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "907",
+        "DOI": "10.1016/0031-9384(70)90180-0",
+        "article-title": "The effects of differential grouping on endocrine function on mature male albino mice",
+        "volume": "5",
+        "author": "Brain",
+        "year": "1970",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1016/0016-6480(64)90033-4",
+        "article-title": "Chronic physiological effects of fighting in mice",
+        "volume": "4",
+        "author": "Bronson",
+        "year": "1964",
+        "journal-title": "Gen Comp Endocrinol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1126/science.147.3658.627",
+        "article-title": "Adrenal response to fighting in mice: Separation of physical and physiological causes",
+        "volume": "147",
+        "author": "Bronson",
+        "year": "1965",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1016/0031-9384(73)90065-6",
+        "article-title": "Establishment of social rank among grouped male mice. Relative effects on circulating FSH, LH and corticosterone",
+        "volume": "10",
+        "author": "Bronson",
+        "year": "1973",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/0300-9629(79)90648-0",
+        "article-title": "Biochemical and physiological changes in the blood of dominant and subordinate Cf1 male mice (mus musculus)",
+        "volume": "63A",
+        "author": "Cane",
+        "year": "1979",
+        "journal-title": "Comp Biochem Physiol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1152/ajplegacy.1955.181.3.477",
+        "article-title": "Effects of population size on the weights of the reproductive organs of white mice",
+        "volume": "181",
+        "author": "Christian",
+        "year": "1955",
+        "journal-title": "Am J Physiol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "292",
+        "DOI": "10.1152/ajplegacy.1955.182.2.292",
+        "article-title": "Effect of population size on the adrenal glands and reproductive organs of male mice in population of fixed size",
+        "volume": "182",
+        "author": "Christian",
+        "year": "1955",
+        "journal-title": "Am J Physiol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1016/S0016-6480(67)80006-6",
+        "article-title": "The relation between social rank and plasma corticosterone levels in mice",
+        "volume": "8",
+        "author": "Lough",
+        "year": "1967",
+        "journal-title": "Gen Comp Endocrinol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB9",
+        "series-title": "Multivariate Statistical Methods",
+        "author": "Morrison",
+        "year": "1976"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1152/ajplegacy.1959.197.1.111",
+        "article-title": "Effect of population density on adrenal glands and reproduction organs in CFW mice",
+        "volume": "197",
+        "author": "Southwick",
+        "year": "1959",
+        "journal-title": "Am J Physiol"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB11",
+        "first-page": "165",
+        "article-title": "The systematic response of male mice to differential housing: A path-analytical approach",
+        "volume": "8",
+        "author": "Stanislaw",
+        "year": "1983"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/0031-9384(84)90371-8",
+        "article-title": "Splenomegaly and other hematological parameters in the social dominant mouse",
+        "volume": "33",
+        "author": "Turney",
+        "year": "1984",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/0031-9384(87)90269-1_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1037/h0056350",
+        "article-title": "The social hierarchy in albino mice",
+        "volume": "25",
+        "author": "Uhrich",
+        "year": "1938",
+        "journal-title": "J Comp Psychol"
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938487902691?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938487902691?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2020-03-19T05:29:39Z",
+      "timestamp": 1584595779000
+    },
+    "score": 18.132591,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0031938487902691"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          1
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            1987,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0031938487902691"
+    ],
+    "URL": "https://doi.org/10.1016/0031-9384(87)90269-1",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1987,
+          1
+        ]
+      ]
+    }
+  }
+}

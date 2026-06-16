@@ -1,0 +1,552 @@
+{
+  "source": "crossref",
+  "source_id": "10.20878/cshr.2013.19.1.007007007",
+  "title": "The Effects of the RFID System for Eco-Agricultural Products on Trust and Behavior Intention : Focusing on an Expanded Technology Acceptance Model",
+  "abstract": null,
+  "year": 2013,
+  "authors": [
+    "최원식",
+    "Soo-Bum Lee",
+    "Kim, Moon Myoung"
+  ],
+  "journal": "Culinary Science & Hospitality Research",
+  "doi": "10.20878/cshr.2013.19.1.007007007",
+  "url": "https://doi.org/10.20878/cshr.2013.19.1.007007007",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T00:34:18Z",
+      "timestamp": 1648686858975
+    },
+    "reference-count": 44,
+    "publisher": "Culinary Society of Korea",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "culinarysciencehospitalityresearch"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.20878/cshr.2013.19.1.007007007",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2018-07-20T00:39:39Z",
+      "timestamp": 1532047179000
+    },
+    "page": "85-102",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "The Effects of the RFID System for Eco-Agricultural Products on Trust and Behavior Intention : Focusing on an Expanded Technology Acceptance Model"
+    ],
+    "prefix": "10.20878",
+    "volume": "19",
+    "author": [
+      {
+        "family": "최원식",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "family": "Soo-Bum Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "family": "Kim, Moon Myoung",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "8470",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "REF030548554",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.2307/3250951",
+        "volume": "24",
+        "author": "Agarwal R.",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548555",
+        "first-page": "204",
+        "volume": "9",
+        "author": "Agarwal R.",
+        "journal-title": "Information Systems Res"
+      },
+      {
+        "issue": "6",
+        "key": "REF030548556",
+        "first-page": "104",
+        "volume": "118",
+        "author": "Alfaro JA",
+        "journal-title": "International J Production Economics"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548558",
+        "first-page": "185",
+        "volume": "13",
+        "author": "Chau PY",
+        "journal-title": "J Management Information Systems"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548559",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.2307/249690",
+        "volume": "19",
+        "author": "Chin WW",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548561",
+        "first-page": "73",
+        "volume": "18",
+        "author": "Chun TG",
+        "journal-title": "Korean J Food Marketing Economics"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548562",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.2307/249008",
+        "volume": "13",
+        "author": "Davis FD",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548563",
+        "first-page": "361",
+        "volume": "30",
+        "author": "Davis FD",
+        "journal-title": "Management Sci"
+      },
+      {
+        "issue": "7",
+        "key": "REF030548566",
+        "first-page": "101",
+        "volume": "9",
+        "author": "Fridgen JD",
+        "journal-title": "Leisure Sci"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548567",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.2307/30036519",
+        "volume": "27",
+        "author": "Gefen DE",
+        "journal-title": "MIS Quartery"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548568",
+        "first-page": "209",
+        "volume": "19",
+        "author": "Goldsmith RE",
+        "journal-title": "Academy Marketing Sci"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548569",
+        "first-page": "159",
+        "volume": "16",
+        "author": "구자철",
+        "journal-title": "Asia Pacific Journal of Information Systems"
+      },
+      {
+        "issue": "6",
+        "key": "REF030548570",
+        "first-page": "356",
+        "volume": "107",
+        "author": "Hillier D",
+        "journal-title": "Br Food J"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548571",
+        "first-page": "245",
+        "volume": "36",
+        "author": "홍승지",
+        "journal-title": "농업과학연구"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548572",
+        "doi-asserted-by": "crossref",
+        "first-page": "316",
+        "DOI": "10.1109/TEM.2008.919728",
+        "volume": "55",
+        "author": "Hossain MM",
+        "journal-title": "IEEE Transactions Engineering Management"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548573",
+        "first-page": "125",
+        "volume": "20",
+        "author": "정학균",
+        "journal-title": "한국유기농업학회지"
+      },
+      {
+        "issue": "5",
+        "key": "REF030548574",
+        "first-page": "545",
+        "volume": "25",
+        "author": "정효선",
+        "journal-title": "한국식품조리과학회지"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548575",
+        "first-page": "409",
+        "volume": "9",
+        "author": "강봉재",
+        "journal-title": "인터넷전자상거래연구"
+      },
+      {
+        "issue": "4",
+        "key": "REF030548576",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1016/S0378-7206(98)00096-2",
+        "volume": "35",
+        "author": "Karahanna E",
+        "journal-title": "Information & Management"
+      },
+      {
+        "issue": "6",
+        "key": "REF030548577",
+        "first-page": "103",
+        "volume": "24",
+        "author": "Kim HJ",
+        "journal-title": "J Korean Institute Communication Sci"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548578",
+        "first-page": "233",
+        "volume": "25",
+        "author": "김정훈",
+        "journal-title": "관광연구저널"
+      },
+      {
+        "issue": "5",
+        "key": "REF030548579",
+        "first-page": "331",
+        "volume": "15",
+        "author": "Kim MH",
+        "journal-title": "J Kiss : computing practices"
+      },
+      {
+        "issue": "4",
+        "key": "REF030548580",
+        "first-page": "74",
+        "volume": "17",
+        "author": "김태순",
+        "journal-title": "한국조리학회지"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548581",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1287/isre.5.2.139",
+        "volume": "5",
+        "author": "King JL",
+        "journal-title": "Information Systems Res"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548582",
+        "first-page": "141",
+        "volume": "13",
+        "author": "구동모",
+        "journal-title": "Asia Pacific Journal of Information Systems"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548583",
+        "first-page": "195",
+        "volume": "18",
+        "author": "이형탁",
+        "journal-title": "소비자학연구"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548584",
+        "first-page": "235",
+        "volume": "9",
+        "author": "이건수",
+        "journal-title": "대한안전경영과학회지"
+      },
+      {
+        "issue": "5",
+        "key": "REF030548585",
+        "first-page": "97",
+        "volume": "31",
+        "author": "이정학",
+        "journal-title": "관광학연구"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548586",
+        "first-page": "63",
+        "volume": "136",
+        "author": "Lee JY",
+        "journal-title": "Health & Welfare Policy Forum"
+      },
+      {
+        "issue": "6",
+        "key": "REF030548588",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.1016/j.chb.2004.03.003",
+        "volume": "21",
+        "author": "Luaran P",
+        "journal-title": "Computers Human Behavior"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548589",
+        "first-page": "75",
+        "volume": "26",
+        "author": "Martin M",
+        "journal-title": "FIDIS(Future of identity in the information society)"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548590",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1287/isre.2.3.192",
+        "volume": "92",
+        "author": "Moore GC",
+        "journal-title": "Information Systems Res"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548593",
+        "first-page": "1",
+        "volume": "5",
+        "author": "Park JK",
+        "journal-title": "Korean J Organic Agriculture"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548594",
+        "first-page": "101",
+        "volume": "7",
+        "author": "Pavlou PA",
+        "journal-title": "International J Electronic Commerce"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548597",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.4018/jgim.2008040104",
+        "volume": "16",
+        "author": "Shih DH",
+        "journal-title": "J Global Information Management"
+      },
+      {
+        "issue": "5",
+        "key": "REF030548598",
+        "first-page": "51",
+        "volume": "17",
+        "author": "Thiesse F",
+        "journal-title": "Gallen:Switzerland"
+      },
+      {
+        "issue": "1",
+        "key": "REF030548599",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1109/TEM.1982.6447463",
+        "volume": "29",
+        "author": "Tornatzky LG",
+        "journal-title": "IEEE Transaction Engineering Management"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548600",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1108/14725960510808491",
+        "volume": "3",
+        "author": "Twist DC",
+        "journal-title": "J Facilities Management"
+      },
+      {
+        "issue": "5",
+        "key": "REF030548601",
+        "first-page": "425",
+        "volume": "27",
+        "author": "Venkatesh V",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "issue": "2",
+        "key": "REF030548602",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1287/mnsc.46.2.186.11926",
+        "volume": "46",
+        "author": "Venkatesh V",
+        "journal-title": "Management Sci"
+      },
+      {
+        "issue": "4",
+        "key": "REF030548603",
+        "first-page": "342",
+        "volume": "11",
+        "author": "Venkatesh V.",
+        "journal-title": "Industrial Management & Data Systems"
+      },
+      {
+        "issue": "6",
+        "key": "REF030548604",
+        "doi-asserted-by": "crossref",
+        "first-page": "747",
+        "DOI": "10.1016/j.im.2003.08.011",
+        "volume": "41",
+        "author": "Vijayasarathy LR",
+        "journal-title": "Information & Management"
+      },
+      {
+        "issue": "9",
+        "key": "REF030548605",
+        "first-page": "661",
+        "volume": "15",
+        "author": "Yoo NH",
+        "journal-title": "J KISS : computing practices"
+      },
+      {
+        "issue": "3",
+        "key": "REF030548607",
+        "first-page": "31",
+        "volume": "60",
+        "author": "Zeithaml VA",
+        "journal-title": "J Marketing"
+      }
+    ],
+    "container-title": [
+      "Culinary Science &amp; Hospitality Research"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2018-07-20T00:40:37Z",
+      "timestamp": 1532047237000
+    },
+    "score": 19.034779,
+    "resource": {
+      "primary": {
+        "URL": "http://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001740372"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.20878/cshr.2013.19.1.007007007",
+    "ISSN": [
+      "2466-0752",
+      "2466-1023"
+    ],
+    "issn-type": [
+      {
+        "value": "2466-0752",
+        "type": "print"
+      },
+      {
+        "value": "2466-1023",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    }
+  }
+}

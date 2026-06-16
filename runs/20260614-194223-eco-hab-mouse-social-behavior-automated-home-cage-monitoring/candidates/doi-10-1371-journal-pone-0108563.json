@@ -1,0 +1,632 @@
+{
+  "source": "crossref",
+  "source_id": "10.1371/journal.pone.0108563",
+  "title": "Sheltering Behavior and Locomotor Activity in 11 Genetically Diverse Common Inbred Mouse Strains Using Home-Cage Monitoring",
+  "abstract": null,
+  "year": 2014,
+  "authors": [
+    "Maarten Loos",
+    "Bastijn Koopmans",
+    "Emmeke Aarts",
+    "Gregoire Maroteaux",
+    "Sophie van der Sluis",
+    "Matthijs Verhage",
+    "August B. Smit"
+  ],
+  "journal": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0108563",
+  "url": "https://doi.org/10.1371/journal.pone.0108563",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T07:32:54Z",
+      "timestamp": 1776497574286,
+      "version": "3.51.2"
+    },
+    "reference-count": 34,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2014-09-29T00:00:00Z",
+          "timestamp": 1411948800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0108563",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2014-09-29T19:17:18Z",
+      "timestamp": 1412018238000
+    },
+    "page": "e108563",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 91,
+    "title": [
+      "Sheltering Behavior and Locomotor Activity in 11 Genetically Diverse Common Inbred Mouse Strains Using Home-Cage Monitoring"
+    ],
+    "prefix": "10.1371",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Maarten",
+        "family": "Loos",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bastijn",
+        "family": "Koopmans",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emmeke",
+        "family": "Aarts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gregoire",
+        "family": "Maroteaux",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sophie",
+        "family": "van der Sluis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "Neuro-BSIK Mouse Phenomics Consortium",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthijs",
+        "family": "Verhage",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "August B.",
+        "family": "Smit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "LH Tecott",
+        "year": "2004",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1007/s00335-007-9045-1",
+        "article-title": "The polymorphism architecture of mouse genetic resources elucidated using genome-wide resequencing data: implications for QTL discovery and systems genetics",
+        "volume": "18",
+        "author": "A Roberts",
+        "year": "2007",
+        "journal-title": "Mamm Genome"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "L De Visser",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "H Jhuang",
+        "year": "2010",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1111/j.1601-183X.2008.00435.x",
+        "article-title": "High-resolution genetic mapping of mammalian motor activity levels in mice",
+        "volume": "8",
+        "author": "MJ Kas",
+        "year": "2009",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "S Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref7",
+        "article-title": "Comparison of automated home-cage monitoring systems: Emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions",
+        "author": "L Robinson",
+        "year": "2014",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1477",
+        "DOI": "10.1016/j.neuroscience.2009.09.008",
+        "article-title": "Variations in ventral root axon morphology and locomotor behavior components across different inbred strains of mice",
+        "volume": "164",
+        "author": "JG De Mooij-van Malsen",
+        "year": "2009",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1111/gbb.12055",
+        "article-title": "Cross-species genetics converge to TLL2 for mouse avoidance behavior and human bipolar disorder",
+        "volume": "12",
+        "author": "JG De Mooij-van Malsen",
+        "year": "2013",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "20575",
+        "DOI": "10.1073/pnas.0809053106",
+        "article-title": "A robust automated system elucidates mouse home cage behavioral structure",
+        "volume": "105",
+        "author": "EH Goulding",
+        "year": "2008",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "ref11",
+        "article-title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice",
+        "author": "E Vannoni",
+        "year": "2014",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.3389/fnbeh.2013.00172",
+        "article-title": "Hyperactivity, perseveration and increased responding during attentional rule acquisition in the Fragile X mouse model",
+        "volume": "7",
+        "author": "I Kramvis",
+        "year": "2013",
+        "journal-title": "Front Behav Neurosci"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1093/hmg/ddi016",
+        "article-title": "Abnormalities of social interactions and home-cage behavior in a mouse model of Rett syndrome",
+        "volume": "14",
+        "author": "P Moretti",
+        "year": "2005",
+        "journal-title": "Hum Mol Genet"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1523/JNEUROSCI.3842-04.2005",
+        "article-title": "Disintegration of the sleep-wake cycle and circadian timing in Huntington&apos;s disease",
+        "volume": "25",
+        "author": "AJ Morton",
+        "year": "2005",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/j.bbr.2013.04.042",
+        "article-title": "Automated home cage assessment shows behavioral changes in a transgenic mouse model of spinocerebellar ataxia type 17",
+        "volume": "250",
+        "author": "E Portal",
+        "year": "2013",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1016/j.nbd.2011.04.011",
+        "article-title": "Comprehensive behavioral phenotyping of Ts65Dn mouse model of Down syndrome: activation of beta1-adrenergic receptor by xamoterol as a potential cognitive enhancer",
+        "volume": "43",
+        "author": "M Faizi",
+        "year": "2011",
+        "journal-title": "Neurobiol Dis"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.3233/JAD-2010-100879",
+        "article-title": "EEG, activity, and sleep architecture in a transgenic AbetaPPswe/PSEN1A246E Alzheimer&apos;s disease mouse",
+        "volume": "22",
+        "author": "A Jyoti",
+        "year": "2010",
+        "journal-title": "J Alzheimers Dis"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1016/j.neubiorev.2010.04.004",
+        "article-title": "Ten ways to improve the quality of descriptions of whole-animal movement",
+        "volume": "34",
+        "author": "Y Benjamini",
+        "year": "2010",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1111/j.1601-183X.2012.00820.x",
+        "article-title": "High-throughput phenotyping of avoidance learning in mice discriminates different genotypes and identifies a novel gene",
+        "volume": "11",
+        "author": "G Maroteaux",
+        "year": "2012",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.jneumeth.2003.10.013",
+        "article-title": "The dynamics of spatial behavior: how can robust smoothing techniques help?",
+        "volume": "133",
+        "author": "I Hen",
+        "year": "2004",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1007/BF01065621",
+        "article-title": "Estimating genetic correlations from inbred strains",
+        "volume": "11",
+        "author": "JP Hegmann",
+        "year": "1981",
+        "journal-title": "Behav Genet"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "817",
+        "DOI": "10.1111/j.1601-183X.2009.00528.x",
+        "article-title": "Activity and impulsive action are controlled by different genetic and environmental factors",
+        "volume": "8",
+        "author": "M Loos",
+        "year": "2009",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref23",
+        "unstructured": "Lynch M, Walsh B (1998) Genetics and Analysis of Quantitative Traits. Sunderland, MA, USA: Sinauer Associates."
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1177/001316446002000116",
+        "article-title": "The application of electronic computers to factor analysis",
+        "volume": "20",
+        "author": "HF Kaiser",
+        "year": "1960",
+        "journal-title": "Educ Psychol Meas"
+      },
+      {
+        "key": "ref25",
+        "article-title": "Reproducibility and relevance of future behavioral sciences should benefit from a cross fertilization of past recommendations and today&apos;s technology: “Back to the future.”",
+        "author": "BM Spruijt",
+        "year": "2014",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "e48414",
+        "DOI": "10.1371/journal.pone.0048414",
+        "article-title": "Short and long term measures of anxiety exhibit opposite results",
+        "volume": "7",
+        "author": "E Fonio",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "662",
+        "DOI": "10.1038/nature04250",
+        "article-title": "Glyoxalase 1 and glutathione reductase 1 regulate anxiety in mice",
+        "volume": "438",
+        "author": "I Hovatta",
+        "year": "2005",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.physbeh.2009.11.007",
+        "article-title": "Behavioural battery testing: evaluation and behavioural outcomes in 8 inbred mouse strains",
+        "volume": "99",
+        "author": "V Lad H",
+        "year": "2010",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1016/j.bbr.2010.05.027",
+        "article-title": "Inhibitory control and response latency differences between C57BL/6J and DBA/2J mice in a Go/No-Go and 5-choice serial reaction time task and strain-specific responsivity to amphetamine",
+        "volume": "214",
+        "author": "M Loos",
+        "year": "2010",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "ref30",
+        "article-title": "Three murine anxiety models: results from multiple inbred strain comparisons",
+        "author": "LC Milner",
+        "year": "2007",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/S0166-4328(00)00240-0",
+        "article-title": "Behavioural analysis of four mouse strains in an anxiety test battery",
+        "volume": "115",
+        "author": "MM Van Gaalen",
+        "year": "2000",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1007/s00335-010-9289-z",
+        "article-title": "QTL analysis of measures of mouse home-cage activity using B6/MSM consomic strains",
+        "volume": "21",
+        "author": "A Nishi",
+        "year": "2010",
+        "journal-title": "Mamm Genome"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1034/j.1601-183X.2003.00023.x",
+        "article-title": "Strain differences in three measures of ethanol intoxication in mice: the screen, dowel and grip strength tests",
+        "volume": "2",
+        "author": "JC Crabbe",
+        "year": "2003",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "2917",
+        "DOI": "10.1073/pnas.0437273100",
+        "article-title": "Assessment of genetic susceptibility to ethanol intoxication in mice",
+        "volume": "100",
+        "author": "NR Rustay",
+        "year": "2003",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      }
+    ],
+    "container-title": [
+      "PLoS ONE"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0108563",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2018-10-22T22:21:44Z",
+      "timestamp": 1540246904000
+    },
+    "score": 29.641777,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0108563"
+      }
+    },
+    "editor": [
+      {
+        "given": "Yann",
+        "family": "Herault",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          29
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            29
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0108563",
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          29
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.evolhumbehav.2026.106844",
+  "title": "Evolved psychology, eco-phenotypic feedbacks and the social construction of culture",
+  "abstract": null,
+  "year": 2026,
+  "authors": [
+    "Nicolas Baumard",
+    "Jean-Baptiste André"
+  ],
+  "journal": "Evolution and Human Behavior",
+  "doi": "10.1016/j.evolhumbehav.2026.106844",
+  "url": "https://doi.org/10.1016/j.evolhumbehav.2026.106844",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T09:34:48Z",
+      "timestamp": 1777887288679,
+      "version": "3.51.4"
+    },
+    "reference-count": 124,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001665",
+        "name": "ANR",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Evolution and Human Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.evolhumbehav.2026.106844",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ],
+      "date-time": "2026-03-09T12:33:35Z",
+      "timestamp": 1773059615000
+    },
+    "page": "106844",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Evolved psychology, eco-phenotypic feedbacks and the social construction of culture"
+    ],
+    "prefix": "10.1016",
+    "volume": "47",
+    "author": [
+      {
+        "given": "Nicolas",
+        "family": "Baumard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jean-Baptiste",
+        "family": "André",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0005",
+        "series-title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+        "author": "Acemoglu",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0010",
+        "author": "Acerbi"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0015",
+        "series-title": "A Model of Growth Through Creative Destruction",
+        "author": "Aghion",
+        "year": "1990"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106756",
+        "article-title": "Beyond inclusive fitness: Why dual inheritance still matters in the age of memes",
+        "volume": "47",
+        "author": "Aktipis",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0025",
+        "series-title": "The Triumph of Sociobiology",
+        "author": "Alcock",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0030",
+        "series-title": "Darwinism and Human Affairs",
+        "author": "Alexander",
+        "year": "1979"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1257/aer.20130604",
+        "article-title": "The effect of the tsetse fly on African development",
+        "volume": "105",
+        "author": "Alsan",
+        "year": "2015",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0040",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106753",
+        "article-title": "Social structure, cultural selection and the limits of adaptive plasticity: A response to Baumard and André",
+        "volume": "46",
+        "author": "Alvergne",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0045",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/ehs.2020.19",
+        "article-title": "Cultural evolution by capital accumulation",
+        "volume": "2",
+        "author": "André",
+        "year": "2020",
+        "journal-title": "Evolutionary Human Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0050",
+        "first-page": "1",
+        "article-title": "Cultural evolution from the producers’ standpoint",
+        "author": "André",
+        "year": "2023",
+        "journal-title": "Evolutionary Human Sciences"
+      },
+      {
+        "issue": "04",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0055",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0140525X02000092",
+        "article-title": "Adaptationism – How to carry out an exaptationist program",
+        "volume": "25",
+        "author": "Andrews",
+        "year": "2002",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0060",
+        "series-title": "Social Media, Echo Chambers, and Political Polarization. Social Media and Democracy: The State of the Field, Prospects for Reform",
+        "first-page": "34",
+        "author": "Barberá",
+        "year": "2020"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0065",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106755",
+        "article-title": "Equivalence, causality, and cultural evolution",
+        "volume": "46",
+        "author": "Barclay",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0070",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106722",
+        "article-title": "What do we want from culture?",
+        "volume": "46",
+        "author": "Barrett",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1038/s41562-022-01292-z",
+        "article-title": "The cultural evolution of love in literary history",
+        "volume": "6",
+        "author": "Baumard",
+        "year": "2022",
+        "journal-title": "Nature Human Behaviour"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0080",
+        "series-title": "The Origins of Romantic Love and Asceticism: How Economic Prosperity Changed Human Psychology in Medieval Europe",
+        "author": "Baumard",
+        "year": "2018"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "R1250",
+        "DOI": "10.1016/j.cub.2016.11.034",
+        "article-title": "Fifty years of illumination about the natural levels of adaptation",
+        "volume": "26",
+        "author": "Boomsma",
+        "year": "2016",
+        "journal-title": "Current Biology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "859",
+        "DOI": "10.1525/aa.1986.88.4.02a00050",
+        "article-title": "Parental investment and elite family structure in preindustrial states: A case study of late medieval-early modern Portuguese genealogies",
+        "volume": "88",
+        "author": "Boone",
+        "year": "1986",
+        "journal-title": "American Anthropologist"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0095",
+        "article-title": "Optimal resource allocation and its consequences on behavioral strategies, personality traits and preferences",
+        "author": "Boon-Falleur",
+        "year": "2022",
+        "journal-title": "PsyArXiv"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.1038/s41558-022-01312-w",
+        "article-title": "Leveraging social cognition to promote effective climate change mitigation",
+        "volume": "12",
+        "author": "Boon-Falleur",
+        "year": "2022",
+        "journal-title": "Nature Climate Change"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "106782",
+        "DOI": "10.1016/j.evolhumbehav.2025.106782",
+        "article-title": "A smart challenge but ultimately mistimed and misleading: Commentary on Baumard and André (advance online)",
+        "volume": "47",
+        "author": "Borgerhoff Mulder",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0110",
+        "series-title": "Distinction: A Social Critique of the Judgement of Taste",
+        "author": "Bourdieu",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0115",
+        "series-title": "Minds Make Societies",
+        "author": "Boyer",
+        "year": "2018"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106692",
+        "article-title": "Ecology and the production of cultural materials: Two empirical illustrations",
+        "volume": "46",
+        "author": "Boyer",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0125",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106746",
+        "article-title": "The pitfalls of an impoverished approach to culture: Commentary on Baumard and André",
+        "volume": "46",
+        "author": "Brown",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0130",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106718",
+        "article-title": "Commentary on: The ecological approach to culture by Nicolas Baumard and Jean-Baptiste André",
+        "volume": "46",
+        "author": "Caldwell",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0135",
+        "series-title": "The Fierce People",
+        "author": "Chagnon",
+        "year": "1968"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1017/S0140525X25103981",
+        "article-title": "Social tinkering: The social foundations of cultural complexity",
+        "author": "Chater",
+        "year": "2025",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "issue": "1681",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0145",
+        "first-page": "651",
+        "article-title": "Imitation explains the propagation, not the stability of animal culture",
+        "volume": "277",
+        "author": "Claidière",
+        "year": "2010",
+        "journal-title": "Proceedings of the Biological Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "411",
+        "DOI": "10.1146/annurev-cellbio-111315-125142",
+        "article-title": "Cell competition: Mechanisms and physiological roles",
+        "volume": "32",
+        "author": "Clavería",
+        "year": "2016",
+        "journal-title": "Annual Review of Cell and Developmental Biology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1111/j.1469-185X.1995.tb01196.x",
+        "article-title": "The benefits of mutualism: A conceptual framework",
+        "volume": "70",
+        "author": "Connor",
+        "year": "1995",
+        "journal-title": "Biological Reviews"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0160",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106741",
+        "article-title": "Through the lens of adaptationism: Commentary on Baumard & André",
+        "volume": "46",
+        "author": "Cosmides",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0165",
+        "series-title": "Quantifying the Scientific Revolution",
+        "author": "de Courson",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0170",
+        "series-title": "An Introduction to Behavioural Ecology",
+        "author": "Davies",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0175",
+        "series-title": "The Selfish Gene",
+        "author": "Dawkins",
+        "year": "1976"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0180",
+        "series-title": "The Extended Phenotype: The Long Reach of the Gene",
+        "author": "Dawkins",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0185",
+        "series-title": "Animal Signals: Information or Manipulation?",
+        "author": "Dawkins",
+        "year": "1978"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0190",
+        "series-title": "Love in the Western World",
+        "author": "De Rougemont",
+        "year": "1983"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1007/s12110-006-1002-2",
+        "article-title": "Is priesthood an adaptive strategy?: Evidence from a historical Irish population",
+        "volume": "17",
+        "author": "Deady",
+        "year": "2006",
+        "journal-title": "Human Nature"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0200",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106717",
+        "article-title": "Culture is not ecology",
+        "volume": "46",
+        "author": "Denton",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0205",
+        "series-title": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "volume": "Vol. 1",
+        "author": "Diamond",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0210",
+        "series-title": "‘Why Nations Fail’. The New York Review of Books",
+        "volume": "Vol. 59",
+        "author": "Diamond",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0215",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0140525X20001156",
+        "article-title": "The evolution of music: One trait, many ultimate-level explanations",
+        "volume": "44",
+        "author": "Dubourg",
+        "year": "2021",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "786770",
+        "DOI": "10.3389/fpsyg.2022.786770",
+        "article-title": "Why and how did narrative fictions evolve? Fictions as entertainment technologies",
+        "volume": "13",
+        "author": "Dubourg",
+        "year": "2022",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/S0304-3932(02)00200-3",
+        "article-title": "Tropics, germs, and crops: How endowments influence economic development",
+        "volume": "50",
+        "author": "Easterly",
+        "year": "2003",
+        "journal-title": "Journal of Monetary Economics"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106709",
+        "article-title": "Cultural evolution and the beneficiary question",
+        "volume": "46",
+        "author": "Egeland",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1007/BF00623322",
+        "article-title": "Selforganization of matter and the evolution of biological macromolecules",
+        "volume": "58",
+        "author": "Eigen",
+        "year": "1971",
+        "journal-title": "Die Naturwissenschaften"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1007/s12110-009-9063-7",
+        "article-title": "Fundamental dimensions of environmental risk",
+        "volume": "20",
+        "author": "Ellis",
+        "year": "2009",
+        "journal-title": "Human Nature"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1016/j.tics.2023.09.004",
+        "article-title": "Wayfinding across ocean and tundra: What traditional cultures teach us about navigation",
+        "volume": "28",
+        "author": "Fernandez-Velasco",
+        "year": "2024",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "1410",
+        "DOI": "10.1037/rev0000531",
+        "article-title": "Prosocial religions as folk-technologies of mutual policing",
+        "volume": "132",
+        "author": "Fitouchi",
+        "year": "2025",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bib616",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1177/1745691614561683",
+        "article-title": "Pair-bonding, romantic love, and evolution: The curious case of Homo sapiens",
+        "volume": "10",
+        "author": "Fletcher",
+        "year": "2015",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev-ecolsys-110411-160340",
+        "article-title": "Historical contingency in community assembly: Integrating niches, species pools, and priority effects",
+        "volume": "46",
+        "author": "Fukami",
+        "year": "2015",
+        "journal-title": "Annual Review of Ecology, Evolution, and Systematics"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0260",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106748",
+        "article-title": "Culture as collective resource allocation across life history trade-offs: Commentary on Baumard and André (2025)",
+        "volume": "46",
+        "author": "Gallyamova",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0265",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106714",
+        "article-title": "Legacy and constraint in the evolution of human culture",
+        "volume": "46",
+        "author": "Garfield",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "6466",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "686",
+        "DOI": "10.1126/science.aaz3649",
+        "article-title": "Explaining the puzzle of human diversity",
+        "volume": "366",
+        "author": "Gelfand",
+        "year": "2019",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "S1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0275",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/1468-4446.12319",
+        "article-title": "The politics of social status: Economic and cultural roots of the populist right",
+        "volume": "68",
+        "author": "Gidron",
+        "year": "2017",
+        "journal-title": "The British Journal of Sociology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1073/pnas.1412287112",
+        "article-title": "Warfare and reproductive success in a tribal population",
+        "volume": "112",
+        "author": "Glowacki",
+        "year": "2015",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "1161",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1098/rspb.1979.0086",
+        "article-title": "The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme",
+        "volume": "205",
+        "author": "Gould",
+        "year": "1979",
+        "journal-title": "Proceedings of the Royal Society of London, Series B: Biological Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0290",
+        "series-title": "Why the West is WEIRD",
+        "author": "Grosjean",
+        "year": "2020"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "896",
+        "DOI": "10.1016/j.tics.2021.07.008",
+        "article-title": "Inferential social learning: Cognitive foundations of human social learning and teaching",
+        "volume": "25",
+        "author": "Gweon",
+        "year": "2021",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1007/s12110-999-1011-z",
+        "article-title": "Lineage interests and nonreproductive strategies: An evolutionary approach to medieval religious women",
+        "volume": "10",
+        "author": "Hill",
+        "year": "1999",
+        "journal-title": "Human Nature"
+      },
+      {
+        "issue": "1532",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "2425",
+        "DOI": "10.1098/rspb.2003.2535",
+        "article-title": "Spread of cattle led to the loss of matrilineal descent in Africa: A coevolutionary analysis",
+        "volume": "270",
+        "author": "Holden",
+        "year": "2003",
+        "journal-title": "Proceedings of the Royal Society of London. Series B: Biological Sciences"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0310",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0264509",
+        "article-title": "Evoked and transmitted culture models: Using bayesian methods to infer the evolution of cultural traits in history",
+        "volume": "17",
+        "author": "Hyafil",
+        "year": "2022",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0315",
+        "series-title": "Culture Shift in Advanced Industrial Society",
+        "author": "Inglehart",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0320",
+        "series-title": "Cultural Evolution: People’s Motivations Are Changing, and Reshaping the World",
+        "author": "Inglehart",
+        "year": "2018"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0325",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106693",
+        "article-title": "Using inclusive fitness and eco-evolutionary theory to model cultural evolution",
+        "volume": "46",
+        "author": "Iritani",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "4302",
+        "DOI": "10.1523/JNEUROSCI.17-11-04302.1997",
+        "article-title": "The fusiform face area: A module in human extrastriate cortex specialized for face perception",
+        "volume": "17",
+        "author": "Kanwisher",
+        "year": "1997",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "issue": "7412",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1038/nature11396",
+        "article-title": "Rate of de novo mutations and the importance of father’s age to disease risk",
+        "volume": "488",
+        "author": "Kong",
+        "year": "2012",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0340",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106738",
+        "article-title": "Testing the ecological approach to culture: Diverse goals predict more complex laws",
+        "volume": "46",
+        "author": "Lee",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "717",
+        "DOI": "10.1086/707561",
+        "article-title": "When do individuals maximize their inclusive fitness?",
+        "volume": "195",
+        "author": "Lehmann",
+        "year": "2020",
+        "journal-title": "The American Naturalist"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0350",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leimar, O., & Connor, R. C. R. (2003). By-product benefits, reciprocity, and pseudoreciprocity in mutualism. In P. Hammerstein (Ed.), Genetic and Cultural Evolution of Cooperation (pp. 203–222). The MIT Press. http://books.google.com/books?hl=en&lr=&id=aVh9jtWbG0wC&oi=fnd&pg=PA203&dq=By-product+benefits,+reciprocity,+and+pseudoreciprocity+in+mutualism&ots=guq9oHHgyj&sig=6wgXzqEU-g-zVp3qd8NwRSdNHD4.",
+        "DOI": "10.7551/mitpress/3232.003.0013"
+      },
+      {
+        "issue": "1553",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "2619",
+        "DOI": "10.1098/rstb.2010.0116",
+        "article-title": "Cooperation for direct fitness benefits",
+        "volume": "365",
+        "author": "Leimar",
+        "year": "2010",
+        "journal-title": "Philosophical Transactions of the Royal Society, B: Biological Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1093/acprof:oso/9780199300730.003.0012",
+        "article-title": "Beyond kin: Cooperation in a tribal society",
+        "author": "Lienard",
+        "year": "2014",
+        "journal-title": "Reward and Punishment in Social Dilemmas"
+      },
+      {
+        "issue": "S13",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "S105",
+        "DOI": "10.1086/685685",
+        "article-title": "Age grouping and social complexity",
+        "volume": "57",
+        "author": "Lienard",
+        "year": "2016",
+        "journal-title": "Current Anthropology"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0370",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1098/rspb.2021.2266",
+        "article-title": "Cooperation as a signal of time preferences",
+        "author": "Lie-Panis",
+        "year": "2022",
+        "journal-title": "Proceedings of the Royal Society B"
+      },
+      {
+        "issue": "51",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0375",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1073/pnas.2408802121",
+        "article-title": "The social leverage effect: Institutions transform weak reputation effects into strong incentives for cooperation",
+        "volume": "121",
+        "author": "Lie-Panis",
+        "year": "2024",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0380",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106744",
+        "article-title": "Human behavioural ecology is cultural ecology",
+        "volume": "46",
+        "author": "Mace",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1146/annurev.es.09.110178.000335",
+        "article-title": "Optimization theory in evolution",
+        "volume": "9",
+        "author": "Maynard Smith",
+        "year": "1978",
+        "journal-title": "Annual Review of Ecology and Systematics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1086/284064",
+        "article-title": "How to carry out the adaptationist program?",
+        "volume": "121",
+        "author": "Mayr",
+        "year": "1983",
+        "journal-title": "The American Naturalist"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0395",
+        "series-title": "Not Born Yesterday: The Science of Who We Trust and What We Believe",
+        "author": "Mercier",
+        "year": "2020"
+      },
+      {
+        "issue": "1977",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "20220965",
+        "DOI": "10.1098/rspb.2022.0965",
+        "article-title": "Religious celibacy brings inclusive fitness benefits",
+        "volume": "289",
+        "author": "Micheletti",
+        "year": "2022",
+        "journal-title": "Proceedings of the Royal Society B: Biological Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1146/annurev-arplant-050718-100423",
+        "article-title": "Molecular and environmental regulation of root development",
+        "volume": "70",
+        "author": "Motte",
+        "year": "2019",
+        "journal-title": "Annual Review of Plant Biology"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0410",
+        "first-page": "1",
+        "article-title": "Social clustering of preference for female genital mutilation/cutting in south-Central Ethiopia",
+        "author": "Myers",
+        "year": "2025",
+        "journal-title": "Nature Human Behaviour"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0415",
+        "first-page": "934",
+        "article-title": "Social class through the evolutionary lens-Daniel Nettle takes a look",
+        "volume": "22",
+        "author": "Nettle",
+        "year": "2010",
+        "journal-title": "Psychologist"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0420",
+        "series-title": "Tyneside Neighbourhoods: Deprivation, Social Life and Social Behaviour in One British City",
+        "author": "Nettle",
+        "year": "2015"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0425",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106737",
+        "article-title": "Creatures of habit (us): A commentary on Baumard and André’s’ the ecological approach to culture",
+        "volume": "46",
+        "author": "Nettle",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0430",
+        "author": "Nettle"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0435",
+        "series-title": "The Logic of Collective Action; Public Goods and the Theory of Groups",
+        "author": "Olson",
+        "year": "1965"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0440",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106712",
+        "article-title": "Rethinking causal understanding and reverse engineering through the lens of cultural ecology",
+        "volume": "46",
+        "author": "Osiurak",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0445",
+        "series-title": "Governing the Commons: The Evolution of Institutions for Collective Action",
+        "author": "Ostrom",
+        "year": "1990"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1086/419174",
+        "article-title": "The spaniels of St. Marx and the Panglossian paradox: A critique of a rhetorical programme",
+        "volume": "70",
+        "author": "Queller",
+        "year": "1995",
+        "journal-title": "The Quarterly Review of Biology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1146/annurev-cellbio-100913-013038",
+        "article-title": "Sculpting neural circuits by axon and dendrite pruning",
+        "volume": "31",
+        "author": "Riccomagno",
+        "year": "2015",
+        "journal-title": "Annual Review of Cell and Developmental Biology"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0460",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106720",
+        "article-title": "Commentary on Baumard and André’s the ecological approach to culture",
+        "volume": "46",
+        "author": "Richerson",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.2307/3546454",
+        "article-title": "Global patterns of tree species richness in moist forests: Distinguishing ecological influences and historical contingency",
+        "author": "Ricklefs",
+        "year": "1999",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0470",
+        "author": "Ross Arguedas"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0475",
+        "series-title": "Natural Resource Abundance and Economic Growth",
+        "author": "Sachs",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0480",
+        "series-title": "The Strategy of Conflict",
+        "author": "Schelling",
+        "year": "1960"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0485",
+        "series-title": "Micromotives and Macrobehavior",
+        "volume": "Vol. 1",
+        "author": "Schelling",
+        "year": "1978"
+      },
+      {
+        "issue": "6466",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0490",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/science.aau5141",
+        "article-title": "The church, intensive kinship, and global psychological variation",
+        "volume": "366",
+        "author": "Schulz",
+        "year": "2019",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0495",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1177/1745691610393528",
+        "article-title": "Evolutionary theory and the ultimate-proximate distinction in the human behavioral sciences",
+        "volume": "6",
+        "author": "Scott-Phillips",
+        "year": "2011",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0500",
+        "first-page": "1",
+        "article-title": "‘Our roots run deep’: Historical myths as culturally evolved technologies for coalitional recruitment",
+        "author": "Sijilmassi",
+        "year": "2024",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0505",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0140525X17001893",
+        "article-title": "The cultural evolution of shamanism",
+        "volume": "41",
+        "author": "Singh",
+        "year": "2018",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0510",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1093/icb/ics067",
+        "article-title": "Selective processes in development: Implications for the costs and benefits of phenotypic plasticity",
+        "volume": "52",
+        "author": "Snell-Rood",
+        "year": "2012",
+        "journal-title": "Integrative and Comparative Biology"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0515",
+        "series-title": "Explaining Culture: A Naturalistic Approach",
+        "author": "Sperber",
+        "year": "1996"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0520",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1111/j.1468-0017.2010.01394.x",
+        "article-title": "Epistemic vigilance",
+        "volume": "25",
+        "author": "Sperber",
+        "year": "2010",
+        "journal-title": "Mind & Language"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0525",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.tics.2003.11.002",
+        "article-title": "The cognitive foundations of cultural stability and diversity",
+        "volume": "8",
+        "author": "Sperber",
+        "year": "2004",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0530",
+        "article-title": "Explaining cultural adaptation: Commentary on\" the ecological approach to culture\"",
+        "volume": "46",
+        "author": "Sterelny",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0535",
+        "series-title": "Human Social Evolution: The Foundational Works of Richard D. Alexander",
+        "author": "Summers",
+        "year": "2013"
+      },
+      {
+        "issue": "1460",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0540",
+        "doi-asserted-by": "crossref",
+        "first-page": "2375",
+        "DOI": "10.1098/rspb.2000.1294",
+        "article-title": "Historical contingency and ecological determinism interact to prime speciation in sticklebacks, Gasterosteus",
+        "volume": "267",
+        "author": "Taylor",
+        "year": "2000",
+        "journal-title": "Proceedings of the Royal Society of London. Series B: Biological Sciences"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0545",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106719",
+        "article-title": "Ecological frameworks should not deny the importance of transmission: Comment on Baumard and André “the ecological approach to culture”",
+        "volume": "46",
+        "author": "Tennie",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0550",
+        "doi-asserted-by": "crossref",
+        "first-page": "1823",
+        "DOI": "10.1016/j.anbehav.2007.12.014",
+        "article-title": "The evolution of teaching",
+        "volume": "75",
+        "author": "Thornton",
+        "year": "2008",
+        "journal-title": "Animal Behaviour"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0555",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106721",
+        "article-title": "Specifically human culture: Response to Baumard & André",
+        "volume": "46",
+        "author": "Tomasello",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0560",
+        "series-title": "The Adapted Mind: Evolutionary Psychology and the Generation of Culture",
+        "first-page": "xii",
+        "article-title": "The psychological foundations of culture",
+        "author": "Tooby",
+        "year": "1992"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0565",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106723",
+        "article-title": "On the importance of conceptual clarity and constraints in an ecological approach to culture",
+        "volume": "46",
+        "author": "Varnum",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0570",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1007/s10539-016-9557-8",
+        "article-title": "What’s wrong with evolutionary biology?",
+        "volume": "32",
+        "author": "Welch",
+        "year": "2017",
+        "journal-title": "Biology & Philosophy"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0575",
+        "series-title": "The Cool Water Effect: Geo-Climatic Origins of the West’s Emancipatory Drive",
+        "author": "Welzel",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0580",
+        "first-page": "1",
+        "article-title": "Behavioural ecology in the twenty-first century",
+        "author": "West",
+        "year": "2025",
+        "journal-title": "Nature Ecology & Evolution"
+      },
+      {
+        "issue": "13",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0585",
+        "doi-asserted-by": "crossref",
+        "first-page": "R577",
+        "DOI": "10.1016/j.cub.2013.05.031",
+        "article-title": "Adaptation and inclusive fitness",
+        "volume": "23",
+        "author": "West",
+        "year": "2013",
+        "journal-title": "Current Biology"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0590",
+        "series-title": "Developmental Plasticity and Evolution",
+        "author": "West-Eberhard",
+        "year": "2003"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0595",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.1086/702414",
+        "article-title": "Collective action for war and for peace: A case study among the Enga of Papua New Guinea",
+        "volume": "60",
+        "author": "Wiessner",
+        "year": "2019",
+        "journal-title": "Current Anthropology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0600",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.evolhumbehav.2025.106691",
+        "article-title": "Ecological theory and the conundrums of culture",
+        "volume": "46",
+        "author": "Wiessner",
+        "year": "2025",
+        "journal-title": "Evolution and Human Behavior"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0605",
+        "series-title": "Natural Selection: Domains, Levels, and Challenges",
+        "author": "Williams",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0610",
+        "series-title": "Sociobiology: The New Synthesis",
+        "author": "Wilson",
+        "year": "1975"
+      },
+      {
+        "key": "10.1016/j.evolhumbehav.2026.106844_bb0615",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.15195/v12.a10",
+        "article-title": "Literary fiction indicates early modernization in China prior to Western influence",
+        "volume": "12",
+        "author": "Zhong",
+        "year": "2025",
+        "journal-title": "Sociological Science"
+      }
+    ],
+    "container-title": [
+      "Evolution and Human Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1090513826000231?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1090513826000231?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T04:07:25Z",
+      "timestamp": 1777608445000
+    },
+    "score": 18.33239,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1090513826000231"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "references-count": 124,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1090513826000231"
+    ],
+    "URL": "https://doi.org/10.1016/j.evolhumbehav.2026.106844",
+    "ISSN": [
+      "1090-5138"
+    ],
+    "issn-type": [
+      {
+        "value": "1090-5138",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Evolved psychology, eco-phenotypic feedbacks and the social construction of culture",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Evolution and Human Behavior",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.evolhumbehav.2026.106844",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "106844"
+  }
+}

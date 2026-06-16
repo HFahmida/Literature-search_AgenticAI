@@ -1,0 +1,459 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0031-9384(79)90338-x",
+  "title": "Changes in social behavior of mice with septal lesions",
+  "abstract": null,
+  "year": 1979,
+  "authors": [
+    "Cathryn L. Booth",
+    "Patricia Morgan Meyer",
+    "Jeffrey Abrams"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/0031-9384(79)90338-x",
+  "url": "https://doi.org/10.1016/0031-9384(79)90338-x",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T10:15:01Z",
+      "timestamp": 1648894501177
+    },
+    "reference-count": 24,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1979,
+              5,
+              1
+            ]
+          ],
+          "date-time": "1979-05-01T00:00:00Z",
+          "timestamp": 294364800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1979,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/0031-9384(79)90338-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2003-04-25T09:14:23Z",
+      "timestamp": 1051262063000
+    },
+    "page": "931-937",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Changes in social behavior of mice with septal lesions"
+    ],
+    "prefix": "10.1016",
+    "volume": "22",
+    "author": [
+      {
+        "given": "Cathryn L.",
+        "family": "Booth",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Patricia Morgan",
+        "family": "Meyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Abrams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB1",
+        "series-title": "Doctoral dissertation, The Ohio State University 1974",
+        "first-page": "5658B",
+        "article-title": "Mice reared with rats: changes in inter- and intra-specific social behavior",
+        "volume": "35",
+        "author": "Booth",
+        "year": "1975"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1037/h0059531",
+        "article-title": "Subcortical mechanisms in emotional behavior: affective changes following septal forebrain lesions in the albino rat",
+        "volume": "46",
+        "author": "Brady",
+        "year": "1953",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "508",
+        "DOI": "10.1037/h0030924",
+        "article-title": "Enhanced go, no-go single-lever alternation of mice with septal lesions",
+        "volume": "75",
+        "author": "Carlson",
+        "year": "1971",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1037/h0032173",
+        "article-title": "Runway alternation and discrimination of mice with limbic lesions",
+        "volume": "78",
+        "author": "Carlson",
+        "year": "1972",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1037/h0036861",
+        "article-title": "Enhanced cue function of olfactory stimulation in mice with septal lesions",
+        "volume": "87",
+        "author": "Carlson",
+        "year": "1974",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "469",
+        "DOI": "10.1016/0006-8993(67)90017-0",
+        "article-title": "Open-field activity and exploration in rats with septal and amygdaloid lesions",
+        "volume": "5",
+        "author": "Corman",
+        "year": "1967",
+        "journal-title": "Brain Res."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1037/h0034114",
+        "article-title": "Effects of septal and amygdaloid lesions on social behavior of the cat",
+        "volume": "80",
+        "author": "Glendenning",
+        "year": "1972",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1163/156853963X00185",
+        "article-title": "A comparison of the social postures of some common laboratory rodents",
+        "volume": "21",
+        "author": "Grant",
+        "year": "1963",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1037/h0030203",
+        "article-title": "Fixed-ratio responding following septal lesions in the rat",
+        "volume": "73",
+        "author": "Hothersall",
+        "year": "1970",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.3758/BF03337870",
+        "article-title": "Alterations of social behavior in rats and hamsters following lesions of the septal forebrain",
+        "volume": "26",
+        "author": "Johnson",
+        "year": "1972",
+        "journal-title": "Psychonom. Sci."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1037/h0030808",
+        "article-title": "Alterations in social behavior following septal and amygdaloid lesions in the rat",
+        "volume": "75",
+        "author": "Jonason",
+        "year": "1971",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1037/h0034254",
+        "article-title": "Effects of simultaneous and successive septal and amygdaloid lesions on social behavior of the rat",
+        "volume": "83",
+        "author": "Jonason",
+        "year": "1973",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/0022-1031(69)90006-7",
+        "article-title": "Gregariousness and fear in laboratory rats",
+        "volume": "5",
+        "author": "Latané",
+        "year": "1969",
+        "journal-title": "J. exp. soc. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1037/h0028742",
+        "article-title": "Social deprivation, housing density, and gregariousness in rats",
+        "volume": "70",
+        "author": "Latané",
+        "year": "1970",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "DOI": "10.1037/h0025843",
+        "article-title": "Social and nonsocial attraction in rats",
+        "volume": "9",
+        "author": "Latané",
+        "year": "1968",
+        "journal-title": "J. person. soc. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB16",
+        "article-title": "Social attraction in animals",
+        "volume": "Vol. 2",
+        "author": "Latané",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.3758/BF03337508",
+        "article-title": "Effects of septal lesions on social attraction in two subspecies of deer mouse",
+        "volume": "3",
+        "author": "MacDougall",
+        "year": "1975",
+        "journal-title": "Physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "327",
+        "DOI": "10.1016/S0091-6773(74)90582-3",
+        "article-title": "Reinforcement omission, noncontingent reinforcement, and limbic lesions in the rat",
+        "volume": "11",
+        "author": "Manning",
+        "year": "1974",
+        "journal-title": "Behav. Biol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB19",
+        "article-title": "Response-modulating functions of the limbic system: initiation and suppression",
+        "volume": "Vol. 1",
+        "author": "McCleary",
+        "year": "1966"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "845",
+        "DOI": "10.1016/0031-9384(73)90279-5",
+        "article-title": "Open-field social behavior of rats following lateral or medial septal lesions",
+        "volume": "11",
+        "author": "Poplawsky",
+        "year": "1973",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1037/h0022861",
+        "article-title": "Interacting behavioral effects of septal and amygdaloid lesions in the rat",
+        "volume": "61",
+        "author": "Schwartzbaum",
+        "year": "1966",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/0031-9384(72)90141-2",
+        "article-title": "Stereotaxic surgical techniques for the mouse",
+        "volume": "8",
+        "author": "Slotnick",
+        "year": "1972",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1016/0031-9384(72)90381-2",
+        "article-title": "Intraspecific fighting in albino mice with septal forebrain lesions",
+        "volume": "8",
+        "author": "Slotnick",
+        "year": "1972",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90338-X_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.3758/BF03328532",
+        "article-title": "Septal ablation and affective behavior in the golden hamster",
+        "volume": "7",
+        "author": "Sodetz",
+        "year": "1967",
+        "journal-title": "Psychonom. Sci."
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:003193847990338X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:003193847990338X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2019-03-22T09:20:43Z",
+      "timestamp": 1553246443000
+    },
+    "score": 18.09825,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/003193847990338X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1979,
+          5
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            1979,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "003193847990338X"
+    ],
+    "URL": "https://doi.org/10.1016/0031-9384(79)90338-x",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1979,
+          5
+        ]
+      ]
+    }
+  }
+}

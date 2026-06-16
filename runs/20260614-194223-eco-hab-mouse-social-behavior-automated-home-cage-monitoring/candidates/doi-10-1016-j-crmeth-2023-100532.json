@@ -1,0 +1,763 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.crmeth.2023.100532",
+  "title": "A fully automated home cage for long-term continuous phenotyping of mouse cognition and behavior",
+  "abstract": null,
+  "year": 2023,
+  "authors": [
+    "Hinze Ho",
+    "Nejc Kejzar",
+    "Hiroki Sasaguri",
+    "Takashi Saito",
+    "Takaomi C. Saido",
+    "Bart De Strooper",
+    "Marius Bauza",
+    "Julija Krupic"
+  ],
+  "journal": "Cell Reports Methods",
+  "doi": "10.1016/j.crmeth.2023.100532",
+  "url": "https://doi.org/10.1016/j.crmeth.2023.100532",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T09:30:03Z",
+      "timestamp": 1780479003862,
+      "version": "3.54.1"
+    },
+    "reference-count": 43,
+    "publisher": "Elsevier BV",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2023-07-01T00:00:00Z",
+          "timestamp": 1688169600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2023-07-01T00:00:00Z",
+          "timestamp": 1688169600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              21
+            ]
+          ],
+          "date-time": "2023-06-21T00:00:00Z",
+          "timestamp": 1687305600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cell.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Cell Reports Methods"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.crmeth.2023.100532",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2023-07-13T12:17:40Z",
+      "timestamp": 1689250660000
+    },
+    "page": "100532",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "A fully automated home cage for long-term continuous phenotyping of mouse cognition and behavior"
+    ],
+    "prefix": "10.1016",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Hinze",
+        "family": "Ho",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nejc",
+        "family": "Kejzar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hiroki",
+        "family": "Sasaguri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Takashi",
+        "family": "Saito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Takaomi C.",
+        "family": "Saido",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bart",
+        "family": "De Strooper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marius",
+        "family": "Bauza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julija",
+        "family": "Krupic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "911",
+        "DOI": "10.1523/JNEUROSCI.1877-20.2020",
+        "article-title": "Systems Neuroscience of Natural Behaviors in Rodents",
+        "volume": "41",
+        "author": "Dennis",
+        "year": "2021",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "R482",
+        "DOI": "10.1016/j.cub.2022.03.031",
+        "article-title": "Natural behavior is the language of the brain",
+        "volume": "32",
+        "author": "Miller",
+        "year": "2022",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "Jhuang",
+        "year": "2010",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "2018",
+        "DOI": "10.1038/ncomms3018",
+        "article-title": "Automated long-term tracking and social behavioural phenotyping of animal colonies within a semi-natural environment",
+        "volume": "4",
+        "author": "Weissbrod",
+        "year": "2013",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1111/j.1601-183X.2006.00228.x",
+        "article-title": "A hitchhiker’s guide to behavioral analysis in laboratory rodents",
+        "volume": "5",
+        "author": "Sousa",
+        "year": "2006",
+        "journal-title": "Gene Brain Behav."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "618593",
+        "DOI": "10.3389/fnins.2020.618593",
+        "article-title": "The Promise of Automated Home-Cage Monitoring in Improving Translational Utility of Psychiatric Research in Rodents",
+        "volume": "14",
+        "author": "Mingrone",
+        "year": "2020",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.1007/s11357-019-00105-y",
+        "article-title": "Accelerated decline in cognition in a mouse model of increased oxidative stress",
+        "volume": "41",
+        "author": "Logan",
+        "year": "2019",
+        "journal-title": "GeroScience"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/j.nlm.2016.07.001",
+        "article-title": "Cognitive deficits in single App knock-in mouse models",
+        "volume": "135",
+        "author": "Masuda",
+        "year": "2016",
+        "journal-title": "Neurobiol. Learn. Mem."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1016/j.bbr.2017.08.048",
+        "article-title": "Automated dissection of permanent effects of hippocampal or prefrontal lesions on performance at spatial, working memory and circadian timing tasks of C57BL/6 mice in IntelliCage",
+        "volume": "352",
+        "author": "Voikar",
+        "year": "2018",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib10",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fnagi.2021.720214",
+        "article-title": "IntelliCage Automated Behavioral Phenotyping Reveals Behavior Deficits in the 3xTg-AD Mouse Model of Alzheimer’s Disease Associated With Brain Weight",
+        "volume": "13",
+        "author": "Winslow",
+        "year": "2021",
+        "journal-title": "Front. Aging Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1038/nprot.2006.2",
+        "article-title": "T-maze alternation in the rodent",
+        "volume": "1",
+        "author": "Deacon",
+        "year": "2006",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "850",
+        "DOI": "10.1037/0735-7044.115.4.850",
+        "article-title": "How do animals actually solve the T maze?",
+        "volume": "115",
+        "author": "Dudchenko",
+        "year": "2001",
+        "journal-title": "Behav. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib13",
+        "first-page": "279",
+        "article-title": "One-trial object recognition by rats",
+        "volume": "37",
+        "author": "Aggleton",
+        "year": "1985",
+        "journal-title": "Q. J. Exp. Psychol. B Comp. Physiol. Psychol."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "2531",
+        "DOI": "10.1038/nprot.2013.155",
+        "article-title": "Object recognition test in mice",
+        "volume": "8",
+        "author": "Leger",
+        "year": "2013",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3791/58593",
+        "article-title": "Novel Object Recognition and Object Location Behavioral Testing in Mice on a Budget",
+        "author": "Denninger",
+        "year": "2018",
+        "journal-title": "JoVE"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "10721",
+        "DOI": "10.1523/JNEUROSCI.6413-10.2011",
+        "article-title": "When Is the Hippocampus Involved in Recognition Memory?",
+        "volume": "31",
+        "author": "Barker",
+        "year": "2011",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1038/nn.3697",
+        "article-title": "Single App knock-in mouse models of Alzheimer’s disease",
+        "volume": "17",
+        "author": "Saito",
+        "year": "2014",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib18",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0147733",
+        "article-title": "A Comprehensive Behavioral Test Battery to Assess Learning and Memory in 129S6/Tg2576 Mice",
+        "volume": "11",
+        "author": "Wolf",
+        "year": "2016",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-021-00402-7",
+        "article-title": "Apparatus design and behavioural testing protocol for the evaluation of spatial working memory in mice through the spontaneous alternation T-maze",
+        "volume": "11",
+        "author": "d’Isa",
+        "year": "2021",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1016/j.neubiorev.2014.04.009",
+        "article-title": "Developmental studies of the hippocampus and hippocampal-dependent behaviors: insights from interdisciplinary studies and tips for new investigators",
+        "volume": "43",
+        "author": "Albani",
+        "year": "2014",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "284",
+        "DOI": "10.1016/0014-4886(79)90269-3",
+        "article-title": "Limited recovery of spontaneous alternation after extensive hippocampal damage: evidence for a memory impairment",
+        "volume": "64",
+        "author": "Isseroff",
+        "year": "1979",
+        "journal-title": "Exp. Neurol."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib22",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/2398212820933471",
+        "article-title": "Distributed interactive brain circuits for object-in-place memory: A place for time?",
+        "volume": "4",
+        "author": "Aggleton",
+        "year": "2020",
+        "journal-title": "Brain Neurosci. Adv."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1281",
+        "DOI": "10.1038/s41593-018-0209-y",
+        "article-title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+        "volume": "21",
+        "author": "Mathis",
+        "year": "2018",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/S0166-4328(01)00451-X",
+        "article-title": "Effects of cytotoxic hippocampal lesions in mice on a cognitive test battery",
+        "volume": "133",
+        "author": "Deacon",
+        "year": "2002",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.bbr.2013.12.009",
+        "article-title": "An automated maze task for assessing hippocampus-sensitive memory in mice",
+        "volume": "261",
+        "author": "Pioli",
+        "year": "2014",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1023/A:1010933404324",
+        "article-title": "Random Forests",
+        "volume": "45",
+        "author": "Breiman",
+        "year": "2001",
+        "journal-title": "Mach. Learn."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "2473",
+        "DOI": "10.15252/embj.201797397",
+        "article-title": "APP mouse models for Alzheimer’s disease preclinical studies",
+        "volume": "36",
+        "author": "Sasaguri",
+        "year": "2017",
+        "journal-title": "EMBO J."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1038/297681a0",
+        "article-title": "Place navigation impaired in rats with hippocampal lesions",
+        "volume": "297",
+        "author": "Morris",
+        "year": "1982",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/0149-7634(83)90014-3",
+        "article-title": "Comparison between the behavioural effects of septal and hippocampal lesions: A review",
+        "volume": "7",
+        "author": "Gray",
+        "year": "1983",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "13427",
+        "DOI": "10.1073/pnas.96.23.13427",
+        "article-title": "Running enhances neurogenesis, learning, and long-term potentiation in mice",
+        "volume": "96",
+        "author": "van Praag",
+        "year": "1999",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1038/6368",
+        "article-title": "Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus",
+        "volume": "2",
+        "author": "van Praag",
+        "year": "1999",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/0377-0427(87)90125-7",
+        "article-title": "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+        "volume": "20",
+        "author": "Rousseeuw",
+        "year": "1987",
+        "journal-title": "J. Comput. Appl. Math."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib33",
+        "unstructured": "sklearn.metrics.silhouette_score. Scikit-Learn v1.3.0 User Guide. Accessed in 2023. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1007/BF01908075",
+        "article-title": "Comparing partitions",
+        "volume": "2",
+        "author": "Hubert",
+        "year": "1985",
+        "journal-title": "J. Classif."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib35",
+        "unstructured": "sklearn.metrics.adjusted_rand_score. Scikit-Learn v1.3.0 User Guide. Accessed in 2023. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib36",
+        "article-title": "Wheel running in the wild",
+        "volume": "281",
+        "author": "Meijer",
+        "year": "2014",
+        "journal-title": "Proc. Biol. Sci."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.12688/wellcomeopenres.9892.1",
+        "article-title": "COMPASS: Continuous Open Mouse Phenotyping of Activity and Sleep Status",
+        "volume": "1",
+        "author": "Brown",
+        "year": "2016",
+        "journal-title": "Wellcome Open Res."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib39",
+        "first-page": "2825",
+        "article-title": "Scikit-learn: Machine Learning in Python",
+        "volume": "12",
+        "author": "Pedregosa",
+        "year": "2011",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib38",
+        "series-title": "2021 IEEE Winter Conference on Applications of Computer Vision",
+        "first-page": "1858",
+        "article-title": "Pretraining boosts out-of-domain robustness for pose estimation",
+        "author": "Mathis",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.1093/biomet/52.3-4.591",
+        "article-title": "An Analysis of Variance Test for Normality (Complete Samples)",
+        "volume": "52",
+        "author": "Shapiro",
+        "year": "1965",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib41",
+        "unstructured": "scipy.stats.shapiro. SciPy v1.9.3 User Manual. Accessed in 2023. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib42",
+        "unstructured": "scipy.stats.ttest_rel. SciPy v1.9.3 User Manual. Accessed in 2023. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html"
+      },
+      {
+        "key": "10.1016/j.crmeth.2023.100532_bib43",
+        "unstructured": "statsmodels.stats.anova.AnovaRM. Statsmodels v0.15.0 User Manual. Accessed in 2023. https://www.statsmodels.org/stable/generated/statsmodels.stats.anova.AnovaRM.html"
+      }
+    ],
+    "container-title": [
+      "Cell Reports Methods"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2667237523001686?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2667237523001686?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2025-09-09T08:03:15Z",
+      "timestamp": 1757404995000
+    },
+    "score": 24.893696,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2667237523001686"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2667237523001686"
+    ],
+    "URL": "https://doi.org/10.1016/j.crmeth.2023.100532",
+    "ISSN": [
+      "2667-2375"
+    ],
+    "issn-type": [
+      {
+        "value": "2667-2375",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A fully automated home cage for long-term continuous phenotyping of mouse cognition and behavior",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Cell Reports Methods",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.crmeth.2023.100532",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 The Authors.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "100532"
+  }
+}

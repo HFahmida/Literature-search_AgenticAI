@@ -1,0 +1,392 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/s0091-3057(81)80011-1",
+  "title": "Pharmaco-Ethological Analysis of Social Behaviour of Isolated Mice",
+  "abstract": null,
+  "year": 1981,
+  "authors": [
+    "Vladimir P. Poshivalov"
+  ],
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "doi": "10.1016/s0091-3057(81)80011-1",
+  "url": "https://doi.org/10.1016/s0091-3057(81)80011-1",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2026-05-11T21:21:59Z",
+      "timestamp": 1778534519766,
+      "version": "3.51.4"
+    },
+    "reference-count": 24,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1981,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1981-01-01T00:00:00Z",
+          "timestamp": 347155200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1981,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0091-3057(81)80011-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2013-10-10T21:31:28Z",
+      "timestamp": 1381440688000
+    },
+    "page": "53-59",
+    "source": "Crossref",
+    "is-referenced-by-count": 42,
+    "special_numbering": "S1",
+    "title": [
+      "Pharmaco-Ethological Analysis of Social Behaviour of Isolated Mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Vladimir P.",
+        "family": "Poshivalov",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib1",
+        "series-title": "Aggressive Behaviour",
+        "first-page": "86",
+        "article-title": "Analysis and measurement of aggressive behaviour in mice",
+        "author": "Charpentier",
+        "year": "1969"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1007/BF00422801",
+        "article-title": "Dose-dependent facilitation or suppression of rat fighting by methamphetamine, phenobarbital, or imipramine",
+        "volume": "27",
+        "author": "Crowley",
+        "year": "1972",
+        "journal-title": "Psychopharmacologia"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib3",
+        "series-title": "Biological Psychiatry Today",
+        "first-page": "445",
+        "article-title": "Cholinergic and GABA-ergic systems in schizophrenia",
+        "author": "DeFeudis",
+        "year": "1979"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/0304-3940(76)90078-1",
+        "article-title": "Evidence that supersensitivity after recovery from 6-OHDA is an artifact of isolation housing",
+        "volume": "3",
+        "author": "Ellison",
+        "year": "1976",
+        "journal-title": "Neurosci. Lett."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1163/156853963X00185",
+        "article-title": "A comparison of the social postures of some common laboratory rodents",
+        "volume": "21",
+        "author": "Grant",
+        "year": "1963",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/0014-2999(75)90081-3",
+        "article-title": "Catecholamine correlates of isolation-induced aggression in mice",
+        "volume": "31",
+        "author": "Hodge",
+        "year": "1975",
+        "journal-title": "Eur. J. Pharmac."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1111/j.1476-5381.1975.tb07622.x",
+        "article-title": "Timid singly-housed mice: their value in prediction of psychotropic activity of drugs",
+        "volume": "55",
+        "author": "Krsiak",
+        "year": "1975",
+        "journal-title": "Br. J. Pharmac."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib8",
+        "first-page": "24",
+        "article-title": "Aggression and timidity induced in mice by isolation",
+        "volume": "15",
+        "author": "Krsiak",
+        "year": "1973",
+        "journal-title": "Activitas nerv. sup."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib9",
+        "first-page": "143",
+        "article-title": "Effect of sodium gamma-hydroxybutirate on isolation-induced timidity in mice and sleep in rats",
+        "volume": "15",
+        "author": "Krsiak",
+        "year": "1974",
+        "journal-title": "Activitas nerv. sup."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib10",
+        "series-title": "Drug Addiction: Experimental Pharmacology",
+        "first-page": "255",
+        "author": "Lal",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1163/156853977X00360",
+        "article-title": "A statistical and motivational analysis of the social behaviors of the male laboratory rat",
+        "volume": "61",
+        "author": "Lehman",
+        "year": "1977",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1111/j.1600-0773.1960.tb01242.x",
+        "article-title": "Psychopharmacodynamic effects of diethylpropon (Tylinal)",
+        "volume": "17",
+        "author": "Melander",
+        "year": "1960",
+        "journal-title": "Acta Pharmac. Tox."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1007/BF00422968",
+        "article-title": "Intraspecies aggression in rats: effects of d-amphetamine and chlordiazepoxide",
+        "volume": "319",
+        "author": "Miczek",
+        "year": "1974",
+        "journal-title": "Psychopharmacologia"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1016/0364-7722(77)90050-9",
+        "article-title": "Effects of L-DOPA, d-amphetamine and cocaine on intruder-evoked aggression in rats and mice",
+        "volume": "1",
+        "author": "Miczek",
+        "year": "1977",
+        "journal-title": "Prog. Neuro-Psychopharmac."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib15",
+        "first-page": "87",
+        "article-title": "Drug effects on agonistic behavior",
+        "volume": "Vol. 2",
+        "author": "Miczek",
+        "year": "1979"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib16",
+        "series-title": "Neorophysiological Approach to the Artalvsis of lntraspecies Behaviour",
+        "first-page": "110",
+        "article-title": "Psychophysiological analysis of some forms of intraspecies interactions",
+        "author": "Poshivalov",
+        "year": "1976"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib17",
+        "series-title": "Ethological Atho for Pharmacological Research in Laboratory Rodents",
+        "first-page": "3",
+        "author": "Poshivalov",
+        "year": "1978"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib18",
+        "series-title": "The Mechanisms of Action of Neuroleptics and Tranquilizers, III Estonian Symposium",
+        "first-page": "103",
+        "article-title": "Ethological analysis of the effects of cneuroleptics and tranquilizers in isolated mice",
+        "author": "Poshivalov",
+        "year": "1980"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib19",
+        "first-page": "768",
+        "article-title": "Probabilistic and ethological analysis of zoo social behaviour of isolated and grouped mice",
+        "volume": "29",
+        "author": "Poshivalov",
+        "year": "1979",
+        "journal-title": "Zh. Vyss. Ncrsvt. Devat. I. P. Pavlova"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib20",
+        "series-title": "Aggressive Behaviour",
+        "first-page": "228",
+        "article-title": "Relation of brain catecholamines to aggressiveness and other forms of behavioral excitation",
+        "author": "Randrup",
+        "year": "1969"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib21",
+        "first-page": "579",
+        "article-title": "Ethological and statistical analysis of drug effects on the social behaviour of laboratory rats",
+        "volume": "24",
+        "author": "Silverman",
+        "year": "1965",
+        "journal-title": "Br. J. Pharmac."
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1433",
+        "DOI": "10.1126/science.166.3911.1433",
+        "article-title": "Compulsive sexual activity induced by p-chlorophenylalanine in normal and pine alectomized male rats",
+        "volume": "166",
+        "author": "Tagliamonte",
+        "year": "1969",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib23",
+        "series-title": "Neuropharmacological Aspects of the Problem of Emotional Stress and Drugs Dependence",
+        "first-page": "5",
+        "author": "Valdman",
+        "year": "1978"
+      },
+      {
+        "key": "10.1016/S0091-3057(81)80011-1_bib24",
+        "series-title": "Aggressive Behaviour",
+        "first-page": "188",
+        "article-title": "Aggression and the biogenic amine neurohumors",
+        "author": "Welch",
+        "year": "1969"
+      }
+    ],
+    "container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0091305781800111?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0091305781800111?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2018-10-12T07:55:29Z",
+      "timestamp": 1539330929000
+    },
+    "score": 17.887503,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0091305781800111"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1981,
+          1
+        ]
+      ]
+    },
+    "references-count": 24,
+    "alternative-id": [
+      "S0091305781800111"
+    ],
+    "URL": "https://doi.org/10.1016/s0091-3057(81)80011-1",
+    "ISSN": [
+      "0091-3057"
+    ],
+    "issn-type": [
+      {
+        "value": "0091-3057",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1981,
+          1
+        ]
+      ]
+    }
+  }
+}

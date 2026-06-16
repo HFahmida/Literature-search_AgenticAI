@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi:10.1038/s41598-023-35322-1",
+  "title": "An 8-cage imaging system for automated analyses of mouse behavior",
+  "citation": null,
+  "doi": "10.1038/s41598-023-35322-1",
+  "url": "https://doi.org/10.1038/s41598-023-35322-1",
+  "pdf_url": "https://www.nature.com/articles/s41598-023-35322-1.pdf",
+  "year": 2023,
+  "authors": [
+    "Thaís Del Rosario Hernández",
+    "Narendra R. Joshi",
+    "Sayali V. Gore",
+    "Jill A. Kreiling",
+    "Robbert Creton"
+  ],
+  "journal": "Scientific Reports",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper reports on an automated home-cage monitoring system for mouse behavior, which is directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The paper describes an automated imaging system for analyzing mouse behavior over 22-hour overnight recordings, providing detailed behavioral profiles of wild-type and Alzheimer’s disease model mice.",
+  "detailed_summary": "This study introduces a novel 8-cage imaging system with animated visual stimuli to monitor mouse behavior. It reports on the analysis of multiple behaviors in both wild-type and 3xTg-AD mice over overnight recordings, highlighting differences between the two groups.",
+  "background_rationale": null,
+  "methods_summary": "The authors developed a novel 8-cage imaging system with animated visual stimuli for automated analyses. They used ImageJ and DeepLabCut software for image analysis. The study tested the system using female wild-type mice and 3xTg-AD mice.",
+  "results_summary": "The overnight recordings provided measurements of behaviors such as acclimation, activity, stretch-attend postures, location in cage areas, and habituation to visual stimuli. AD-model mice showed reduced acclimation, hyperactivity during the first hour of darkness, and less time at home compared to wild-type mice.",
+  "conclusion_summary": "The imaging system may be used to study various neurological and neurodegenerative disorders, including Alzheimer’s disease, by providing detailed behavioral profiles.",
+  "relevance_to_review": "4 = clearly eligible. The paper directly addresses the use of automated monitoring for studying social behavior in mice, which is central to the review question.",
+  "key_takeaways": [
+    "An 8-cage imaging system with animated visual stimuli was developed for automated mouse behavior analysis.",
+    "The system provided detailed behavioral profiles of wild-type and Alzheimer’s disease model mice over overnight recordings.",
+    "AD-model mice displayed reduced acclimation, hyperactivity during the first hour of darkness, and less time at home compared to wild-type mice."
+  ],
+  "objective": "To develop an automated imaging system for analyzing mouse behavior in a home-cage setting and compare behavioral profiles between wild-type and Alzheimer’s disease model mice.",
+  "study_design": "Experimental study",
+  "population_or_sample": "4–5 month-old female wild-type mice and 3xTg-AD mice",
+  "setting": "Automated home-cage monitoring system with overnight recordings over 22 hours",
+  "intervention_or_exposure": "Use of an automated imaging system with animated visual stimuli",
+  "comparator": "Wild-type mice vs. 3xTg-AD mice",
+  "methods": [
+    "Development and testing of a novel 8-cage imaging system",
+    "Image analysis using ImageJ and DeepLabCut software",
+    "Behavioral recordings over 22-hour overnight periods"
+  ],
+  "outcomes_measured": [
+    "Acclimation to the novel cage environment",
+    "Day and nighttime activity",
+    "Stretch-attend postures",
+    "Location in various cage areas",
+    "Habituation to animated visual stimuli"
+  ],
+  "main_results": [
+    "AD-model mice displayed reduced acclimation, hyperactivity during the first hour of darkness, and less time at home compared to wild-type mice."
+  ],
+  "conclusions": [
+    "The imaging system may be used to study various neurological and neurodegenerative disorders by providing detailed behavioral profiles.",
+    "Behavioral differences between wild-type and Alzheimer’s disease model mice were observed using the automated monitoring system."
+  ],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi:10.1038/s41598-021-91444-4",
+  "title": "Automated home-cage for the evaluation of innate non-reflexive pain behaviors in a mouse model of inflammatory pain",
+  "citation": null,
+  "doi": "10.1038/s41598-021-91444-4",
+  "url": "https://doi.org/10.1038/s41598-021-91444-4",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-91444-4.pdf",
+  "year": 2021,
+  "authors": [
+    "Hasriadi",
+    "Peththa Wadu Dasuni Wasana",
+    "Opa Vajragupta",
+    "Pornchai Rojsitthisak",
+    "Pasarapa Towiwat"
+  ],
+  "journal": "Scientific Reports",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper reports on the use of automated home-cage monitoring to evaluate pain behaviors in mice, which is directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The study uses automated home-cage monitoring to assess pain behaviors in mice with carrageenan-induced inflammatory pain, correlating these behaviors with pharmacological interventions.",
+  "detailed_summary": "This paper evaluates the use of automated home-cage monitoring for assessing non-reflexive pain behaviors in mice. It found that locomotor activity decreased and immobility increased after carrageenan injection, indicating significant pain-related behavior changes. Pharmacological intervention using indomethacin improved these behaviors.",
+  "background_rationale": null,
+  "methods_summary": "Mice were monitored for locomotor activities in an automated home-cage setting following carrageenan-induced inflammatory pain. The study compared the non-reflexive pain behaviors with reflexive pain measures and pharmacological interventions.",
+  "results_summary": "Automated monitoring showed reduced mobile behavior and increased immobility in mice with carrageenan-induced pain, which were correlated with pharmacological improvements.",
+  "conclusion_summary": "The automated home-cage approach is useful for studying behavioral analgesia and screening analgesic drugs in mice models of inflammatory pain.",
+  "relevance_to_review": "Highly relevant as it uses an automated monitoring system to assess social behavior (locomotor activity) in a mouse model of pain, which aligns with the review question.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can effectively capture non-reflexive pain behaviors in mice.",
+    "These behaviors are correlated with pharmacological interventions."
+  ],
+  "objective": "To evaluate the use of automated home-cage monitoring for assessing innate non-reflexive pain behaviors in a mouse model of inflammatory pain.",
+  "study_design": "Experimental study",
+  "population_or_sample": "Mice induced with carrageenan-induced inflammatory pain",
+  "setting": "Automated home-cage monitoring system",
+  "intervention_or_exposure": "Carrageenan injection and indomethacin treatment",
+  "comparator": "Reflexive pain behaviors measured via von Frey and plantar tests",
+  "methods": [
+    "Automated home-cage monitoring of locomotor activities",
+    "Behavioral assessment using reflexive pain measures (von Frey, plantar tests)",
+    "Pharmacological intervention with indomethacin"
+  ],
+  "outcomes_measured": [
+    "Locomotor activity and immobility in mice",
+    "Correlation between non-reflexive and reflexive pain behaviors",
+    "Effect of pharmacological interventions on pain behaviors"
+  ],
+  "main_results": [
+    "Decreased locomotor activity and increased immobility in carrageenan-induced pain mice",
+    "Strong correlation between non-reflexive and reflexive pain behaviors",
+    "Indomethacin improved locomotor activity in pain mice"
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring is useful for studying behavioral analgesia.",
+    "Combined evaluation of reflexive and non-reflexive pain behaviors enhances translational utility."
+  ],
+  "limitations": [
+    "Limited to a single mouse model (carrageenan-induced inflammatory pain)"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Through this approach, the locomotor activities of mice with carrageenan-induced inflammatory pain can be precisely and objectively captured. Here, we found that the mobile behaviors of mice reduced, and their immobility increased, indicating that carrageenan induction in mice caused a significant decrease in locomotor activity."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

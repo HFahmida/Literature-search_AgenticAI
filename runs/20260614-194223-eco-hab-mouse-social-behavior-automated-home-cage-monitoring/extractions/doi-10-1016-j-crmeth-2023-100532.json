@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi:10.1016/j.crmeth.2023.100532",
+  "title": "A fully automated home cage for long-term continuous phenotyping of mouse cognition and behavior",
+  "citation": null,
+  "doi": "10.1016/j.crmeth.2023.100532",
+  "url": "https://doi.org/10.1016/j.crmeth.2023.100532",
+  "pdf_url": null,
+  "year": 2023,
+  "authors": [
+    "Hinze Ho",
+    "Nejc Kejzar",
+    "Hiroki Sasaguri",
+    "Takashi Saito",
+    "Takaomi C. Saido",
+    "Bart De Strooper",
+    "Marius Bauza",
+    "Julija Krupic"
+  ],
+  "journal": "Cell Reports Methods",
+  "screening": {
+    "relevance_score": 2,
+    "decision": "maybe",
+    "reason": "The paper describes an automated home cage system but does not report specific behavioral outcomes related to social behavior in mice.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting"
+    ],
+    "matched_exclusion_criteria": [
+      "No automated monitoring or no behavioral outcome"
+    ]
+  },
+  "overall_concept_summary": "The paper introduces an automated system for long-term phenotyping of mouse behavior and cognition, but does not focus on social behavior.",
+  "detailed_summary": null,
+  "background_rationale": null,
+  "methods_summary": "Describes the development of a fully automated home cage system for continuous monitoring of mouse behavior and cognition over extended periods.",
+  "results_summary": null,
+  "conclusion_summary": null,
+  "relevance_to_review": "Weakly relevant as it describes an automated monitoring system but does not report specific social behavior outcomes in mice.",
+  "key_takeaways": [
+    "The paper introduces a new automated home cage for long-term phenotyping of mouse cognition and behavior."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [
+    "Automated home cage system",
+    "Continuous monitoring of mouse behavior and cognition"
+  ],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No specific behavioral outcomes related to social behavior in mice are reported."
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "source": "crossref",
+  "source_id": "10.1093/hmg/ddi016",
+  "title": "Abnormalities of social interactions and home-cage behavior in a mouse model of Rett syndrome",
+  "abstract": null,
+  "year": 2005,
+  "authors": [
+    "Paolo Moretti",
+    "J. Adriaan Bouwknecht",
+    "Ryan Teague",
+    "Richard Paylor",
+    "Huda Y. Zoghbi"
+  ],
+  "journal": "Human Molecular Genetics",
+  "doi": "10.1093/hmg/ddi016",
+  "url": "https://doi.org/10.1093/hmg/ddi016",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2026-01-28T13:38:34Z",
+      "timestamp": 1769607514400,
+      "version": "3.49.0"
+    },
+    "reference-count": 40,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.1093/hmg/ddi016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2004-11-18T01:12:50Z",
+      "timestamp": 1100740370000
+    },
+    "page": "205-220",
+    "source": "Crossref",
+    "is-referenced-by-count": 294,
+    "title": [
+      "Abnormalities of social interactions and home-cage behavior in a mouse model of Rett syndrome"
+    ],
+    "prefix": "10.1093",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Paolo",
+        "family": "Moretti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. Adriaan",
+        "family": "Bouwknecht",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ryan",
+        "family": "Teague",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Paylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Huda Y.",
+        "family": "Zoghbi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Amir, R.E., Van den Veyver, I.B., Wan, M., Tran, C.Q., Francke, U. and Zoghbi, H.Y. (1999) Rett syndrome is caused by mutations in X-linked MECP2, encoding methyl-CpG-binding protein 2. Nat. Genet., 23, 185–188.",
+        "DOI": "10.1038/13810"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hagberg, B., Aicardi, J., Dias, K. and Ramos, O. (1983) A progressive syndrome of autism, dementia, ataxia, and loss of purposeful hand use in girls: Rett's syndrome: report of 35 cases. Ann. Neurol., 14, 471–479.",
+        "DOI": "10.1002/ana.410140412"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Glaze, D.G., Frost, J.D., Jr, Zoghbi, H.Y. and Percy, A.K. (1987) Rett's syndrome: characterization of respiratory patterns and sleep. Ann. Neurol., 21, 377–382.",
+        "DOI": "10.1002/ana.410210410"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Piazza, C.C., Fisher, W., Kiesewetter, K., Bowman, L. and Moser, H. (1990) Aberrant sleep patterns in children with the Rett syndrome. Brain Dev., 12, 488–493.",
+        "DOI": "10.1016/S0387-7604(12)80213-0"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mount, R.H., Charman, T., Hastings, R.P., Reilly, S. and Cass, H. (2003) Features of autism in Rett syndrome and severe mental retardation. J. Autism Dev. Disord., 33, 435–442.",
+        "DOI": "10.1023/A:1025066913283"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Olsson, B. (1987) Autistic traits in the Rett syndrome. Brain Dev., 9, 491–498.",
+        "DOI": "10.1016/S0387-7604(87)80071-2"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C7",
+        "unstructured": "Olsson, B. and Rett, A. (1987) Autism and Rett syndrome: behavioural investigations and differential diagnosis. Dev. Med. Child Neurol., 29, 429–441."
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Olsson, B. and Rett, A. (1985) Behavioral observations concerning differential diagnosis between the Rett syndrome and autism. Brain Dev., 7, 281–289.",
+        "DOI": "10.1016/S0387-7604(85)80029-2"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Percy, A.K., Zoghbi, H.Y., Lewis, K.R. and Jankovic, J. (1988) Rett syndrome: qualitative and quantitative differentiation from autism. J. Child Neurol., 3 (suppl.), S65–67.",
+        "DOI": "10.1177/0883073888003001S12"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C10",
+        "unstructured": "American Psychiatric Association, Task Force on DSM-IV (2000) Diagnostic and Statistical Manual of Mental Disorders: DSM-IV-TR, 4th edn. Washington DC."
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stokstad, E. (2001) Development. New hints into the biological basis of autism. Science, 294, 34–37.",
+        "DOI": "10.1126/science.294.5540.34"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Filipek, P.A., Accardo, P.J., Baranek, G.T., Cook, E.H., Jr, Dawson, G., Gordon, B., Gravel, J.S., Johnson, C.P., Kallen, R.J., Levy, S.E. et al. (1999) The screening and diagnosis of autistic spectrum disorders. J. Autism Dev. Disord., 29, 439–484.",
+        "DOI": "10.1023/A:1021943802493"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Percy, A.K. (2002) Rett syndrome. Current status and new vistas. Neurol. Clin., 20, 1125–1141.",
+        "DOI": "10.1016/S0733-8619(02)00022-1"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carney, R.M., Wolpert, C.M., Ravan, S.A., Shahbazian, M., Ashley-Koch, A., Cuccaro, M.L., Vance, J.M. and Pericak-Vance, M.A. (2003) Identification of MeCP2 mutations in a series of females with autistic disorder. Pediatr. Neurol., 28, 205–211.",
+        "DOI": "10.1016/S0887-8994(02)00624-0"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lam, C.W., Yeung, W.L., Ko, C.H., Poon, P.M., Tong, S.F., Chan, K.Y., Lo, I.F., Chan, L.Y., Hui, J., Wong, V. et al. (2000) Spectrum of mutations in the MECP2 gene in patients with infantile autism and Rett syndrome. J. Med. Genet., 37, E41.",
+        "DOI": "10.1136/jmg.37.12.e41"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Beyer, K.S., Blasi, F., Bacchelli, E., Klauck, S.M., Maestrini, E. and Poustka, A. (2002) Mutation analysis of the coding sequence of the MECP2 gene in infantile autism. Hum. Genet., 111, 305–309.",
+        "DOI": "10.1007/s00439-002-0786-3"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Amir, R.E., Van den Veyver, I.B., Schultz, R., Malicki, D.M., Tran, C.Q., Dahle, E.J., Philippi, A., Timar, L., Percy, A.K., Motil, K.J. et al. (2000) Influence of mutation type and X chromosome inactivation on Rett syndrome phenotypes. Ann. Neurol., 47, 670–679.",
+        "DOI": "10.1002/1531-8249(200005)47:5<670::AID-ANA20>3.0.CO;2-F"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leonard, H., Silberstein, J., Falk, R., Houwink-Manville, I., Ellaway, C., Raffaele, L.S., Engerstrom, I.W. and Schanen, C. (2001) Occurrence of Rett syndrome in boys. J. Child Neurol., 16, 333–338.",
+        "DOI": "10.1177/088307380101600505"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shahbazian, M., Young, J., Yuva-Paylor, L., Spencer, C., Antalffy, B., Noebels, J., Armstrong, D., Paylor, R. and Zoghbi, H. (2002) Mice with truncated MeCP2 recapitulate many Rett syndrome features and display hyperacetylation of histone H3. Neuron, 35, 243–254.",
+        "DOI": "10.1016/S0896-6273(02)00768-7"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Young, J.I. and Zoghbi, H.Y. (2004) X-chromosome inactivation patterns are unbalanced and affect the phenotypic outcome in a mouse model of Rett syndrome. Am. J. Hum. Genet., 74, 511–520.",
+        "DOI": "10.1086/382228"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C21",
+        "unstructured": "Paylor, R., Nguyen, M., Crawley, J.N., Patrick, J., Beaudet, A. and Orr-Urtreger, A. (1998) Alpha7 nicotinic receptor subunits are not necessary for hippocampal-dependent learning or sensorimotor gating: a behavioral characterization of Acra7-deficient mice. Learn. Mem., 5, 302–316."
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Edgar, D.M., Kilduff, T.S., Martin, C.E. and Dement, W.C. (1991) Influence of running wheel activity on free-running sleep/wake and drinking circadian rhythms in mice. Physiol. Behav., 50, 373–378.",
+        "DOI": "10.1016/0031-9384(91)90080-8"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Edgar, D.M., Martin, C.E. and Dement, W.C. (1991) Activity feedback to the mammalian circadian pacemaker: influence on observed measures of rhythm period length. J. Biol. Rhythms, 6, 185–199.",
+        "DOI": "10.1177/074873049100600301"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Van Oortmerssen, G.A. (1971) Biological significance, genetics and evolutionary origin of variability in behaviour within and between inbred strains of mice (Mus musculus). A behaviour genetic study. Behaviour, 38, 1–92.",
+        "DOI": "10.1163/156853971X00014"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindzey, G., Winston, H. and Manosevitz, M. (1961) Social dominance in inbred mouse strains. Naturwissenschaften, 191, 474–476.",
+        "DOI": "10.1038/191474a0"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bult, A. and Lynch, C.B. (1997) Nesting and fitness: lifetime reproductive success in house mice bidirectionally selected for thermoregulatory nest-building behavior. Behav. Genet., 27, 231–240.",
+        "DOI": "10.1023/A:1025610130282"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Szczypka, M.S., Kwok, K., Brot, M.D., Marck, B.T., Matsumoto, A.M., Donahue, B.A. and Palmiter, R.D. (2001) Dopamine production in the caudate putamen restores feeding in dopamine-deficient mice. Neuron, 30, 819–828.",
+        "DOI": "10.1016/S0896-6273(01)00319-1"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ballard, T.M., Pauly-Evers, M., Higgins, G.A., Ouagazzal, A.M., Mutel, V., Borroni, E., Kemp, J.A., Bluethmann, H. and Kew, J.N. (2002) Severe impairment of NMDA receptor function in mice carrying targeted point mutations in the glycine binding site results in drug-resistant nonhabituating hyperactivity. J. Neurosci., 22, 6713–6723.",
+        "DOI": "10.1523/JNEUROSCI.22-15-06713.2002"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lijam, N., Paylor, R., McDonald, M.P., Crawley, J.N., Deng, C.X., Herrup, K., Stevens, K.E., Maccaferri, G., McBain, C.J., Sussman, D.J et al. (1997) Social interaction and sensorimotor gating abnormalities in mice lacking Dvl1. Cell, 90, 895–905.",
+        "DOI": "10.1016/S0092-8674(00)80354-2"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Long, J.M., LaPorte, P., Paylor, R. and Wynshaw-Boris, A. (2004) Expanded characterization of the social interaction abnormalities in mice lacking Dvl1. Genes Brain Behav., 3, 51–62.",
+        "DOI": "10.1046/j.1601-183x.2003.00045.x"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sluyter, F., Bult, A., Lynch, C.B., van Oortmerssen, G.A. and Koolhaas, J.M. (1995) A comparison between house mouse lines selected for attack latency or nest-building: evidence for a genetic basis of alternative behavioral strategies. Behav. Genet., 25, 247–252.",
+        "DOI": "10.1007/BF02197183"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Crawley, J.N. and Paylor, R. (1997) A proposed test battery and constellations of specific behavioral paradigms to investigate the behavioral phenotypes of transgenic and knockout mice. Horm. Behav., 31, 197–211.",
+        "DOI": "10.1006/hbeh.1997.1382"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fombonne, E. and Chakrabarti, S. (2001) No evidence for a new variant of measles–mumps–rubella-induced autism. Pediatrics, 108, E58.",
+        "DOI": "10.1542/peds.108.4.e58"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mount, R.H., Charman, T., Hastings, R.P., Reilly, S. and Cass, H. (2002) The Rett syndrome behaviour questionnaire (RSBQ): refining the behavioural phenotype of Rett syndrome. J. Child Psychol. Psychiatry, 43, 1099–1110.",
+        "DOI": "10.1111/1469-7610.00236"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kielinen, M., Rantala, H., Timonen, E., Linna, S.L. and Moilanen, I. (2004) Associated medical disorders and disabilities in children with autistic disorder: a population-based study. Autism, 8, 49–60.",
+        "DOI": "10.1177/1362361304040638"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Asato, M.R. and Hardan, A.Y. (2004) Neuropsychiatric problems in tuberous sclerosis complex. J. Child Neurol., 19, 241–249.",
+        "DOI": "10.1177/088307380401900401"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Trillingsgaard, A. and Ostergaard, J.R. (2004) Autism in angelman syndrome: an exploration of comorbidity. Autism, 8, 163–174.",
+        "DOI": "10.1177/1362361304042720"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peters, S.U., Goddard-Finegold, J., Beaudet, A.L., Madduri, N., Turcich, M. and Bacino, C.A. (2004) Cognitive and adaptive behavior profiles of children with Angelman syndrome. Am. J. Med. Genet., 128A, 110–113.",
+        "DOI": "10.1002/ajmg.a.30065"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samaco, R.C., Nagarajan, R.P., Braunschweig, D. and LaSalle, J.M. (2004) Multiple pathways regulate MeCP2 expression in normal brain development and exhibit defects in autism-spectrum disorders. Hum. Mol. Genet., 13, 629–639.",
+        "DOI": "10.1093/hmg/ddh063"
+      },
+      {
+        "key": "key\n\t\t\t\t20171012135551_DDI016C40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bae, K., Jin, X., Maywood, E.S., Hastings, M.H., Reppert, S.M. and Weaver, D.R. (2001) Differential functions of mPer1, mPer2, and mPer3 in the SCN circadian clock. Neuron, 30, 525–536.",
+        "DOI": "10.1016/S0896-6273(01)00302-6"
+      }
+    ],
+    "container-title": [
+      "Human Molecular Genetics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/hmg/article-pdf/14/2/205/1773742/ddi016.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2018-12-23T03:04:56Z",
+      "timestamp": 1545534296000
+    },
+    "score": 28.875774,
+    "resource": {
+      "primary": {
+        "URL": "http://academic.oup.com/hmg/article/14/2/205/634425/Abnormalities-of-social-interactions-and-homecage"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          17
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2004,
+            11,
+            17
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            1,
+            15
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/hmg/ddi016",
+    "ISSN": [
+      "1460-2083",
+      "0964-6906"
+    ],
+    "issn-type": [
+      {
+        "value": "1460-2083",
+        "type": "electronic"
+      },
+      {
+        "value": "0964-6906",
+        "type": "print"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          15
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          17
+        ]
+      ]
+    }
+  }
+}

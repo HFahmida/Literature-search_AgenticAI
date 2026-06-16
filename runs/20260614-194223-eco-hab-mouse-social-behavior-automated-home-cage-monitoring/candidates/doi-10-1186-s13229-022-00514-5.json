@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "36038911",
+  "title": "Early life sleep disruption potentiates lasting sex-specific changes in behavior in genetically vulnerable Shank3 heterozygous autism model mice.",
+  "abstract": "Patients with autism spectrum disorder (ASD) experience high rates of sleep disruption beginning early in life; however, the developmental consequences of this disruption are not understood. We examined sleep behavior and the consequences of sleep disruption in developing mice bearing C-terminal truncation mutation in the high-confidence ASD risk gene SHANK3 (Shank3ΔC). We hypothesized that sleep disruption may be an early sign of developmental divergence, and that clinically relevant Shank3WT/ΔC mice may be at increased risk of lasting deleterious outcomes following early life sleep disruption. We recorded sleep behavior in developing Shank3ΔC/ΔC, Shank3WT/ΔC, and wild-type siblings of both sexes using a noninvasive home-cage monitoring system. Separately, litters of Shank3WT/ΔC and wild-type littermates were exposed to automated mechanical sleep disruption for 7 days prior to weaning (early life sleep disruption: ELSD) or post-adolescence (PASD) or undisturbed control (CON) conditions. All groups underwent standard behavioral testing as adults. Male and female Shank3ΔC/ΔC mice slept significantly less than wild-type and Shank3WT/ΔC siblings shortly after weaning, with increasing sleep fragmentation in adolescence, indicating that sleep disruption has a developmental onset in this ASD model. ELSD treatment interacted with genetic vulnerability in Shank3WT/ΔC mice, resulting in lasting, sex-specific changes in behavior, whereas wild-type siblings were largely resilient to these effects. Male ELSD Shank3WT/ΔC subjects demonstrated significant changes in sociability, sensory processing, and locomotion, while female ELSD Shank3WT/ΔC subjects had a significant reduction in risk aversion. CON Shank3WT/ΔC mice, PASD mice, and all wild-type mice demonstrated typical behavioral responses in most tests. This study tested the interaction between developmental sleep disruption and genetic vulnerability using a single ASD mouse model: Shank3ΔC (deletion of exon 21). The broader implications of this work should be supported by additional studies using ASD model mice with distinct genetic vulnerabilities. Our study shows that sleep disruption during sensitive periods of early life interacts with underlying genetic vulnerability to drive lasting and sex-specific changes in behavior. As individuals progress through maturation, they gain resilience to the lasting effects of sleep disruption. This work highlights developmental sleep disruption as an important vulnerability in ASD susceptibility.",
+  "year": 2022,
+  "authors": [
+    "Julia S Lord",
+    "Sean M Gay",
+    "Kathryn M Harper",
+    "Viktoriya D Nikolova",
+    "Kirsten M Smith",
+    "Sheryl S Moy",
+    "Graham H Diering"
+  ],
+  "journal": "Molecular autism",
+  "doi": "10.1186/s13229-022-00514-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36038911/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36038911"
+  }
+}

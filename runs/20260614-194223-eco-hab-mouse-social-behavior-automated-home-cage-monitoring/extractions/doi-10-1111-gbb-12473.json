@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi:10.1111/gbb.12473",
+  "title": "Lack of anticipatory behavior in Gpr88 knockout mice showed by automatized home cage phenotyping.",
+  "citation": null,
+  "doi": "10.1111/gbb.12473",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29575471/",
+  "pdf_url": null,
+  "year": 2018,
+  "authors": [
+    "G Maroteaux",
+    "T M Arefin",
+    "L-A Harsan",
+    "E Darcq",
+    "S Ben Hamida",
+    "B L Kieffer"
+  ],
+  "journal": "Genes, brain, and behavior",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study uses automated home cage monitoring to assess social and behavioral outcomes in mice.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This study evaluates the use of automated home cage monitoring to assess behavior and social interactions in Gpr88 knockout mice.",
+  "detailed_summary": "The paper uses IntelliCage system for 22-day monitoring of Gpr88 knockout mice, revealing altered behaviors such as hyperactivity, non-habituation, and lack of anticipatory behavior compared to controls.",
+  "background_rationale": null,
+  "methods_summary": "Automated home cage monitoring using the IntelliCage system over 4 phases: free adaptation, nose-poke adaptation, place learning and reversal, and fixed schedule-drinking. Mice were monitored for 22 days in total.",
+  "results_summary": "Gpr88 knockout mice showed delayed habituation, increased same corner returns behavior, and lack of anticipatory behavior during water accessibility periods compared to control mice.",
+  "conclusion_summary": "The study confirms previous findings on Gpr88 function and discovers a novel phenotype of lack of anticipatory behavior in these mice using automated home cage monitoring.",
+  "relevance_to_review": "Clearly eligible as it uses automated home-cage monitoring for behavioral assessment in mice, which is relevant to the review question.",
+  "key_takeaways": [
+    "Automated home cage monitoring can effectively assess social and behavioral outcomes in Gpr88 knockout mice.",
+    "Gpr88 knockout mice exhibit altered behaviors such as hyperactivity and lack of anticipatory behavior."
+  ],
+  "objective": "To evaluate the use of automated home cage monitoring for assessing behavior and social interactions in Gpr88 knockout mice.",
+  "study_design": "Longitudinal observational study using automated home cage monitoring over multiple phases.",
+  "population_or_sample": "Gpr88 knockout mice and wild-type controls",
+  "setting": "Automated home cage environment (IntelliCage system)",
+  "intervention_or_exposure": "Genetic modification of Gpr88 gene in mice",
+  "comparator": "Wild-type control mice",
+  "methods": [
+    "Automated home cage monitoring using IntelliCage system",
+    "4 phases: free adaptation, nose-poke adaptation, place learning and reversal, fixed schedule-drinking"
+  ],
+  "outcomes_measured": [
+    "Behavioral patterns (habituation, same corner returns)",
+    "Social interactions (water/sucrose preference, anticipatory behavior)"
+  ],
+  "main_results": [
+    "Gpr88 knockout mice showed delayed habituation and increased frequency of same corner returns.",
+    "Knockout mice did not show anticipatory behavior during water accessibility periods."
+  ],
+  "conclusions": [
+    "Automated home cage monitoring effectively phenotyped Gpr88 knockout mice, confirming previous findings and discovering a novel phenotype."
+  ],
+  "limitations": [
+    "The study was limited to one genetic model (Gpr88 knockout) and did not compare with other behavioral testing methods.",
+    "Long-term effects of the automated environment on behavior were not assessed."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "In the fixed schedule-drinking phase, control animals showed higher activity during the hour preceding water accessibility, and reduced activity after access to water was terminated. Mutant mice did not show this behavior, showing lack of anticipatory behavior."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

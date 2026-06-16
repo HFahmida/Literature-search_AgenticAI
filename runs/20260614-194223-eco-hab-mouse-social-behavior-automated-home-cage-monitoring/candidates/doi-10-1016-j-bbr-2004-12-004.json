@@ -1,0 +1,655 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.bbr.2004.12.004",
+  "title": "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion",
+  "abstract": null,
+  "year": 2005,
+  "authors": [
+    "Leonie de Visser",
+    "Ruud van den Bos",
+    "Berry M. Spruijt"
+  ],
+  "journal": "Behavioural Brain Research",
+  "doi": "10.1016/j.bbr.2004.12.004",
+  "url": "https://doi.org/10.1016/j.bbr.2004.12.004",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T23:51:12Z",
+      "timestamp": 1768521072205,
+      "version": "3.49.0"
+    },
+    "reference-count": 34,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2005-05-01T00:00:00Z",
+          "timestamp": 1114905600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2005-05-01T00:00:00Z",
+          "timestamp": 1114905600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Behavioural Brain Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bbr.2004.12.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2005-01-15T08:10:43Z",
+      "timestamp": 1105776643000
+    },
+    "page": "382-388",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 75,
+    "title": [
+      "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion"
+    ],
+    "prefix": "10.1016",
+    "volume": "160",
+    "author": [
+      {
+        "given": "Leonie de",
+        "family": "Visser",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ruud van den",
+        "family": "Bos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Berry M.",
+        "family": "Spruijt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2004.12.004_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1016/0031-9384(89)90146-7",
+        "article-title": "Feeding cycles entrain circadian rhythms of locomotor activity in cs mice but not in c57bl/6j mice",
+        "volume": "45",
+        "author": "Abe",
+        "year": "1989",
+        "journal-title": "Phys Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1016/0166-4328(85)90003-8",
+        "article-title": "Spatial learning and memory, maze running strategies and cholinergic mechanisms in two inbred strains of mice",
+        "volume": "17",
+        "author": "Ammassari-Teule",
+        "year": "1985",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.bbr.2004.12.004_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1111/j.1601-183X.2004.00070.x",
+        "article-title": "Screening for novel enu-induced rhythm, entrainment and activity mutants",
+        "volume": "3",
+        "author": "Bacon",
+        "year": "2004",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2004.12.004_bib4",
+        "series-title": "Activity anorexia: theory, research, and treatment",
+        "first-page": "45",
+        "article-title": "Investigating the reinforcing properties of running: or, running is its own reward",
+        "author": "Belke",
+        "year": "1996"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.bbr.2004.12.004_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2042",
+        "DOI": "10.1046/j.1460-9568.2003.02647.x",
+        "article-title": "Enriched environment and physical activity stimulate hippocampal but not olfactory bulb neurogenesis",
+        "volume": "17",
+        "author": "Brown",
+        "year": "2003",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.bbr.2004.12.004_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "2326",
+        "DOI": "10.1046/j.1460-9568.2003.02941.x",
+        "article-title": "Selective psychostimulant sensitization by food restriction: differential changes in accumbens shell and core dopamine",
+        "volume": "18",
+        "author": "Cadoni",
+        "year": "2003",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/0376-6357(95)00015-1",
+        "article-title": "Chemosignals and activity of wild stock house mice, with a note on the use of running wheels to assess activity in rodents",
+        "volume": "36",
+        "author": "Drickamer",
+        "year": "1996",
+        "journal-title": "Behav Proc"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2004.12.004_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0031-9384(91)90080-8",
+        "article-title": "Influence of running wheel activity on free-running sleep/wake and drinking circadian rhythms in mice",
+        "volume": "50",
+        "author": "Edgar",
+        "year": "1991",
+        "journal-title": "Phys Behav"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2004.12.004_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.neuroscience.2004.04.018",
+        "article-title": "Neuropeptide y and n-methyl–aspartic acid interact within the suprachiasmatic nuclei to alter circadian phase",
+        "volume": "126",
+        "author": "Gamble",
+        "year": "2004",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "issue": "2-3",
+        "key": "10.1016/j.bbr.2004.12.004_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/j.physbeh.2004.05.006",
+        "article-title": "Running-wheel activity and body composition in golden hamsters (Mesocricetus auratus)",
+        "volume": "82",
+        "author": "Gattermann",
+        "year": "2004",
+        "journal-title": "Phys Behav"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.bbr.2004.12.004_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1016/S0166-2236(02)02250-6",
+        "article-title": "Phenomics: fiction or the future?",
+        "volume": "25",
+        "author": "Gerlai",
+        "year": "2002",
+        "journal-title": "Trends Neurosci"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.bbr.2004.12.004_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1016/0166-4328(82)90060-2",
+        "article-title": "Effect of voluntary locomotor activity on sleep in the rat",
+        "volume": "4",
+        "author": "Hanagasioglu",
+        "year": "1982",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.bbr.2004.12.004_bib13",
+        "first-page": "401",
+        "article-title": "Effect of access to a running wheel on behavior of c57bl/6j mice",
+        "volume": "49",
+        "author": "Harri",
+        "year": "1999",
+        "journal-title": "Lab Anim Sci"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0741-8329(03)00095-8",
+        "article-title": "Circadian activity rhythms in high-alcohol-preferring and low-alcohol-preferring mice",
+        "volume": "30",
+        "author": "Hofstetter",
+        "year": "2003",
+        "journal-title": "Alcohol"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2004.12.004_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1624",
+        "DOI": "10.1111/j.1460-9568.2004.03581.x",
+        "article-title": "Mu-opioid receptor knockout mice show diminished food-anticipatory activity",
+        "volume": "20",
+        "author": "Kas",
+        "year": "2004",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1016/S0168-0102(03)00171-8",
+        "article-title": "Enhancement of neurogenesis by running wheel exercises is suppressed in mice lacking nmda receptor [epsiv]1 subunit",
+        "volume": "47",
+        "author": "Kitamura",
+        "year": "2003",
+        "journal-title": "Neurosci Res"
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.bbr.2004.12.004_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/S0166-4328(01)00289-3",
+        "article-title": "Locomotor activity rhythm in inbred strains of mice: implications for behavioural studies",
+        "volume": "125",
+        "author": "Kopp",
+        "year": "2001",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2004.12.004_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.1006/anbe.1999.1270",
+        "article-title": "Behaviour of house mice artificially selected for high levels of voluntary wheel running",
+        "volume": "58",
+        "author": "Koteja",
+        "year": "1999",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2004.12.004_bib19",
+        "article-title": "Environmental stimulation, including running wheel usage, delays onset and progresssion of Huntington's disease in r6/1 mice",
+        "author": "Leszczynski",
+        "year": "2001",
+        "journal-title": "Soc Neurosci"
+      },
+      {
+        "issue": "4-5",
+        "key": "10.1016/j.bbr.2004.12.004_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/S1566-2772(03)00084-7",
+        "article-title": "Testing for anxiety",
+        "volume": "3",
+        "author": "Ohl",
+        "year": "2003",
+        "journal-title": "Clin Neurosci Res"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/0006-8993(79)90156-2",
+        "article-title": "Wheel running and sleep in two strains of mice: plasticity and rigidity in the expression of circadian rhythmicity",
+        "volume": "163",
+        "author": "Oliverio",
+        "year": "1979",
+        "journal-title": "Brain Res"
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.bbr.2004.12.004_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1016/j.applanim.2004.02.015",
+        "article-title": "Utilisation of a physically-enriched environment by laboratory mice: age and gender differences",
+        "volume": "88",
+        "author": "Pietropaolo",
+        "year": "2004",
+        "journal-title": "Appl Anim Behav Sci"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2004.12.004_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "575",
+        "DOI": "10.1016/0031-9384(94)00298-J",
+        "article-title": "Aging lengthens circadian period for wheel-running activity in c57bl mice",
+        "volume": "57",
+        "author": "Possidente",
+        "year": "1995",
+        "journal-title": "Phys Behav"
+      },
+      {
+        "issue": "2-3",
+        "key": "10.1016/j.bbr.2004.12.004_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1016/j.physbeh.2004.03.015",
+        "article-title": "Daily activity patterns of a nocturnal and a diurnal rodent in a seminatural environment",
+        "volume": "82",
+        "author": "Refinetti",
+        "year": "2004",
+        "journal-title": "Phys Behav"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2004.12.004_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1243",
+        "DOI": "10.1037/0735-7044.117.6.1243",
+        "article-title": "Patterns of brain activity associated with variation in voluntary wheel-running behavior",
+        "volume": "117",
+        "author": "Rhodes",
+        "year": "2003",
+        "journal-title": "Behav Neurosci"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.bbr.2004.12.004_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1006",
+        "DOI": "10.1037/0735-7044.117.5.1006",
+        "article-title": "Exercise increases hippocampal neurogenesis to high levels but does not improve spatial learning in mice bred for increased voluntary wheel running",
+        "volume": "117",
+        "author": "Rhodes",
+        "year": "2003",
+        "journal-title": "Behav Neurosci"
+      },
+      {
+        "issue": "3-4",
+        "key": "10.1016/j.bbr.2004.12.004_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1016/S0168-1591(97)00049-X",
+        "article-title": "The use and perceived importance of three resources which provide caged laboratory mice the opportunity for extended locomotion",
+        "volume": "55",
+        "author": "Sherwin",
+        "year": "1998",
+        "journal-title": "Appl Anim Behav Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.bbr.2004.12.004_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1006/anbe.1998.0836",
+        "article-title": "Voluntary wheel running: a review and novel interpretation",
+        "volume": "56",
+        "author": "Sherwin",
+        "year": "1998",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2004.12.004_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0166-4328(02)00228-0",
+        "article-title": "Home cage activity and behavioral performance in inbred and hybrid mice",
+        "volume": "136",
+        "author": "Tang",
+        "year": "2002",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.bbr.2004.12.004_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2004.12.004_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1038/6368",
+        "article-title": "Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus",
+        "volume": "2",
+        "author": "Van Praag",
+        "year": "1999",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.bbr.2004.12.004_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.neulet.2003.08.073",
+        "article-title": "Induction of c-fos in nucleus accumbens in naive male balb/c mice after wheel running",
+        "volume": "352",
+        "author": "Vargas-Perez",
+        "year": "2003",
+        "journal-title": "Neurosci Lett"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.bbr.2004.12.004_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/S0166-2236(03)00033-X",
+        "article-title": "In search of a better mouse test",
+        "volume": "26",
+        "author": "Wahlsten",
+        "year": "2003",
+        "journal-title": "Trends Neurosci"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.bbr.2004.12.004_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "771",
+        "DOI": "10.1016/0031-9384(88)90375-7",
+        "article-title": "Effect of running wheel availability on circadian patterns of sleep and wakefulness in mice",
+        "volume": "43",
+        "author": "Welsh",
+        "year": "1988",
+        "journal-title": "Phys Behav"
+      }
+    ],
+    "container-title": [
+      "Behavioural Brain Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432804004590?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432804004590?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2025-09-28T12:53:22Z",
+      "timestamp": 1759064002000
+    },
+    "score": 23.656015,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0166432804004590"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0166432804004590"
+    ],
+    "URL": "https://doi.org/10.1016/j.bbr.2004.12.004",
+    "ISSN": [
+      "0166-4328"
+    ],
+    "issn-type": [
+      {
+        "value": "0166-4328",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Behavioural Brain Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bbr.2004.12.004",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2004 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

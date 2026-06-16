@@ -1,0 +1,776 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.bbr.2015.01.020",
+  "title": "A 1-night operant learning task without food-restriction differentiates among mouse strains in an automated home-cage environment",
+  "abstract": null,
+  "year": 2015,
+  "authors": [
+    "Esther Remmelink",
+    "Maarten Loos",
+    "Bastijn Koopmans",
+    "Emmeke Aarts",
+    "Sophie van der Sluis",
+    "August B. Smit",
+    "Matthijs Verhage"
+  ],
+  "journal": "Behavioural Brain Research",
+  "doi": "10.1016/j.bbr.2015.01.020",
+  "url": "https://doi.org/10.1016/j.bbr.2015.01.020",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2026-05-12T11:27:34Z",
+      "timestamp": 1778585254772,
+      "version": "3.51.4"
+    },
+    "reference-count": 46,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2015-04-01T00:00:00Z",
+          "timestamp": 1427846400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003221",
+        "name": "Agentschap NL",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003221",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Behavioural Brain Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bbr.2015.01.020",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2015-01-17T00:47:44Z",
+      "timestamp": 1421455664000
+    },
+    "page": "53-60",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "special_numbering": "C",
+    "title": [
+      "A 1-night operant learning task without food-restriction differentiates among mouse strains in an automated home-cage environment"
+    ],
+    "prefix": "10.1016",
+    "volume": "283",
+    "author": [
+      {
+        "given": "Esther",
+        "family": "Remmelink",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maarten",
+        "family": "Loos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bastijn",
+        "family": "Koopmans",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emmeke",
+        "family": "Aarts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sophie",
+        "family": "van der Sluis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "August B.",
+        "family": "Smit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthijs",
+        "family": "Verhage",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0235",
+        "series-title": "Animal intelligence—experimental studies",
+        "author": "Thorndike",
+        "year": "1911"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1126/science.7244649",
+        "article-title": "Selection by consequences",
+        "volume": "213",
+        "author": "Skinner",
+        "year": "1981",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0245",
+        "first-page": "42",
+        "article-title": "Laboratory routines cause animal stress",
+        "volume": "43",
+        "author": "Balcombe",
+        "year": "2004",
+        "journal-title": "Contemp Top Lab Anim Sci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0250",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/nmeth.2935",
+        "article-title": "Olfactory exposure to males, including men, causes stress and related analgesia in rodents",
+        "author": "Sorge",
+        "year": "2014",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1101",
+        "DOI": "10.1038/nn1102-1101",
+        "article-title": "Influences of laboratory environment on behavior",
+        "volume": "5",
+        "author": "Chesler",
+        "year": "2002",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "825",
+        "DOI": "10.1038/nmeth.1500",
+        "article-title": "Taming anxiety in laboratory mice",
+        "volume": "7",
+        "author": "Hurst",
+        "year": "2010",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1126/science.289.5478.463",
+        "article-title": "Abolition and reversal of strain differences in behavioral responses to drugs of abuse after a brief experience",
+        "volume": "289",
+        "author": "Cabib",
+        "year": "2000",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "742",
+        "DOI": "10.1016/j.pnpbp.2009.11.003",
+        "article-title": "A critical review of chronic stress effects on spatial learning and memory",
+        "volume": "34",
+        "author": "Conrad",
+        "year": "2010",
+        "journal-title": "Prog Neuropsychopharmacol Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1016/S0006-8993(99)01380-3",
+        "article-title": "Food deprivation modulates chronic stress effects on object recognition in male rats: role of monoamines and amino acids",
+        "volume": "830",
+        "author": "Beck",
+        "year": "1999",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "358",
+        "DOI": "10.1016/j.biopsych.2011.06.028",
+        "article-title": "Gene profiling reveals a role for stress hormones in the molecular and behavioral response to food restriction",
+        "volume": "71",
+        "author": "Guarnieri",
+        "year": "2012",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/0361-9230(88)90070-6",
+        "article-title": "Neuroendocrine correlates of sustained stress: the activity-stress paradigm",
+        "volume": "20",
+        "author": "Kant",
+        "year": "1988",
+        "journal-title": "Brain Res Bull"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1258/002367700780578028",
+        "article-title": "The effect of chronic food and water restriction on open-field behaviour and serum corticosterone levels in rats",
+        "volume": "34",
+        "author": "Heiderstadt",
+        "year": "2000",
+        "journal-title": "Lab Anim"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "e17527",
+        "DOI": "10.1371/journal.pone.0017527",
+        "article-title": "Working for food shifts nocturnal mouse activity into the day",
+        "volume": "6",
+        "author": "Hut",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1129",
+        "DOI": "10.1097/00001756-200507130-00019",
+        "article-title": "Chronic food restriction enhances memory in mice—analysis with matched drive levels",
+        "volume": "16",
+        "author": "Hashimoto",
+        "year": "2005",
+        "journal-title": "Neuroreport"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/S1359-6446(02)02423-6",
+        "article-title": "In need of high-throughput behavioral systems",
+        "volume": "7",
+        "author": "Brunner",
+        "year": "2002",
+        "journal-title": "Drug Discov Today"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1016/S0166-2236(02)02250-6",
+        "article-title": "Phenomics: fiction or the future?",
+        "volume": "25",
+        "author": "Gerlai",
+        "year": "2002",
+        "journal-title": "Trends Neurosci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1016/j.conb.2011.11.004",
+        "article-title": "The surveillance state of behavioral automation",
+        "volume": "22",
+        "author": "Schaefer",
+        "year": "2012",
+        "journal-title": "Curr Opin Neurobiol"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "20575",
+        "DOI": "10.1073/pnas.0809053106",
+        "article-title": "A robust automated system elucidates mouse home cage behavioral structure",
+        "volume": "105",
+        "author": "Goulding",
+        "year": "2008",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "Jhuang",
+        "year": "2010",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "1983",
+        "DOI": "10.1073/pnas.0610779104",
+        "article-title": "The power of automated high-resolution behavior analysis revealed by its application to mouse models of Huntington's and prion diseases",
+        "volume": "104",
+        "author": "Steele",
+        "year": "2007",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.bbr.2004.12.004",
+        "article-title": "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion",
+        "volume": "160",
+        "author": "de Visser",
+        "year": "2005",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "de Visser",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1016/j.jneumeth.2014.04.026",
+        "article-title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice",
+        "volume": "234",
+        "author": "Vannoni",
+        "year": "2014",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "e108563",
+        "DOI": "10.1371/journal.pone.0108563",
+        "article-title": "Sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using home-cage monitoring",
+        "volume": "9",
+        "author": "Loos",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1111/j.1601-183X.2012.00820.x",
+        "article-title": "High-throughput phenotyping of avoidance learning in mice discriminates different genotypes and identifies a novel gene",
+        "volume": "11",
+        "author": "Maroteaux",
+        "year": "2012",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0370",
+        "series-title": "Proc Meas Behav, Maastricht, the Netherlands, August 26–29, 2008",
+        "article-title": "Learning (in) the PhenoTyper: an integrative approach to conducting cognitive behavioural challenges in a home cage environment",
+        "author": "de Heer",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1016/j.jneumeth.2014.03.001",
+        "article-title": "Reproducibility and relevance of future behavioral sciences should benefit from a cross fertilization of past recommendations and today's technology: back to the future",
+        "volume": "234",
+        "author": "Spruijt",
+        "year": "2014",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.3758/BF03195394",
+        "article-title": "EthoVision: a versatile video tracking system for automation of behavioral experiments",
+        "volume": "33",
+        "author": "Noldus",
+        "year": "2001",
+        "journal-title": "Behav Res Methods Instrum Comput"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0385",
+        "unstructured": "R. Development Core Team. R: A Language and Environment for Statistical Computing, 2012."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1901/jeab.1968.11-1",
+        "article-title": "Auto-shaping of the pigeon's key-peck",
+        "volume": "11",
+        "author": "Brown",
+        "year": "1968",
+        "journal-title": "J Exp Anal Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "1180",
+        "DOI": "10.1038/nn.2374",
+        "article-title": "Stress, genotype and norepinephrine in the prediction of mouse behavior using reinforcement learning",
+        "volume": "12",
+        "author": "Luksys",
+        "year": "2009",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1016/j.bbr.2009.01.006",
+        "article-title": "Gender differences in delay-discounting under mild food restriction",
+        "volume": "200",
+        "author": "Koot",
+        "year": "2009",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1016/S1074-7427(03)00075-3",
+        "article-title": "Selective improvement of strain-dependent performances of cognitive tasks by food restriction",
+        "volume": "81",
+        "author": "Orsini",
+        "year": "2004",
+        "journal-title": "Neurobiol Learn Mem"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/S0031-9384(00)00439-X",
+        "article-title": "Effect of food restriction on acquisition and expression of a conditioned odor discrimination in mice",
+        "volume": "72",
+        "author": "Forestell",
+        "year": "2001",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0415",
+        "doi-asserted-by": "crossref",
+        "first-page": "e48703",
+        "DOI": "10.1371/journal.pone.0048703",
+        "article-title": "Different levels of food restriction reveal genotype-specific differences in learning a visual discrimination task",
+        "volume": "7",
+        "author": "Makowiecki",
+        "year": "2012",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1016/0091-3057(88)90378-4",
+        "article-title": "Maze performance: a direct comparison of food vs water mazes",
+        "volume": "31",
+        "author": "Kant",
+        "year": "1988",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1016/0031-9384(76)90083-4",
+        "article-title": "Schedule dependent and schedule induced behavior at reduced and recovered body weight",
+        "volume": "17",
+        "author": "Wayner",
+        "year": "1976",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1097/00008877-199711000-00018",
+        "article-title": "Palatable food induces appetitive behaviour in satiated rats which can be inhibited by chronic stress",
+        "volume": "8",
+        "author": "Ghiglieri",
+        "year": "1997",
+        "journal-title": "Behav Pharmacol"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0435",
+        "series-title": "Mouse behavioral testing: how to use mice in behavioral neuroscience",
+        "author": "Wahlsten",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0440",
+        "first-page": "171",
+        "article-title": "Appetitive operant conditioning in mice: heritability and dissociability of training stages",
+        "volume": "4",
+        "author": "Malkki",
+        "year": "2010",
+        "journal-title": "Front Behav Neurosci"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "e87745",
+        "DOI": "10.1371/journal.pone.0087745",
+        "article-title": "Strains and stressors: an analysis of touchscreen learning in genetically diverse mouse strains",
+        "volume": "9",
+        "author": "Graybeal",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "e15536",
+        "DOI": "10.1371/journal.pone.0015536",
+        "article-title": "Reward-related behavioral paradigms for addiction research in the mouse: performance of common inbred strains",
+        "volume": "6",
+        "author": "Lederle",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1016/j.brainres.2006.12.012",
+        "article-title": "Genetic variance contributes to naltrexone-induced inhibition of sucrose intake in inbred and outbred mouse strains",
+        "volume": "1135",
+        "author": "Dym",
+        "year": "2007",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.01.020_bib0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1016/j.beproc.2010.04.008",
+        "article-title": "Performance of BALB/c and C57BL/6 mice under an incremental repeated acquisition of behavioral chains procedure",
+        "volume": "84",
+        "author": "Johnson",
+        "year": "2010",
+        "journal-title": "Behav Processes"
+      }
+    ],
+    "container-title": [
+      "Behavioural Brain Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432815000248?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432815000248?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2018-09-26T07:51:55Z",
+      "timestamp": 1537948315000
+    },
+    "score": 23.659891,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0166432815000248"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "references-count": 46,
+    "alternative-id": [
+      "S0166432815000248"
+    ],
+    "URL": "https://doi.org/10.1016/j.bbr.2015.01.020",
+    "ISSN": [
+      "0166-4328"
+    ],
+    "issn-type": [
+      {
+        "value": "0166-4328",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A 1-night operant learning task without food-restriction differentiates among mouse strains in an automated home-cage environment",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Behavioural Brain Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bbr.2015.01.020",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

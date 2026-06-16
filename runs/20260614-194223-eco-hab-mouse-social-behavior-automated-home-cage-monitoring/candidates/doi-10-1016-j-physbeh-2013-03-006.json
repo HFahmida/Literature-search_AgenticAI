@@ -1,0 +1,573 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.physbeh.2013.03.006",
+  "title": "Low home cage social behaviors in BTBR T+tf/J mice during juvenile development",
+  "abstract": null,
+  "year": 2013,
+  "authors": [
+    "Brooke A. Babineau",
+    "Mu Yang",
+    "Robert F. Berman",
+    "Jacqueline N. Crawley"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/j.physbeh.2013.03.006",
+  "url": "https://doi.org/10.1016/j.physbeh.2013.03.006",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          15
+        ]
+      ],
+      "date-time": "2025-11-15T10:16:02Z",
+      "timestamp": 1763201762630
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2013-04-01T00:00:00Z",
+          "timestamp": 1364774400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.physbeh.2013.03.006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2013-03-16T22:44:41Z",
+      "timestamp": 1363473881000
+    },
+    "page": "49-54",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "special_numbering": "C",
+    "title": [
+      "Low home cage social behaviors in BTBR T+tf/J mice during juvenile development"
+    ],
+    "prefix": "10.1016",
+    "volume": "114-115",
+    "author": [
+      {
+        "given": "Brooke A.",
+        "family": "Babineau",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mu",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert F.",
+        "family": "Berman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jacqueline N.",
+        "family": "Crawley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/j.bbr.2006.09.007",
+        "article-title": "Assessing autism-like behavior in mice: variations in social interactions among inbred strains",
+        "volume": "176",
+        "author": "Bolivar",
+        "year": "2007",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.1111/j.1601-183X.2007.00330.x",
+        "article-title": "Autism-like behavioral phenotypes in BTBR T+tf/J mice",
+        "volume": "7",
+        "author": "McFarlane",
+        "year": "2008",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1016/j.bbr.2006.07.030",
+        "article-title": "Mouse behavioral tasks relevant to autism: phenotypes of 10 inbred strains",
+        "volume": "176",
+        "author": "Moy",
+        "year": "2007",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "443",
+        "DOI": "10.1016/j.bbr.2010.06.025",
+        "article-title": "Expression of social behaviors of C57BL/6J versus BTBR inbred mouse strains in the visible burrow system",
+        "volume": "214",
+        "author": "Pobbe",
+        "year": "2010",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "976",
+        "DOI": "10.1038/npp.2009.201",
+        "article-title": "Repetitive self-grooming behavior in the BTBR mouse model of autism is blocked by the mGluR5 antagonist MPEP",
+        "volume": "35",
+        "author": "Silverman",
+        "year": "2010",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1663",
+        "DOI": "10.1111/j.1460-9568.2009.06714.x",
+        "article-title": "Postnatal lesion evidence against a primary role for the corpus callosum in mouse sociability",
+        "volume": "29",
+        "author": "Yang",
+        "year": "2009",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1002/aur.163",
+        "article-title": "Social peers rescue autism-relevant sociability deficits in adolescent mice",
+        "volume": "4",
+        "author": "Yang",
+        "year": "2011",
+        "journal-title": "Autism Res"
+      },
+      {
+        "key": "10.1016/j.physbeh.2013.03.006_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3389/neuro.08.001.2007",
+        "article-title": "Social approach behaviors are similar on conventional versus reverse lighting cycles, and in replications across cohorts, in BTBR T+ tf/J, C57BL/6J, and vasopressin receptor 1B mutant mice",
+        "volume": "1",
+        "author": "Yang",
+        "year": "2007",
+        "journal-title": "Front Behav Neurosci"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.1016/j.ijdevneu.2007.09.008",
+        "article-title": "Social deficits in BTBR T+tf/J mice are unchanged by cross-fostering with C57BL/6J mothers",
+        "volume": "25",
+        "author": "Yang",
+        "year": "2007",
+        "journal-title": "Int J Dev Neurosci"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "586",
+        "DOI": "10.1016/j.pbb.2010.09.012",
+        "article-title": "Fluoxetine but not risperidone increases sociability in the BTBR mouse model of autism",
+        "volume": "97",
+        "author": "Chadman",
+        "year": "2011",
+        "journal-title": "Pharmacol Biochem Behav"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1016/j.bbr.2010.10.033",
+        "article-title": "A novel social proximity test suggests patterns of social avoidance and gaze aversion-like behavior in BTBR T+ tf/J mice",
+        "volume": "217",
+        "author": "Defensor",
+        "year": "2011",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1016/j.bbr.2010.08.039",
+        "article-title": "General and social anxiety in the BTBR T+ tf/J mouse strain",
+        "volume": "216",
+        "author": "Pobbe",
+        "year": "2011",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "131",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1126/scitranslmed.3003501",
+        "article-title": "Negative allosteric modulation of the mGluR5 receptor reduces repetitive behaviors and rescues social deficits in mouse models of autism",
+        "volume": "4",
+        "author": "Silverman",
+        "year": "2012",
+        "journal-title": "Sci Transl Med"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "649",
+        "DOI": "10.1016/j.physbeh.2011.12.025",
+        "article-title": "Low sociability in BTBR T+tf/J mice is independent of partner strain",
+        "volume": "107",
+        "author": "Yang",
+        "year": "2012",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.bbr.2010.06.004",
+        "article-title": "Female urine-induced male mice ultrasonic vocalizations, but not scent-marking, is modulated by social experience",
+        "volume": "216",
+        "author": "Roullet",
+        "year": "2011",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "e3067",
+        "DOI": "10.1371/journal.pone.0003067",
+        "article-title": "Unusual repertoire of vocalizations in the BTBR T+tf/J mouse model of autism",
+        "volume": "3",
+        "author": "Scattoni",
+        "year": "2008",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1111/j.1601-183X.2010.00623.x",
+        "article-title": "Unusual repertoire of vocalizations in adult BTBR T+tf/J mice during three types of social encounters",
+        "volume": "10",
+        "author": "Scattoni",
+        "year": "2011",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1111/j.1601-183X.2010.00582.x",
+        "article-title": "Reduced scent marking and ultrasonic vocalizations in the BTBR T+tf/J mouse model of autism",
+        "volume": "10",
+        "author": "Wohr",
+        "year": "2011",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1016/j.bbr.2007.10.029",
+        "article-title": "Development of a mouse test for repetitive, restricted behaviors: relevance to autism",
+        "volume": "188",
+        "author": "Moy",
+        "year": "2008",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1197",
+        "DOI": "10.1016/j.neuroscience.2010.09.059",
+        "article-title": "Low stress reactivity and neuroendocrine factors in the BTBR T+tf/J mouse model of autism",
+        "volume": "171",
+        "author": "Silverman",
+        "year": "2010",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.bbr.2011.10.032",
+        "article-title": "Differences in BTBR T+ tf/J and C57BL/6J mice on probabilistic reversal learning and stereotyped behaviors",
+        "volume": "227",
+        "author": "Amodeo",
+        "year": "2012",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "228",
+        "DOI": "10.1111/j.1601-183X.2010.00659.x",
+        "article-title": "Motor and cognitive stereotypies in the BTBR T+tf/J mouse model of autism",
+        "volume": "10",
+        "author": "Pearson",
+        "year": "2011",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "467",
+        "DOI": "10.1002/dev.420260805",
+        "article-title": "Ontogeny of amicable social behavior in the mouse: gender differences and ongoing isolation outcomes",
+        "volume": "26",
+        "author": "Terranova",
+        "year": "1993",
+        "journal-title": "Dev Psychobiol"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1037/0735-7036.112.1.3",
+        "article-title": "A description of the ontogeny of mouse agonistic behavior",
+        "volume": "112",
+        "author": "Terranova",
+        "year": "1998",
+        "journal-title": "J Comp Psychol"
+      },
+      {
+        "key": "10.1016/j.physbeh.2013.03.006_bb0125",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/0471142301.ns0816s22",
+        "article-title": "Mouse social recognition and preference",
+        "volume": "16",
+        "author": "Winslow",
+        "year": "2003",
+        "journal-title": "Curr Protoc Neurosci"
+      },
+      {
+        "issue": "3/4",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1163/156853963X00185",
+        "article-title": "A Comparison of the Social Postures of Some Common Laboratory Rodents",
+        "volume": "21",
+        "author": "Grant",
+        "year": "1963",
+        "journal-title": "Behaviour"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1002/aur.22",
+        "article-title": "Minimal aberrant behavioral phenotypes of neuroligin-3 R451C knockin mice",
+        "volume": "1",
+        "author": "Chadman",
+        "year": "2008",
+        "journal-title": "Autism Res"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1111/j.1750-3639.2007.00096.x",
+        "article-title": "Mouse behavioral assays relevant to the symptoms of autism",
+        "volume": "17",
+        "author": "Crawley",
+        "year": "2007",
+        "journal-title": "Brain Pathol"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.physbeh.2013.03.006_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1016/j.bbr.2008.03.015",
+        "article-title": "Social approach and repetitive behavior in eleven inbred mouse strains",
+        "volume": "191",
+        "author": "Moy",
+        "year": "2008",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.physbeh.2013.03.006_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.brainres.2010.09.026",
+        "article-title": "Sociability and motor functions in Shank1 mutant mice",
+        "volume": "1380",
+        "author": "Silverman",
+        "year": "2011",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.physbeh.2013.03.006_bb0155",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/0471142301.ns0826s56",
+        "article-title": "Automated three-chambered social approach task for mice",
+        "volume": "26",
+        "author": "Yang",
+        "year": "2011",
+        "journal-title": "Curr Protoc Neurosci"
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938413000565?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938413000565?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2018-10-17T19:56:59Z",
+      "timestamp": 1539806219000
+    },
+    "score": 24.573479,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031938413000565"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "references-count": 31,
+    "alternative-id": [
+      "S0031938413000565"
+    ],
+    "URL": "https://doi.org/10.1016/j.physbeh.2013.03.006",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    }
+  }
+}

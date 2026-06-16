@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi:10.3389/fnbeh.2016.00106",
+  "title": "Analysis of Individual Mouse Activity in Group Housed Animals of Different Inbred Strains using a Novel Automated Home Cage Analysis System.",
+  "citation": null,
+  "doi": "10.3389/fnbeh.2016.00106",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27375446/",
+  "pdf_url": null,
+  "year": 2016,
+  "authors": [
+    "Rasneer S Bains",
+    "Heather L Cater",
+    "Rowland R Sillito",
+    "Agisilaos Chartsias",
+    "Duncan Sneddon",
+    "Danilo Concas",
+    "Piia Keskivali-Bond",
+    "Timothy C Lukins",
+    "Sara Wells",
+    "Abraham Acevedo Arozena",
+    "Patrick M Nolan",
+    "J Douglas Armstrong"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper reports on an automated home-cage monitoring system for mice, which is directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The paper describes an automated system for monitoring individual mouse activity within group-housed animals, providing insights into genetic background effects on behavior.",
+  "detailed_summary": "This study introduces a novel automated home-cage analysis system to monitor mice in their natural social environment. It demonstrates the system's ability to accurately report individual locomotor behaviors and highlights its potential for uncovering unique behavioral insights not previously recognized.",
+  "background_rationale": null,
+  "methods_summary": "The authors developed an automated monitoring system to track mouse activity within group-housed settings over extended periods, focusing on inbred strains. They validated the system's accuracy by comparing individual locomotor behaviors across different genetic backgrounds.",
+  "results_summary": "The system successfully recorded and analyzed individual mouse activities, revealing distinct behavioral patterns influenced by genetic factors. These findings suggest that long-term monitoring can provide valuable insights into social behavior and genetic influences.",
+  "conclusion_summary": "The automated home-cage analysis system offers a novel approach to studying mouse behavior in their natural environment, potentially improving the understanding of neurological disorders through more comprehensive and prolonged observations.",
+  "relevance_to_review": "Highly relevant as it addresses the use of automated monitoring for social behavior studies in mice.",
+  "key_takeaways": [
+    "Automated home-cage systems can provide detailed behavioral data on individual mice within group settings.",
+    "Genetic background significantly influences mouse behavior, which can be better understood through long-term monitoring."
+  ],
+  "objective": "To develop and validate an automated system for monitoring individual mouse activity in group-housed environments to study genetic effects on behavior.",
+  "study_design": "Experimental",
+  "population_or_sample": "Different inbred strains of mice housed socially in the same cage.",
+  "setting": "Automated home-cage environment with multiple cages containing groups of mice.",
+  "intervention_or_exposure": "Use of an automated monitoring system to track mouse activity over extended periods.",
+  "comparator": null,
+  "methods": [
+    "Development and validation of an automated home-cage analysis system",
+    "Monitoring individual locomotor behaviors in group-housed mice"
+  ],
+  "outcomes_measured": [
+    "Individual mouse locomotor behavior within social groups",
+    "Genetic background effects on behavioral patterns"
+  ],
+  "main_results": [
+    "The system accurately reported individual locomotor behaviors.",
+    "Distinct behavioral patterns were observed across different inbred strains."
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring can provide valuable insights into genetic influences on mouse behavior.",
+    "Long-term observations are crucial for understanding complex social behaviors."
+  ],
+  "limitations": [
+    "The study focused on inbred strains, limiting generalizability to outbred populations.",
+    "Further validation with more diverse genetic backgrounds is needed."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "The system accurately reports individual locomotor behavior within the group and can provide unique insights into the effects of genetic background on individual and group behavior not previously recognized."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

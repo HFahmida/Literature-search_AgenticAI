@@ -1,0 +1,928 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.biopsych.2003.10.021",
+  "title": "Neurobiological correlates of high (HAB) versus low anxiety-related behavior (LAB): differential Fos expression in HAB and LAB rats",
+  "abstract": null,
+  "year": 2004,
+  "authors": [
+    "Nicolas Salomé",
+    "Peter Salchner",
+    "Odile Viltart",
+    "Henrique Sequeira",
+    "Alexandra Wigger",
+    "Rainer Landgraf",
+    "Nicolas Singewald"
+  ],
+  "journal": "Biological Psychiatry",
+  "doi": "10.1016/j.biopsych.2003.10.021",
+  "url": "https://doi.org/10.1016/j.biopsych.2003.10.021",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T17:46:34Z",
+      "timestamp": 1773769594324,
+      "version": "3.50.1"
+    },
+    "reference-count": 63,
+    "publisher": "Elsevier BV",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2004-04-01T00:00:00Z",
+          "timestamp": 1080777600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biological Psychiatry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.biopsych.2003.10.021",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2004-01-22T10:19:43Z",
+      "timestamp": 1074766783000
+    },
+    "page": "715-723",
+    "source": "Crossref",
+    "is-referenced-by-count": 115,
+    "title": [
+      "Neurobiological correlates of high (HAB) versus low anxiety-related behavior (LAB): differential Fos expression in HAB and LAB rats"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Nicolas",
+        "family": "Salomé",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Salchner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Odile",
+        "family": "Viltart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Henrique",
+        "family": "Sequeira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alexandra",
+        "family": "Wigger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rainer",
+        "family": "Landgraf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Singewald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1111/j.1749-6632.2001.tb03476.x",
+        "article-title": "The anterior cingulate cortex. The evolution of an interface between emotion and cognition",
+        "volume": "935",
+        "author": "Allman",
+        "year": "2001",
+        "journal-title": "Ann N Y Acad Sci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.1523/JNEUROSCI.15-01-00709.1995",
+        "article-title": "Conditioned fear-induced changes in behavior and in the expression of the immediate early gene c-fos",
+        "volume": "15",
+        "author": "Beck",
+        "year": "1995",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1017/S1092852900017442",
+        "article-title": "Structural changes in the brain in depression and relationship to symptom recurrence",
+        "volume": "7",
+        "author": "Bremner",
+        "year": "2002",
+        "journal-title": "CNS Spectrums"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "924",
+        "DOI": "10.1176/appi.ajp.160.5.924",
+        "article-title": "MRI and PET study of deficits in hippocampal structure and function in women with childhood sexual abuse and posttraumatic stress disorder",
+        "volume": "160",
+        "author": "Bremner",
+        "year": "2003",
+        "journal-title": "Am J Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1087",
+        "DOI": "10.1016/S0306-4522(96)00632-X",
+        "article-title": "Elicitation and reduction of fear",
+        "volume": "78",
+        "author": "Campeau",
+        "year": "1997",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1016/S0361-9230(97)00141-X",
+        "article-title": "Severe reduction of rat defensive behavior to a predator by discrete hypothalamic chemical lesions",
+        "volume": "44",
+        "author": "Canteras",
+        "year": "1997",
+        "journal-title": "Brain Res Bull"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/S0306-4530(02)00005-7",
+        "article-title": "Chronic treatment with the antidepressant tianeptine attenuates lipopolysaccharide-induced Fos expression in the rat paraventricular nucleus and HPA axis activation",
+        "volume": "28",
+        "author": "Castanon",
+        "year": "2003",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1177/107385849800400111",
+        "article-title": "The neurobiological basis of anxiety and fear",
+        "volume": "4",
+        "author": "Charney",
+        "year": "1998",
+        "journal-title": "Neuroscientist"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1264",
+        "DOI": "10.1016/S0006-3223(98)00300-X",
+        "article-title": "Brain circuits in panic disorder",
+        "volume": "44",
+        "author": "Coplan",
+        "year": "1998",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1002/cne.903320102",
+        "article-title": "Ventral subicular interaction with the hypothalamic paraventricular nucleus",
+        "volume": "332",
+        "author": "Cullinan",
+        "year": "1993",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1176/appi.ajp.160.1.64",
+        "article-title": "The neural substrates of affective processing in depressed patients treated with venlafaxine",
+        "volume": "160",
+        "author": "Davidson",
+        "year": "2003",
+        "journal-title": "Am J Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1016/S0306-4522(01)00150-6",
+        "article-title": "“When a rat smells a cat:”",
+        "volume": "104",
+        "author": "Dielenberg",
+        "year": "2001",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1016/0006-8993(95)01486-1",
+        "article-title": "Neuroanatomical characterization of Fos induction in rat behavioral models of anxiety",
+        "volume": "713",
+        "author": "Duncan",
+        "year": "1996",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/S0006-8993(99)01931-9",
+        "article-title": "Differential forebrain c-fos mRNA induction by ether inhalation and novelty",
+        "volume": "845",
+        "author": "Emmert",
+        "year": "1999",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "743",
+        "DOI": "10.1016/S0149-7634(99)00016-0",
+        "article-title": "The neuroanatomical and neurochemical basis of conditioned fear",
+        "volume": "23",
+        "author": "Fendt",
+        "year": "1999",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1007/BF01923335",
+        "article-title": "Genetic and environmental influences on reactive and spontaneous locomotor activities in rats",
+        "volume": "47",
+        "author": "Gentsch",
+        "year": "1991",
+        "journal-title": "Experientia"
+      },
+      {
+        "issue": "suppl 2",
+        "key": "10.1016/j.biopsych.2003.10.021_BIB17",
+        "first-page": "4",
+        "article-title": "Toward an integrated neurobiology of panic disorder",
+        "volume": "58",
+        "author": "Goddard",
+        "year": "1997",
+        "journal-title": "J Clin Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1176/appi.ajp.157.4.493",
+        "article-title": "Neuroanatomical hypothesis of panic disorder, revised",
+        "volume": "157",
+        "author": "Gorman",
+        "year": "2000",
+        "journal-title": "Am J Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB19",
+        "first-page": "811",
+        "article-title": "Neuroanatomy and neurotransmitter regulation of defensive behaviors and related emotions in mammals",
+        "volume": "27",
+        "author": "Graeff",
+        "year": "1994",
+        "journal-title": "Braz J Med Biol Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB20",
+        "series-title": "The Neuropsychology of Anxiety",
+        "author": "Gray",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/S0166-4328(00)00151-0",
+        "article-title": "Unconditioned anxiety and social behaviour in two rat lines selectively bred for high and low anxiety-related behaviour",
+        "volume": "111",
+        "author": "Henniger",
+        "year": "2000",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/0014-2999(96)00471-2",
+        "article-title": "The anxiolytics CI-988 and chlordiazepoxide fail to reduce immediate early gene mRNA stimulation following exposure to the rat elevated X- maze",
+        "volume": "312",
+        "author": "Hinks",
+        "year": "1996",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1046/j.1365-2826.2002.00775.x",
+        "article-title": "Anatomical markers of activity in neuroendocrine systems",
+        "volume": "14",
+        "author": "Hoffman",
+        "year": "2002",
+        "journal-title": "J Neuroendocrinol"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1016/S0306-4522(01)00291-3",
+        "article-title": "Individual differences in novelty-seeking behavior in rats",
+        "volume": "106",
+        "author": "Kabbaj",
+        "year": "2001",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "2067",
+        "DOI": "10.1523/JNEUROSCI.21-06-02067.2001",
+        "article-title": "The primate amygdala mediates acute fear but not the behavioral and physiological components of anxious temperament",
+        "volume": "21",
+        "author": "Kalin",
+        "year": "2001",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/S0149-7634(01)00066-5",
+        "article-title": "The neurocircuitry and receptor subtypes mediating anxiolytic-like effects of neuropeptide Y",
+        "volume": "26",
+        "author": "Kask",
+        "year": "2002",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1038/sj.npp.1300040",
+        "article-title": "Reduction of hypothalamic vasopressinergic hyperdrive contributes to clinically relevant behavioral and neuroendocrine effects of chronic paroxetine treatment in a psychopathological rat model",
+        "volume": "28",
+        "author": "Keck",
+        "year": "2003",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1046/j.0953-816X.2000.01383.x",
+        "article-title": "The anxiolytic effect of the CRH(1) receptor antagonist R121919 depends on innate emotionality in rats",
+        "volume": "13",
+        "author": "Keck",
+        "year": "2001",
+        "journal-title": "Eur J Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1016/S0197-0186(98)00023-0",
+        "article-title": "C-Fos as a transcription factor",
+        "volume": "33",
+        "author": "Kovács",
+        "year": "1998",
+        "journal-title": "Neurochem Int"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/BF02736792",
+        "article-title": "Regulation of stress-induced transcriptional changes in the hypothalamic neurosecretory neurons",
+        "volume": "7",
+        "author": "Kovács",
+        "year": "1996",
+        "journal-title": "J Mol Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1016/S0306-4522(98)00709-X",
+        "article-title": "Differential increase in Fos immunoreactivity in hypothalamic and septal nuclei by arginine8-vasopressin and desglycinamide9-arginine8-vasopressin",
+        "volume": "91",
+        "author": "Lanca",
+        "year": "1999",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1023/A:1020258104318",
+        "article-title": "High vs low anxiety-related behavior rats",
+        "volume": "32",
+        "author": "Landgraf",
+        "year": "2002",
+        "journal-title": "Behav Genet"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB33",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1080/1025389031000104193",
+        "article-title": "Born to be anxious",
+        "volume": "6",
+        "author": "Landgraf",
+        "year": "2003",
+        "journal-title": "Stress"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB34",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1146/annurev.ps.46.020195.001233",
+        "article-title": "Emotion",
+        "volume": "46",
+        "author": "LeDoux",
+        "year": "1995",
+        "journal-title": "Annu Rev Psychol"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB35",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1016/S0893-133X(98)00042-6",
+        "article-title": "Behavioral, physiological, and neuroendocrine stress responses and differential sensitivity to diazepam in two Wistar rat lines selectively bred for high- and low-anxiety-related behavior",
+        "volume": "19",
+        "author": "Liebsch",
+        "year": "1998",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB36",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/S0166-4328(97)00198-8",
+        "article-title": "Behavioural profiles of two Wistar rat lines selectively bred for high or low anxiety-related behaviour",
+        "volume": "94",
+        "author": "Liebsch",
+        "year": "1998",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB37",
+        "first-page": "535",
+        "article-title": "Potential anxiolytic role of c-fos antisense oligonucleotide in social- defeated rats",
+        "volume": "25",
+        "author": "Lu",
+        "year": "2000",
+        "journal-title": "Hunan Yi Ke Da Xue Xue Bao"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB38",
+        "series-title": "Neurobiology of Mental Illness",
+        "first-page": "437",
+        "article-title": "Diagnostic classification of anxiety disorders",
+        "author": "Marshall",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB39",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.1016/S0149-7634(98)00056-6",
+        "article-title": "Effects of centrally administered anxiolytic compounds in animal models of anxiety",
+        "volume": "23",
+        "author": "Menard",
+        "year": "1999",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB40",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1146/annurev.ne.14.030191.002225",
+        "article-title": "Stimulus-transcription coupling in the nervous system",
+        "volume": "14",
+        "author": "Morgan",
+        "year": "1991",
+        "journal-title": "Annu Rev Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB41",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1037/0735-7044.109.4.681",
+        "article-title": "Differential contribution of dorsal and ventral medial prefrontal cortex to the acquisition and extinction of conditioned fear in rats",
+        "volume": "109",
+        "author": "Morgan",
+        "year": "1995",
+        "journal-title": "Behav Neurosci"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB42",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1002/(SICI)1098-2396(200005)36:2<143::AID-SYN7>3.0.CO;2-H",
+        "article-title": "Divergent effects of putative anxiolytics on stress-induced fos expression in the mesoprefrontal system of the rat",
+        "volume": "36",
+        "author": "Morrow",
+        "year": "2000",
+        "journal-title": "Synapse"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB43",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/0006-8993(95)00546-3",
+        "article-title": "The hypothalamic paraventricular nucleus in two types of Wistar rats with different stress responses. II. Differential Fos-expression",
+        "volume": "689",
+        "author": "Mulders",
+        "year": "1995",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB44",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1016/S0166-4328(96)00041-1",
+        "article-title": "Lesion of the habenular efferent pathway produces anxiety and locomotor hyperactivity in rats",
+        "volume": "81",
+        "author": "Murphy",
+        "year": "1996",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB45",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/S0197-4580(96)00166-2",
+        "article-title": "Age-related changes in c-fos mRNA induction after open-field exposure in the rat brain",
+        "volume": "18",
+        "author": "Nagahara",
+        "year": "1997",
+        "journal-title": "Neurobiol Aging"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB46",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1016/S0006-8993(99)02334-3",
+        "article-title": "Strain differences to the effects of aversive frequency ultrasound on behaviour and brain topography of c-fos expression in the rat",
+        "volume": "854",
+        "author": "Neophytou",
+        "year": "2000",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB47",
+        "series-title": "The Rat Brain in Stereotaxic Coordinates",
+        "author": "Paxinos",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB48",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/S0149-7634(97)00001-8",
+        "article-title": "Stress and emotionality",
+        "volume": "22",
+        "author": "Ramos",
+        "year": "1998",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB49",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1002/(SICI)1096-9861(19980831)398:3<393::AID-CNE7>3.0.CO;2-V",
+        "article-title": "Topographic organization of connections between the hypothalamus and prefrontal cortex in the rhesus monkey",
+        "volume": "398",
+        "author": "Rempel-Clower",
+        "year": "1998",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB50",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1037/0033-295X.105.2.325",
+        "article-title": "From normal fear to pathological anxiety",
+        "volume": "105",
+        "author": "Rosen",
+        "year": "1998",
+        "journal-title": "Psychol Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB52",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1016/S0166-4328(02)00135-3",
+        "article-title": "Reliability of high and low anxiety-related behaviour",
+        "volume": "136",
+        "author": "Salomé",
+        "year": "2002",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB51",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1016/S0006-8993(00)03178-4",
+        "article-title": "Activation of ventrolateral medullary neurons projecting to spinal autonomic areas after chemical stimulation of the central nucleus of amygdala",
+        "volume": "890",
+        "author": "Salomé",
+        "year": "2001",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB53",
+        "doi-asserted-by": "crossref",
+        "first-page": "6174",
+        "DOI": "10.1073/pnas.81.19.6174",
+        "article-title": "Glucocorticoid-sensitive hippocampal neurons are involved in terminating the adrenocortical stress response",
+        "volume": "81",
+        "author": "Sapolsky",
+        "year": "1984",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB54",
+        "doi-asserted-by": "crossref",
+        "first-page": "553",
+        "DOI": "10.1016/S0149-7634(02)00020-9",
+        "article-title": "Fear and power-dominance drive motivation",
+        "volume": "26",
+        "author": "Sewards",
+        "year": "2002",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB55",
+        "doi-asserted-by": "crossref",
+        "first-page": "932",
+        "DOI": "10.1016/S0006-3223(01)01215-X",
+        "article-title": "An fMRI study of anterior cingulate function in posttraumatic stress disorder",
+        "volume": "50",
+        "author": "Shin",
+        "year": "2001",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB56",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1016/0166-4328(93)90028-O",
+        "article-title": "Induction of Fos immunoreactivity in the brain by exposure to the elevated plus-maze",
+        "volume": "56",
+        "author": "Silveira",
+        "year": "1993",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB57",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1016/S0166-4328(01)00233-9",
+        "article-title": "Differential expression of Fos protein in the rat brain induced by performance of avoidance or escape in the elevated T-maze",
+        "volume": "126",
+        "author": "Silveira",
+        "year": "2001",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB59",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1016/S0006-3223(02)01574-3",
+        "article-title": "Induction of c-Fos expression in specific areas of the fear circuitry in rat forebrain by anxiogenic drugs",
+        "volume": "53",
+        "author": "Singewald",
+        "year": "2003",
+        "journal-title": "Biol Psychiatry"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB58",
+        "doi-asserted-by": "crossref",
+        "first-page": "759",
+        "DOI": "10.1016/S0306-4522(00)00177-9",
+        "article-title": "Neuroanatomical targets of anxiogenic drugs in the hindbrain as revealed by Fos immunocytochemistry",
+        "volume": "98",
+        "author": "Singewald",
+        "year": "2000",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB60",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1097/00004647-199607000-00025",
+        "article-title": "Exercise-induced changes in local cerebral glucose utilization in the rat",
+        "volume": "16",
+        "author": "Vissing",
+        "year": "1996",
+        "journal-title": "J Cereb Blood Flow Metab"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB61",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1023/A:1012222402346",
+        "article-title": "Cross-fostering and cross-breeding of HAB and LAB rats",
+        "volume": "31",
+        "author": "Wigger",
+        "year": "2001",
+        "journal-title": "Behav Genet"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wigger A, Sánchez MM, Mathys KC, Ebner K, Liu D, Frank E, et al (2004): Alterations in central neuropeptide expression, release and receptor binding in rats bred for high anxiety: Critical role of vasopressin. Neuropsychopharmacology29:1–14",
+        "DOI": "10.1038/sj.npp.1300290"
+      },
+      {
+        "key": "10.1016/j.biopsych.2003.10.021_BIB63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1077",
+        "DOI": "10.1016/0031-9384(93)90362-J",
+        "article-title": "The role of the lateral septum in anxiolysis",
+        "volume": "53",
+        "author": "Yadin",
+        "year": "1993",
+        "journal-title": "Physiol Behav"
+      }
+    ],
+    "container-title": [
+      "Biological Psychiatry"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0006322303011508?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0006322303011508?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2019-02-15T13:21:59Z",
+      "timestamp": 1550236919000
+    },
+    "score": 18.071226,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0006322303011508"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          4
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0006322303011508"
+    ],
+    "URL": "https://doi.org/10.1016/j.biopsych.2003.10.021",
+    "ISSN": [
+      "0006-3223"
+    ],
+    "issn-type": [
+      {
+        "value": "0006-3223",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          4
+        ]
+      ]
+    }
+  }
+}

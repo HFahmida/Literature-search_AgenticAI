@@ -1,0 +1,60 @@
+{
+  "paper_id": "doi:10.1016/j.bbr.2009.04.034",
+  "title": "Detection of early behavioral markers of Huntington's disease in R6/2 mice employing an automated social home cage",
+  "citation": null,
+  "doi": "10.1016/j.bbr.2009.04.034",
+  "url": "https://doi.org/10.1016/j.bbr.2009.04.034",
+  "pdf_url": null,
+  "year": 2009,
+  "authors": [
+    "Olga Rudenko",
+    "Vadim Tkach",
+    "Vladimir Berezin",
+    "Elisabeth Bock"
+  ],
+  "journal": "Behavioural Brain Research",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Reports behavioral outcomes in mice using automated home-cage monitoring, but not directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The study uses an automated home-cage system to monitor R6/2 mice for early signs of Huntington's disease.",
+  "detailed_summary": null,
+  "background_rationale": null,
+  "methods_summary": "Automated monitoring in a social home cage setting was used to detect behavioral markers of Huntington's disease in R6/2 mice.",
+  "results_summary": null,
+  "conclusion_summary": null,
+  "relevance_to_review": "Weakly relevant as it reports on automated monitoring but focuses on a specific disease model rather than general social behavior quantification.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can be used to detect behavioral changes in R6/2 mice with Huntington's disease."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": "R6/2 mice",
+  "setting": "Automated social home cage",
+  "intervention_or_exposure": "Huntington's disease model (R6/2 mice)",
+  "comparator": "Wild-type mice or other control groups not specified in the abstract.",
+  "methods": [
+    "Automated home-cage monitoring"
+  ],
+  "outcomes_measured": [
+    "Behavioral markers of Huntington's disease"
+  ],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [
+    "Not directly relevant to the review question, as it focuses on a specific disease model rather than general social behavior quantification."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Abstract does not provide sufficient detail for full extraction."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/s0924-977x(08)70751-x",
+  "title": "P.4.f.001 Genetic dissection of motor activity levels and anxiety-related behavior in mice using an automated home cage task",
+  "abstract": null,
+  "year": 2008,
+  "authors": [
+    "J.G. de Mooij-van Malsen",
+    "B. Olivier",
+    "H. Herzhog",
+    "M.J.H. Kas"
+  ],
+  "journal": "European Neuropsychopharmacology",
+  "doi": "10.1016/s0924-977x(08)70751-x",
+  "url": "https://doi.org/10.1016/s0924-977x(08)70751-x",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2024-07-07T00:42:27Z",
+      "timestamp": 1720312947658
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2008-08-01T00:00:00Z",
+          "timestamp": 1217548800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Neuropsychopharmacology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0924-977x(08)70751-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          2
+        ]
+      ],
+      "date-time": "2008-10-02T05:24:35Z",
+      "timestamp": 1222925075000
+    },
+    "page": "S500-S501",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S4",
+    "title": [
+      "P.4.f.001 Genetic dissection of motor activity levels and anxiety-related behavior in mice using an automated home cage task"
+    ],
+    "prefix": "10.1016",
+    "volume": "18",
+    "author": [
+      {
+        "given": "J.G.",
+        "family": "de Mooij-van Malsen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Olivier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Herzhog",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.J.H.",
+        "family": "Kas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Neuropsychopharmacology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0924977X0870751X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0924977X0870751X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          25
+        ]
+      ],
+      "date-time": "2018-12-25T04:29:37Z",
+      "timestamp": 1545712177000
+    },
+    "score": 24.228876,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0924977X0870751X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S0924977X0870751X"
+    ],
+    "URL": "https://doi.org/10.1016/s0924-977x(08)70751-x",
+    "ISSN": [
+      "0924-977X"
+    ],
+    "issn-type": [
+      {
+        "value": "0924-977X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    }
+  }
+}

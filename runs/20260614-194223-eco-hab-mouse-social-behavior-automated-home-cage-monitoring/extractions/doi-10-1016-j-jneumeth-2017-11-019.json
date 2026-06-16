@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi:10.1016/j.jneumeth.2017.11.019",
+  "title": "Between and within laboratory reliability of mouse behaviour recorded in home-cage and open-field",
+  "citation": null,
+  "doi": "10.1016/j.jneumeth.2017.11.019",
+  "url": "https://doi.org/10.1016/j.jneumeth.2017.11.019",
+  "pdf_url": null,
+  "year": 2018,
+  "authors": [
+    "Lianne Robinson",
+    "Berry Spruijt",
+    "Gernot Riedel"
+  ],
+  "journal": "Journal of Neuroscience Methods",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Reports behavioral outcomes in a home-cage setting, but lacks automated monitoring details.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The study evaluates the reliability of mouse behavior recorded in both home-cages and open-field settings across different laboratories.",
+  "detailed_summary": null,
+  "background_rationale": "The paper aims to assess the consistency of behavioral measurements between different experimental conditions (home-cage vs. open-field) and laboratories, which is crucial for validating results across studies.",
+  "methods_summary": "Mice were observed in both home-cage and open-field settings; however, specific automated monitoring tools are not detailed.",
+  "results_summary": "Behavioral measures showed good reliability between home-cages and open-field tests within the same laboratory but less so between different laboratories.",
+  "conclusion_summary": "The study highlights the importance of standardizing behavioral assessment methods to ensure consistency across studies.",
+  "relevance_to_review": "Relevant, as it discusses behavioral outcomes in a home-cage setting, which is part of automated monitoring approaches for social behavior.",
+  "key_takeaways": [
+    "Behavioral measures are more consistent within laboratories than between them."
+  ],
+  "objective": "To evaluate the reliability of mouse behavior recorded in both home-cage and open-field settings across different laboratories.",
+  "study_design": "Cross-laboratory comparison study",
+  "population_or_sample": "Mice observed in home-cages and open-field settings",
+  "setting": "Laboratories with varying conditions",
+  "intervention_or_exposure": "Behavioral observation in both home-cage and open-field environments",
+  "comparator": "Home-cage vs. open-field behavioral observations",
+  "methods": [
+    "Observation of mouse behavior in home-cages and open-fields"
+  ],
+  "outcomes_measured": [
+    "Reliability of behavioral measures across different settings and laboratories"
+  ],
+  "main_results": [
+    "Behavioral measures showed good reliability within the same laboratory but less so between different laboratories."
+  ],
+  "conclusions": [
+    "Standardization of behavioral assessment methods is necessary to ensure consistency in results across studies."
+  ],
+  "limitations": [
+    "Lack of detailed automated monitoring tools and specific protocols used for observation"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Specific details on the automated monitoring systems used"
+  ]
+}

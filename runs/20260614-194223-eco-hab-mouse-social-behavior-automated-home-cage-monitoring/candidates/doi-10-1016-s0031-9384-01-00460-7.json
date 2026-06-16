@@ -1,0 +1,501 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/s0031-9384(01)00460-7",
+  "title": "A model of social stress in dominant mice",
+  "abstract": null,
+  "year": 2001,
+  "authors": [
+    "F.R. D'Amato",
+    "R. Rizzi",
+    "A. Moles"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/s0031-9384(01)00460-7",
+  "url": "https://doi.org/10.1016/s0031-9384(01)00460-7",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2026-01-19T13:11:22Z",
+      "timestamp": 1768828282204,
+      "version": "3.49.0"
+    },
+    "reference-count": 27,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2001-06-01T00:00:00Z",
+          "timestamp": 991353600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0031-9384(01)00460-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T12:29:03Z",
+      "timestamp": 1027600143000
+    },
+    "page": "421-426",
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": [
+      "A model of social stress in dominant mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "73",
+    "author": [
+      {
+        "given": "F.R.",
+        "family": "D'Amato",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Rizzi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Moles",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1163/156853974X00534",
+        "article-title": "Observational study of behaviour: sampling methods",
+        "volume": "49",
+        "author": "Altman",
+        "year": "1974",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/0166-4328(93)90096-9",
+        "article-title": "Subordination stress: behavioral, brain, and neuroendocrine correlates",
+        "volume": "58",
+        "author": "Blanchard",
+        "year": "1993",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1007/s002130050142",
+        "article-title": "Stress, depression and the mesolimbic dopamine system",
+        "volume": "128",
+        "author": "Cabib",
+        "year": "1996",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1016/0006-8993(84)91156-9",
+        "article-title": "Chronic stress enhances apomorphine-induced stereotyped behavior in mice: involvement of endogenous opioids",
+        "volume": "298",
+        "author": "Cabib",
+        "year": "1984",
+        "journal-title": "Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1016/S0166-4328(00)00157-1",
+        "article-title": "Behavioral and mesocorticolimbic dopamine responses to non aggressive social interactions depend on previous social experiences and on the opponent's sex",
+        "volume": "112",
+        "author": "Cabib",
+        "year": "2000",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1006/brbi.1998.0505",
+        "article-title": "Increased number of mast cells in the central nervous system of adult male mice following chronic subordination stress",
+        "volume": "12",
+        "author": "Cirulli",
+        "year": "1998",
+        "journal-title": "Brain Behav Immun"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1037/0735-7036.102.2.146",
+        "article-title": "Effects of male social status on reproductive success and on behaviour in mice (Mus mulsculus)",
+        "volume": "102",
+        "author": "D'Amato",
+        "year": "1988",
+        "journal-title": "J Comp Psychol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1080/08927014.1991.9525358",
+        "article-title": "Male–male interference in a reproductive context: effect of social status in mice",
+        "volume": "3",
+        "author": "D'Amato",
+        "year": "1991",
+        "journal-title": "Ethol Ecol Evol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "939",
+        "DOI": "10.1126/science.182.4115.939",
+        "article-title": "Social rank in the house mouse: differentiation revealed by ultraviolet visualization of urinary marking patterns",
+        "volume": "182",
+        "author": "Desjardins",
+        "year": "1973",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.1016/S0031-9384(97)00544-1",
+        "article-title": "Interindividual variability in Swiss male mice: relationship between social factors, aggression, and anxiety",
+        "volume": "63",
+        "author": "Ferrari",
+        "year": "1998",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/S0361-9230(99)00087-8",
+        "article-title": "Defeat is a major stressor in males while social instability is stressful mainly in females: towards the development of a social stress model in female rats",
+        "volume": "50",
+        "author": "Haller",
+        "year": "1999",
+        "journal-title": "Brain Res Bull"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1016/0031-9384(74)90287-X",
+        "article-title": "Sex-attractant emitted by female mice",
+        "volume": "13",
+        "author": "Hayashi",
+        "year": "1974",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB13",
+        "first-page": "753",
+        "article-title": "Behavioural consequences of repeated social defeat in the mouse: preliminary evaluation of a potential animal model of depression",
+        "volume": "10",
+        "author": "Keeney",
+        "year": "1999",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1007/BF02471782",
+        "article-title": "Agonistic behaviour: a model, experimental studies, and perspectives",
+        "volume": "30",
+        "author": "Kudryavtseva",
+        "year": "2000",
+        "journal-title": "Neurosci Behav Physiol"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1016/0091-3057(91)90284-9",
+        "article-title": "Social model of depression in mice of C57BL/6J strain",
+        "volume": "38",
+        "author": "Kudryavtseva",
+        "year": "1991",
+        "journal-title": "Pharmacol, Biochem Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "415",
+        "DOI": "10.1007/BF02691361",
+        "article-title": "Effects of stress on defensive aggression and dominance in a water competition test",
+        "volume": "29",
+        "author": "Lucion",
+        "year": "1994",
+        "journal-title": "Integr Physiol Behav Sci"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "769",
+        "DOI": "10.1016/S0031-9384(99)00131-6",
+        "article-title": "Social stress effects on territorial marking and ultrasonic vocalizations in mice",
+        "volume": "67",
+        "author": "Lumley",
+        "year": "1999",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/S0168-0102(96)01088-7",
+        "article-title": "Persistent c-fos expression in the brains of mice with chronic social stress",
+        "volume": "26",
+        "author": "Matsuda",
+        "year": "1996",
+        "journal-title": "Neurosci Res"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.3109/10253899609001093",
+        "article-title": "Changes in behaviour and body weight following a single or double social defeat in rats",
+        "volume": "1",
+        "author": "Meerlo",
+        "year": "1996",
+        "journal-title": "Stress"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1520",
+        "DOI": "10.1126/science.7199758",
+        "article-title": "Opioid-like analgesia in defeated mice",
+        "volume": "215",
+        "author": "Miczek",
+        "year": "1982",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "957",
+        "DOI": "10.1016/S0149-7634(99)00029-9",
+        "article-title": "Selection, evolution of behaviour and animal models in behavioural neuroscience",
+        "volume": "23",
+        "author": "Parmigiani",
+        "year": "1999",
+        "journal-title": "Neurosci Biobehav Rev"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1016/0031-9384(86)90007-7",
+        "article-title": "Behavioural, physiological and immunological consequences of social status and aggression in chronically coexisting resident–intruder dyads of male rats",
+        "volume": "36",
+        "author": "Raab",
+        "year": "1986",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1007/s002130050398",
+        "article-title": "An animal model of copulatory disorder induced by social stress in male mice: effects of apomorphine and l-dopa",
+        "volume": "133",
+        "author": "Sugiura",
+        "year": "1997",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/S0031-9384(01)00459-0",
+        "article-title": "Gender differences in vulnerability to social stress: a Darwinian perspective",
+        "volume": "73",
+        "author": "Troisi",
+        "year": "2001",
+        "journal-title": "Physiol Behav"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1163/156853971X00014",
+        "article-title": "Biological significance, genetics and evolutionary origin of variability within and between inbreed strains of mice (Mus musculus)",
+        "volume": "38",
+        "author": "van Oortmerssen",
+        "year": "1971",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1007/s002130050456",
+        "article-title": "Validity, reliability and utility of the chronic mild stress model of depression: a 10-year review and evaluation",
+        "volume": "134",
+        "author": "Willner",
+        "year": "1997",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/S0031-9384(01)00460-7_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/S0149-7634(05)80138-1",
+        "article-title": "Ethopharmacology of copulatory disorder induced by chronic social conflict in male mice",
+        "volume": "15",
+        "author": "Yoshimura",
+        "year": "1991",
+        "journal-title": "Neurosci Biobehav Rev"
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938401004607?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031938401004607?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2019-04-25T21:20:54Z",
+      "timestamp": 1556227254000
+    },
+    "score": 17.711857,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031938401004607"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0031938401004607"
+    ],
+    "URL": "https://doi.org/10.1016/s0031-9384(01)00460-7",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          6
+        ]
+      ]
+    }
+  }
+}

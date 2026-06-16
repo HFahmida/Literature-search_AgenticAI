@@ -1,0 +1,699 @@
+{
+  "source": "crossref",
+  "source_id": "10.1038/ncomms1064",
+  "title": "Automated home-cage behavioural phenotyping of mice",
+  "abstract": null,
+  "year": 2010,
+  "authors": [
+    "Hueihan Jhuang",
+    "Estibaliz Garrote",
+    "Xinlin Yu",
+    "Vinita Khilnani",
+    "Tomaso Poggio",
+    "Andrew D. Steele",
+    "Thomas Serre"
+  ],
+  "journal": "Nature Communications",
+  "doi": "10.1038/ncomms1064",
+  "url": "https://doi.org/10.1038/ncomms1064",
+  "pdf_url": "https://www.nature.com/articles/ncomms1064.pdf",
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T02:54:09Z",
+      "timestamp": 1780541649440,
+      "version": "3.54.1"
+    },
+    "reference-count": 30,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2010-09-07T00:00:00Z",
+          "timestamp": 1283817600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2010-09-07T00:00:00Z",
+          "timestamp": 1283817600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Commun"
+    ],
+    "DOI": "10.1038/ncomms1064",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          7
+        ]
+      ],
+      "date-time": "2010-09-07T09:25:27Z",
+      "timestamp": 1283851527000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 223,
+    "title": [
+      "Automated home-cage behavioural phenotyping of mice"
+    ],
+    "prefix": "10.1038",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Hueihan",
+        "family": "Jhuang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Estibaliz",
+        "family": "Garrote",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xinlin",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinita",
+        "family": "Khilnani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tomaso",
+        "family": "Poggio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew D.",
+        "family": "Steele",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Serre",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "BFncomms1064_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "925",
+        "DOI": "10.1038/ng0904-925",
+        "volume": "36",
+        "author": "J Auwerx",
+        "year": "2004",
+        "unstructured": "Auwerx, J. & El, A. The European dimension for the mouse genome mutagenesis program. Nat. Genet. 36, 925–927 (2004).",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "BFncomms1064_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "volume": "284",
+        "author": "JC Crabbe",
+        "year": "1999",
+        "unstructured": "Crabbe, J. C., Wahlsten, D. & Dudek, B. C. Genetics of mouse behavior: interactions with laboratory environment. Science 284, 1670–1672 (1999).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFncomms1064_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "23",
+        "DOI": "10.1016/S0896-6273(01)00564-5",
+        "volume": "33",
+        "author": "JM Greer",
+        "year": "2002",
+        "unstructured": "Greer, J. M. & Capecchi, M. R. Hoxb8 is required for normal grooming behavior in mice. Neuron 33, 23–34 (2002).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms1064_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "152",
+        "DOI": "10.1111/j.1601-183X.2007.00330.x",
+        "volume": "7",
+        "author": "HG Mcfarlane",
+        "year": "2008",
+        "unstructured": "Mcfarlane, H. G. et al. Autism-like behavioral phenotypes in BTBR T1tf/J mice. Genes Brain Behav. 7, 152–163 (2008).",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "BFncomms1064_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.1258/la.2008.007156",
+        "volume": "43",
+        "author": "JV Roughan",
+        "year": "2008",
+        "unstructured": "Roughan, J. V., Wright-Williams, S. L. & Flecknell, P. A. Automated analysis of postoperative behaviour: assessment of HomeCageScan as a novel method to rapidly identify pain and analgesic effects in mice. Lab. Anim. 43, 17–26 (2008).",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "BFncomms1064_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1641",
+        "DOI": "10.1126/science.1118357",
+        "volume": "310",
+        "author": "D Chen",
+        "year": "2005",
+        "unstructured": "Chen, D., Steele, A. D., Lindquist, S. & Guarente, L. Increase in activity during calorie restriction requires Sirt1. Science 310, 1641 (2005).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFncomms1064_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1983",
+        "DOI": "10.1073/pnas.0610779104",
+        "volume": "104",
+        "author": "AD Steele",
+        "year": "2007",
+        "unstructured": "Steele, A. D., Jackson, W. S., King, O. D. & Lindquist, S. The power of automated high-resolution behavior analysis revealed by its application to mouse models of Huntington's and prion diseases. Proc. Natl Acad. Sci. 104, 1983–1988 (2007).",
+        "journal-title": "Proc. Natl Acad. Sci."
+      },
+      {
+        "key": "BFncomms1064_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "20575",
+        "DOI": "10.1073/pnas.0809053106",
+        "volume": "105",
+        "author": "EH Goulding",
+        "year": "2008",
+        "unstructured": "Goulding, E. H. et al. A robust automated system elucidates mouse home cage behavioral structure. Proc. Natl Acad. Sci. 105, 20575–20582 (2008).",
+        "journal-title": "Proc. Natl Acad. Sci."
+      },
+      {
+        "key": "BFncomms1064_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "735",
+        "DOI": "10.1046/j.1460-9568.2002.02128.x",
+        "volume": "16",
+        "author": "G Dell'Omo",
+        "year": "2002",
+        "unstructured": "Dell'Omo, G. et al. Early behavioural changes in mice infected with BSE and scrapie: automated home cage monitoring reveals prion strain differences. Eur. J. Neurosci. 16, 735–742 (2002).",
+        "journal-title": "Eur. J. Neurosci."
+      },
+      {
+        "key": "BFncomms1064_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "13626",
+        "DOI": "10.1073/pnas.0806319105",
+        "volume": "105",
+        "author": "AD Steele",
+        "year": "2008",
+        "unstructured": "Steele, A. D. et al. Heat shock factor 1 regulates lifespan as distinct from disease onset in prion disease. Proc. Natl Acad. Sci. 105, 13626–13631 (2008).",
+        "journal-title": "Proc. Natl Acad. Sci."
+      },
+      {
+        "key": "BFncomms1064_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1621",
+        "DOI": "10.1093/hmg/ddg163",
+        "volume": "12",
+        "author": "WS Jackson",
+        "year": "2003",
+        "unstructured": "Jackson, W. S., Tallaksen-greene, S. J., Albin, R. L. & Detloff, P. J. Nucleocytoplasmic transport signals affect the age at onset of abnormalities in knock-in mice expressing polyglutamine within an ectopic protein context. Hum. Mol. Gen. 12, 1621–1629 (2003).",
+        "journal-title": "Hum. Mol. Gen."
+      },
+      {
+        "key": "BFncomms1064_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "398",
+        "DOI": "10.3758/BF03195394",
+        "volume": "33",
+        "author": "LP Noldus",
+        "year": "2001",
+        "unstructured": "Noldus, L. P., Spink, A. J. & Tegelenbosch, R. A. EthoVision: a versatile video tracking system for automation of behavioral experiments. Behav. Res. Meth. Ins. C. 33, 398–414 (2001).",
+        "journal-title": "Behav. Res. Meth. Ins. C."
+      },
+      {
+        "key": "BFncomms1064_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "188",
+        "DOI": "10.1016/j.bbr.2009.04.034",
+        "volume": "203",
+        "author": "O Rudenko",
+        "year": "2009",
+        "unstructured": "Rudenko, O., Tkach, V., Berezin, V. & Bock, E. Detection of early behavioral markers of Huntington's disease in R6/2 mice employing an automated social home cage. Behav. Brain Res. 203, 188–199 (2009).",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "BFncomms1064_CR14",
+        "first-page": "886",
+        "volume": "1",
+        "author": "N Dalal",
+        "year": "2005",
+        "unstructured": "Dalal, N. & Triggs, B. Histograms of oriented gradients for human detection. Proc. IEEE Comp. Vision and Patt. Recogn. 1, 886–893 (2005).",
+        "journal-title": "Proc. IEEE Comp. Vision and Patt. Recogn."
+      },
+      {
+        "key": "BFncomms1064_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1023/B:VISI.0000013087.49260.fb",
+        "volume": "57",
+        "author": "P Viola",
+        "year": "2002",
+        "unstructured": "Viola, P. & Jones, M. Robust real-time object detection. Int. J. Comp. Vision 57, 137–154 (2002).",
+        "journal-title": "Int. J. Comp. Vision"
+      },
+      {
+        "key": "BFncomms1064_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "90",
+        "DOI": "10.1016/j.cviu.2006.08.002",
+        "volume": "104",
+        "author": "TB Moeslund",
+        "year": "2006",
+        "unstructured": "Moeslund, T. B., Hilton, A. & Kruger, V. A survey of advances in vision-based human motion capture and analysis. Comput. Vis. Image Underst. 104, 90–126 (2006).",
+        "journal-title": "Comput. Vis. Image Underst."
+      },
+      {
+        "key": "BFncomms1064_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "463",
+        "DOI": "10.1109/TPAMI.2007.70707",
+        "volume": "30",
+        "author": "A Veeraraghavan",
+        "year": "2008",
+        "unstructured": "Veeraraghavan, A., Chellappa, R. & Srinivasan, M. Shape-and-behavior encoded tracking of bee dances. IEEE Trans. Pattern Anal. Mach. Intell. 30, 463–476 (2008).",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "BFncomms1064_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1016/j.jneumeth.2008.02.016",
+        "volume": "171",
+        "author": "SN Fry",
+        "year": "2008",
+        "unstructured": "Fry, S. N., Rohrseitz, N., Straw, A. D. & Dickinson, M. H. TrackFly: virtual reality for a behavioral system analysis in free-ying fruit flies. J. Neurosci. Methods 171, 110–117 (2008).",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "BFncomms1064_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1805",
+        "DOI": "10.1109/TPAMI.2005.223",
+        "volume": "27",
+        "author": "Z Khan",
+        "year": "2005",
+        "unstructured": "Khan, Z., Balch, T. & Dellaert, F. MCMC-based particle filtering for tracking a variable number of interacting targets. IEEE Trans. Pattern Anal. Mach. Intell. 27, 1805–1819 (2005).",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "BFncomms1064_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "451",
+        "DOI": "10.1038/nmeth.1328",
+        "volume": "6",
+        "author": "K Branson",
+        "year": "2009",
+        "unstructured": "Branson, K., Robie, A. A., Bender, J., Perona, P. & Dickinson, M.H. High-throughput ethomics in large groups of Drosophila. Nat. Methods 6, 451–457 (2009).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms1064_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "297",
+        "DOI": "10.1038/nmeth.1310",
+        "volume": "6",
+        "author": "H Dankert",
+        "year": "2009",
+        "unstructured": "Dankert, H., Wang, L., Hoopfer, E. D., Anderson, D.J. & Perona, P. Automated monitoring and analysis of social behavior in Drosophila. Nat. Methods 6, 297–303 (2009).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms1064_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1016/j.robot.2008.10.018",
+        "volume": "57",
+        "author": "X Xue",
+        "year": "2009",
+        "unstructured": "Xue, X. & Henderson, T. C. Feature fusion for basic behavior unit segmentation from video sequences. Robot. Auton. Syst. 57, 239–248 (2009).",
+        "journal-title": "Robot. Auton. Syst."
+      },
+      {
+        "key": "BFncomms1064_CR23",
+        "first-page": "65",
+        "volume": "1",
+        "author": "P Dollar",
+        "year": "2005",
+        "unstructured": "Dollar, P., Rabaud, V., Cottrell, G. & Belongie, S. Behavior recognition via sparse spatio-temporal features. Proc. IEEE Int. Workshop on VS-PETS 1, 65–72 (2005).",
+        "journal-title": "Proc. IEEE Int. Workshop on VS-PETS"
+      },
+      {
+        "key": "BFncomms1064_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.1038/nrn1057",
+        "volume": "4",
+        "author": "MA Giese",
+        "year": "2003",
+        "unstructured": "Giese, M. A. & Poggio, T. Neural mechanisms for the recognition of biological movements. Nat. Rev. Neurosci. 4, 179–192 (2003).",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "BFncomms1064_CR25",
+        "first-page": "1",
+        "volume": "1",
+        "author": "H Jhuang",
+        "year": "2007",
+        "unstructured": "Jhuang, H., Serre, T., Wolf, L. & Poggio, T. A biologically inspired system for action recognition. Proc. IEEE Int. Conf. on Comp. Vision 1, 1–8 (2007).",
+        "journal-title": "Proc. IEEE Int. Conf. on Comp. Vision"
+      },
+      {
+        "key": "BFncomms1064_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "157",
+        "DOI": "10.1146/annurev.neuro.26.041002.131052",
+        "volume": "28",
+        "author": "RT Born",
+        "year": "2005",
+        "unstructured": "Born, R. T. & Bradley, D.C. Structure and function of visual area MT. Annu. Rev. Neurosci. 28, 157–189 (2005).",
+        "journal-title": "Annu. Rev. Neurosci."
+      },
+      {
+        "key": "BFncomms1064_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "743",
+        "DOI": "10.1016/S0042-6989(97)00183-1",
+        "volume": "38",
+        "author": "EP Simoncelli",
+        "year": "1998",
+        "unstructured": "Simoncelli, E. P. & Heeger, D. J. A model of neuronal responses in visual area MT. Vision Res. 38, 743–761 (1998).",
+        "journal-title": "Vision Res."
+      },
+      {
+        "key": "BFncomms1064_CR28",
+        "first-page": "3",
+        "volume": "1",
+        "author": "Y Altun",
+        "year": "2003",
+        "unstructured": "Altun, Y., Tsochantaridis, I. & Hofmann, T. Hidden Markov support vector machines. Proc. Int. Conf. on Mach. Learn. 1, 3–10 (2003).",
+        "journal-title": "Proc. Int. Conf. on Mach. Learn."
+      },
+      {
+        "key": "BFncomms1064_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1007/s10994-009-5108-8",
+        "volume": "76",
+        "author": "T Joachims",
+        "year": "2009",
+        "unstructured": "Joachims, T., Finley, T. & Yu, C.-n. J. Cutting-plane training of structural SVMs. Mach. Learn 76, 27–59 (2009).",
+        "journal-title": "Mach. Learn"
+      },
+      {
+        "key": "BFncomms1064_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "volume": "7",
+        "author": "LH Tecott",
+        "year": "2004",
+        "unstructured": "Tecott, L. H. & Nestler, E. J. Neurobehavioral assessment in the information age. Nat. Neurosci. 7, 462–466 (2004).",
+        "journal-title": "Nat. Neurosci."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1038/ncomms1399",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2012,
+              1,
+              31
+            ]
+          ],
+          "date-time": "2012-01-31T00:00:00Z",
+          "timestamp": 1327968000000
+        }
+      }
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/ncomms1064.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms1064",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms1064.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2023-01-06T03:54:47Z",
+      "timestamp": 1672977287000
+    },
+    "score": 22.647718,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/ncomms1064"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          7
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2010,
+            12,
+            21
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFncomms1064"
+    ],
+    "URL": "https://doi.org/10.1038/ncomms1064",
+    "ISSN": [
+      "2041-1723"
+    ],
+    "issn-type": [
+      {
+        "value": "2041-1723",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "24 May 2010",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 August 2010",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 September 2010",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "31 January 2012",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Update",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "A correction has been published and is appended to both the HTML and PDF versions of this paper. The error has not been fixed in the paper.",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing financial interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "68"
+  }
+}

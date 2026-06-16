@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi:10.1016/j.jneumeth.2014.04.026",
+  "title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice.",
+  "citation": null,
+  "doi": "10.1016/j.jneumeth.2014.04.026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24792526/",
+  "pdf_url": null,
+  "year": 2014,
+  "authors": [
+    "Elisabetta Vannoni",
+    "Vootele Voikar",
+    "Giovanni Colacicco",
+    "María Alvarez Sánchez",
+    "Hans-Peter Lipp",
+    "David P Wolfer"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper reports on automated home-cage monitoring and behavioral outcomes in mice, which is directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The study evaluates the use of automated home-cage monitoring to assess spontaneous behavior in mice, particularly for strain and mutation discrimination.",
+  "detailed_summary": "This paper investigates how automated home-cage monitoring can be used to screen mutant mice strains. Using the IntelliCage system, they found that behavioral profiles could distinguish between different mouse strains and lesion models, suggesting its utility as a prescreening tool before more specialized tests.",
+  "background_rationale": null,
+  "methods_summary": "The study utilized the IntelliCage system for automated monitoring of spontaneous behavior in mice over a week. Principal component analysis was applied to identify key behavioral components that could differentiate between strains and lesion models.",
+  "results_summary": "Principal component analysis identified 11 uncorrelated components accounting for 82% of total variance, which characterized various behaviors such as corner visits, drinking activity, and diurnal activity patterns. These profiles were highly strain-specific and consistent across different labs and experiments.",
+  "conclusion_summary": "The monitoring of spontaneous behavior in the IntelliCage can provide significant prescreening information for mutant mice strains or lesion models before more detailed behavioral tests are conducted.",
+  "relevance_to_review": "Highly relevant as it addresses automated home-cage monitoring approaches to quantify social and other behaviors in mice.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can effectively discriminate between different mouse strains and lesion models based on spontaneous behavior.",
+    "This method could serve as a prescreening tool before more specialized behavioral tests."
+  ],
+  "objective": "To determine if automated home-cage monitoring using the IntelliCage system can provide useful prescreening information for mutant mice strains or lesion models.",
+  "study_design": "Cross-sectional study",
+  "population_or_sample": "1552 mice tested over multiple years in the IntelliCage system",
+  "setting": "Automated home-cage monitoring using the IntelliCage system",
+  "intervention_or_exposure": "Monitoring of spontaneous behavior for a week",
+  "comparator": null,
+  "methods": [
+    "IntelliCage automated home-cage monitoring system",
+    "Principal component analysis"
+  ],
+  "outcomes_measured": [
+    "Behavioral profiles based on principal components",
+    "Strain and lesion model discrimination"
+  ],
+  "main_results": [
+    "11 uncorrelated behavioral components identified, accounting for 82% of total variance.",
+    "Highly strain-specific and consistent across different labs and experiments."
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring can provide significant prescreening information before specialized tests are conducted.",
+    "Behavioral profiles can distinguish between different mouse strains or lesion models."
+  ],
+  "limitations": [
+    "The study was based on historical data from multiple years, which may have introduced variability.",
+    "Further validation with additional strains and lesions is needed."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "We found 11 uncorrelated components which accounted for 82% of total variance. They characterize frequency and properties of corner visits and nosepokes, drinking activity, spatial distribution, as well as diurnal time course of activity."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

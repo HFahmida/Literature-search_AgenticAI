@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "33368537",
+  "title": "Social isolation is closely linked to a marked reduction in physical activity in male mice.",
+  "abstract": "The effects of social isolation on an individual's behavior is an important field of research, especially as public health officials encourage social distancing to prevent the spread of pandemic disease. In this study we evaluate the effects of social isolation on physical activity in mice. Utilizing a pixel-based tracking system, we continuously monitored the movement of isolated mice compared with paired cage mates in the home cage environment. We demonstrate that mice that are socially isolated dramatically decrease their movement when separated from their cage mate, and especially in the dark cycle, when mice are normally most active. When isolated mice are re-paired with their original cage mate, this effect is reversed, and mice return to their prior levels of activity. These findings suggest a close link between social isolation and physical activity, and are of particular interest in the wake of coronavirus disease 2019, when many are forced into isolation. Social isolation may affect an individual's overall activity levels in humans too, which may have unintended effects on health that deserve further consideration.",
+  "year": 2021,
+  "authors": [
+    "Kelly Clemenza",
+    "Shira H Weiss",
+    "Keely Cheslack",
+    "Denise B Kandel",
+    "Eric R Kandel",
+    "Amir A Levine"
+  ],
+  "journal": "Journal of neuroscience research",
+  "doi": "10.1002/jnr.24777",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33368537/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "33368537"
+  }
+}

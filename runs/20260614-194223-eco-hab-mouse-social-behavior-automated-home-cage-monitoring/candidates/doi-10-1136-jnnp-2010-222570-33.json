@@ -1,0 +1,254 @@
+{
+  "source": "crossref",
+  "source_id": "10.1136/jnnp.2010.222570.33",
+  "title": "A33 Behavioural evaluation of Huntington's disease mouse models with an automated home cage system",
+  "abstract": null,
+  "year": 2010,
+  "authors": [
+    "J Magg",
+    "E Portal",
+    "A Kelp",
+    "J Ehrismann",
+    "G Pahnke",
+    "O Riess",
+    "H P Nguyen"
+  ],
+  "journal": "Journal of Neurology, Neurosurgery & Psychiatry",
+  "doi": "10.1136/jnnp.2010.222570.33",
+  "url": "https://doi.org/10.1136/jnnp.2010.222570.33",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T01:28:29Z",
+      "timestamp": 1648517309229
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "Suppl 1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Neurol Neurosurg Psychiatry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1136/jnnp.2010.222570.33",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          1
+        ]
+      ],
+      "date-time": "2015-12-01T00:33:01Z",
+      "timestamp": 1448929981000
+    },
+    "page": "A11.1-A11",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A33 Behavioural evaluation of Huntington's disease mouse models with an automated home cage system"
+    ],
+    "prefix": "10.1136",
+    "volume": "81",
+    "author": [
+      {
+        "given": "J",
+        "family": "Magg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E",
+        "family": "Portal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A",
+        "family": "Kelp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "Ehrismann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G",
+        "family": "Pahnke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "O",
+        "family": "Riess",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H P",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          11,
+          16
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Neurology, Neurosurgery &amp; Psychiatry"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/jnnp.2010.222570.33",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2020-09-26T02:12:27Z",
+      "timestamp": 1601086347000
+    },
+    "score": 23.585836,
+    "resource": {
+      "primary": {
+        "URL": "https://jnnp.bmj.com/lookup/doi/10.1136/jnnp.2010.222570.33"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Suppl 1",
+      "published-online": {
+        "date-parts": [
+          [
+            2010,
+            11,
+            16
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/jnnp.2010.222570.33"
+    ],
+    "URL": "https://doi.org/10.1136/jnnp.2010.222570.33",
+    "ISSN": [
+      "0022-3050",
+      "1468-330X"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-3050",
+        "type": "print"
+      },
+      {
+        "value": "1468-330X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "source": "crossref",
+  "source_id": "10.1038/s41598-021-91444-4",
+  "title": "Automated home-cage for the evaluation of innate non-reflexive pain behaviors in a mouse model of inflammatory pain",
+  "abstract": "Abstract The failure to develop analgesic drugs is attributed not only to the complex and diverse pathophysiology of pain in humans but also to the poor experimental design and poor preclinical assessment of pain. Although considerable efforts have been devoted to overcoming the relevant problems, many features of the behavioral pain assessment remain to be characterized. For example, a decreased locomotor activity as a common presentation of pain-like behavior has yet to be described. Studies on mice experimentally induced with carrageenan have provided opportunities to explore pain-related behaviors in automated home-cage monitoring. Through this approach, the locomotor activities of mice with carrageenan-induced inflammatory pain can be precisely and objectively captured. Here, we found that the mobile behaviors of mice reduced, and their immobility increased, indicating that carrageenan induction in mice caused a significant decrease in locomotor activity. These non-reflexive pain behaviors were strongly correlated with the reflexive pain behaviors measured via von Frey and plantar tests. Furthermore, the pharmacological intervention using indomethacin improved the locomotor activity of mice with carrageenan-induced pain. Thus, the analysis of the locomotor activity in automated home-cage monitoring is useful for studying the behavioral analgesia and the pharmacological screening of analgesic drugs. The combined evaluation of reflexive and non-reflexive pain behaviors enhances the translational utility of preclinical pain research in rodents.",
+  "year": 2021,
+  "authors": [
+    "Hasriadi",
+    "Peththa Wadu Dasuni Wasana",
+    "Opa Vajragupta",
+    "Pornchai Rojsitthisak",
+    "Pasarapa Towiwat"
+  ],
+  "journal": "Scientific Reports",
+  "doi": "10.1038/s41598-021-91444-4",
+  "url": "https://doi.org/10.1038/s41598-021-91444-4",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-91444-4.pdf",
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T07:31:59Z",
+      "timestamp": 1776497519669,
+      "version": "3.51.2"
+    },
+    "reference-count": 72,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              6,
+              10
+            ]
+          ],
+          "date-time": "2021-06-10T00:00:00Z",
+          "timestamp": 1623283200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              6,
+              10
+            ]
+          ],
+          "date-time": "2021-06-10T00:00:00Z",
+          "timestamp": 1623283200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002873",
+        "name": "Chulalongkorn University",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100002873",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004704",
+        "name": "National Research Council of Thailand",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "IRN FY2020 507/2563"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "IRN FY2020 507/2563"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004704",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Thailand Science Research and Innovation (TSRI) Fund",
+        "award": [
+          "CU_FRB640001_01_33_3"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "CU_FRB640001_01_33_3"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Rep"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The failure to develop analgesic drugs is attributed not only to the complex and diverse pathophysiology of pain in humans but also to the poor experimental design and poor preclinical assessment of pain. Although considerable efforts have been devoted to overcoming the relevant problems, many features of the behavioral pain assessment remain to be characterized. For example, a decreased locomotor activity as a common presentation of pain-like behavior has yet to be described. Studies on mice experimentally induced with carrageenan have provided opportunities to explore pain-related behaviors in automated home-cage monitoring. Through this approach, the locomotor activities of mice with carrageenan-induced inflammatory pain can be precisely and objectively captured. Here, we found that the mobile behaviors of mice reduced, and their immobility increased, indicating that carrageenan induction in mice caused a significant decrease in locomotor activity. These non-reflexive pain behaviors were strongly correlated with the reflexive pain behaviors measured via von Frey and plantar tests. Furthermore, the pharmacological intervention using indomethacin improved the locomotor activity of mice with carrageenan-induced pain. Thus, the analysis of the locomotor activity in automated home-cage monitoring is useful for studying the behavioral analgesia and the pharmacological screening of analgesic drugs. The combined evaluation of reflexive and non-reflexive pain behaviors enhances the translational utility of preclinical pain research in rodents.</jats:p>",
+    "DOI": "10.1038/s41598-021-91444-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2021-06-10T10:04:33Z",
+      "timestamp": 1623319473000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Automated home-cage for the evaluation of innate non-reflexive pain behaviors in a mouse model of inflammatory pain"
+    ],
+    "prefix": "10.1038",
+    "volume": "11",
+    "author": [
+      {
+        "family": "Hasriadi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peththa Wadu Dasuni",
+        "family": "Wasana",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Opa",
+        "family": "Vajragupta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pornchai",
+        "family": "Rojsitthisak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pasarapa",
+        "family": "Towiwat",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "91444_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1038/ncprheum0972",
+        "volume": "5",
+        "author": "B Bingham",
+        "year": "2009",
+        "unstructured": "Bingham, B., Ajit, S. K., Blake, D. R. & Samad, T. A. The molecular basis of pain and its clinical implications in rheumatology. Nat. Clin. Pract. Rheumatol. 5, 28–37 (2009).",
+        "journal-title": "Nat. Clin. Pract. Rheumatol."
+      },
+      {
+        "key": "91444_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1038/s41577-019-0147-2",
+        "volume": "19",
+        "author": "P Baral",
+        "year": "2019",
+        "unstructured": "Baral, P., Udit, S. & Chiu, I. M. Pain and immunity: implications for host defence. Nat. Rev. Immunol. 19, 433–447 (2019).",
+        "journal-title": "Nat. Rev. Immunol."
+      },
+      {
+        "key": "91444_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1038/nbt.2786",
+        "volume": "32",
+        "author": "M Hay",
+        "year": "2014",
+        "unstructured": "Hay, M., Thomas, D. W., Craighead, J. L., Economides, C. & Rosenthal, J. Clinical development success rates for investigational drugs. Nat. Biotechnol. 32, 40–51 (2014).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "91444_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "283",
+        "DOI": "10.1038/nrn2606",
+        "volume": "10",
+        "author": "JS Mogil",
+        "year": "2009",
+        "unstructured": "Mogil, J. S. Animal models of pain: progress and challenges. Nat. Rev. Neurosci. 10, 283–294 (2009).",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "91444_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.1016/j.pain.2007.12.008",
+        "volume": "135",
+        "author": "CJ Vierck",
+        "year": "2008",
+        "unstructured": "Vierck, C. J., Hansson, P. T. & Yezierski, R. P. Clinical and pre-clinical pain assessment: are we measuring the same thing?. Pain 135, 7–10 (2008).",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "91444_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "451",
+        "DOI": "10.30802/AALAS-CM-19-000042",
+        "volume": "69",
+        "author": "PV Turner",
+        "year": "2019",
+        "unstructured": "Turner, P. V., Pang, D. S. & Lofgren, J. L. A review of pain assessment methods in laboratory rodents. Comp. Med. 69, 451–467 (2019).",
+        "journal-title": "Comp. Med."
+      },
+      {
+        "key": "91444_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.1016/j.neubiorev.2019.03.009",
+        "volume": "100",
+        "author": "A Tappe-Theodor",
+        "year": "2019",
+        "unstructured": "Tappe-Theodor, A., King, T. & Morgan, M. M. Pros and cons of clinically relevant methods to assess pain in rodents. Neurosci. Biobehav. Rev. 100, 335–343 (2019).",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "91444_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "765",
+        "DOI": "10.1097/00000542-200404000-00003",
+        "volume": "100",
+        "author": "JC Eisenach",
+        "year": "2004",
+        "unstructured": "Eisenach, J. C. & Lindner, M. D. Did experimenter bias conceal the efficacy of spinal opioids in previous studies with the spinal nerve ligation model of neuropathic pain?. Anesthesiology 100, 765–767 (2004).",
+        "journal-title": "Anesthesiology"
+      },
+      {
+        "key": "91444_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1016/j.jpain.2004.09.001",
+        "volume": "5",
+        "author": "M-M Backonja",
+        "year": "2004",
+        "unstructured": "Backonja, M.-M. & Stacey, B. Neuropathic pain symptoms relative to overall pain rating. J. Pain 5, 491–497 (2004).",
+        "journal-title": "J. Pain"
+      },
+      {
+        "key": "91444_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "5457870",
+        "DOI": "10.1155/2018/5457870",
+        "volume": "2018",
+        "author": "S Becker",
+        "year": "2018",
+        "unstructured": "Becker, S., Navratilova, E., Nees, F. & Van Damme, S. Emotional and motivational pain processing: current state of knowledge and perspectives in translational research. Pain Res. Manag. 2018, 5457870 (2018).",
+        "journal-title": "Pain Res. Manag."
+      },
+      {
+        "key": "91444_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "244",
+        "DOI": "10.1016/S0165-6147(00)01502-9",
+        "volume": "21",
+        "author": "R Hill",
+        "year": "2000",
+        "unstructured": "Hill, R. NK1 (substance P) receptor antagonists—why are they not analgesic in humans?. Trends Pharmacol. Sci. 21, 244–246 (2000).",
+        "journal-title": "Trends Pharmacol. Sci."
+      },
+      {
+        "key": "91444_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1837",
+        "DOI": "10.1016/j.pain.2012.04.020",
+        "volume": "153",
+        "author": "JP Huggins",
+        "year": "2012",
+        "unstructured": "Huggins, J. P., Smart, T. S., Langman, S., Taylor, L. & Young, T. An efficient randomised, placebo-controlled clinical trial with the irreversible fatty acid amide hydrolase-1 inhibitor PF-04457845, which modulates endocannabinoids but fails to induce effective analgesia in patients with pain due to osteoarthritis of t. Pain 153, 1837–1846 (2012).",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "91444_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "283",
+        "DOI": "10.1097/AJP.0000000000000122",
+        "volume": "31",
+        "author": "T Ostenfeld",
+        "year": "2015",
+        "unstructured": "Ostenfeld, T. et al. A randomized, placebo-controlled trial of the analgesic efficacy and safety of the p38 MAP kinase inhibitor, losmapimod, in patients with neuropathic pain from lumbosacral radiculopathy. Clin. J. Pain 31, 283–293 (2015).",
+        "journal-title": "Clin. J. Pain"
+      },
+      {
+        "key": "91444_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "318",
+        "DOI": "10.1111/cts.12712",
+        "volume": "13",
+        "author": "P Siebenga",
+        "year": "2020",
+        "unstructured": "Siebenga, P. et al. Lack of detection of the analgesic properties of PF-05089771, a selective Na(v) 1.7 inhibitor, using a battery of pain models in healthy subjects. Clin. Transl. Sci. 13, 318–324 (2020).",
+        "journal-title": "Clin. Transl. Sci."
+      },
+      {
+        "key": "91444_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "846",
+        "DOI": "10.1097/ALN.0000000000001340",
+        "volume": "125",
+        "author": "JD Clark",
+        "year": "2016",
+        "unstructured": "Clark, J. D. Preclinical pain research: can we do better?. Anesthesiology 125, 846–849 (2016).",
+        "journal-title": "Anesthesiology"
+      },
+      {
+        "key": "91444_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.1007/978-1-60327-323-7_6",
+        "volume-title": "Locomotor Activity in a Novel Environment as a Test of Inflammatory Pain in Rats BT—Analgesia: Methods and Protocols",
+        "author": "DJ Matson",
+        "year": "2010",
+        "unstructured": "Matson, D. J., Broom, D. C. & Cortright, D. N. In Locomotor Activity in a Novel Environment as a Test of Inflammatory Pain in Rats BT—Analgesia: Methods and Protocols (ed. Szallasi, A.) 67–78 (Humana Press, Berlin, 2010). https://doi.org/10.1007/978-1-60327-323-7_6."
+      },
+      {
+        "key": "91444_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "191",
+        "DOI": "10.1097/00000542-200407000-00030",
+        "volume": "101",
+        "author": "TJ Martin",
+        "year": "2004",
+        "unstructured": "Martin, T. J., Buechler, N. L., Kahn, W., Crews, J. C. & Eisenach, J. C. Effects of laparotomy on spontaneous exploratory activity and conditioned operant responding in the rat: a model for postoperative pain. Anesthesiology 101, 191–203 (2004).",
+        "journal-title": "Anesthesiology"
+      },
+      {
+        "key": "91444_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1091",
+        "DOI": "10.1089/08977150152693773",
+        "volume": "18",
+        "author": "CD Mills",
+        "year": "2001",
+        "unstructured": "Mills, C. D., Grady, J. J. & Hulsebosch, C. E. Changes in exploratory behavior as a measure of chronic central pain following spinal cord injury. J. Neurotrauma 18, 1091–1105 (2001).",
+        "journal-title": "J. Neurotrauma"
+      },
+      {
+        "key": "91444_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "86",
+        "DOI": "10.3344/kjp.2016.29.2.86",
+        "volume": "29",
+        "author": "MW Carter",
+        "year": "2016",
+        "unstructured": "Carter, M. W., Johnson, K. M., Lee, J. Y., Hulsebosch, C. E. & Gwak, Y. S. Comparison of mechanical allodynia and recovery of locomotion and bladder function by different parameters of low thoracic spinal contusion injury in rats. Korean J. Pain 29, 86–95 (2016).",
+        "journal-title": "Korean J. Pain"
+      },
+      {
+        "key": "91444_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1105",
+        "DOI": "10.1111/exd.13392",
+        "volume": "26",
+        "author": "G Tarrasón",
+        "year": "2017",
+        "unstructured": "Tarrasón, G. et al. Characterization of the chloroquine-induced mouse model of pruritus using an automated behavioural system. Exp. Dermatol. 26, 1105–1111 (2017).",
+        "journal-title": "Exp. Dermatol."
+      },
+      {
+        "key": "91444_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "816",
+        "DOI": "10.1002/j.1532-2149.2011.00099.x",
+        "volume": "16",
+        "author": "CZ Zhu",
+        "year": "2012",
+        "unstructured": "Zhu, C. Z. et al. Assessing carrageenan-induced locomotor activity impairment in rats: Comparison with evoked endpoint of acute inflammatory pain. Eur. J. Pain 16, 816–826 (2012).",
+        "journal-title": "Eur. J. Pain"
+      },
+      {
+        "key": "91444_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1186/1744-8069-9-25",
+        "volume": "9",
+        "author": "H Cho",
+        "year": "2013",
+        "unstructured": "Cho, H. et al. Voluntary movements as a possible non-reflexive pain assay. Mol. Pain 9, 25 (2013).",
+        "journal-title": "Mol. Pain"
+      },
+      {
+        "key": "91444_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "587",
+        "DOI": "10.1080/09638280600925852",
+        "volume": "29",
+        "author": "LH De Souza",
+        "year": "2007",
+        "unstructured": "De Souza, L. H. & Frank, A. O. Experiences of living with chronic back pain: the physical disabilities. Disabil. Rehabil. 29, 587–596 (2007).",
+        "journal-title": "Disabil. Rehabil."
+      },
+      {
+        "key": "91444_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "M393",
+        "DOI": "10.1093/gerona/55.7.M393",
+        "volume": "55",
+        "author": "RJ Scudds",
+        "year": "2000",
+        "unstructured": "Scudds, R. J. & Robertson, J. M. Pain factors associated with physical disability in a sample of community-dwelling senior citizens. J. Gerontol. A. Biol. Sci. Med. Sci. 55, M393–M399 (2000).",
+        "journal-title": "J. Gerontol. A. Biol. Sci. Med. Sci."
+      },
+      {
+        "key": "91444_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1123/jpah.2019-0429",
+        "volume": "17",
+        "author": "H Alzahrani",
+        "year": "2020",
+        "unstructured": "Alzahrani, H., Cheng, S. W. M., Shirley, D., Mackey, M. & Stamatakis, E. Physical activity and health-related quality of life in people with back pain: a population-based pooled study of 27,273 adults. J. Phys. Act. Health 17, 177–188 (2020).",
+        "journal-title": "J. Phys. Act. Health"
+      },
+      {
+        "key": "91444_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mayordomo-Cava, J. et al. Impairments of synaptic plasticity induction threshold and network oscillatory activity in the hippocampus underlie memory deficits in a non-transgenic mouse model of amyloidosis. Biology (Basel). 9, (2020).",
+        "DOI": "10.3390/biology9070175"
+      },
+      {
+        "key": "91444_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.neuropharm.2016.07.019",
+        "volume": "110",
+        "author": "JR Kumar",
+        "year": "2016",
+        "unstructured": "Kumar, J. R., Rajkumar, R., Lee, L. C. & Dawe, G. S. Nucleus incertus contributes to an anxiogenic effect of buspirone in rats: Involvement of 5-HT1A receptors. Neuropharmacology 110, 1–14 (2016).",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "91444_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "74",
+        "DOI": "10.1016/j.vascn.2011.03.003",
+        "volume": "64",
+        "author": "JJ Lynch",
+        "year": "2011",
+        "unstructured": "Lynch, J. J., Castagné, V., Moser, P. C. & Mittelstadt, S. W. Comparison of methods for the assessment of locomotor activity in rodent safety pharmacology studies. J. Pharmacol. Toxicol. Methods 64, 74–80 (2011).",
+        "journal-title": "J. Pharmacol. Toxicol. Methods"
+      },
+      {
+        "key": "91444_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.33549/physiolres.932636",
+        "volume": "63",
+        "author": "M Schwarz",
+        "year": "2014",
+        "unstructured": "Schwarz, M. et al. Low dose domoic acid influences spontaneous behavior in adult rats. Physiol. Res. 63, 369–376 (2014).",
+        "journal-title": "Physiol. Res."
+      },
+      {
+        "key": "91444_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "S81",
+        "DOI": "10.33549/physiolres.932610",
+        "volume": "62",
+        "author": "K Jandová",
+        "year": "2013",
+        "unstructured": "Jandová, K., Marešová, D. & Pokorný, J. Fast and delayed locomotor response to acute high-dose nicotine administration in adult male rats. Physiol. Res. 62, S81–S88 (2013).",
+        "journal-title": "Physiol. Res."
+      },
+      {
+        "key": "91444_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "e564",
+        "DOI": "10.1097/PR9.0000000000000564",
+        "volume": "1",
+        "author": "C Pitzer",
+        "year": "2016",
+        "unstructured": "Pitzer, C., Kuner, R. & Tappe-Theodor, A. Voluntary and evoked behavioral correlates in inflammatory pain conditions under different social housing conditions. PAIN Rep. 1, e564 (2016).",
+        "journal-title": "PAIN Rep."
+      },
+      {
+        "key": "91444_CR32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ocarto.2020.100101",
+        "author": "IS von Loga",
+        "year": "2020",
+        "unstructured": "von Loga, I. S. et al. Comparison of LABORAS with static incapacitance testing for assessing spontaneous pain behaviour in surgically-induced murine osteoarthritis. Osteoarthr. Cartil. https://doi.org/10.1016/j.ocarto.2020.100101 (2020).",
+        "journal-title": "Osteoarthr. Cartil."
+      },
+      {
+        "key": "91444_CR33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pitzer, C., Kuner, R. & Tappe-Theodor, A. Voluntary and evoked behavioral correlates in neuropathic pain states under different social housing conditions. Mol. Pain 12 (2016).",
+        "DOI": "10.1177/1744806916656635"
+      },
+      {
+        "key": "91444_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "3110",
+        "DOI": "10.1002/art.23870",
+        "volume": "58",
+        "author": "JJ Inglis",
+        "year": "2008",
+        "unstructured": "Inglis, J. J. et al. Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system. Arthritis Rheum. 58, 3110–3119 (2008).",
+        "journal-title": "Arthritis Rheum."
+      },
+      {
+        "key": "91444_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "4015",
+        "DOI": "10.1002/art.23063",
+        "volume": "56",
+        "author": "JJ Inglis",
+        "year": "2007",
+        "unstructured": "Inglis, J. J. et al. Collagen-induced arthritis as a model of hyperalgesia: functional and cellular analysis of the analgesic actions of tumor necrosis factor blockade. Arthritis Rheum. 56, 4015–4023 (2007).",
+        "journal-title": "Arthritis Rheum."
+      },
+      {
+        "key": "91444_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2179",
+        "DOI": "10.2741/1960",
+        "volume": "11",
+        "author": "H Imbe",
+        "year": "2006",
+        "unstructured": "Imbe, H., Iwai-Liao, Y. & Senba, E. Stress-induced hyperalgesia: animal models and putative mechanisms. Front. Biosci. 11, 2179–2192 (2006).",
+        "journal-title": "Front. Biosci."
+      },
+      {
+        "key": "91444_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/j.pneurobio.2009.04.003",
+        "volume": "88",
+        "author": "RK Butler",
+        "year": "2009",
+        "unstructured": "Butler, R. K. & Finn, D. P. Stress-induced analgesia. Prog. Neurobiol. 88, 184–202 (2009).",
+        "journal-title": "Prog. Neurobiol."
+      },
+      {
+        "key": "91444_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1016/j.applanim.2014.11.018",
+        "volume": "163",
+        "author": "CA Richardson",
+        "year": "2015",
+        "unstructured": "Richardson, C. A. The power of automated behavioural homecage technologies in characterizing disease progression in laboratory mice: a review. Appl. Anim. Behav. Sci. 163, 19–27 (2015).",
+        "journal-title": "Appl. Anim. Behav. Sci."
+      },
+      {
+        "key": "91444_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1341",
+        "DOI": "10.3389/fnins.2020.618593",
+        "volume": "14",
+        "author": "A Mingrone",
+        "year": "2020",
+        "unstructured": "Mingrone, A., Kaffman, A. & Kaffman, A. The promise of automated home-cage monitoring in improving translational utility of psychiatric research in rodents. Front. Neurosci. 14, 1341 (2020).",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "91444_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.jneumeth.2008.06.017",
+        "volume": "174",
+        "author": "KÄ Möller",
+        "year": "2008",
+        "unstructured": "Möller, K. Ä., Berge, O. G. & Hamers, F. P. T. Using the CatWalk method to assess weight-bearing and pain behaviour in walking rats with ankle joint monoarthritis induced by carrageenan: Effects of morphine and rofecoxib. J. Neurosci. Methods 174, 1–9 (2008).",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "91444_CR41",
+        "first-page": "1744",
+        "volume": "7",
+        "author": "SG Sotocinal",
+        "year": "2011",
+        "unstructured": "Sotocinal, S. G. et al. The rat grimace scale: a partially automated method for quantifying pain in the laboratory rat via facial expressions. Mol. Pain 7, 1744-8069-7–55 (2011).",
+        "journal-title": "Mol. Pain"
+      },
+      {
+        "key": "91444_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "545",
+        "DOI": "10.1038/nrd.2017.87",
+        "volume": "16",
+        "author": "AS Yekkirala",
+        "year": "2017",
+        "unstructured": "Yekkirala, A. S., Roberson, D. P., Bean, B. P. & Woolf, C. J. Breaking barriers to novel analgesic drug development. Nat. Rev. Drug Discovery 16, 545–564 (2017).",
+        "journal-title": "Nat. Rev. Drug Discovery"
+      },
+      {
+        "key": "91444_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0118942",
+        "DOI": "10.1371/journal.pone.0118942",
+        "volume": "10",
+        "author": "KW Ruiz-Miyazawa",
+        "year": "2015",
+        "unstructured": "Ruiz-Miyazawa, K. W. et al. Vinpocetine reduces carrageenan-induced inflammatory hyperalgesia in mice by inhibiting oxidative stress, cytokine production and NF-κB activation in the paw and spinal cord. PLoS ONE 10, e0118942 (2015).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "91444_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.1016/j.neuroscience.2013.03.003",
+        "volume": "241",
+        "author": "Y Lu",
+        "year": "2013",
+        "unstructured": "Lu, Y., Zhao, L.-X., Cao, D.-L. & Gao, Y.-J. Spinal injection of docosahexaenoic acid attenuates carrageenan-induced inflammatory pain through inhibition of microglia-mediated neuroinflammation in the spinal cord. Neuroscience 241, 22–31 (2013).",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "91444_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "353",
+        "DOI": "10.1016/j.pharep.2013.12.011",
+        "volume": "66",
+        "author": "AR Chopade",
+        "year": "2014",
+        "unstructured": "Chopade, A. R., Sayyad, F. J. & Naikwade, N. S. Pharmacological characterization of carrageenan induced heat muscle hyperalgesia in rats using non-selective, preferential and selective COX-2 inhibitors. Pharmacol. Rep. 66, 353–362 (2014).",
+        "journal-title": "Pharmacol. Rep."
+      },
+      {
+        "key": "91444_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1016/j.jpain.2006.06.010",
+        "volume": "8",
+        "author": "LC Loram",
+        "year": "2007",
+        "unstructured": "Loram, L. C. et al. Cytokine profiles during carrageenan-induced inflammatory hyperalgesia in rat muscle and hind paw. J. Pain 8, 127–136 (2007).",
+        "journal-title": "J. Pain"
+      },
+      {
+        "key": "91444_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "351",
+        "DOI": "10.1097/00001756-199801260-00032",
+        "volume": "9",
+        "author": "A Pertovaara",
+        "year": "1998",
+        "unstructured": "Pertovaara, A., Hämäläinen, M. M., Kauppila, T. & Panula, P. Carrageenan-induced changes in spinal nociception and its modulation by the brain stem. NeuroReport 9, 351–355 (1998).",
+        "journal-title": "NeuroReport"
+      },
+      {
+        "key": "91444_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "501",
+        "DOI": "10.1016/j.pain.2003.09.017",
+        "volume": "106",
+        "author": "S Dolan",
+        "year": "2003",
+        "unstructured": "Dolan, S., Kelly, J. G., Monteiro, A. M. & Nolan, A. M. Up-regulation of metabotropic glutamate receptor subtypes 3 and 5 in spinal cord in a clinical model of persistent inflammation and hyperalgesia. Pain 106, 501–512 (2003).",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "91444_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1391",
+        "DOI": "10.1016/S0306-4522(99)00310-3",
+        "volume": "93",
+        "author": "LC Stanfa",
+        "year": "1999",
+        "unstructured": "Stanfa, L. C. & Dickenson, A. H. The role of non-N-methyl-d-aspartate ionotropic glutamate receptors in the spinal transmission of nociception in normal animals and animals with carrageenan inflammation. Neuroscience 93, 1391–1398 (1999).",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "91444_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.1016/0304-3959(94)90094-9",
+        "volume": "56",
+        "author": "JM Castro-Lopes",
+        "year": "1994",
+        "unstructured": "Castro-Lopes, J. M., Tavares, I., Tölle, T. R. & Coimbra, A. Carrageenan-induced inflammation of the hind foot provokes a rise of GABA-immunoreactive cells in the rat spinal cord that is prevented by peripheral neurectomy or neonatal capsaicin treatment. Pain 56, 193–201 (1994).",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "91444_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "173",
+        "DOI": "10.1097/WNR.0000000000000322",
+        "volume": "26",
+        "author": "M Watanabe",
+        "year": "2015",
+        "unstructured": "Watanabe, M., Ueda, T., Shibata, Y., Kumamoto, N. & Ugawa, S. The role of TRPV1 channels in carrageenan-induced mechanical hyperalgesia in mice. NeuroReport 26, 173–178 (2015).",
+        "journal-title": "NeuroReport"
+      },
+      {
+        "key": "91444_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "206",
+        "DOI": "10.1016/j.neuropharm.2012.09.020",
+        "volume": "65",
+        "author": "IJM Bonet",
+        "year": "2013",
+        "unstructured": "Bonet, I. J. M., Fischer, L., Parada, C. A. & Tambeli, C. H. The role of transient receptor potential A 1 (TRPA1) in the development and maintenance of carrageenan-induced hyperalgesia. Neuropharmacology 65, 206–212 (2013).",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "91444_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "380",
+        "DOI": "10.1038/srep00380",
+        "volume": "2",
+        "author": "LJ Moilanen",
+        "year": "2012",
+        "unstructured": "Moilanen, L. J. et al. TRPA1 contributes to the acute inflammatory response and mediates carrageenan-induced paw edema in the mouse. Sci. Rep. 2, 380 (2012).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "91444_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.ynpai.2017.09.001",
+        "volume": "2",
+        "author": "TD Sheahan",
+        "year": "2017",
+        "unstructured": "Sheahan, T. D. et al. Inflammation and nerve injury minimally affect mouse voluntary behaviors proposed as indicators of pain. Neurobiol. Pain 2, 1–12 (2017).",
+        "journal-title": "Neurobiol. Pain"
+      },
+      {
+        "key": "91444_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "237",
+        "DOI": "10.3389/fphar.2019.00237",
+        "volume": "10",
+        "author": "P Valuskova",
+        "year": "2019",
+        "unstructured": "Valuskova, P., Riljak, V., Forczek, S. T., Farar, V. & Myslivecek, J. Variability in the drug response of m4 muscarinic receptor knockout mice during day and night time. Front. Pharmacol. 10, 237 (2019).",
+        "journal-title": "Front. Pharmacol."
+      },
+      {
+        "key": "91444_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "341",
+        "DOI": "10.3389/fncel.2018.00341",
+        "volume": "12",
+        "author": "T Yoo",
+        "year": "2018",
+        "unstructured": "Yoo, T. et al. GABA neuronal deletion of Shank3 exons 14–16 in mice suppresses striatal excitatory synaptic input and induces social and locomotor abnormalities. Front. Cell. Neurosci. 12, 341 (2018).",
+        "journal-title": "Front. Cell. Neurosci."
+      },
+      {
+        "key": "91444_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1016/j.jneumeth.2017.04.014",
+        "volume": "300",
+        "author": "RS Bains",
+        "year": "2018",
+        "unstructured": "Bains, R. S. et al. Assessing mouse behaviour throughout the light/dark cycle using automated in-cage analysis tools. J. Neurosci. Methods 300, 37–47 (2018).",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "91444_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.3389/fnbeh.2020.575434",
+        "volume": "14",
+        "author": "V Voikar",
+        "year": "2020",
+        "unstructured": "Voikar, V. & Gaburro, S. Three pillars of automated home-cage phenotyping of mice: novel findings, refinement, and reproducibility based on literature and experience. Front. Behav. Neurosci. 14, 193 (2020).",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "key": "91444_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "663",
+        "DOI": "10.1016/j.physbeh.2010.01.038",
+        "volume": "99",
+        "author": "TM Pham",
+        "year": "2010",
+        "unstructured": "Pham, T. M. et al. Housing environment influences the need for pain relief during post-operative recovery in mice. Physiol. Behav. 99, 663–668 (2010).",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "91444_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "81",
+        "DOI": "10.3389/fnbeh.2020.00081",
+        "volume": "14",
+        "author": "A Mudra Rakshasa",
+        "year": "2020",
+        "unstructured": "Mudra Rakshasa, A. & Tong, M. T. Making, “good” choices: social isolation in mice exacerbates the effects of chronic stress on decision making. Front. Behav. Neurosci. 14, 81 (2020).",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "key": "91444_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "18315",
+        "DOI": "10.1038/s41598-020-75026-4",
+        "volume": "10",
+        "author": "DS Rivera",
+        "year": "2020",
+        "unstructured": "Rivera, D. S. et al. Effects of long-lasting social isolation and re-socialization on cognitive performance and brain activity: a longitudinal study in Octodon degus. Sci. Rep. 10, 18315 (2020).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "91444_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "1967",
+        "DOI": "10.1126/science.1128322",
+        "volume": "312",
+        "author": "DJ Langford",
+        "year": "2006",
+        "unstructured": "Langford, D. J. et al. Social modulation of pain as evidence for empathy in mice. Science (80-) 312, 1967–1970 (2006).",
+        "journal-title": "Science (80-)"
+      },
+      {
+        "key": "91444_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "117242",
+        "DOI": "10.1016/j.lfs.2019.117242",
+        "volume": "242",
+        "author": "S Wang",
+        "year": "2020",
+        "unstructured": "Wang, S., Lai, X., Deng, Y. & Song, Y. Correlation between mouse age and human age in anti-tumor research: Significance and method establishment. Life Sci. 242, 117242 (2020).",
+        "journal-title": "Life Sci."
+      },
+      {
+        "key": "91444_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "244",
+        "DOI": "10.1016/j.lfs.2015.10.025",
+        "volume": "152",
+        "author": "S Dutta",
+        "year": "2016",
+        "unstructured": "Dutta, S. & Sengupta, P. Men and mice: relating their ages. Life Sci. 152, 244–248 (2016).",
+        "journal-title": "Life Sci."
+      },
+      {
+        "issue": "1",
+        "key": "91444_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1177/204946370700100104",
+        "volume": "1",
+        "author": "P Schofield",
+        "year": "2007",
+        "unstructured": "Schofield P. Pain in Older Adults: Epidemiology Impact and Barriers to Management. Reviews in Pain 1(1) 12–14. https://doi.org/10.1177/204946370700100104 (2007)",
+        "journal-title": "Reviews in Pain"
+      },
+      {
+        "key": "91444_CR66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bj.2020.06.009",
+        "author": "MA Souza",
+        "year": "2020",
+        "unstructured": "Souza M.A. et al. Antinociceptive effect and mechanism of supercritical carbon dioxide extract of Aloysia gratissima leaves in mice. Biomed. J. https://doi.org/10.1016/j.bj.2020.06.009 (2020)",
+        "journal-title": "Biomed. J.Biomed. J."
+      },
+      {
+        "key": "91444_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "92",
+        "DOI": "10.3810/pgm.2014.07.2787",
+        "volume": "126",
+        "author": "S Nalamachu",
+        "year": "2014",
+        "unstructured": "Nalamachu, S. & Wortmann, R. Role of indomethacin in acute pain and inflammation management: a review of the literature. Postgrad. Med. 126, 92–97 (2014).",
+        "journal-title": "Postgrad. Med."
+      },
+      {
+        "key": "91444_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "450",
+        "DOI": "10.1254/jphs.FPJ04039X",
+        "volume": "96",
+        "author": "T Mori",
+        "year": "2004",
+        "unstructured": "Mori, T., Ito, S., Narita, M., Suzuki, T. & Sawaguchi, T. Combined effects of psychostimulants and morphine on locomotor activity in mice. J. Pharmacol. Sci. 96, 450–458 (2004).",
+        "journal-title": "J. Pharmacol. Sci."
+      },
+      {
+        "key": "91444_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.1016/j.seizure.2017.09.015",
+        "volume": "52",
+        "author": "E Zimcikova",
+        "year": "2017",
+        "unstructured": "Zimcikova, E., Simko, J., Karesova, I., Kremlacek, J. & Malakova, J. Behavioral effects of antiepileptic drugs in rats: are the effects on mood and behavior detectable in open-field test?. Seizure 52, 35–40 (2017).",
+        "journal-title": "Seizure"
+      },
+      {
+        "key": "91444_CR70",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Murphy, N.P., Lam, H.A. & Maidment, N.T. comparison of morphine-induced locomotor activity and mesolimbic dopamine release in C57BL6 129Sv and DBA2 mice. J. Neurochem. 79(3) 626–635, https://doi.org/10.1046/j.1471-4159.2001.00599.x (2001)",
+        "DOI": "10.1046/j.1471-4159.2001.00599.x"
+      },
+      {
+        "key": "91444_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.1016/j.bbi.2009.11.006",
+        "volume": "24",
+        "author": "JL Teeling",
+        "year": "2010",
+        "unstructured": "Teeling, J. L., Cunningham, C., Newman, T. A. & Perry, V. H. The effect of non-steroidal anti-inflammatory agents on behavioural changes and cytokine production following systemic inflammation: Implications for a role of COX-1. Brain. Behav. Immun. 24, 409–419 (2010).",
+        "journal-title": "Brain. Behav. Immun."
+      },
+      {
+        "key": "91444_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "15244LP",
+        "DOI": "10.1523/JNEUROSCI.1918-14.2014",
+        "volume": "34",
+        "author": "JA Alfieri",
+        "year": "2014",
+        "unstructured": "Alfieri, J. A., Pino, N. S. & Igaz, L. M. Reversible Behavioral Phenotypes in a Conditional Mouse Model of TDP-43 Proteinopathies. J. Neurosci. 34, 15244LP – 15259 (2014).",
+        "journal-title": "J. Neurosci."
+      }
+    ],
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-021-91444-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-021-91444-4",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-021-91444-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2023-02-03T14:16:52Z",
+      "timestamp": 1675433812000
+    },
+    "score": 22.647326,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-021-91444-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          10
+        ]
+      ]
+    },
+    "references-count": 72,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "91444"
+    ],
+    "URL": "https://doi.org/10.1038/s41598-021-91444-4",
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "value": "2045-2322",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "20 February 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "24 May 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 June 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "12240"
+  }
+}

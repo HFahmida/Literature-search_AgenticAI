@@ -1,0 +1,30 @@
+{
+  "source": "pubmed",
+  "source_id": "27375446",
+  "title": "Analysis of Individual Mouse Activity in Group Housed Animals of Different Inbred Strains using a Novel Automated Home Cage Analysis System.",
+  "abstract": "Central nervous system disorders such as autism as well as the range of neurodegenerative diseases such as Huntington's disease are commonly investigated using genetically altered mouse models. The current system for characterizing these mice usually involves removing the animals from their home-cage environment and placing them into novel environments where they undergo a battery of tests measuring a range of behavioral and physical phenotypes. These tests are often only conducted for short periods of times in social isolation. However, human manifestations of such disorders are often characterized by multiple phenotypes, presented over long periods of time and leading to significant social impacts. Here, we have developed a system which will allow the automated monitoring of individual mice housed socially in the cage they are reared and housed in, within established social groups and over long periods of time. We demonstrate that the system accurately reports individual locomotor behavior within the group and that the measurements taken can provide unique insights into the effects of genetic background on individual and group behavior not previously recognized.",
+  "year": 2016,
+  "authors": [
+    "Rasneer S Bains",
+    "Heather L Cater",
+    "Rowland R Sillito",
+    "Agisilaos Chartsias",
+    "Duncan Sneddon",
+    "Danilo Concas",
+    "Piia Keskivali-Bond",
+    "Timothy C Lukins",
+    "Sara Wells",
+    "Abraham Acevedo Arozena",
+    "Patrick M Nolan",
+    "J Douglas Armstrong"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "doi": "10.3389/fnbeh.2016.00106",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27375446/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "27375446"
+  }
+}

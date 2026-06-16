@@ -1,0 +1,605 @@
+{
+  "source": "crossref",
+  "source_id": "10.1080/10911359.2021.1977209",
+  "title": "Burnout among social work educators: an eco-logical systems perspective",
+  "abstract": null,
+  "year": 2022,
+  "authors": [
+    "C.M. Chiarelli-Helminiak",
+    "K. W. McDonald",
+    "L. E. Tower",
+    "D.M. Hodge",
+    "A.C. Faul"
+  ],
+  "journal": "Journal of Human Behavior in the Social Environment",
+  "doi": "10.1080/10911359.2021.1977209",
+  "url": "https://doi.org/10.1080/10911359.2021.1977209",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2026-03-06T03:48:03Z",
+      "timestamp": 1772768883431,
+      "version": "3.50.1"
+    },
+    "reference-count": 62,
+    "publisher": "Informa UK Limited",
+    "issue": "7",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Human Behavior in the Social Environment"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1080/10911359.2021.1977209",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2021-09-10T20:06:07Z",
+      "timestamp": 1631304367000
+    },
+    "page": "931-950",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Burnout among social work educators: an eco-logical systems perspective"
+    ],
+    "prefix": "10.1080",
+    "volume": "32",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6980-9380",
+        "authenticated-orcid": false,
+        "given": "C.M.",
+        "family": "Chiarelli-Helminiak",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Graduate Social Work Department, West Chester University, West Chester, Pennsylvania, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K. W.",
+        "family": "McDonald",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate Social Work Department, West Chester University, West Chester, Pennsylvania, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L. E.",
+        "family": "Tower",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Women’s Resource Center, School of Social Work, West Virginia University, Morgantown, West Virginia, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.M.",
+        "family": "Hodge",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Social Work, Radford University, Radford, Virginia, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.C.",
+        "family": "Faul",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Academic Affairs, Kent School of Social Work, University of Louisville, Louisville, Kentucky, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "cit0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10437797.2016.1272512"
+      },
+      {
+        "key": "cit0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10437797.2015.1076283"
+      },
+      {
+        "key": "cit0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/097133360702000103"
+      },
+      {
+        "key": "cit0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10437797.1993.10778812"
+      },
+      {
+        "key": "cit0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2112245"
+      },
+      {
+        "key": "cit0006",
+        "first-page": "3",
+        "volume-title": "Readings on the development of children",
+        "author": "Bronfenbrenner U",
+        "year": "2004",
+        "edition": "4"
+      },
+      {
+        "key": "cit0007",
+        "unstructured": "Chiarelli-Helminiak, C. M. & Lewis, T. O. (2018). Sustainable development goal 4: When access to education is not enough. Journal of Access, Retention & Inclusion in Higher Education, 1, 17–27."
+      },
+      {
+        "key": "cit0008",
+        "volume-title": "Professor mommy: Finding work-family balance in academia",
+        "author": "Connelly R.",
+        "year": "2011"
+      },
+      {
+        "key": "cit0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chiabu.2006.03.009"
+      },
+      {
+        "key": "cit0010",
+        "volume-title": "Basics of qualitative research",
+        "author": "Corbin J.",
+        "year": "2008",
+        "edition": "3"
+      },
+      {
+        "key": "cit0011",
+        "unstructured": "Council on Social Work Education. (2016). Annual statistics on social work education in the United States. http://www.cswe.org/CMSPages/GetFile.aspx?guid=992f629c-57cf-4a74-8201-1db7a6fa4667"
+      },
+      {
+        "key": "cit0012",
+        "unstructured": "Council on Social Work Education. (2020). Accreditation. https://www.cswe.org/Accreditation"
+      },
+      {
+        "key": "cit0013",
+        "volume-title": "The wife drought",
+        "author": "Crabb A",
+        "year": "2015"
+      },
+      {
+        "key": "cit0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0886109904272062"
+      },
+      {
+        "issue": "3",
+        "key": "cit0015",
+        "first-page": "57",
+        "volume": "14",
+        "author": "Diaconescu M",
+        "year": "2015",
+        "journal-title": "Revista De Asistenta Sociala (Socia Work Review)"
+      },
+      {
+        "key": "cit0016",
+        "volume-title": "Internet, mail, and mixed mode surveys: The tailored design method",
+        "author": "Dillman D. A.",
+        "year": "2009",
+        "edition": "3"
+      },
+      {
+        "key": "cit0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/088610999000500404"
+      },
+      {
+        "key": "cit0018",
+        "first-page": "2",
+        "volume": "7",
+        "author": "Gallina N",
+        "year": "2010",
+        "journal-title": "Journal of Social Work Values and Ethics"
+      },
+      {
+        "key": "cit0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08841233.2015.1065945"
+      },
+      {
+        "key": "cit0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1076-8998.5.1.111"
+      },
+      {
+        "key": "cit0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11162-017-9454-2"
+      },
+      {
+        "key": "cit0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5175/JSWE.2012.334800001"
+      },
+      {
+        "key": "cit0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0192513X05277542"
+      },
+      {
+        "key": "cit0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15332980802467696"
+      },
+      {
+        "key": "cit0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049731514530004"
+      },
+      {
+        "key": "cit0026",
+        "unstructured": "Institute of Medicine. (2011). The health of lesbian, gay, bisexual, and transgender people: Building a foundation for better understanding. https://www.ncbi.nlm.nih.gov/books/NBK64802/"
+      },
+      {
+        "key": "cit0027",
+        "unstructured": "Janus v. American Federation of State, County, and Municipal Employees, 16-1466 U.S. (2018)."
+      },
+      {
+        "key": "cit0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.78.10.1336"
+      },
+      {
+        "key": "cit0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0886109915572843"
+      },
+      {
+        "key": "cit0030",
+        "unstructured": "Malesic, J. (2016, October 5). The 40-year-old burnout: Why I gave up tenure for a yet-to-be-determined career. The Chronicle of Higher Education. http://www.chronicle.com/article/The-40-Year-Old-Burnout/237979"
+      },
+      {
+        "key": "cit0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.01258"
+      },
+      {
+        "key": "cit0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.93.3.498"
+      },
+      {
+        "key": "cit0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10437797.2017.1336139"
+      },
+      {
+        "issue": "3",
+        "key": "cit0034",
+        "first-page": "13",
+        "volume": "17",
+        "author": "McNeece C. A",
+        "year": "1981",
+        "journal-title": "Journal of Social Work Education"
+      },
+      {
+        "key": "cit0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/sw/49.2.323"
+      },
+      {
+        "key": "cit0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2393774"
+      },
+      {
+        "key": "cit0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1287/orsc.9.1.103"
+      },
+      {
+        "key": "cit0038",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5175/JSWE.2011.201000004"
+      },
+      {
+        "key": "cit0039",
+        "unstructured": "National Association of Social Workers. (2017). Code of ethics. https://www.socialworkers.org/About/Ethics/Code-of-Ethics/Code-of-Ethics-English.aspx"
+      },
+      {
+        "key": "cit0040",
+        "unstructured": "Newport, C. (2019, February 12). Is email making professors stupid? The Chronicle of Higher Education. Retrieved from https://www.chronicle.com/article/is-email-making-professors-stupid/"
+      },
+      {
+        "key": "cit0041",
+        "unstructured": "Nishii, L. & Bruyere, S. (2013). Research brief: Inside the workplace: Case studies of factors influencing engagement of people with disabilities. U.S. Department of Labor. www.dol.gov/ofccp/regs/compliance/ResourcesFederalContractors_files/Cornell_R5_Brief_FINAL_4.22_JRF_QA_508c.pdf"
+      },
+      {
+        "key": "cit0042",
+        "first-page": "29",
+        "volume": "10",
+        "author": "Noble C.",
+        "year": "2011",
+        "journal-title": "Women in Welfare Education"
+      },
+      {
+        "key": "cit0043",
+        "volume-title": "Qualitative methods in social work research",
+        "author": "Padgett D. K",
+        "year": "2008",
+        "edition": "2"
+      },
+      {
+        "key": "cit0044",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/088610999601100103"
+      },
+      {
+        "key": "cit0045",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23303131.2019.1606869"
+      },
+      {
+        "issue": "3",
+        "key": "cit0046",
+        "first-page": "823",
+        "volume": "39",
+        "author": "Ranđelović K.",
+        "year": "2015",
+        "journal-title": "TEME: Casopis Za Društvene Nauke"
+      },
+      {
+        "key": "cit0047",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17265/2159-5313/2016.09.003"
+      },
+      {
+        "key": "cit0048",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5175/JSWE.2008.200600103"
+      },
+      {
+        "key": "cit0049",
+        "author": "Sangganjanavanich V. F.",
+        "year": "2011",
+        "journal-title": "Humanistic Counselor Education and Supervision"
+      },
+      {
+        "key": "cit0050",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5498/wjp.v6.i1.7"
+      },
+      {
+        "key": "cit0051",
+        "author": "Smith T. E.",
+        "year": "2017",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "cit0052",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11162-004-5953-z"
+      },
+      {
+        "key": "cit0053",
+        "unstructured": "The National Center for Faculty Development & Diversity. (n.d.) https://www.facultydiversity.org/"
+      },
+      {
+        "key": "cit0054",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08841233.2016.1182609"
+      },
+      {
+        "key": "cit0055",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0886109914555217"
+      },
+      {
+        "key": "cit0056",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0886109919836105"
+      },
+      {
+        "key": "cit0057",
+        "unstructured": "United Nations. (2015). Transforming our world: The 2030 agenda for sustainable development. https://sustainabledevelopment.un.org/post2015/transformingourworld"
+      },
+      {
+        "key": "cit0058",
+        "unstructured": "United Nations Educational, Scientific, and Cultural Organization. (2014). Position paper on education post-2015. http://unesdoc.unesco.org/images/0022/002273/227336E.pdf"
+      },
+      {
+        "key": "cit0059",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tate.2014.07.005"
+      },
+      {
+        "key": "cit0060",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/713658928"
+      },
+      {
+        "key": "cit0061",
+        "unstructured": "World Health Organization. (2019). Burn-out an “occupational phenomenon:” International Classification of Diseases. https://www.who.int/mental_health/evidence/burn-out/en/"
+      },
+      {
+        "key": "cit0062",
+        "volume-title": "March 31",
+        "author": "Ziber J",
+        "year": "2014"
+      }
+    ],
+    "container-title": [
+      "Journal of Human Behavior in the Social Environment"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10911359.2021.1977209",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2022-08-30T20:51:16Z",
+      "timestamp": 1661892676000
+    },
+    "score": 17.926046,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/10911359.2021.1977209"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          10
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/10911359.2021.1977209"
+    ],
+    "URL": "https://doi.org/10.1080/10911359.2021.1977209",
+    "ISSN": [
+      "1091-1359",
+      "1540-3556"
+    ],
+    "issn-type": [
+      {
+        "value": "1091-1359",
+        "type": "print"
+      },
+      {
+        "value": "1540-3556",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=whum20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=whum20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2021-09-10",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

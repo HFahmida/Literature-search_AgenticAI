@@ -1,0 +1,285 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0031-9384(79)90209-9",
+  "title": "A role of female preputial glands in social behavior of mice",
+  "abstract": null,
+  "year": 1979,
+  "authors": [
+    "Susumu Hayashi"
+  ],
+  "journal": "Physiology & Behavior",
+  "doi": "10.1016/0031-9384(79)90209-9",
+  "url": "https://doi.org/10.1016/0031-9384(79)90209-9",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2025-11-03T08:53:35Z",
+      "timestamp": 1762160015665
+    },
+    "reference-count": 10,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1979,
+              11,
+              1
+            ]
+          ],
+          "date-time": "1979-11-01T00:00:00Z",
+          "timestamp": 310262400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1979,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/0031-9384(79)90209-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2003-04-25T04:53:03Z",
+      "timestamp": 1051246383000
+    },
+    "page": "967-969",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "A role of female preputial glands in social behavior of mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Susumu",
+        "family": "Hayashi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1208",
+        "DOI": "10.1126/science.158.3805.1208",
+        "article-title": "Mice: Individual recognition by olfactory cues",
+        "volume": "158",
+        "author": "Bowers",
+        "year": "1967",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1530/jrf.0.0250279",
+        "article-title": "Preputial gland of the male mouse: Attractant function",
+        "volume": "25",
+        "author": "Bronston",
+        "year": "1971",
+        "journal-title": "J. Reprod. Fert."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1037/h0033515",
+        "article-title": "Odor preferences of female Peromyscus maniculatus bairdi for male mouse odors of P. m. bairdi and P. leucopus noveboracensis as a function of estrous state",
+        "volume": "81",
+        "author": "Doty",
+        "year": "1972",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB4",
+        "first-page": "39",
+        "article-title": "Responses of normal and neonatally estrogenized female mice to the door of males",
+        "volume": "23",
+        "author": "Hayashi",
+        "year": "1973",
+        "journal-title": "Sci. Pap. Col. Gen. Edu. Univ. Tokyo"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1016/0031-9384(74)90287-X",
+        "article-title": "Sex-attractant emitted by female mice",
+        "volume": "13",
+        "author": "Hayashi",
+        "year": "1974",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/0003-3472(78)90030-1",
+        "article-title": "Effects of exposure to males on sexual preference in female mice",
+        "volume": "26",
+        "author": "Hayashi",
+        "year": "1978",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB7",
+        "first-page": "214",
+        "article-title": "The so-called swiss mouse",
+        "volume": "19",
+        "author": "Lynch",
+        "year": "1969",
+        "journal-title": "Lab. Anim. Care"
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1016/0031-9384(71)90034-5",
+        "article-title": "The preputial glands as a source of aggression-promoting odors in mice",
+        "volume": "6",
+        "author": "Mugford",
+        "year": "1971",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1016/S0003-3472(70)80051-3",
+        "article-title": "The effect of reciprocal cross fostering on the behavior of two species of rodents, Mus musculus and Baiomys taylori ater",
+        "volume": "18",
+        "author": "Quadagno",
+        "year": "1970",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "10.1016/0031-9384(79)90209-9_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "516",
+        "DOI": "10.1016/0304-4165(69)90401-2",
+        "article-title": "Long-chain alkyl acetates in the preputial glands of the mouse",
+        "volume": "192",
+        "author": "Spener",
+        "year": "1969",
+        "journal-title": "Biochim. Biophys. Acta."
+      }
+    ],
+    "container-title": [
+      "Physiology &amp; Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938479902099?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0031938479902099?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2019-03-22T05:26:02Z",
+      "timestamp": 1553232362000
+    },
+    "score": 18.778288,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0031938479902099"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1979,
+          11
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            1979,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0031938479902099"
+    ],
+    "URL": "https://doi.org/10.1016/0031-9384(79)90209-9",
+    "ISSN": [
+      "0031-9384"
+    ],
+    "issn-type": [
+      {
+        "value": "0031-9384",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1979,
+          11
+        ]
+      ]
+    }
+  }
+}

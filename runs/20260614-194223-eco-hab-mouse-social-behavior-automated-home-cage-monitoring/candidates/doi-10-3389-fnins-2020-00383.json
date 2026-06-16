@@ -1,0 +1,721 @@
+{
+  "source": "crossref",
+  "source_id": "10.3389/fnins.2020.00383",
+  "title": "Automated Home-Cage Testing as a Tool to Improve Reproducibility of Behavioral Research?",
+  "abstract": null,
+  "year": 2020,
+  "authors": [
+    "Sophie Helene Richter"
+  ],
+  "journal": "Frontiers in Neuroscience",
+  "doi": "10.3389/fnins.2020.00383",
+  "url": "https://doi.org/10.3389/fnins.2020.00383",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T05:30:26Z",
+      "timestamp": 1781155826542,
+      "version": "3.54.1"
+    },
+    "reference-count": 50,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              24
+            ]
+          ],
+          "date-time": "2020-04-24T00:00:00Z",
+          "timestamp": 1587686400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Neurosci."
+    ],
+    "DOI": "10.3389/fnins.2020.00383",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2020-04-24T12:16:02Z",
+      "timestamp": 1587730562000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Automated Home-Cage Testing as a Tool to Improve Reproducibility of Behavioral Research?"
+    ],
+    "prefix": "10.3389",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Sophie Helene",
+        "family": "Richter",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1016/j.jneumeth.2017.04.014",
+        "article-title": "Assessing mouse behaviour throughout the light/dark cycle using automated in-cage analysis tools",
+        "volume": "300",
+        "author": "Bains",
+        "year": "2018",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "452",
+        "DOI": "10.1038/533452a",
+        "article-title": "1,500 scientists lift the lid on reproducibility",
+        "volume": "533",
+        "author": "Baker",
+        "year": "2016",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "ENEURO.0141-17.2017",
+        "DOI": "10.1371/currents.hd.124aa0d16753f88215776fba102ceb29",
+        "article-title": "High-throughput automated phenotyping of two genetic mouse models of Huntington's disease",
+        "volume": "5",
+        "author": "Balci",
+        "year": "2013",
+        "journal-title": "PLoS Currents"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1038/s41598-019-44705-2",
+        "article-title": "Heterogenising study samples across testing time improves reproducibility of behavioural data",
+        "volume": "9",
+        "author": "Bodden",
+        "year": "2019",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1016/j.bbr.2014.06.017",
+        "article-title": "Experimenter effects on behavioral test scores of eight inbred mouse strains under the influence of ethanol",
+        "volume": "272",
+        "author": "Bohlen",
+        "year": "2014",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1191",
+        "DOI": "10.1016/j.neuropharm.2011.04.011",
+        "article-title": "New translational assays for preclinical modelling of cognition in schizophrenia: the touchscreen testing method for mice and rats",
+        "volume": "62",
+        "author": "Bussey",
+        "year": "2012",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1101/lm.987808",
+        "article-title": "The touchscreen cognitive testing method for rodents: how to get the best out of your rat",
+        "volume": "15",
+        "author": "Bussey",
+        "year": "2008",
+        "journal-title": "Learn. Memory"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "907",
+        "DOI": "10.1016/S0149-7634(02)00103-3",
+        "article-title": "Identification and ranking of genetic and laboratory environment factors influencing a behavioral trait, thermal nociception, via computational analysis of a large data archive",
+        "volume": "26",
+        "author": "Chesler",
+        "year": "",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1101",
+        "DOI": "10.1038/nn1102-1101",
+        "article-title": "Influences of laboratory environment on behavior",
+        "volume": "5",
+        "author": "Chesler",
+        "year": "",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "612",
+        "DOI": "10.1038/505612a",
+        "article-title": "Policy: NIH plans to enhance reproducibility",
+        "volume": "505",
+        "author": "Collins",
+        "year": "2014",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "De Visser",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "e000002",
+        "DOI": "10.1136/bmjos-2018-000002",
+        "article-title": "Revision of the ARRIVE guidelines: rationale and scope",
+        "volume": "2",
+        "author": "du Sert",
+        "year": "2018",
+        "journal-title": "BMJ Open Sci."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1002165",
+        "DOI": "10.1371/journal.pbio.1002165",
+        "article-title": "The economics of reproducibility in preclinical research",
+        "volume": "13",
+        "author": "Freedman",
+        "year": "2015",
+        "journal-title": "PLoS Biol."
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "756",
+        "DOI": "10.1126/science.1235294",
+        "article-title": "Emergence of individuality in genetically identical mice",
+        "volume": "340",
+        "author": "Freund",
+        "year": "2013",
+        "journal-title": "Science"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1961",
+        "DOI": "10.1038/nprot.2013.122",
+        "article-title": "The touchscreen operant platform for testing learning and memory in rats and mice",
+        "volume": "8",
+        "author": "Horner",
+        "year": "2013",
+        "journal-title": "Nat. Protocols"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "Jhuang",
+        "year": "2010",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1000412",
+        "DOI": "10.1371/journal.pbio.1000412",
+        "article-title": "Improving bioscience research reporting: the ARRIVE guidelines for reporting animal research",
+        "volume": "8",
+        "author": "Kilkenny",
+        "year": "2010",
+        "journal-title": "PLoS Biol."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1016/j.bbr.2019.01.021",
+        "article-title": "Technology or ecology? New tools to assess cognitive judgement bias in mice",
+        "volume": "362",
+        "author": "Krakenberg",
+        "year": "2019",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "148",
+        "DOI": "10.3758/BRM.41.1.148",
+        "article-title": "Automated gait analysis in the open-field test for laboratory mice",
+        "volume": "41",
+        "author": "Leroy",
+        "year": "2009",
+        "journal-title": "Behav. Res. Methods"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1111/j.1601-183X.2005.00140.x",
+        "article-title": "Environmental bias? Effects of housing conditions, laboratory environment and experimenter on behavioral tests",
+        "volume": "5",
+        "author": "Lewejohann",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "B23",
+        "first-page": "66",
+        "article-title": "“Automated behavioral analysis of mice using INTELLICAGE: inter-laboratory comparisons and validation with exploratory behavior and spatial learning,”",
+        "author": "Lipp",
+        "year": "2005",
+        "journal-title": "Proceedings of Measuring Behavior 2005, Noldus Information Technology (Wageningen)"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "48",
+        "DOI": "10.1186/1744-9081-7-48",
+        "article-title": "Effects of environmental and physiological covariates on sex differences in unconditioned and conditioned anxiety and fear in a large sample of genetically heterogeneous (N/Nih-HS) rats",
+        "volume": "7",
+        "author": "López-Aumatell",
+        "year": "2011",
+        "journal-title": "Behav. Brain Funct."
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1038/s41559-017-0434-x",
+        "article-title": "Genotypic variability enhances the reproducibility of an ecological study",
+        "volume": "2",
+        "author": "Milcu",
+        "year": "2018",
+        "journal-title": "Nat. Ecol. Evol."
+      },
+      {
+        "key": "B26",
+        "unstructured": "NosekB. A.\n            AlterG.\n            BanksG. C.\n            BorsboomD.\n            BowmanS.\n            BowmanS.\n            BrecklerS.\n          Transparency and Openness Promotion (TOP) Guidelines2016"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.1016/j.bbr.2013.12.009",
+        "article-title": "An automated maze task for assessing hippocampus-sensitive memory in mice",
+        "volume": "261",
+        "author": "Pioli",
+        "year": "2014",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "712",
+        "DOI": "10.1038/nrd3439-c1",
+        "article-title": "Believe it or not: how much can we rely on published data on potential drug targets?",
+        "volume": "10",
+        "author": "Prinz",
+        "year": "2011",
+        "journal-title": "Nat. Rev. Drug Discov."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "42519",
+        "DOI": "10.1038/srep42519",
+        "article-title": "A one-week 5-choice serial reaction time task to measure impulsivity and attention in adult and adolescent mice",
+        "volume": "7",
+        "author": "Remmelink",
+        "year": "2017",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.1177/026119291204000513",
+        "article-title": "Automated homecage behavioural analysis and the implementation of the three Rs in research involving mice",
+        "volume": "40",
+        "author": "Richardson",
+        "year": "2012",
+        "journal-title": "Perspect. Lab. Anim. Sci."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "343",
+        "DOI": "10.1038/laban.1330",
+        "article-title": "Systematic heterogenization for better reproducibility in animal experimentation",
+        "volume": "46",
+        "author": "Richter",
+        "year": "2017",
+        "journal-title": "Lab. Animal"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1038/nmeth0310-167",
+        "article-title": "Systematic variation improves reproducibility of animal experiments",
+        "volume": "7",
+        "author": "Richter",
+        "year": "2010",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "257",
+        "DOI": "10.1038/nmeth.1312",
+        "article-title": "Environmental standardization: cure or cause of poor reproducibility in animal experiments?",
+        "volume": "6",
+        "author": "Richter",
+        "year": "2009",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "0016461",
+        "DOI": "10.1371/journal.pone.0016461",
+        "article-title": "Effect of population heterogenization on the reproducibility of mouse behavior: a multi-laboratory study",
+        "volume": "6",
+        "author": "Richter",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1016/j.jneumeth.2017.11.019",
+        "article-title": "Between and within laboratory reliability of mouse behaviour recorded in home-cage and open-field",
+        "volume": "300",
+        "author": "Robinson",
+        "year": "2018",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "e51959",
+        "DOI": "10.1371/journal.pone.0051959",
+        "article-title": "Laughing rats are optimistic",
+        "volume": "7",
+        "author": "Rygula",
+        "year": "2012",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0147215",
+        "DOI": "10.1371/journal.pone.0147215",
+        "article-title": "When quality beats quantity: decision theory, drug discovery, and the reproducibility crisis",
+        "volume": "11",
+        "author": "Scannell",
+        "year": "2016",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1177/0023677217724823",
+        "article-title": "PREPARE: guidelines for planning animal research and testing",
+        "volume": "52",
+        "author": "Smith",
+        "year": "2018",
+        "journal-title": "Lab. Animals"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "629",
+        "DOI": "10.1038/nmeth.2935",
+        "article-title": "Olfactory exposure to males, including men, causes stress and related analgesia in rodents",
+        "volume": "11",
+        "author": "Sorge",
+        "year": "2014",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "231",
+        "DOI": "10.1016/j.ddtec.2006.06.010",
+        "article-title": "Advanced behavioural screening: automated home cage ethology",
+        "volume": "3",
+        "author": "Spruijt",
+        "year": "2006",
+        "journal-title": "Drug Discov. Today"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1016/j.jneumeth.2014.03.001",
+        "article-title": "Reproducibility and relevance of future behavioral sciences should benefit from a cross fertilization of past recommendations and today's technology: back to the future",
+        "volume": "234",
+        "author": "Spruijt",
+        "year": "2014",
+        "journal-title": "J. Neurosci. methods"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1983",
+        "DOI": "10.1073/pnas.0610779104",
+        "article-title": "The power of automated high-resolution behavior analysis revealed by its application to mouse models of Huntington's and prion diseases",
+        "volume": "104",
+        "author": "Steele",
+        "year": "2007",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.1016/j.bbr.2004.11.005",
+        "article-title": "Familiarity increases consistency in animal tests",
+        "volume": "159",
+        "author": "van Driel",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.1016/j.jneumeth.2014.04.026",
+        "article-title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice",
+        "volume": "234",
+        "author": "Vannoni",
+        "year": "2014",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2003693",
+        "DOI": "10.1371/journal.pbio.2003693",
+        "article-title": "Reproducibility of preclinical animal research improves with heterogeneity of study samples",
+        "volume": "16",
+        "author": "Voelkl",
+        "year": "2018",
+        "journal-title": "PLoS Biol."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "509",
+        "DOI": "10.1016/j.tips.2016.05.003",
+        "article-title": "Reproducibility crisis: are we ignoring reaction norms?",
+        "volume": "37",
+        "author": "Voelkl",
+        "year": "2016",
+        "journal-title": "Trends Pharmacol. Sci."
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "770",
+        "DOI": "10.2527/jas.2008-1297",
+        "article-title": "Board-invited review: Using behavior to predict and identify ill health in animals",
+        "volume": "87",
+        "author": "Weary",
+        "year": "2009",
+        "journal-title": "J. Animal Sci."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.1038/81541",
+        "article-title": "Behaviour and the standardization fallacy",
+        "volume": "26",
+        "author": "Würbel",
+        "year": "2000",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1046/j.1601-1848.2001.00006.x",
+        "article-title": "Behavioral phenotyping enhanced-beyond (environmental) standardization",
+        "volume": "1",
+        "author": "Würbel",
+        "year": "2002",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.1002/0471142301.ns0826s56",
+        "article-title": "Automated three-chambered social approach task for mice",
+        "volume": "56",
+        "author": "Yang",
+        "year": "2011",
+        "journal-title": "Curr. Protocols Neurosci."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Neuroscience"
+    ],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/article/10.3389/fnins.2020.00383/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2020-04-24T12:16:06Z",
+      "timestamp": 1587730566000
+    },
+    "score": 23.154068,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/article/10.3389/fnins.2020.00383/full"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ]
+    },
+    "references-count": 50,
+    "alternative-id": [
+      "10.3389/fnins.2020.00383"
+    ],
+    "URL": "https://doi.org/10.3389/fnins.2020.00383",
+    "ISSN": [
+      "1662-453X"
+    ],
+    "issn-type": [
+      {
+        "value": "1662-453X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ]
+    },
+    "article-number": "383"
+  }
+}

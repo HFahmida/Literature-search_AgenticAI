@@ -1,0 +1,75 @@
+{
+  "paper_id": "doi:10.1007/s00213-024-06528-6",
+  "title": "An automated group-housed oral fentanyl self-administration method in mice.",
+  "citation": null,
+  "doi": "10.1007/s00213-024-06528-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38246893/",
+  "pdf_url": null,
+  "year": 2025,
+  "authors": [
+    "Noa Peretz-Rivlin",
+    "Idit Marsh-Yvgi",
+    "Yonatan Fatal",
+    "Anna Terem",
+    "Hagit Turm",
+    "Yavin Shaham",
+    "Ami Citri"
+  ],
+  "journal": "Psychopharmacology",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "The study reports behavioral outcomes in mice using an automated home-cage monitoring method, but the primary focus is on drug self-administration rather than social behavior.",
+    "matched_inclusion_criteria": [
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": [
+      "No automated monitoring or no behavioral outcome (primary focus is on drug self-administration)"
+    ]
+  },
+  "overall_concept_summary": "The study describes HOMECAGE, an automated method for studying oral opioid self-administration in group-housed mice.",
+  "detailed_summary": "This paper introduces HOMECAGE, a method for studying oral fentanyl self-administration in mice under conditions that mimic natural social interactions. Mice showed a preference for fentanyl and increased intake over time, with consumption patterns during the dark cycle. The study highlights the importance of group-housing to reduce experimental confounds.",
+  "background_rationale": null,
+  "methods_summary": "Mice were group-housed in an automated monitoring system called HOMECAGE, where they could consume fentanyl or a reference liquid. Behavioral outcomes included drug preference and consumption patterns over time.",
+  "results_summary": "Mice preferred fentanyl and increased their intake over time, with consumption primarily during the dark cycle. They also showed reinforcement learning behaviors in response to the task schedule.",
+  "conclusion_summary": "HOMECAGE is a valuable method for studying oral opioid self-administration under conditions that more closely mimic human social behavior.",
+  "relevance_to_review": "Tangential methods relevance, as it describes an automated monitoring system but focuses on drug self-administration rather than direct social behavior outcomes.",
+  "key_takeaways": [
+    "HOMECAGE is a method for studying oral opioid self-administration in group-housed mice.",
+    "Mice showed increased fentanyl consumption over time and preferred to consume during the dark cycle."
+  ],
+  "objective": "To develop an automated method for studying oral fentanyl self-administration in mice under conditions that mimic natural social interactions.",
+  "study_design": "Experimental study",
+  "population_or_sample": "Group-housed mice",
+  "setting": "Automated home-cage monitoring system (HOMECAGE)",
+  "intervention_or_exposure": "Oral fentanyl self-administration",
+  "comparator": "Reference liquid",
+  "methods": [
+    "Mice were group-housed in HOMECAGE.",
+    "Behavioral outcomes included drug preference and consumption patterns over time."
+  ],
+  "outcomes_measured": [
+    "Drug preference (fentanyl vs. reference liquid)",
+    "Consumption patterns during the dark cycle",
+    "Reinforcement learning behaviors"
+  ],
+  "main_results": [
+    "Mice preferred fentanyl and increased their intake over time.",
+    "Fentanyl consumption was primarily during the dark cycle."
+  ],
+  "conclusions": [
+    "HOMECAGE is a valuable method for studying oral opioid self-administration under conditions that more closely mimic human social behavior."
+  ],
+  "limitations": [
+    "The primary focus is on drug self-administration rather than direct social behavior outcomes."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Mice showed a preference for fentanyl and escalated their fentanyl intake over time. Mice preferred to consume fentanyl in bouts during the dark cycle."
+  ],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "No specific details on social behavior outcomes or direct comparison with isolated mice."
+  ]
+}

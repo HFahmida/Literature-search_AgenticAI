@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "30286683",
+  "title": "Automated monitoring of mouse feeding and body weight for continuous health assessment.",
+  "abstract": "Routine health assessment of laboratory rodents can be improved using automated home cage monitoring. Continuous, non-stressful, objective assessment of rodents unaware that they are being watched, including during their active dark period, reveals behavioural and physiological changes otherwise invisible to human caretakers. We developed an automated feeder that tracks feed intake, body weight, and physical appearance of individual radio frequency identification-tagged mice in social home cages. Here, we experimentally induce illness via lipopolysaccharide challenge and show that this automated tracking apparatus reveals sickness behaviour (reduced food intake) as early as 2-4 hours after lipopolysaccharide injection, whereas human observers conducting routine health checks fail to detect a significant difference between sick mice and saline-injected controls. Continuous automated monitoring additionally reveals pronounced circadian rhythms in both feed intake and body weight. Automated home cage monitoring is a non-invasive, reliable mode of health surveillance allowing caretakers to more efficiently detect and respond to early signs of illness in laboratory rodent populations.",
+  "year": 2019,
+  "authors": [
+    "Jamie Ahloy-Dallaire",
+    "Jon D Klein",
+    "Jerry K Davis",
+    "Joseph P Garner"
+  ],
+  "journal": "Laboratory animals",
+  "doi": "10.1177/0023677218797974",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30286683/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "30286683"
+  }
+}

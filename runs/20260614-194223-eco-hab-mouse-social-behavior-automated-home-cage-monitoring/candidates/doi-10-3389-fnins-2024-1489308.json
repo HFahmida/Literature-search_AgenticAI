@@ -1,0 +1,516 @@
+{
+  "source": "crossref",
+  "source_id": "10.3389/fnins.2024.1489308",
+  "title": "Automated home cage monitoring of an aging colony of mice—Implications for welfare monitoring and experimentation",
+  "abstract": "Introduction Our understanding of laboratory animal behavior and the implications of husbandry activities on their wellbeing remains incomplete. This is especially relevant with an aging colony as their activity patterns may change as they mature. Home Cage Monitoring (HCM) provides valuable insights into mouse activity within the animal's own environment and can shed light on acclimatization periods and responses to husbandry activities such as cage changing. The aim of this study was to monitor and explore changes in the activity and rest disturbance (RDI) patterns of an aging colony of male and female C57/BL6 mice. Methods The mice were housed in the Digitally Ventilated Cage ® system, for up to 18 months of age. Data was then downloaded to investigate how the activity patterns and RDI of the mice changed over time. Habituation, aging and cage change assessments were conducted using linear mixed models, while cage separation and stereotypic behavior investigations were conducted by visual inspection of the data. Results As expected during the study, mice were less active during the light phase compared to the dark phase. However, on arrival mice displayed heightened activity and RDI during the light phase and reduced activity and RDI during the dark phase, taking several days to adjust to baseline “acclimatized” patterns. With age, overall activity significantly decreased from 5 months until 14 months of age, after which it increased back toward baseline levels. We also observed activity spikes during our monitoring of this colony. Prolonged housing can lead to alarming stereotypic behaviors in animals. Cages of mice flagged for potential stereotypy displayed sustained activity spikes in the light and dark phases. Spikes in activity during the dark phase were much more pronounced than in the light phase. Cage changing led to an increase in the light phase activity and RDI compared to the previous day, with no observed difference in the dark phase post-cage change. This effect remained consistent as the animals aged. Discussion This study explores changes in the activity patterns of an aging colony of male and female C57/BL6 mice housed in the Digitally Ventilated Cage ® system. We identified distinct aging phases concerning activity and RDI differences and a potential new welfare application for the DVC ® , specifically for early detection of stereotypy. In conclusion, the adoption of HCM systems should be considered for long-term animal housing from both a welfare and behavioral perspective.",
+  "year": 2024,
+  "authors": [
+    "Joanna L. Moore",
+    "James Kennedy",
+    "Abdul-Azim Hassan"
+  ],
+  "journal": "Frontiers in Neuroscience",
+  "doi": "10.3389/fnins.2024.1489308",
+  "url": "https://doi.org/10.3389/fnins.2024.1489308",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T09:33:57Z",
+      "timestamp": 1780479237135,
+      "version": "3.54.1"
+    },
+    "reference-count": 30,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              29
+            ]
+          ],
+          "date-time": "2024-10-29T00:00:00Z",
+          "timestamp": 1730160000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Neurosci."
+    ],
+    "abstract": "<jats:sec><jats:title>Introduction</jats:title><jats:p>Our understanding of laboratory animal behavior and the implications of husbandry activities on their wellbeing remains incomplete. This is especially relevant with an aging colony as their activity patterns may change as they mature. Home Cage Monitoring (HCM) provides valuable insights into mouse activity within the animal's own environment and can shed light on acclimatization periods and responses to husbandry activities such as cage changing. The aim of this study was to monitor and explore changes in the activity and rest disturbance (RDI) patterns of an aging colony of male and female C57/BL6 mice.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The mice were housed in the Digitally Ventilated Cage<jats:sup>®</jats:sup> system, for up to 18 months of age. Data was then downloaded to investigate how the activity patterns and RDI of the mice changed over time. Habituation, aging and cage change assessments were conducted using linear mixed models, while cage separation and stereotypic behavior investigations were conducted by visual inspection of the data.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>As expected during the study, mice were less active during the light phase compared to the dark phase. However, on arrival mice displayed heightened activity and RDI during the light phase and reduced activity and RDI during the dark phase, taking several days to adjust to baseline “acclimatized” patterns. With age, overall activity significantly decreased from 5 months until 14 months of age, after which it increased back toward baseline levels. We also observed activity spikes during our monitoring of this colony. Prolonged housing can lead to alarming stereotypic behaviors in animals. Cages of mice flagged for potential stereotypy displayed sustained activity spikes in the light and dark phases. Spikes in activity during the dark phase were much more pronounced than in the light phase. Cage changing led to an increase in the light phase activity and RDI compared to the previous day, with no observed difference in the dark phase post-cage change. This effect remained consistent as the animals aged.</jats:p></jats:sec><jats:sec><jats:title>Discussion</jats:title><jats:p>This study explores changes in the activity patterns of an aging colony of male and female C57/BL6 mice housed in the Digitally Ventilated Cage<jats:sup>®</jats:sup> system. We identified distinct aging phases concerning activity and RDI differences and a potential new welfare application for the DVC<jats:sup>®</jats:sup>, specifically for early detection of stereotypy. In conclusion, the adoption of HCM systems should be considered for long-term animal housing from both a welfare and behavioral perspective.</jats:p></jats:sec>",
+    "DOI": "10.3389/fnins.2024.1489308",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2024-10-29T06:10:35Z",
+      "timestamp": 1730182235000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Automated home cage monitoring of an aging colony of mice—Implications for welfare monitoring and experimentation"
+    ],
+    "prefix": "10.3389",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Joanna L.",
+        "family": "Moore",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Kennedy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdul-Azim",
+        "family": "Hassan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "352",
+        "DOI": "10.1002/art.42353",
+        "article-title": "Role of human mesenchymal stem cells and derived extracellular vesicles in reducing sensory neuron hyperexcitability and pain behaviors in murine osteoarthritis",
+        "volume": "75",
+        "author": "Ai",
+        "year": "2023",
+        "journal-title": "Arthrit. Rheumatol."
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1148172",
+        "DOI": "10.3389/fnbeh.2023.1148172",
+        "article-title": "Longitudinal home-cage automated assessment of climbing behavior shows sexual dimorphism and aging-related decrease in C57BL/6J healthy mice and allows early detection of motor impairment in the N171-82Q mouse model of Huntington's disease",
+        "volume": "17",
+        "author": "Bains",
+        "year": "2023",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "217",
+        "DOI": "10.1258/002367706777611488",
+        "article-title": "Laboratory environments and rodents' behavioural needs: a review",
+        "volume": "40",
+        "author": "Balcombe",
+        "year": "2006",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1007/978-1-4020-2271-5_7",
+        "article-title": "“The welfare of laboratory mice,”",
+        "volume-title": "The Welfare of Laboratory Animals",
+        "author": "Baumans",
+        "year": "2007"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "540",
+        "DOI": "10.1038/s41596-019-0256-1",
+        "article-title": "A toolbox for the longitudinal assessment of healthspan in aging mice",
+        "volume": "15",
+        "author": "Bellantuono",
+        "year": "2020",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "762",
+        "DOI": "10.1016/j.psyneuen.2011.09.007",
+        "article-title": "Social deprivation stress is a triggering factor for the emergence of anxiety-and depression-like behaviours and leads to reduced brain BDNF levels in C57BL/6J mice",
+        "volume": "37",
+        "author": "Berry",
+        "year": "2012",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "B7",
+        "first-page": "883",
+        "article-title": "Acclimatization of mice to different cage types and social groupings with respect to fecal secretion of IgA and corticosterone metabolites",
+        "volume": "26",
+        "author": "Bundgaard",
+        "year": "2012",
+        "journal-title": "In Vivo"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "100",
+        "DOI": "10.1016/j.bbr.2005.06.003",
+        "article-title": "Social and structural housing conditions influence the development of a depressive-like phenotype in the learned helplessness paradigm in male mice",
+        "volume": "164",
+        "author": "Chourbaji",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "363",
+        "DOI": "10.1046/j.1365-2826.1997.t01-1-00589.x",
+        "article-title": "Reduced aggressive behaviour in mice with targeted disruption of the oxytocin gene",
+        "volume": "9",
+        "author": "DeVries",
+        "year": "1997",
+        "journal-title": "J. Neuroendocrinol."
+      },
+      {
+        "key": "B10",
+        "first-page": "519",
+        "article-title": "“Stereotyped behaviour,”",
+        "volume-title": "Techniques in the Behavioral and Neural Sciences, Vol. 10",
+        "author": "Ellenbroek",
+        "year": "1993"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1016/j.physbeh.2015.06.021",
+        "article-title": "Mouse handling limits the impact of stress on metabolic endpoints",
+        "volume": "150",
+        "author": "Ghosal",
+        "year": "2015",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "896",
+        "DOI": "10.3389/fnins.2020.00896",
+        "article-title": "A non-invasive digital biomarker for the detection of rest disturbances in the SOD1G93A mouse model of ALS",
+        "volume": "14",
+        "author": "Golini",
+        "year": "2020",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "61",
+        "DOI": "10.1016/j.bbr.2012.06.007",
+        "article-title": "Cage-induced stereotypies, perseveration and the effects of environmental enrichment in laboratory mice",
+        "volume": "234",
+        "author": "Gross",
+        "year": "2012",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "e01454",
+        "DOI": "10.1016/j.heliyon.2019.e01454",
+        "article-title": "Non-intrusive high throughput automated data collection from the home cage",
+        "volume": "5",
+        "author": "Iannello",
+        "year": "2019",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "160",
+        "DOI": "10.1177/0023677216653984",
+        "article-title": "Does age matter? The impact of rodent age on study outcomes",
+        "volume": "51",
+        "author": "Jackson",
+        "year": "2017",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "256",
+        "DOI": "10.1186/s12915-023-01751-7",
+        "article-title": "A systematic review of the development and application of home cage monitoring in laboratory mice and rats",
+        "volume": "21",
+        "author": "Kahnau",
+        "year": "2023",
+        "journal-title": "BMC Biol."
+      },
+      {
+        "key": "B17",
+        "first-page": "202",
+        "article-title": "Environmental modification and agonistic behavior in NIH/S male mice: nesting material enhances fighting but shelters prevent it",
+        "volume": "56",
+        "author": "Kaliste",
+        "year": "2006",
+        "journal-title": "Comp. Med."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "4107",
+        "DOI": "10.1111/bph.14539",
+        "article-title": "Sex bias in preclinical research and an exploration of how to change the status quo",
+        "volume": "176",
+        "author": "Karp",
+        "year": "2019",
+        "journal-title": "Br. J. Pharmacol."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "15211",
+        "DOI": "10.1038/s41598-019-51674-z",
+        "article-title": "Cage aggression in group-housed laboratory male mice: an international data crowdsourcing project",
+        "volume": "9",
+        "author": "Lidster",
+        "year": "2019",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1177/0023677214550970",
+        "article-title": "FELASA recommendations for the health monitoring of mouse, rat, hamster, guinea pig and rabbit colonies in breeding and experimental units (vol 48, pg 178, 2014)",
+        "volume": "49",
+        "author": "Mähler Convenor",
+        "year": "2015",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "166",
+        "DOI": "10.1016/j.neurobiolaging.2019.05.025",
+        "article-title": "Temporal progression of Alzheimer's disease in brains and intestines of transgenic mice",
+        "volume": "81",
+        "author": "Manocha",
+        "year": "2019",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "765",
+        "DOI": "10.1016/j.physbeh.2004.05.009",
+        "article-title": "Effects of environmental enrichment on males of a docile inbred strain of mice",
+        "volume": "82",
+        "author": "Marashi",
+        "year": "2004",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1016/S0166-4328(01)00298-4",
+        "article-title": "Aggressive behavioral phenotypes in mice",
+        "volume": "125",
+        "author": "Miczek",
+        "year": "2001",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "364",
+        "DOI": "10.1093/ilar.47.4.364",
+        "article-title": "Establishing an appropriate period of acclimatization following transportation of laboratory animals",
+        "volume": "47",
+        "author": "Obernier",
+        "year": "2006",
+        "journal-title": "ILAR J."
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0211063",
+        "DOI": "10.1371/journal.pone.0211063",
+        "article-title": "Towards large scale automated cage monitoring–Diurnal rhythm and impact of interventions on in-cage activity of C57BL/6J mice recorded 24/7 with a non-disrupting capacitive-based technique",
+        "volume": "14",
+        "author": "Pernold",
+        "year": "2019",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "2550",
+        "DOI": "10.1038/s41598-022-06395-1",
+        "article-title": "Development of behavioral patterns in young C57BL/6J mice: a home cage-based study",
+        "volume": "12",
+        "author": "Reiber",
+        "year": "2022",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "17281",
+        "DOI": "10.1038/s41598-020-74279-3",
+        "article-title": "The impact of handling technique and handling frequency on laboratory mouse welfare is sex-specific",
+        "volume": "10",
+        "author": "Sensini",
+        "year": "2020",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "132",
+        "DOI": "10.1258/002367795780740249",
+        "article-title": "Stress measurements in mice after transportation",
+        "volume": "29",
+        "author": "Tuli",
+        "year": "1995",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1016/S0168-1591(01)00200-3",
+        "article-title": "Influence of cage enrichment on aggressive behaviour and physiological parameters in male mice",
+        "volume": "76",
+        "author": "Van Loo",
+        "year": "2002",
+        "journal-title": "Appl. Anim. Behav. Sci."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "587",
+        "DOI": "10.1007/s11248-009-9336-2",
+        "article-title": "Fertility comparison between wild type and transgenic mice by in vitro fertilization",
+        "volume": "19",
+        "author": "Vasudevan",
+        "year": "2010",
+        "journal-title": "Transg. Res."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Neuroscience"
+    ],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2024.1489308/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2024-10-29T06:10:38Z",
+      "timestamp": 1730182238000
+    },
+    "score": 21.533648,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2024.1489308/full"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ]
+    },
+    "references-count": 30,
+    "alternative-id": [
+      "10.3389/fnins.2024.1489308"
+    ],
+    "URL": "https://doi.org/10.3389/fnins.2024.1489308",
+    "ISSN": [
+      "1662-453X"
+    ],
+    "issn-type": [
+      {
+        "value": "1662-453X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ]
+    },
+    "article-number": "1489308"
+  }
+}

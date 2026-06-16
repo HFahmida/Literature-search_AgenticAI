@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi:10.1093/hmg/ddi016",
+  "title": "Abnormalities of social interactions and home-cage behavior in a mouse model of Rett syndrome",
+  "citation": null,
+  "doi": "10.1093/hmg/ddi016",
+  "url": "https://doi.org/10.1093/hmg/ddi016",
+  "pdf_url": null,
+  "year": 2005,
+  "authors": [
+    "Paolo Moretti",
+    "J. Adriaan Bouwknecht",
+    "Ryan Teague",
+    "Richard Paylor",
+    "Huda Y. Zoghbi"
+  ],
+  "journal": "Human Molecular Genetics",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study reports behavioral and social outcomes in mice, using automated home-cage monitoring.",
+    "matched_inclusion_criteria": [
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This paper examines social behavior abnormalities in Rett syndrome mouse models through automated home-cage monitoring.",
+  "detailed_summary": null,
+  "background_rationale": "The study investigates behavioral and social deficits associated with Rett syndrome using a mouse model, employing automated home-cage monitoring to assess these behaviors.",
+  "methods_summary": "Automated home-cage monitoring was used to observe and quantify social interactions in mice. The study focused on behavior patterns indicative of social abnormalities in the context of Rett syndrome.",
+  "results_summary": "The results showed significant alterations in social interaction patterns, including reduced sociability and increased repetitive behaviors, compared to wild-type controls.",
+  "conclusion_summary": "Automated home-cage monitoring effectively identified behavioral deficits associated with Rett syndrome, highlighting its utility for studying mouse models of neurodevelopmental disorders.",
+  "relevance_to_review": "Highly relevant as it uses automated home-cage monitoring to study social behavior in mice, aligning with the review question.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can effectively quantify social behaviors in mice.",
+    "Rett syndrome mouse models exhibit reduced sociability and increased repetitive behaviors."
+  ],
+  "objective": "To assess behavioral abnormalities associated with Rett syndrome using automated home-cage monitoring.",
+  "study_design": "Experimental study",
+  "population_or_sample": "Mice, specifically a mouse model of Rett syndrome",
+  "setting": "Automated home-cage monitoring environment",
+  "intervention_or_exposure": "Rett syndrome mutation",
+  "comparator": "Wild-type mice",
+  "methods": [
+    "Automated home-cage monitoring"
+  ],
+  "outcomes_measured": [
+    "Social interactions, sociability, repetitive behaviors"
+  ],
+  "main_results": [
+    "Significant alterations in social interaction patterns observed in Rett syndrome mouse models."
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring is a valuable tool for studying social behavior in mice with neurodevelopmental disorders like Rett syndrome."
+  ],
+  "limitations": [
+    "The study focuses on one specific model of Rett syndrome, limiting generalizability."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

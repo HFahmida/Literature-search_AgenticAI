@@ -1,0 +1,28 @@
+{
+  "source": "pubmed",
+  "source_id": "25339878",
+  "title": "An open-source toolbox for automated phenotyping of mice in behavioral tasks.",
+  "abstract": "Classifying behavior patterns in mouse models of neurological, psychiatric and neurodevelopmental disorders is critical for understanding disease causality and treatment. However, complete characterization of behavior is time-intensive, prone to subjective scoring, and often requires specialized equipment. Although several reports describe automated home-cage monitoring and individual task scoring methods, we report the first open source, comprehensive toolbox for automating the scoring of several common behavior tasks used by the neuroscience community. We show this new toolbox is robust and achieves equal or better consistency when compared to manual scoring methods. We use this toolbox to study the alterations in behavior that occur following blast-induced traumatic brain injury (bTBI), and study if these behavior patterns are altered following genetic deletion of the transcription factor Ets-like kinase 1 (Elk-1). Due to the role of Elk-1 in neuronal survival and proposed role in synaptic plasticity, we hypothesized that Elk-1 deletion would improve some neurobehavioral deficits, while impairing others, following blast exposure. In Elk-1 knockout (KO) animals, deficits in open field, spatial object recognition (SOR) and elevated zero maze performance after blast exposure disappeared, while new significant deficits appeared in spatial and associative memory. These are the first data suggesting a molecular mediator of anxiety deficits following bTBI, and represent the utility of the broad screening tool we developed. More broadly, we envision this open-source toolbox will provide a more consistent and rapid analysis of behavior across many neurological diseases, promoting the rapid discovery of novel pathways mediating disease progression and treatment.",
+  "year": 2014,
+  "authors": [
+    "Tapan P Patel",
+    "David M Gullotti",
+    "Pepe Hernandez",
+    "W Timothy O'Brien",
+    "Bruce P Capehart",
+    "Barclay Morrison",
+    "Cameron Bass",
+    "James E Eberwine",
+    "Ted Abel",
+    "David F Meaney"
+  ],
+  "journal": "Frontiers in behavioral neuroscience",
+  "doi": "10.3389/fnbeh.2014.00349",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25339878/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "25339878"
+  }
+}

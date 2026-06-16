@@ -1,0 +1,623 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.bbr.2015.06.011",
+  "title": "The light spot test: Measuring anxiety in mice in an automated home-cage environment",
+  "abstract": null,
+  "year": 2015,
+  "authors": [
+    "Emmeke Aarts",
+    "Gregoire Maroteaux",
+    "Maarten Loos",
+    "Bastijn Koopmans",
+    "Jovana Kovačević",
+    "August B. Smit",
+    "Matthijs Verhage",
+    "Sophie van der Sluis"
+  ],
+  "journal": "Behavioural Brain Research",
+  "doi": "10.1016/j.bbr.2015.06.011",
+  "url": "https://doi.org/10.1016/j.bbr.2015.06.011",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T05:22:18Z",
+      "timestamp": 1773724938685,
+      "version": "3.50.1"
+    },
+    "reference-count": 27,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2015-11-01T00:00:00Z",
+          "timestamp": 1446336000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Agentschap NL (NeuroBSIK Mouse Phenomics Consortium",
+        "award": [
+          "BSIK03053"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "BSIK03053"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NeuroBasic PharmaPhenomics Consortium, LSH framework",
+        "award": [
+          "FES0908"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "FES0908"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Netherlands Scientific Organization",
+        "award": [
+          "VIDI-452-12-014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "VIDI-452-12-014"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Behavioural Brain Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bbr.2015.06.011",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2015-06-12T22:54:37Z",
+      "timestamp": 1434149677000
+    },
+    "page": "123-130",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 42,
+    "special_numbering": "C",
+    "title": [
+      "The light spot test: Measuring anxiety in mice in an automated home-cage environment"
+    ],
+    "prefix": "10.1016",
+    "volume": "294",
+    "author": [
+      {
+        "given": "Emmeke",
+        "family": "Aarts",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gregoire",
+        "family": "Maroteaux",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maarten",
+        "family": "Loos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bastijn",
+        "family": "Koopmans",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jovana",
+        "family": "Kovačević",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "August B.",
+        "family": "Smit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthijs",
+        "family": "Verhage",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sophie van der",
+        "family": "Sluis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "S107",
+        "DOI": "10.1016/S1359-6446(02)02423-6",
+        "article-title": "In need of high-throughput behavioral systems",
+        "volume": "7",
+        "author": "Brunner",
+        "year": "2002",
+        "journal-title": "Drug Discovery Today"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1038/nrg2897",
+        "article-title": "The next challenge",
+        "volume": "11",
+        "author": "Houle",
+        "year": "2010",
+        "journal-title": "Nat. Rev. Genet."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "de Visser",
+        "year": "2006",
+        "journal-title": "Genes, Brain, Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.bbr.2004.12.004",
+        "article-title": "Automated home cage observations as a tool to measure the effects of wheel running on cage floor locomotion",
+        "volume": "160",
+        "author": "de Visser",
+        "year": "2005",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "20575",
+        "DOI": "10.1073/pnas.0809053106",
+        "article-title": "A robust automated system elucidates mouse home cage behavioral structure",
+        "volume": "105",
+        "author": "Goulding",
+        "year": "2008",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncomms1064",
+        "article-title": "Automated home-cage behavioural phenotyping of mice",
+        "volume": "1",
+        "author": "Jhuang",
+        "year": "2010",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "304",
+        "DOI": "10.1016/j.bbr.2010.05.019",
+        "article-title": "Conditioned response suppression in the IntelliCage: assessment of mouse strain differences and effects of hippocampal and striatal lesions on acquisition and retention of memory",
+        "volume": "213",
+        "author": "Voikar",
+        "year": "2010",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/j.jneumeth.2013.12.010",
+        "article-title": "Validation and implementation of a novel high-throughput behavioral phenotyping instrument for mice",
+        "volume": "224",
+        "author": "Brodkin",
+        "year": "2014",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "e108563",
+        "DOI": "10.1371/journal.pone.0108563",
+        "article-title": "Sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using home-cage monitoring",
+        "volume": "9",
+        "author": "Loos",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1016/j.jneumeth.2014.04.026",
+        "article-title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice",
+        "volume": "234",
+        "author": "Vannoni",
+        "year": "2014",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.1016/j.bbr.2011.02.037",
+        "article-title": "Automated test of behavioral flexibility in mice using a behavioral sequencing task in intelliCage",
+        "volume": "221",
+        "author": "Endo",
+        "year": "2011",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1111/j.1601-183X.2012.00820.x",
+        "article-title": "High-throughput phenotyping of avoidance learning in mice discriminates different genotypes and identifies a novel gene",
+        "volume": "11",
+        "author": "Maroteaux",
+        "year": "2012",
+        "journal-title": "Genes, Brain, Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "769",
+        "DOI": "10.1037/0735-7044.122.4.769",
+        "article-title": "Differential genetic regulation of motor activity and anxiety-related behaviors in mice using an automated home cage task",
+        "volume": "122",
+        "author": "Kas",
+        "year": "2008",
+        "journal-title": "Behav. Neurosci."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0075",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bbr.2015.01.020",
+        "article-title": "A 1-night operant learning task without food-restriction differentiates among mouse strains in an automated home-cage environment",
+        "author": "Remmelink",
+        "year": "2015",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.3758/BF03195394",
+        "article-title": "EthoVision a versatile video tracking system for automation of behavioral experiments",
+        "volume": "33",
+        "author": "Noldus",
+        "year": "2001",
+        "journal-title": "Behav. Res. Meth. Instrum. Comput."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0085",
+        "unstructured": "R Development Core Team. R: A language and environment for statistical computing. Vineea, Austria: R Foundation for Satatistical Computing, 2010."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1016/j.bbr.2011.11.042",
+        "article-title": "The use of a test battery assessing affective behavior in rats: order effects",
+        "volume": "228",
+        "author": "Blokland",
+        "year": "2012",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1016/S0031-9384(01)00528-5",
+        "article-title": "The use of behavioral test batteries: effects of training history",
+        "volume": "73",
+        "author": "McIlwain",
+        "year": "2001",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0100",
+        "first-page": "57",
+        "article-title": "Learning (in) the PhenoTyper: an integrative approach to conducting cognitive behavioural challenges in a home cage environment",
+        "volume": "2008",
+        "author": "de Heer",
+        "year": "2008",
+        "journal-title": "Measur. Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "817",
+        "DOI": "10.1111/j.1601-183X.2009.00528.x",
+        "article-title": "Activity and impulsive action are controlled by different genetic and environmental factors",
+        "volume": "8",
+        "author": "Loos",
+        "year": "2009",
+        "journal-title": "Genes, Brain Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1007/BF02245704",
+        "article-title": "Influence of prior maze experience on behaviour and response to diazepam in the elevated plus-maze and light/dark tests of anxiety in mice",
+        "volume": "113",
+        "author": "Rodgers",
+        "year": "1993",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/0166-4328(93)90103-W",
+        "article-title": "The interplay of learning and anxiety in the elevated plus-maze",
+        "volume": "58",
+        "author": "File",
+        "year": "1993",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1038/44579",
+        "article-title": "Benzodiazepine actions mediated by specific -aminobutyric acidA receptor subtypes",
+        "volume": "401",
+        "author": "Rudolph",
+        "year": "1999",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/j.neuropharm.2012.03.001",
+        "article-title": "Benzodiazepine-induced anxiolysis and reduction of conditioned fear are mediated by distinct GABA A receptor subtypes in mice",
+        "volume": "63",
+        "author": "Smith",
+        "year": "2012",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1016/j.pbb.2010.09.011",
+        "article-title": "Spatiotemporal properties of locomotor activity after administration of central nervous stimulants and sedatives in mice",
+        "volume": "97",
+        "author": "Zhang",
+        "year": "2011",
+        "journal-title": "Pharmacol. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/j.bbr.2015.06.011_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "15580",
+        "DOI": "10.1073/pnas.1014837108",
+        "article-title": "Quantifying the buildup in extent and complexity of free exploration in mice",
+        "volume": "108",
+        "author": "Benjamini",
+        "year": "2011",
+        "journal-title": "Proc. Natl. Acad. Sci."
+      }
+    ],
+    "container-title": [
+      "Behavioural Brain Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432815300371?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0166432815300371?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2018-09-21T17:54:15Z",
+      "timestamp": 1537552455000
+    },
+    "score": 21.23727,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0166432815300371"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "references-count": 27,
+    "alternative-id": [
+      "S0166432815300371"
+    ],
+    "URL": "https://doi.org/10.1016/j.bbr.2015.06.011",
+    "ISSN": [
+      "0166-4328"
+    ],
+    "issn-type": [
+      {
+        "value": "0166-4328",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The light spot test: Measuring anxiety in mice in an automated home-cage environment",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Behavioural Brain Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bbr.2015.06.011",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

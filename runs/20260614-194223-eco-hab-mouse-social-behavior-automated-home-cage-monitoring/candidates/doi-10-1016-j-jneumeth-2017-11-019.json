@@ -1,0 +1,898 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.jneumeth.2017.11.019",
+  "title": "Between and within laboratory reliability of mouse behaviour recorded in home-cage and open-field",
+  "abstract": null,
+  "year": 2018,
+  "authors": [
+    "Lianne Robinson",
+    "Berry Spruijt",
+    "Gernot Riedel"
+  ],
+  "journal": "Journal of Neuroscience Methods",
+  "doi": "10.1016/j.jneumeth.2017.11.019",
+  "url": "https://doi.org/10.1016/j.jneumeth.2017.11.019",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2026-06-09T06:24:02Z",
+      "timestamp": 1780986242718,
+      "version": "3.54.1"
+    },
+    "reference-count": 55,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2018-04-01T00:00:00Z",
+          "timestamp": 1522540800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2018-04-01T00:00:00Z",
+          "timestamp": 1522540800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jneumeth.2017.11.019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2017-12-09T17:13:27Z",
+      "timestamp": 1512839607000
+    },
+    "page": "10-19",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 51,
+    "special_numbering": "C",
+    "title": [
+      "Between and within laboratory reliability of mouse behaviour recorded in home-cage and open-field"
+    ],
+    "prefix": "10.1016",
+    "volume": "300",
+    "author": [
+      {
+        "given": "Lianne",
+        "family": "Robinson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Berry",
+        "family": "Spruijt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gernot",
+        "family": "Riedel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "11",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0166733",
+        "DOI": "10.1371/journal.pone.0166733",
+        "article-title": "The devil is in the details: incomplete reporting in preclinical animal research; canadian critical care translational biology group",
+        "volume": "11",
+        "author": "Avey",
+        "year": "2016",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1016/j.bbr.2014.06.017",
+        "article-title": "Experimenter effects on behavioral test scores of eight inbred mouse strains under the influence of ethanol",
+        "volume": "272",
+        "author": "Bohlen",
+        "year": "2014",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1016/S0166-4328(02)00200-0",
+        "article-title": "Behavioral and physiological mouse assays for anxiety: a survey in nine mouse strains",
+        "volume": "136",
+        "author": "Bouwknecht",
+        "year": "2002",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1016/S0031-9384(96)00463-5",
+        "article-title": "Parallel strain-dependent susceptibility to environmentally-induced stereotypies and stress-induced behavioral sensitization in mice",
+        "volume": "61",
+        "author": "Cabib",
+        "year": "1997",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1126/science.289.5478.463",
+        "article-title": "Abolition and reversal of strain differences in behavioural responses to drugs of abuse after a brief experience",
+        "volume": "289",
+        "author": "Cabib",
+        "year": "2000",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/S0166-4328(01)00422-3",
+        "article-title": "The contribution of comparative studies in inbred strains of mice to the understanding of the hyperactive phenotype",
+        "volume": "130",
+        "author": "Cabib",
+        "year": "2002",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1887",
+        "DOI": "10.1016/S0047-6374(01)00324-4",
+        "article-title": "Automated measurement of age-related changes in the locomotor response to environmental novelty and home-cage activity",
+        "volume": "122",
+        "author": "Casadesus",
+        "year": "2001",
+        "journal-title": "Mech. Ageing Dev."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1101",
+        "DOI": "10.1038/nn1102-1101",
+        "article-title": "Influences of laboratory environment on behavior",
+        "volume": "5",
+        "author": "Chesler",
+        "year": "2002",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "5420",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/0091-3057(86)90267-4",
+        "article-title": "Genetic differences in locomotor activation in mice",
+        "volume": "25",
+        "author": "Crabbe",
+        "year": "1986",
+        "journal-title": "Pharmacol. Biochem. Behav."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1007/s002130050327",
+        "article-title": "Behavioral phenotypes of inbred mouse strains: implications and recommendations for molecular studies",
+        "volume": "132",
+        "author": "Crawley",
+        "year": "1997",
+        "journal-title": "Psychopharmacology (Berl)"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "809",
+        "DOI": "10.1016/j.neuron.2008.03.001",
+        "article-title": "Behavioral phenotyping strategies for mutant mice",
+        "volume": "57",
+        "author": "Crawley",
+        "year": "2008",
+        "journal-title": "Neuron"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "795",
+        "DOI": "10.1016/0031-9384(78)90308-6",
+        "article-title": "Strain differences of the mouse’s free-running circadian rhythm in continuous darkness",
+        "volume": "20",
+        "author": "Ebihara",
+        "year": "1978",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1007/s002130050038",
+        "article-title": "Differences in anxiety-related behaviours and in sensitivity to diazepam in inbred and outbred strains of mice",
+        "volume": "148",
+        "author": "Griebel",
+        "year": "2000",
+        "journal-title": "Psychopharmacology (Berl)"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0075",
+        "series-title": "Measuring Behavior",
+        "article-title": "Overview of key issues associated with using nocturnal rodent during the human working day",
+        "author": "Hawkins",
+        "year": "2016"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.tips.2015.12.001",
+        "article-title": "Irreproducibility in preclinical biomedical research: perceptions, uncertainties and knowledge ga + ps",
+        "volume": "37",
+        "author": "Jarvis",
+        "year": "2016",
+        "journal-title": "Trends Pharmacol. Sci."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "464",
+        "DOI": "10.1037/0735-7044.117.3.464",
+        "article-title": "SEE locomotor behavior test discriminates C57BL/6J and DBA/2J mouse inbred strains across laboratories and protocol conditions",
+        "volume": "117",
+        "author": "Kafkafi",
+        "year": "2003",
+        "journal-title": "Behav. Neurosci."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "4619",
+        "DOI": "10.1073/pnas.0409554102",
+        "article-title": "Genotype-environment interactions in mouse behavior: a way out of the problem",
+        "volume": "102",
+        "author": "Kafkafi",
+        "year": "2005",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1016/j.tins.2004.04.011",
+        "article-title": "Dissecting complex behaviours in the post-genomic era",
+        "volume": "27",
+        "author": "Kas",
+        "year": "2004",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/S0166-4328(01)00289-3",
+        "article-title": "Locomotor activity rhythm in inbred strains of mice: implications for behavioural studies",
+        "volume": "125",
+        "author": "Kopp",
+        "year": "2001",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.physbeh.2009.11.007",
+        "article-title": "Behavioural battery testing: evaluation and behavioural outcomes in 8 inbred mouse strains",
+        "volume": "99",
+        "author": "Lad",
+        "year": "2010",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1111/j.1601-183X.2004.00083.x",
+        "article-title": "The individuality of mice",
+        "volume": "3",
+        "author": "Lathe",
+        "year": "2004",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1075",
+        "DOI": "10.1016/S0306-4522(97)00164-4",
+        "article-title": "Assessment of locomotor activity, acoustic and tactile startle, and prepulse inhibition of startle in inbred mouse strains and F1 hybrids: implications of genetic background for single gene and quantitative trait loci analyses",
+        "volume": "80",
+        "author": "Logue",
+        "year": "1997",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "e108563",
+        "DOI": "10.1371/journal.pone.0108563",
+        "article-title": "Sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using home-cage monitoring",
+        "volume": "9",
+        "author": "Loos",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "7-8",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1007/s00335-015-9578-7",
+        "article-title": "Within-strain variation in behavior differs consistently between common inbred strains of mice",
+        "volume": "28",
+        "author": "Loos",
+        "year": "2015",
+        "journal-title": "Mamm. Genome"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1152/physiolgenomics.90207.2008",
+        "article-title": "Reliability, robustness, and reproducibility in mouse behavioral phenotyping: a cross-laboratory study",
+        "volume": "34",
+        "author": "Mandillo",
+        "year": "2008",
+        "journal-title": "Physiol. Genomics"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "1067",
+        "DOI": "10.1016/0031-9384(93)90361-I",
+        "article-title": "Sound levels in rooms housing laboratory animals: an uncontrolled daily variable",
+        "volume": "53",
+        "author": "Milligan",
+        "year": "1993",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1016/j.bbr.2006.07.029",
+        "article-title": "Effects of unpredictable chronic mild stress on anxiety and depression-like behavior in mice",
+        "volume": "175",
+        "author": "Mineur",
+        "year": "2006",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1007/s002130050303",
+        "article-title": "Flumazenil blockade of anxiety following ethanol withdrawal in rats",
+        "volume": "131",
+        "author": "Moy",
+        "year": "1997",
+        "journal-title": "Psychopharmacology (Berl)"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1016/j.bbr.2006.07.030",
+        "article-title": "Mouse behavioral tasks relevant to autism: phenotypes of 10 inbred strains",
+        "volume": "176",
+        "author": "Moy",
+        "year": "2007",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1046/j.1460-9568.2003.02436.x",
+        "article-title": "Impact of high and low anxiety on cognitive performance in a modified hole board test in C57BL/6 and DBA/2 mice",
+        "volume": "17",
+        "author": "Ohl",
+        "year": "2003",
+        "journal-title": "Eur. J. Neurosci."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/0006-8993(79)90156-2",
+        "article-title": "Wheel running sleep in two strains of mice: plasticity and rigidity in the expression of circadian rhythmicity",
+        "volume": "163",
+        "author": "Oliverio",
+        "year": "1979",
+        "journal-title": "Brain Res."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/j.jneumeth.2010.02.005",
+        "article-title": "Comparison of the predictive validity of the mirror chamber and elevated plus maze tests in mice",
+        "volume": "188",
+        "author": "Paterson",
+        "year": "2010",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1038/nmeth.1312",
+        "article-title": "Environmental standardization: cure or cause of poor reproducibility in animal experiments?",
+        "volume": "6",
+        "author": "Richter",
+        "year": "2009",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "e16461",
+        "DOI": "10.1371/journal.pone.0016461",
+        "article-title": "Effect of population heterogenization on the reproducibility of mouse behavior: a multi-laboratory study",
+        "volume": "6",
+        "author": "Richter",
+        "year": "2011",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1154",
+        "DOI": "10.1111/j.1476-5381.2008.00107.x",
+        "article-title": "Synthetic and plant-derived cannabinoid receptor antagonists show hypophagic properties in fasted and non-fasted mice",
+        "volume": "156",
+        "author": "Riedel",
+        "year": "2009",
+        "journal-title": "Br. J. Pharmacol."
+      },
+      {
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1016/j.jneumeth.2014.06.013",
+        "article-title": "Comparison of automated home-cage monitoring systems: emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions",
+        "volume": "234",
+        "author": "Robinson",
+        "year": "2014",
+        "journal-title": "J. Neurosci. Methods"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.bbr.2013.04.041",
+        "article-title": "Long-term home cage activity scans reveal lowered exploratory behaviour in symptomatic female Rett mice",
+        "volume": "250",
+        "author": "Robinson",
+        "year": "2013",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0166-4328(99)00072-8",
+        "article-title": "Use of SHIRPA and discriminant analysis to characterise marked differences in the behavioural phenotype of six inbred mouse strains",
+        "volume": "105",
+        "author": "Rogers",
+        "year": "1999",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "3685",
+        "DOI": "10.1523/JNEUROSCI.10-11-03685.1990",
+        "article-title": "Circadian timekeeping in BALB/c and C57BL/6 inbred mouse strains",
+        "volume": "10",
+        "author": "Schwartz",
+        "year": "1990",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1038/nmeth.2935",
+        "article-title": "Olfactory exposure to males, including men, causes stress and related analgesia in rodents",
+        "volume": "11",
+        "author": "Sorge",
+        "year": "2014",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "issue": "suppl. 2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1111/j.1601-183X.2006.00228.x",
+        "article-title": "A hitchhiker's guide to behavioral analysis in laboratory rodents",
+        "volume": "5",
+        "author": "Sousa",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/0197-4580(92)90022-P",
+        "article-title": "Progressive decline in social attention in aging rats: an information-statistical method",
+        "volume": "13",
+        "author": "Spruijt",
+        "year": "1992",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.physbeh.2004.10.017",
+        "article-title": "Home cage activity and activity-based measures of anxiety in 129P3/J, 129 × 1/SvJ and C57BL/6J mice",
+        "volume": "84",
+        "author": "Tang",
+        "year": "2005",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0166-4328(02)00228-0",
+        "article-title": "Home cage activity and behavioral performance in inbred and hybrid mice",
+        "volume": "136",
+        "author": "Tang",
+        "year": "2002",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1038/81541",
+        "article-title": "Behaviour and the standardization fallacy",
+        "volume": "26",
+        "author": "Würbel",
+        "year": "2000",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1046/j.1601-1848.2001.00006.x",
+        "article-title": "Behavioral phenotyping enhanced–beyond (environmental) standardization",
+        "volume": "1",
+        "author": "Würbel",
+        "year": "2002",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1002/neu.10173",
+        "article-title": "Different data from different labs: lessons from studies of gene-environment interaction",
+        "volume": "54",
+        "author": "Wahlsten",
+        "year": "2003",
+        "journal-title": "J. Neurobiol."
+      },
+      {
+        "issue": "44",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "16364",
+        "DOI": "10.1073/pnas.0605342103",
+        "article-title": "Stability of inbred mouse strain differences in behavior and brain size between laboratories and across decades",
+        "volume": "103",
+        "author": "Wahlsten",
+        "year": "2006",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "695",
+        "DOI": "10.1016/S0031-9384(01)00527-3",
+        "article-title": "Standardizing tests of mouse behavior: reasons, recommendations, and reality",
+        "volume": "73",
+        "author": "Wahlsten",
+        "year": "2001",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "7019",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.1038/432821a",
+        "article-title": "Laboratory animal welfare: cage enrichment and mouse behaviour",
+        "volume": "432",
+        "author": "Wolfer",
+        "year": "2004",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0166-4328(03)00107-4",
+        "article-title": "Anxiety-related behavior and densities of glutamate, GABAA, acetylcholine and serotonin receptors in the amygdala of seven inbred mouse strains",
+        "volume": "145",
+        "author": "Yilmazer-Hanke",
+        "year": "2003",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jneumeth.2017.11.019_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x",
+        "article-title": "Novel approach to the behavioural characterization of inbred mice: automated home cage observations",
+        "volume": "5",
+        "author": "de Visser",
+        "year": "2006",
+        "journal-title": "Genes Brain Behav."
+      }
+    ],
+    "container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027017304077?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027017304077?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2025-09-28T00:46:09Z",
+      "timestamp": 1759020369000
+    },
+    "score": 21.022259,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0165027017304077"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "references-count": 55,
+    "alternative-id": [
+      "S0165027017304077"
+    ],
+    "URL": "https://doi.org/10.1016/j.jneumeth.2017.11.019",
+    "ISSN": [
+      "0165-0270"
+    ],
+    "issn-type": [
+      {
+        "value": "0165-0270",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Between and within laboratory reliability of mouse behaviour recorded in home-cage and open-field",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Neuroscience Methods",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jneumeth.2017.11.019",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

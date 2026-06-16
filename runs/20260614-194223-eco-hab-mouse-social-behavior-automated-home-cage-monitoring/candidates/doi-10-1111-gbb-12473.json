@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "29575471",
+  "title": "Lack of anticipatory behavior in Gpr88 knockout mice showed by automatized home cage phenotyping.",
+  "abstract": "Mouse models are widely used to understand genetic bases of behavior. Traditional testing typically requires multiple experimental settings, captures only snapshots of behavior and involves human intervention. The recent development of automated home cage monitoring offers an alternative method to study mouse behavior in their familiar and social environment, and over weeks. Here, we used the IntelliCage system to test this approach for mouse phenotyping, and studied mice lacking Gpr88 that have been extensively studied using standard testing. We monitored mouse behavior over 22 days in 4 different phases. In the free adaptation phase, Gpr88 -/- mice showed delayed habituation to the home cage, and increased frequency of same corner returns behavior in their alternation pattern. In the following nose-poke adaptation phase, non-habituation continued, however, mutant mice acquired nose-poke conditioning similar to controls. In the place learning and reversal phase, Gpr88-/- mice developed preference for the water/sucrose corner with some delay, but did not differ from controls for reversal. Finally, in a fixed schedule-drinking phase, control animals showed higher activity during the hour preceding water accessibility, and reduced activity after access to water was terminated. Mutant mice did not show this behavior, showing lack of anticipatory behavior. Our data therefore confirm hyperactivity, non-habituation and altered exploratory behaviors that were reported previously. Learning deficits described in other settings were barely detectable, and a novel phenotype was discovered. Home cage monitoring therefore extends previous findings and shows yet another facet of GPR88 function that deserves further investigation.",
+  "year": 2018,
+  "authors": [
+    "G Maroteaux",
+    "T M Arefin",
+    "L-A Harsan",
+    "E Darcq",
+    "S Ben Hamida",
+    "B L Kieffer"
+  ],
+  "journal": "Genes, brain, and behavior",
+  "doi": "10.1111/gbb.12473",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29575471/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "29575471"
+  }
+}

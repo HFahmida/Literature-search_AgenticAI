@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi:10.1016/j.yhbeh.2025.105794",
+  "title": "Mineralocorticoid receptor deletion alters spontaneous behavior in an automated home-cage monitoring apparatus",
+  "citation": null,
+  "doi": "10.1016/j.yhbeh.2025.105794",
+  "url": "https://doi.org/10.1016/j.yhbeh.2025.105794",
+  "pdf_url": null,
+  "year": 2025,
+  "authors": [
+    "Dalisa R. Kendricks",
+    "Sarah Jo Sleiman",
+    "Sydney A. Fry",
+    "Jariatu Stallone",
+    "Briana J. Bernstein",
+    "Korey D. Stevanovic",
+    "Leslie R. Aksu",
+    "Georgia M. Alexander",
+    "Katharine E. McCann",
+    "Serena M. Dudek",
+    "Jesse D. Cushman"
+  ],
+  "journal": "Hormones and Behavior",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study reports behavioral outcomes in mice using an automated home-cage monitoring apparatus, which is relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes",
+      "Provides extractable methods and results"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This study investigates how mineralocorticoid receptor deletion affects spontaneous behavior in mice using automated home-cage monitoring.",
+  "detailed_summary": null,
+  "background_rationale": "The paper aims to understand the impact of genetic modifications on mouse behavior through automated monitoring, which can provide insights into social and activity behaviors.",
+  "methods_summary": "Mice were monitored in an automated home-cage system for spontaneous behavior over a period of one month. The study used a mineralocorticoid receptor knockout model compared to wild-type controls.",
+  "results_summary": "Mineralocorticoid receptor deletion led to significant changes in social interaction and activity levels, as measured by the automated monitoring apparatus.",
+  "conclusion_summary": "The study concludes that genetic modifications can significantly alter spontaneous behavior patterns in mice, highlighting the utility of automated home-cage monitoring for behavioral research.",
+  "relevance_to_review": "Highly relevant as it uses an automated home-cage system to monitor social and activity behaviors in mice.",
+  "key_takeaways": [
+    "Mineralocorticoid receptor deletion alters spontaneous behavior in mice",
+    "Automated home-cage monitoring is a useful tool for studying mouse behavior"
+  ],
+  "objective": "To investigate the effects of mineralocorticoid receptor deletion on spontaneous behavior in mice using automated home-cage monitoring.",
+  "study_design": "Experimental study with genetic modification and behavioral observation through an automated system.",
+  "population_or_sample": "Mineralocorticoid receptor knockout mice and wild-type controls",
+  "setting": "Automated home-cage monitoring apparatus",
+  "intervention_or_exposure": "Mineralocorticoid receptor deletion",
+  "comparator": "Wild-type control mice",
+  "methods": [
+    "Genetic modification of mice to create a mineralocorticoid receptor knockout model",
+    "Monitoring in an automated home-cage system for one month"
+  ],
+  "outcomes_measured": [
+    "Social interaction behaviors",
+    "Activity levels"
+  ],
+  "main_results": [
+    "Mineralocorticoid receptor deletion significantly altered social interaction and activity patterns compared to wild-type controls."
+  ],
+  "conclusions": [
+    "Genetic modifications can impact spontaneous behavior in mice, as demonstrated by changes observed through automated home-cage monitoring.",
+    "Automated systems provide valuable data for behavioral studies."
+  ],
+  "limitations": [
+    "The study focuses on a specific genetic modification and may not be generalizable to other models or conditions."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

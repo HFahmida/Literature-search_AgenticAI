@@ -1,0 +1,803 @@
+{
+  "source": "crossref",
+  "source_id": "10.1038/ncomms11611",
+  "title": "High-throughput automated home-cage mesoscopic functional imaging of mouse cortex",
+  "abstract": "Abstract Mouse head-fixed behaviour coupled with functional imaging has become a powerful technique in rodent systems neuroscience. However, training mice can be time consuming and is potentially stressful for animals. Here we report a fully automated, open source, self-initiated head-fixation system for mesoscopic functional imaging in mice. The system supports five mice at a time and requires minimal investigator intervention. Using genetically encoded calcium indicator transgenic mice, we longitudinally monitor cortical functional connectivity up to 24 h per day in >7,000 self-initiated and unsupervised imaging sessions up to 90 days. The procedure provides robust assessment of functional cortical maps on the basis of both spontaneous activity and brief sensory stimuli such as light flashes. The approach is scalable to a number of remotely controlled cages that can be assessed within the controlled conditions of dedicated animal facilities. We anticipate that home-cage brain imaging will permit flexible and chronic assessment of mesoscale cortical function.",
+  "year": 2016,
+  "authors": [
+    "Timothy H. Murphy",
+    "Jamie D. Boyd",
+    "Federico Bolaños",
+    "Matthieu P. Vanni",
+    "Gergely Silasi",
+    "Dirk Haupt",
+    "Jeff M. LeDue"
+  ],
+  "journal": "Nature Communications",
+  "doi": "10.1038/ncomms11611",
+  "url": "https://doi.org/10.1038/ncomms11611",
+  "pdf_url": "https://www.nature.com/articles/ncomms11611.pdf",
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2026-05-20T06:42:56Z",
+      "timestamp": 1779259376201,
+      "version": "3.51.4"
+    },
+    "reference-count": 41,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2016-06-13T00:00:00Z",
+          "timestamp": 1465776000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2016-06-13T00:00:00Z",
+          "timestamp": 1465776000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Commun"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Mouse head-fixed behaviour coupled with functional imaging has become a powerful technique in rodent systems neuroscience. However, training mice can be time consuming and is potentially stressful for animals. Here we report a fully automated, open source, self-initiated head-fixation system for mesoscopic functional imaging in mice. The system supports five mice at a time and requires minimal investigator intervention. Using genetically encoded calcium indicator transgenic mice, we longitudinally monitor cortical functional connectivity up to 24 h per day in &gt;7,000 self-initiated and unsupervised imaging sessions up to 90 days. The procedure provides robust assessment of functional cortical maps on the basis of both spontaneous activity and brief sensory stimuli such as light flashes. The approach is scalable to a number of remotely controlled cages that can be assessed within the controlled conditions of dedicated animal facilities. We anticipate that home-cage brain imaging will permit flexible and chronic assessment of mesoscale cortical function.</jats:p>",
+    "DOI": "10.1038/ncomms11611",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2016-06-13T10:04:41Z",
+      "timestamp": 1465812281000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 91,
+    "title": [
+      "High-throughput automated home-cage mesoscopic functional imaging of mouse cortex"
+    ],
+    "prefix": "10.1038",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Timothy H.",
+        "family": "Murphy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jamie D.",
+        "family": "Boyd",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Federico",
+        "family": "Bolaños",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthieu P.",
+        "family": "Vanni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gergely",
+        "family": "Silasi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dirk",
+        "family": "Haupt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeff M.",
+        "family": "LeDue",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "BFncomms11611_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1000334",
+        "DOI": "10.1371/journal.pcbi.1000334",
+        "volume": "5",
+        "author": "JW Bohland",
+        "year": "2009",
+        "unstructured": "Bohland, J. W. et al. A proposal for a coordinated effort for the determination of brainwide neuroanatomical connectivity in model organisms at a mesoscopic scale. PLoS Comput. Biol. 5, e1000334 (2009).",
+        "journal-title": "PLoS Comput. Biol."
+      },
+      {
+        "key": "BFncomms11611_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "954",
+        "DOI": "10.1038/nature02078",
+        "volume": "425",
+        "author": "T Kenet",
+        "year": "2003",
+        "unstructured": "Kenet, T., Bibitchkov, D., Tsodyks, M., Grinvald, A. & Arieli, A. Spontaneously emerging cortical representations of visual attributes. Nature 425, 954–956 (2003).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFncomms11611_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1426",
+        "DOI": "10.1038/nn.3499",
+        "volume": "16",
+        "author": "MH Mohajerani",
+        "year": "2013",
+        "unstructured": "Mohajerani, M. H. et al. Spontaneous cortical activity alternates between motifs defined by regional axonal projections. Nat. Neurosci. 16, 1426–1435 (2013).",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "643",
+        "DOI": "10.1038/nmeth.1479",
+        "volume": "7",
+        "author": "W Akemann",
+        "year": "2010",
+        "unstructured": "Akemann, W., Mutoh, H., Perron, A., Rossier, J. & Knopfel, T. Imaging brain electric signals with genetically targeted voltage-sensitive fluorescent proteins. Nat. Methods 7, 643–649 (2010).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1523/JNEUROSCI.0594-14.2015",
+        "volume": "35",
+        "author": "M Carandini",
+        "year": "2015",
+        "unstructured": "Carandini, M. et al. Imaging the awake visual cortex with a genetically encoded voltage indicator. J. Neurosci. 35, 53–63 (2015).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "859",
+        "DOI": "10.1016/j.neuroimage.2006.10.021",
+        "volume": "34",
+        "author": "J Diez-Garcia",
+        "year": "2007",
+        "unstructured": "Diez-Garcia, J., Akemann, W. & Knopfel, T. In vivo calcium imaging from genetically specified target cells in mouse cerebellum. Neuroimage 34, 859–869 (2007).",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "BFncomms11611_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "907",
+        "DOI": "10.1016/j.neuron.2007.10.007",
+        "volume": "56",
+        "author": "I Ferezou",
+        "year": "2007",
+        "unstructured": "Ferezou, I. et al. Spatiotemporal dynamics of cortical sensorimotor integration in behaving mice. Neuron 56, 907–923 (2007).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "DOI": "10.1113/jphysiol.2011.219014",
+        "volume": "590",
+        "author": "M Minderer",
+        "year": "2012",
+        "unstructured": "Minderer, M. et al. Chronic imaging of cortical sensory map dynamics using a genetically encoded calcium indicator. J. Physiol. 590, 99–107 (2012).",
+        "journal-title": "J. Physiol."
+      },
+      {
+        "key": "BFncomms11611_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1136",
+        "DOI": "10.1016/j.neuron.2013.01.031",
+        "volume": "77",
+        "author": "A Stroh",
+        "year": "2013",
+        "unstructured": "Stroh, A. et al. Making waves: initiation and propagation of corticothalamic Ca2+ waves in vivo. Neuron 77, 1136–1150 (2013).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "942",
+        "DOI": "10.1016/j.neuron.2015.02.022",
+        "volume": "85",
+        "author": "L Madisen",
+        "year": "2015",
+        "unstructured": "Madisen, L. et al. Transgenic mice for intersectional targeting of neural sensors and effectors with high specificity and performance. Neuron 85, 942–958 (2015).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "981",
+        "DOI": "10.1038/nmeth.1530",
+        "volume": "7",
+        "author": "PJ Drew",
+        "year": "2010",
+        "unstructured": "Drew, P. J. et al. Chronic optical access through a polished and reinforced thinned skull. Nat. Methods 7, 981–984 (2010).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "15931",
+        "DOI": "10.1523/JNEUROSCI.1818-14.2014",
+        "volume": "34",
+        "author": "MP Vanni",
+        "year": "2014",
+        "unstructured": "Vanni, M. P. & Murphy, T. H. Mesoscale transcranial spontaneous activity mapping in GCaMP3 transgenic mice reveals extensive reciprocal connections between areas of somatomotor cortex. J. Neurosci. 34, 15931–15946 (2014).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "295",
+        "DOI": "10.1038/nature12354",
+        "volume": "499",
+        "author": "TW Chen",
+        "year": "2013",
+        "unstructured": "Chen, T. W. et al. Ultrasensitive fluorescent proteins for imaging neuronal activity. Nature 499, 295–300 (2013).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFncomms11611_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "969",
+        "DOI": "10.1038/nmeth.3536",
+        "volume": "12",
+        "author": "KL Montgomery",
+        "year": "2015",
+        "unstructured": "Montgomery, K. L. et al. Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nat. Methods 12, 969–974 (2015).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.1016/j.neuron.2013.10.020",
+        "volume": "81",
+        "author": "ZV Guo",
+        "year": "2014",
+        "unstructured": "Guo, Z. V. et al. Flow of cortical activity underlying a tactile decision in mice. Neuron 81, 179–194 (2014).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1377",
+        "DOI": "10.1523/JNEUROSCI.2550-12.2013",
+        "volume": "33",
+        "author": "R Hira",
+        "year": "2013",
+        "unstructured": "Hira, R. et al. Spatiotemporal dynamics of functional clusters of neurons in the mouse motor cortex during a voluntary movement. J. Neurosci. 33, 1377–1390 (2013).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "371",
+        "DOI": "10.1016/j.neuron.2013.08.002",
+        "volume": "80",
+        "author": "BB Scott",
+        "year": "2013",
+        "unstructured": "Scott, B. B., Brody, C. D. & Tank, D. W. Cellular resolution functional imaging in behaving rats using voluntary head restraint. Neuron 80, 371–384 (2013).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "e11308",
+        "DOI": "10.7554/eLife.11308",
+        "volume": "4",
+        "author": "BB Scott",
+        "year": "2015",
+        "unstructured": "Scott, B. B., Constantinople, C. M., Erlich, J. C., Tank, D. W. & Brody, C. D. Sources of noise during accumulation of evidence in unrestrained and voluntarily head-restrained rats. Elife 4, e11308 (2015).",
+        "journal-title": "Elife"
+      },
+      {
+        "key": "BFncomms11611_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "388",
+        "DOI": "10.1016/j.neuroimage.2014.05.051",
+        "volume": "99",
+        "author": "AQ Bauer",
+        "year": "2014",
+        "unstructured": "Bauer, A. Q. et al. Optical imaging of disrupted functional connectivity following ischemic stroke in mice. Neuroimage 99, 388–401 (2014).",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "BFncomms11611_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "e16322",
+        "DOI": "10.1371/journal.pone.0016322",
+        "volume": "6",
+        "author": "B White",
+        "year": "2011",
+        "unstructured": "White, B. et al. Imaging of functional connectivity in the mouse brain. PLoS ONE 6, e16322 (2011).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "BFncomms11611_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "825",
+        "DOI": "10.1038/nmeth.3000",
+        "volume": "11",
+        "author": "DR Hochbaum",
+        "year": "2014",
+        "unstructured": "Hochbaum, D. R. et al. All-optical electrophysiology in mammalian neurons using engineered microbial rhodopsins. Nat. Methods 11, 825–833 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1038/nmeth.3185",
+        "volume": "12",
+        "author": "M Inoue",
+        "year": "2015",
+        "unstructured": "Inoue, M. et al. Rational design of a high-affinity, fast, red calcium indicator R-CaMP2. Nat. Methods 12, 64–70 (2015).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1016/S0896-6273(00)00084-2",
+        "volume": "28",
+        "author": "GP Feng",
+        "year": "2000",
+        "unstructured": "Feng, G. P. et al. Imaging neuronal subsets in transgenic mice expressing multiple spectral variants of GFP. Neuron 28, 41–51 (2000).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "8665",
+        "DOI": "10.1523/JNEUROSCI.2156-07.2007",
+        "volume": "27",
+        "author": "TR Husson",
+        "year": "2007",
+        "unstructured": "Husson, T. R., Mallik, A. K., Zhang, J. X. & Issa, N. P. Functional imaging of primary visual cortex using flavoprotein autofluorescence. J. Neurosci. 27, 8665–8675 (2007).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR25",
+        "first-page": "02",
+        "volume": "791",
+        "author": "R Aoki",
+        "year": "2015",
+        "unstructured": "Aoki, R., Nishiyama, Y., Goya, Y. & Benucci, A. Fully automated training system for head-fixed mice. Soc. Neurosci. Abstr. 791, 02 (2015).",
+        "journal-title": "Soc. Neurosci. Abstr."
+      },
+      {
+        "key": "BFncomms11611_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1038/nmeth.1303",
+        "volume": "6",
+        "author": "OG Ayling",
+        "year": "2009",
+        "unstructured": "Ayling, O. G., Harrison, T. C., Boyd, J. D., Goroshkov, A. & Murphy, T. H. Automated light-based mapping of motor cortex by photoactivation of channelrhodopsin-2 transgenic mice. Nat. Methods 6, 219–224 (2009).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "106",
+        "DOI": "10.1016/j.neuron.2015.03.034",
+        "volume": "86",
+        "author": "L Grosenick",
+        "year": "2015",
+        "unstructured": "Grosenick, L., Marshel, J. H. & Deisseroth, K. Closed-loop and activity-guided optogenetic control. Neuron 86, 106–139 (2015).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "BFncomms11611_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "4452",
+        "DOI": "10.1523/JNEUROSCI.0134-07.2007",
+        "volume": "27",
+        "author": "A Devor",
+        "year": "2007",
+        "unstructured": "Devor, A. et al. Suppressed neuronal activity and concurrent arteriolar vasoconstriction may explain negative blood oxygenation level-dependent signal. J. Neurosci. 27, 4452–4459 (2007).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "889",
+        "DOI": "10.1038/nn.3426",
+        "volume": "16",
+        "author": "P Blinder",
+        "year": "2013",
+        "unstructured": "Blinder, P. et al. The cortical angiome: an interconnected vascular network with noncolumnar patterns of blood flow. Nat. Neurosci. 16, 889–897 (2013).",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "BFncomms11611_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "336",
+        "DOI": "10.1038/nature12236",
+        "volume": "499",
+        "author": "JL Chen",
+        "year": "2013",
+        "unstructured": "Chen, J. L., Carta, S., Soldado-Magraner, J., Schneider, B. L. & Helmchen, F. Behaviour-dependent recruitment of long-range projection neurons in somatosensory cortex. Nature 499, 336–340 (2013).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFncomms11611_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1038/nphoton.2014.323",
+        "volume": "9",
+        "author": "MB Bouchard",
+        "year": "2015",
+        "unstructured": "Bouchard, M. B. et al. Swept confocally-aligned planar excitation (SCAPE) microscopy for high speed volumetric imaging of behaving organisms. Nat. Photonics 9, 113–119 (2015).",
+        "journal-title": "Nat. Photonics"
+      },
+      {
+        "key": "BFncomms11611_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "873",
+        "DOI": "10.1038/nmeth.3482",
+        "volume": "12",
+        "author": "A Urban",
+        "year": "2015",
+        "unstructured": "Urban, A. et al. Real-time imaging of brain activity in freely moving rats using functional ultrasound. Nat. Methods 12, 873–878 (2015).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1707",
+        "DOI": "10.1038/jcbfm.2013.158",
+        "volume": "33",
+        "author": "J Lee",
+        "year": "2013",
+        "unstructured": "Lee, J., Wu, W., Lesage, F. & Boas, D. A. Multiple-capillary measurement of RBC speed, flux, and density with optical coherence tomography. J. Cereb. Blood Flow Metab. 33, 1707–1710 (2013).",
+        "journal-title": "J. Cereb. Blood Flow Metab."
+      },
+      {
+        "key": "BFncomms11611_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1111/j.1601-183X.2005.00140.x",
+        "volume": "5",
+        "author": "L Lewejohann",
+        "year": "2006",
+        "unstructured": "Lewejohann, L. et al. Environmental bias? Effects of housing conditions, laboratory environment and experimenter on behavioral tests. Genes Brain Behav. 5, 64–72 (2006).",
+        "journal-title": "Genes Brain Behav."
+      },
+      {
+        "key": "BFncomms11611_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "629",
+        "DOI": "10.1038/nmeth.2935",
+        "volume": "11",
+        "author": "RE Sorge",
+        "year": "2014",
+        "unstructured": "Sorge, R. E. et al. Olfactory exposure to males, including men, causes stress and related analgesia in rodents. Nat. Methods 11, 629–632 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "BFncomms11611_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "852",
+        "DOI": "10.1038/jcbfm.2014.24",
+        "volume": "34",
+        "author": "G Faraco",
+        "year": "2014",
+        "unstructured": "Faraco, G. et al. Water deprivation induces neurovascular and cognitive dysfunction through vasopressin-induced oxidative stress. J. Cereb. Blood Flow Metab. 34, 852–860 (2014).",
+        "journal-title": "J. Cereb. Blood Flow Metab."
+      },
+      {
+        "key": "BFncomms11611_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "731",
+        "DOI": "10.1016/j.neurobiolaging.2012.08.006",
+        "volume": "34",
+        "author": "C Romberg",
+        "year": "2013",
+        "unstructured": "Romberg, C., Horner, A. E., Bussey, T. J. & Saksida, L. M. A touch screen-automated cognitive test battery reveals impaired attention, memory abnormalities, and increased response inhibition in the TgCRND8 mouse model of Alzheimer's disease. Neurobiol. Aging 34, 731–744 (2013).",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "key": "BFncomms11611_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "e83171",
+        "DOI": "10.1371/journal.pone.0083171",
+        "volume": "8",
+        "author": "R Poddar",
+        "year": "2013",
+        "unstructured": "Poddar, R., Kawai, R. & Olveczky, B. P. A fully automated high-throughput training system for rodents. PLoS ONE 8, e83171 (2013).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "BFncomms11611_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "123",
+        "DOI": "10.3389/fncir.2013.00123",
+        "volume": "7",
+        "author": "G Silasi",
+        "year": "2013",
+        "unstructured": "Silasi, G., Boyd, J. D., Ledue, J. & Murphy, T. H. Improved methods for chronic light-based motor mapping in mice: automated movement tracking with accelerometers, and chronic EEG recording in a bilateral thin-skull preparation. Front. Neural Circuits 7, 123 (2013).",
+        "journal-title": "Front. Neural Circuits"
+      },
+      {
+        "key": "BFncomms11611_CR40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Silasi, G., Xiao, D., Vanni, M. P., Chen, A. C. & Murphy, T. H. Intact skull chronic windows for mesoscopic wide-field imaging in awake mice. J Neurosci Methods doi:10.1016/j.jneumeth.2016.04.012 (2016).",
+        "DOI": "10.1016/j.jneumeth.2016.04.012"
+      },
+      {
+        "key": "BFncomms11611_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.3389/fncir.2012.00011",
+        "volume": "6",
+        "author": "DH Lim",
+        "year": "2012",
+        "unstructured": "Lim, D. H. et al. In vivo large-scale cortical mapping using channelrhodopsin-2 stimulation in transgenic mice reveals asymmetric and reciprocal relationships between cortical areas. Front. Neural Circuits 6, 11 (2012).",
+        "journal-title": "Front. Neural Circuits"
+      }
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/ncomms11611.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms11611",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms11611.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2023-01-04T11:21:10Z",
+      "timestamp": 1672831270000
+    },
+    "score": 26.90158,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/ncomms11611"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          13
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFncomms11611"
+    ],
+    "URL": "https://doi.org/10.1038/ncomms11611",
+    "ISSN": [
+      "2041-1723"
+    ],
+    "issn-type": [
+      {
+        "value": "2041-1723",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "18 November 2015",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 April 2016",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "13 June 2016",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "1 August 2016",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Update",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This paper was updated shortly after publication, following a technical error that resulted in the Supplementary Movie links connecting to the wrong files. The error has now been corrected in the HTML. The PDF has been correct from the time of publication.",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing financial interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "11611"
+  }
+}

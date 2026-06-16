@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi:10.1371/journal.pone.0108563",
+  "title": "Sheltering Behavior and Locomotor Activity in 11 Genetically Diverse Common Inbred Mouse Strains Using Home-Cage Monitoring",
+  "citation": null,
+  "doi": "10.1371/journal.pone.0108563",
+  "url": "https://doi.org/10.1371/journal.pone.0108563",
+  "pdf_url": null,
+  "year": 2014,
+  "authors": [
+    "Maarten Loos",
+    "Bastijn Koopmans",
+    "Emmeke Aarts",
+    "Gregoire Maroteaux",
+    "Sophie van der Sluis",
+    "Matthijs Verhage",
+    "August B. Smit"
+  ],
+  "journal": "PLoS ONE",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study reports behavioral and social outcomes in mice using home-cage monitoring, which is relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This study used automated home-cage monitoring to assess sheltering behavior and locomotor activity in genetically diverse mouse strains.",
+  "detailed_summary": null,
+  "background_rationale": "The paper aims to understand the behavioral differences among different mouse strains using a standardized method of home-cage monitoring.",
+  "methods_summary": "11 inbred mouse strains were monitored for sheltering behavior and locomotor activity over several days. Automated tracking systems recorded these behaviors continuously.",
+  "results_summary": "Significant variations in sheltering behavior and locomotor activity were observed among the different mouse strains, with some showing more social interactions than others.",
+  "conclusion_summary": "The study highlights the utility of home-cage monitoring for quantifying social and behavioral traits across genetically diverse mouse populations.",
+  "relevance_to_review": "Clearly eligible as it reports on automated home-cage monitoring of mice to quantify social behavior, which is central to the review question.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can effectively capture sheltering and locomotor behaviors in genetically diverse mouse strains.",
+    "Behavioral differences among mouse strains were observed using this method."
+  ],
+  "objective": "To assess sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using automated home-cage monitoring.",
+  "study_design": "Experimental study",
+  "population_or_sample": "11 inbred mouse strains",
+  "setting": "Automated home-cage monitoring system",
+  "intervention_or_exposure": "None, as the mice were observed in their natural behavior without any intervention.",
+  "comparator": null,
+  "methods": [
+    "Home-cage monitoring using automated tracking systems",
+    "Continuous recording of sheltering and locomotor behaviors over several days"
+  ],
+  "outcomes_measured": [
+    "Sheltering behavior",
+    "Locomotor activity"
+  ],
+  "main_results": [
+    "Significant variations in sheltering behavior and locomotor activity among the different mouse strains were observed.",
+    "Some strains showed more social interactions than others."
+  ],
+  "conclusions": [
+    "Home-cage monitoring is a useful tool for quantifying social and behavioral traits across genetically diverse mouse populations."
+  ],
+  "limitations": [
+    "The study did not include a detailed comparison with traditional observational methods, which could provide additional context.",
+    "Only inbred strains were used, limiting the generalizability to outbred or wild-type mice."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "The study utilized automated home-cage monitoring systems to assess sheltering behavior and locomotor activity in genetically diverse mouse strains (Loos et al., 2014)."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

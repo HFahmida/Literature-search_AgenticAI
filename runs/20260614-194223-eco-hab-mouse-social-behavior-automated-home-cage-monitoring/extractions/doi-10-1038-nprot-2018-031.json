@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi:10.1038/nprot.2018.031",
+  "title": "An approach to monitoring home-cage behavior in mice that facilitates data sharing",
+  "citation": null,
+  "doi": "10.1038/nprot.2018.031",
+  "url": "https://doi.org/10.1038/nprot.2018.031",
+  "pdf_url": "https://www.nature.com/articles/nprot.2018.031.pdf",
+  "year": 2018,
+  "authors": [
+    "Edoardo Balzani",
+    "Matteo Falappa",
+    "Fuat Balci",
+    "Valter Tucci"
+  ],
+  "journal": "Nature Protocols",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper describes an automated home-cage monitoring approach for mice, which is directly relevant to the review question.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The paper presents an automated monitoring system for home-cage behavior of mice, focusing on social interactions and activity.",
+  "detailed_summary": null,
+  "background_rationale": "The study aims to provide a standardized method for collecting behavioral data in mouse models, enhancing reproducibility and data sharing.",
+  "methods_summary": "The paper describes the setup and use of an automated monitoring system that records video footage from home-cages. It includes software tools for analyzing social interactions and activity patterns.",
+  "results_summary": "The authors demonstrate the effectiveness of their approach by showing how it can be used to quantify social behaviors, such as grooming and aggression, in mice over extended periods.",
+  "conclusion_summary": "The described method facilitates consistent data collection and analysis, making it a valuable tool for researchers studying mouse behavior.",
+  "relevance_to_review": "Highly relevant; the paper provides detailed methods for automated monitoring of social behavior in mice, which is central to the review question.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can effectively quantify social behaviors in mice.",
+    "The described system enhances data sharing and reproducibility."
+  ],
+  "objective": "To develop a standardized method for automated monitoring of mouse behavior in home-cages, focusing on social interactions and activity patterns.",
+  "study_design": "Descriptive protocol",
+  "population_or_sample": "Mice",
+  "setting": "Home-cage environment with automated monitoring system",
+  "intervention_or_exposure": "Automated monitoring setup",
+  "comparator": null,
+  "methods": [
+    "Automated home-cage monitoring system",
+    "Video recording and analysis software"
+  ],
+  "outcomes_measured": [
+    "Social behaviors (grooming, aggression)",
+    "Activity patterns"
+  ],
+  "main_results": [
+    "The automated system successfully quantified social interactions in mice over extended periods.",
+    "Data sharing tools were developed to facilitate the use of collected data."
+  ],
+  "conclusions": [
+    "Automated monitoring is a valuable tool for studying mouse behavior, particularly social behaviors and activity patterns.",
+    "Standardized methods can enhance reproducibility and data sharing in behavioral research."
+  ],
+  "limitations": [
+    "The study focuses on mice; applicability to other species may vary.",
+    "Long-term effects of the monitoring system on animal welfare are not addressed."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "https://www.nature.com/articles/nprot.2018.031"
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

@@ -1,0 +1,304 @@
+{
+  "source": "crossref",
+  "source_id": "10.1002/1098-2337(1977)3:3<271::aid-ab2480030308>3.0.co;2-q",
+  "title": "Growth and social behavior of previously undernourished mice",
+  "abstract": null,
+  "year": 1977,
+  "authors": [
+    "J. L. Smart",
+    "T. S. Whatson"
+  ],
+  "journal": "Aggressive Behavior",
+  "doi": "10.1002/1098-2337(1977)3:3<271::aid-ab2480030308>3.0.co;2-q",
+  "url": "https://doi.org/10.1002/1098-2337(1977)3:3<271::aid-ab2480030308>3.0.co;2-q",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T11:12:31Z",
+      "timestamp": 1648897951693
+    },
+    "reference-count": 12,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 14122,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Aggr. Behav."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "DOI": "10.1002/1098-2337(1977)3:3<271::aid-ab2480030308>3.0.co;2-q",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          5,
+          19
+        ]
+      ],
+      "date-time": "2007-05-19T01:02:18Z",
+      "timestamp": 1179536538000
+    },
+    "page": "271-276",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Growth and social behavior of previously undernourished mice"
+    ],
+    "prefix": "10.1002",
+    "volume": "3",
+    "author": [
+      {
+        "given": "J. L.",
+        "family": "Smart",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T. S.",
+        "family": "Whatson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1038/251705a0",
+        "volume": "251",
+        "author": "Blizard",
+        "year": "1974",
+        "journal-title": "Nature (London)"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1079/BJN19750042",
+        "volume": "33",
+        "author": "Bush",
+        "year": "1975",
+        "journal-title": "British Journal of Nutrition"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB3",
+        "volume-title": "Mice All Over",
+        "author": "Crowcroft",
+        "year": "1966",
+        "unstructured": "(1966). “Mice All Over” London: Foulis."
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1163/156853963X00194",
+        "volume": "21",
+        "author": "Grant",
+        "year": "1963",
+        "journal-title": "Behaviour"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1002/dev.420080313",
+        "volume": "8",
+        "author": "Randt",
+        "year": "1975",
+        "journal-title": "Developmental Psychobiology"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1159/000240686",
+        "volume": "25",
+        "author": "Smart",
+        "year": "1974",
+        "journal-title": "Biology of the Neonate"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1258/002367777780936701",
+        "volume": "11",
+        "author": "Smart",
+        "journal-title": "Problems of undernutrition research in breeding mice. Laboratory Animals"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1079/BJN19740093",
+        "volume": "32",
+        "author": "Whatson",
+        "year": "1974",
+        "journal-title": "British Journal of Nutrition"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1016/0031-9384(75)90007-4",
+        "volume": "14",
+        "author": "Whatson",
+        "year": "1975",
+        "journal-title": "Physiology and Behavior"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1002/dev.420090606",
+        "volume": "9",
+        "author": "Whatson",
+        "year": "1976",
+        "journal-title": "Developmental Psychobiology"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB11",
+        "first-page": "329",
+        "volume": "158",
+        "author": "Widdowson",
+        "year": "1963",
+        "journal-title": "Proceedings of the Royal Society (Series B)"
+      },
+      {
+        "key": "10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q-BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1203/00006450-197403000-00001",
+        "volume": "8",
+        "author": "Williams",
+        "year": "1974",
+        "journal-title": "Pediatric Research"
+      }
+    ],
+    "container-title": [
+      "Aggressive Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F1098-2337(1977)3:3%3C271::AID-AB2480030308%3E3.0.CO;2-Q",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/1098-2337(1977)3:3%3C271::AID-AB2480030308%3E3.0.CO;2-Q",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2021-07-01T02:15:38Z",
+      "timestamp": 1625105738000
+    },
+    "score": 17.904455,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/1098-2337(1977)3:3<271::AID-AB2480030308>3.0.CO;2-Q"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "references-count": 12,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1977
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/1098-2337(1977)3:3<271::aid-ab2480030308>3.0.co;2-q",
+    "ISSN": [
+      "0096-140X",
+      "1098-2337"
+    ],
+    "issn-type": [
+      {
+        "value": "0096-140X",
+        "type": "print"
+      },
+      {
+        "value": "1098-2337",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    }
+  }
+}

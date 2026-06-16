@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi:10.1016/j.jneumeth.2014.06.013",
+  "title": "Comparison of automated home-cage monitoring systems: Emphasis on feeding behaviour, activity and spatial learning following pharmacological interventions",
+  "citation": null,
+  "doi": "10.1016/j.jneumeth.2014.06.013",
+  "url": "https://doi.org/10.1016/j.jneumeth.2014.06.013",
+  "pdf_url": null,
+  "year": 2014,
+  "authors": [
+    "Lianne Robinson",
+    "Gernot Riedel"
+  ],
+  "journal": "Journal of Neuroscience Methods",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Reports behavioral outcomes in mice using automated home-cage monitoring, but focuses on feeding behavior and spatial learning rather than social behavior.",
+    "matched_inclusion_criteria": [
+      "Studies mice or rats in a home-cage or semi-natural automated monitoring setting",
+      "Reports behavioral, social, preference, dominance, activity, or interaction outcomes"
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This study compares different automated home-cage monitoring systems to assess their effectiveness for studying mouse behavior and learning.",
+  "detailed_summary": null,
+  "background_rationale": "The paper aims to evaluate various automated home-cage monitoring systems by comparing them in terms of their ability to measure feeding behavior, activity, and spatial learning in mice after pharmacological interventions.",
+  "methods_summary": "Different automated monitoring systems were used to observe mice under controlled conditions. The study focused on behavioral outcomes such as feeding patterns and spatial learning tasks following drug administration.",
+  "results_summary": "The results showed variability among the different monitoring systems in their ability to accurately capture mouse behavior, with some systems performing better than others for specific behaviors.",
+  "conclusion_summary": "The study concluded that while automated home-cage monitoring can provide valuable data on mouse behavior and learning, there are differences between systems that need to be considered when selecting appropriate technology.",
+  "relevance_to_review": "Tangentially relevant as it discusses automated monitoring but does not focus specifically on social behavior in mice.",
+  "key_takeaways": [
+    "Automated home-cage monitoring can provide insights into mouse behavior and learning.",
+    "Different systems vary in their effectiveness for specific behavioral outcomes."
+  ],
+  "objective": "To compare the performance of different automated home-cage monitoring systems in measuring feeding behavior, activity, and spatial learning in mice following pharmacological interventions.",
+  "study_design": "Comparative study",
+  "population_or_sample": "Mice used in various automated home-cage monitoring systems",
+  "setting": "Automated home-cage environments",
+  "intervention_or_exposure": "Pharmacological interventions administered to mice",
+  "comparator": "Different automated home-cage monitoring systems",
+  "methods": [
+    "Automated home-cage monitoring systems were used to observe mice.",
+    "Behavioral outcomes such as feeding patterns and spatial learning tasks were measured."
+  ],
+  "outcomes_measured": [
+    "Feeding behavior",
+    "Activity levels",
+    "Spatial learning"
+  ],
+  "main_results": [
+    "Variability in the performance of different monitoring systems was observed for specific behaviors.",
+    "Some systems performed better than others for certain outcomes."
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring can be useful but requires careful selection based on intended behavioral outcomes.",
+    "Further research is needed to standardize these systems for consistent and reliable data collection."
+  ],
+  "limitations": [
+    "The study focuses more on feeding behavior and spatial learning rather than social interaction.",
+    "Limited detail on the specific types of automated monitoring systems used."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Results section"
+  ],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Specific details about the automated home-cage monitoring systems used.",
+    "More detailed information on social behavior outcomes."
+  ]
+}

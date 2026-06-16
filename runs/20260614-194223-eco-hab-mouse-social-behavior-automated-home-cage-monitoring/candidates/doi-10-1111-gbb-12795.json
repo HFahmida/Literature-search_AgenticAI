@@ -1,0 +1,610 @@
+{
+  "source": "crossref",
+  "source_id": "10.1111/gbb.12795",
+  "title": "Home cage measures of Alzheimer's disease in the rTg4510 mouse model",
+  "abstract": "Abstract Alzheimer's disease affects an array of activities in patients' daily lives but measures other than memory are rarely evaluated in animal models. Home cage behavior, however, may provide an opportunity to back translate a variety of measures seen in human disease progression to animal models, providing external and face validity. The aim of this study was to evaluate if home cage measures could indicate disease in the rTg4510 mouse model. We hypothesized that sleep, nesting, and smell discrimination would be altered in mutant mice. Thirty‐two transgenic mice were used in a Latin square design of four genotypes x both sexes x two diets. Half the mice received a doxycycline diet to suppress tauopathy and evaluate tau severity on various measures. At 8‐, 12‐, and 16‐weeks old, 24 h activity/sleep patterns, nest complexity, and odor discrimination were measured. After 16‐weeks, tau concentration in the brain was quantified. Mutant mice had increased tau concentration in brain tissue, but it was reduced by the doxycycline diet. However, only nest complexity was different between mutant mice and controls. Overall, tauopathy in rTg4510 mice does seem to affect these commonly observed symptoms in human patients. However, while running this study, a report showed that the rTg4510 mutant phenotype is not caused by the mutation itself, but confounding factors from transgene insertion. Combined with report findings and our data, the rTg4510 model may not be an ideal model for all aspects of human Alzheimer's disease.",
+  "year": 2022,
+  "authors": [
+    "Amanda J. Barabas",
+    "Lindsey A. Robbins",
+    "Brianna N. Gaskill"
+  ],
+  "journal": "Genes, Brain and Behavior",
+  "doi": "10.1111/gbb.12795",
+  "url": "https://doi.org/10.1111/gbb.12795",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/gbb.12795",
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2026-05-06T13:39:28Z",
+      "timestamp": 1778074768252,
+      "version": "3.51.4"
+    },
+    "reference-count": 62,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              19
+            ]
+          ],
+          "date-time": "2022-01-19T00:00:00Z",
+          "timestamp": 1642550400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Genes Brain and Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Alzheimer's disease affects an array of activities in patients' daily lives but measures other than memory are rarely evaluated in animal models. Home cage behavior, however, may provide an opportunity to back translate a variety of measures seen in human disease progression to animal models, providing external and face validity. The aim of this study was to evaluate if home cage measures could indicate disease in the rTg4510 mouse model. We hypothesized that sleep, nesting, and smell discrimination would be altered in mutant mice. Thirty‐two transgenic mice were used in a Latin square design of four genotypes x both sexes x two diets. Half the mice received a doxycycline diet to suppress tauopathy and evaluate tau severity on various measures. At 8‐, 12‐, and 16‐weeks old, 24 h activity/sleep patterns, nest complexity, and odor discrimination were measured. After 16‐weeks, tau concentration in the brain was quantified. Mutant mice had increased tau concentration in brain tissue, but it was reduced by the doxycycline diet. However, only nest complexity was different between mutant mice and controls. Overall, tauopathy in rTg4510 mice does seem to affect these commonly observed symptoms in human patients. However, while running this study, a report showed that the rTg4510 mutant phenotype is not caused by the mutation itself, but confounding factors from transgene insertion. Combined with report findings and our data, the rTg4510 model may not be an ideal model for all aspects of human Alzheimer's disease.</jats:p>",
+    "DOI": "10.1111/gbb.12795",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2022-01-19T14:25:30Z",
+      "timestamp": 1642602330000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Home cage measures of Alzheimer's disease in the <scp>rTg4510</scp> mouse model"
+    ],
+    "prefix": "10.1111",
+    "volume": "21",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4953-5458",
+        "authenticated-orcid": false,
+        "given": "Amanda J.",
+        "family": "Barabas",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Animal Science Purdue University  West Lafayette Indiana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lindsey A.",
+        "family": "Robbins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Animal Science Purdue University  West Lafayette Indiana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brianna N.",
+        "family": "Gaskill",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Animal Science Purdue University  West Lafayette Indiana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s004060050101"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2015.09.069"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11910-996-0018-7"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9780203911457"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fgene.2014.00088"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0165-0173(01)00067-4"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbr.2008.10.015"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "first-page": "42",
+        "article-title": "Laboratory routines cause animal stress",
+        "volume": "43",
+        "author": "Balcombe JP",
+        "year": "2004",
+        "journal-title": "Contemp Top Lab Anim Sci"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1258/002367707780378168"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0066401"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep44999"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.284.5420.1670"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780199744121.003.0016"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781118921692.ch5"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/toxsci/15.1.25"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "article-title": "40 Years of Alzheimer's Research Failure: Now What?",
+        "author": "Khachaturian ZC",
+        "year": "2018",
+        "journal-title": "MedPageToday"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ilar/ilu047"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1601-183X.2005.00181.x"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.1500"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brainres.2004.01.047"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.4622-09.2010"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnagi.2016.00268"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pgen.1008155"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroscience.2015.01.035"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "first-page": "1",
+        "article-title": "Assessing burrowing, nest construction, and hoarding in mice",
+        "author": "Deacon R",
+        "year": "2012",
+        "journal-title": "J Vis Exp"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "first-page": "51012",
+        "article-title": "Nest building as an indicator of health and welfare in laboratory mice",
+        "volume": "180",
+        "author": "Gaskill BN",
+        "year": "2013",
+        "journal-title": "J Vis Exp"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JAD-180151"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropharm.2011.01.035"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2015.05.010"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnagi.2018.00382"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2018.03.021"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(06)69113-7"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scitranslmed.aaf2362"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1113694"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13195-017-0306-2"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2013.12.023"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.3279-05.2005"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0106050"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/JAD-150292"
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0032799"
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.30802/AALAS-JAALAS-19-000042"
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "volume-title": "The Design of Experiments: Statistical Principles for Practical Applications",
+        "author": "Mead R",
+        "year": "1988"
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jneumeth.2015.11.004"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "article-title": "Olfactory assays for mouse models of neurodegenerative disease",
+        "author": "Lehmkuhl AR",
+        "year": "2014",
+        "journal-title": "J Vis Exp"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-3472(05)80640-2"
+      },
+      {
+        "key": "e_1_2_9_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511810893"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jalz.2018.06.117"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2515245918770963"
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2005.05.009"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbr.2008.02.005"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "first-page": "1",
+        "article-title": "Doxycycline and suicidality",
+        "author": "Atigari OV",
+        "year": "2014",
+        "journal-title": "BMJ Case Rep"
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00213-013-3385-1"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep16300"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40200-018-0373-3"
+      },
+      {
+        "key": "e_1_2_9_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbrc.2019.04.049"
+      },
+      {
+        "key": "e_1_2_9_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13803395.2019.1611741"
+      },
+      {
+        "key": "e_1_2_9_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02702710050084437"
+      },
+      {
+        "key": "e_1_2_9_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.2935"
+      },
+      {
+        "key": "e_1_2_9_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0149-7634(02)00103-3"
+      },
+      {
+        "key": "e_1_2_9_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1212/01.wnl.0000180958.22678.91"
+      },
+      {
+        "key": "e_1_2_9_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2012.05.013"
+      },
+      {
+        "key": "e_1_2_9_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-10428-1"
+      }
+    ],
+    "container-title": [
+      "Genes, Brain and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/gbb.12795",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/gbb.12795",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/gbb.12795",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2023-08-28T07:10:54Z",
+      "timestamp": 1693206654000
+    },
+    "score": 26.978527,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/gbb.12795"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          19
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/gbb.12795"
+    ],
+    "URL": "https://doi.org/10.1111/gbb.12795",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1601-1848",
+      "1601-183X"
+    ],
+    "issn-type": [
+      {
+        "value": "1601-1848",
+        "type": "print"
+      },
+      {
+        "value": "1601-183X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          19
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-05-21",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-12-24",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-01-19",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e12795"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-06-14T23:42:23.570936+00:00",
+  "records_identified": {
+    "semantic_scholar": 0,
+    "crossref": 75,
+    "pubmed": 11
+  },
+  "duplicate_records_removed": 9,
+  "unique_records_screened": 77,
+  "reports_retrieved_or_abstract_only": 19,
+  "reports_excluded": 2,
+  "studies_included": 17,
+  "extraction_errors": 12
+}

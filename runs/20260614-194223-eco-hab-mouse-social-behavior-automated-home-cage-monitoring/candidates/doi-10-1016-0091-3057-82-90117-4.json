@@ -1,0 +1,660 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/0091-3057(82)90117-4",
+  "title": "Opiate effects on social investigatory behavior of male mice",
+  "abstract": null,
+  "year": 1982,
+  "authors": [
+    "Michael R. Landauer",
+    "Robert L. Balster"
+  ],
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "doi": "10.1016/0091-3057(82)90117-4",
+  "url": "https://doi.org/10.1016/0091-3057(82)90117-4",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T07:28:25Z",
+      "timestamp": 1777534105413,
+      "version": "3.51.4"
+    },
+    "reference-count": 45,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1982,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1982-12-01T00:00:00Z",
+          "timestamp": 407548800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1982,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/0091-3057(82)90117-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          14
+        ]
+      ],
+      "date-time": "2002-12-14T22:16:43Z",
+      "timestamp": 1039904203000
+    },
+    "page": "1181-1186",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Opiate effects on social investigatory behavior of male mice"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Michael R.",
+        "family": "Landauer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert L.",
+        "family": "Balster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "771",
+        "DOI": "10.1007/BF01947317",
+        "article-title": "Behavioral effects of naloxone in rats",
+        "volume": "34",
+        "author": "Bertolini",
+        "year": "1978",
+        "journal-title": "Experientia"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB2",
+        "first-page": "627",
+        "article-title": "Endorphins: Naloxone failure to increase sexual arousal in sexually unresponsive women: A preliminary report",
+        "volume": "15",
+        "author": "Brady",
+        "year": "1980",
+        "journal-title": "Biol. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB3",
+        "first-page": "368",
+        "article-title": "Comparison of the effects of morphine on locomotor activity, analgesia and primary and protracted physical dependence in six mouse strains",
+        "volume": "201",
+        "author": "Brase",
+        "year": "1977",
+        "journal-title": "J. Pharmac. exp. Ther."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.3109/10826087809039281",
+        "article-title": "Methadone dose and human sexual behavior",
+        "volume": "13",
+        "author": "Crowley",
+        "year": "1978",
+        "journal-title": "Int. J. Addict."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.1001/archpsyc.1974.01760180069009",
+        "article-title": "Ethanol, methamphetamine, morphine, and monkey social behavior",
+        "volume": "31",
+        "author": "Crowley",
+        "year": "1974",
+        "journal-title": "Archs. gen. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/S0031-6989(81)80041-0",
+        "article-title": "Effects of morphine and chlordiazepoxide on locomotor activity in two inbred strains of mice",
+        "volume": "13",
+        "author": "Cuomo",
+        "year": "1981",
+        "journal-title": "Pharmac. Res. Commun."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB7",
+        "first-page": "1261",
+        "article-title": "Sexual behavior in heroin addiction and methadone maintenance",
+        "volume": "72",
+        "author": "Cushman",
+        "year": "1972",
+        "journal-title": "N.Y. St. J. Med."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1037/h0032674",
+        "article-title": "Univariate versus multivariate tests in repeated measures experiments",
+        "volume": "6",
+        "author": "Davidson",
+        "year": "1972",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1016/S0163-1047(80)91788-4",
+        "article-title": "Sexual arousal in male mice: Effects of brief periods of isolation or grouping",
+        "volume": "28",
+        "author": "deCatanzaro",
+        "year": "1980",
+        "journal-title": "Behav. Neural Biol."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1037/h0034009",
+        "article-title": "Heroin addiction: Its relation to sexual behavior and sexual experience",
+        "volume": "81",
+        "author": "deLeon",
+        "year": "1973",
+        "journal-title": "J. abnorm. Psychol."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "329",
+        "DOI": "10.1016/0014-2999(75)90300-3",
+        "article-title": "Genetically determined differences in the effects of morphine on mice",
+        "volume": "32",
+        "author": "Eidelberg",
+        "year": "1975",
+        "journal-title": "Eur. J. Pharmac."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1007/BF00433250",
+        "article-title": "Naloxone reduces social and exploratory activity in the rat",
+        "volume": "71",
+        "author": "File",
+        "year": "1980",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1126/science.432642",
+        "article-title": "Induction of copulatory behavior in sexually inactive rats",
+        "volume": "204",
+        "author": "Gessa",
+        "year": "1979",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1179",
+        "DOI": "10.1001/archpsyc.1977.01770220061006",
+        "article-title": "Evidence against involvement of endorphins in sexual arousal and orgasm in man",
+        "volume": "34",
+        "author": "Goldstein",
+        "year": "1977",
+        "journal-title": "Archs. gen. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1007/BF02289823",
+        "article-title": "On methods in the analysis of profile data",
+        "volume": "24",
+        "author": "Greenhouse",
+        "year": "1959",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1016/0031-9384(74)90287-X",
+        "article-title": "Sex-attractant emitted by female mice",
+        "volume": "13",
+        "author": "Hayashi",
+        "year": "1974",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1007/BF00427348",
+        "article-title": "Behavioral effects of low and high acute doses of morphine in solitary mice",
+        "volume": "64",
+        "author": "Hecht",
+        "year": "1979",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "issue": "Suppl. 4",
+        "key": "10.1016/0091-3057(82)90117-4_BIB18",
+        "first-page": "53",
+        "article-title": "Effects of morphine and naltrexone on sexual behavior of the male rat",
+        "volume": "41",
+        "author": "Hetta",
+        "year": "1977",
+        "journal-title": "Acta pharmac. tox."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB19",
+        "first-page": "1",
+        "article-title": "Sexual motivation in the male rat",
+        "volume": "453",
+        "author": "Hetta",
+        "year": "1978",
+        "journal-title": "Acta physiol. scand."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB20",
+        "first-page": "51",
+        "article-title": "Behavioral effects of separate and combined administration of naloxone and d-amphetamine",
+        "volume": "189",
+        "author": "Holtzman",
+        "year": "1974",
+        "journal-title": "J. Pharmac. exp. Ther."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1016/0091-3057(78)90090-4",
+        "article-title": "Behavioral activation by enkephalins in mice",
+        "volume": "8",
+        "author": "Katz",
+        "year": "1978",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB22",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/BF00433734",
+        "article-title": "A new test for social investigation in mice: Effects of d-amphetamine",
+        "author": "Landauer",
+        "year": "1982",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "435",
+        "DOI": "10.1016/0091-3057(80)90251-8",
+        "article-title": "Effects of morphine, β-endorphin and naloxone on catecholamine levels and sexual behavior in the male rat",
+        "volume": "13",
+        "author": "McIntosh",
+        "year": "1980",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1001/archpsyc.1973.01750320112017",
+        "article-title": "Methadone: A reevaluation",
+        "volume": "28",
+        "author": "Martin",
+        "year": "1973",
+        "journal-title": "Archs gen. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB25",
+        "first-page": "98",
+        "article-title": "Sexual aspects of heroin addiction",
+        "volume": "4",
+        "author": "Mathis",
+        "year": "1970",
+        "journal-title": "Med. Aspects hum. Sex."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/0306-4530(78)90013-6",
+        "article-title": "Effects of naloxone on mood and neuroendocrine function in normal adult males",
+        "volume": "3",
+        "author": "Mendelson",
+        "year": "1979",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1016/0014-2999(81)90449-0",
+        "article-title": "Comparison of the effects of β-endorphin and morphine on exploratory and socio-sexual behavior in the male rat",
+        "volume": "69",
+        "author": "Meyerson",
+        "year": "1981",
+        "journal-title": "Eur. J. Pharmac."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB28",
+        "series-title": "Handbook of Psychopharmacology",
+        "first-page": "152",
+        "article-title": "Pharmacological and hormonal control of reproductive behavior",
+        "author": "Meyerson",
+        "year": "1976"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/0014-2999(77)90359-4",
+        "article-title": "β-Endorphin and male sexual behavior",
+        "volume": "42",
+        "author": "Meyerson",
+        "year": "1977",
+        "journal-title": "Eur. J. Pharmac."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/0091-3057(78)90158-2",
+        "article-title": "Effects of naloxone on ethanol induced alterations of locomotor activity in C57BL/6 mice",
+        "volume": "9",
+        "author": "Middaugh",
+        "year": "1978",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1001/archpsyc.1974.01760170088014",
+        "article-title": "Sexual problems of heroin addicts",
+        "volume": "31",
+        "author": "Mintz",
+        "year": "1974",
+        "journal-title": "Archs gen. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "909",
+        "DOI": "10.1176/ajp.137.8.909",
+        "article-title": "Opiate use and sexual function",
+        "volume": "137",
+        "author": "Mirin",
+        "year": "1980",
+        "journal-title": "Am. J. Psychiat."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB33",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1007/BF00433046",
+        "article-title": "Sexual behavior of morphine dependent and abstinent male rats",
+        "volume": "65",
+        "author": "Mumford",
+        "year": "1979",
+        "journal-title": "Psychopharmacology"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB34",
+        "doi-asserted-by": "crossref",
+        "first-page": "561",
+        "DOI": "10.1016/0091-3057(81)90317-8",
+        "article-title": "Methadone reduces sexual performance and sexual motivation in the male Syrian golden hamster",
+        "volume": "14",
+        "author": "Murphy",
+        "year": "1981",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB35",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1016/0091-3057(79)90242-9",
+        "article-title": "Facilitation by opiate antagonists of sexual performance in the male rat",
+        "volume": "10",
+        "author": "Myers",
+        "year": "1979",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB36",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/0091-3057(80)90038-6",
+        "article-title": "Facilitation of copulatory performance in male rats by naloxone: Effects of hypophysectomy, 17 α-estradiol, and luteinizing hormone releasing hormone",
+        "volume": "12",
+        "author": "Myers",
+        "year": "1980",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB37",
+        "doi-asserted-by": "crossref",
+        "first-page": "957",
+        "DOI": "10.1037/h0077623",
+        "article-title": "Eliciation of male mouse (Mus musculus) ultrasonic vocalizations. I. urinary cues",
+        "volume": "93",
+        "author": "Nyby",
+        "year": "1979",
+        "journal-title": "J. comp. physiol. Psychol."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB38",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1016/0091-3057(79)90002-9",
+        "article-title": "Morphine reduces social cohesion in rats",
+        "volume": "11",
+        "author": "Panksepp",
+        "year": "1979",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB39",
+        "doi-asserted-by": "crossref",
+        "first-page": "673",
+        "DOI": "10.1016/0024-3205(78)90065-6",
+        "article-title": "Inhibitions of copulatory behavior in male rats by D-Ala-2-Met-enkephalinamide",
+        "volume": "23",
+        "author": "Pellegrini Quarantotti",
+        "year": "1978",
+        "journal-title": "Life Sci."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB40",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1007/BF01922747",
+        "article-title": "Naloxone shortens ejaculation latency in male rats",
+        "volume": "35",
+        "author": "Pellegrini Quarantotti",
+        "year": "1979",
+        "journal-title": "Experientia"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB41",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1016/0091-3057(81)90252-5",
+        "article-title": "Copulatory behavior and sexual reflexes of male rats treated with naloxone",
+        "volume": "14",
+        "author": "Sachs",
+        "year": "1981",
+        "journal-title": "Pharmac. Biochem. Behav."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB42",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1254/jjp.27.65",
+        "article-title": "Effects of repeated morphine administration on copulation and on the hypothalamic-pituitary-gonadal axis of male rats",
+        "volume": "27",
+        "author": "Tokunaga",
+        "year": "1977",
+        "journal-title": "Jap. J. Pharmac."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB43",
+        "first-page": "1",
+        "article-title": "A comparison of the effects of d-amphetamine and morphine upon the locomotor activity of mice treated with drugs which alter brain catecholamin content",
+        "volume": "187",
+        "author": "Villarreal",
+        "year": "1973",
+        "journal-title": "J. Pharmac. exp. Ther."
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB44",
+        "first-page": "1",
+        "article-title": "Some quantitative behavioral pharmacology in the mouse",
+        "volume": "vol. 2",
+        "author": "Wenger",
+        "year": "1979"
+      },
+      {
+        "key": "10.1016/0091-3057(82)90117-4_BIB45",
+        "series-title": "Statistical Principles of Experimental Design",
+        "author": "Winer",
+        "year": "1971"
+      }
+    ],
+    "container-title": [
+      "Pharmacology Biochemistry and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0091305782901174?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0091305782901174?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2019-03-31T22:57:18Z",
+      "timestamp": 1554073038000
+    },
+    "score": 18.07707,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0091305782901174"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1982,
+          12
+        ]
+      ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            1982,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0091305782901174"
+    ],
+    "URL": "https://doi.org/10.1016/0091-3057(82)90117-4",
+    "ISSN": [
+      "0091-3057"
+    ],
+    "issn-type": [
+      {
+        "value": "0091-3057",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1982,
+          12
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi:10.1016/j.bbr.2015.01.020",
+  "title": "A 1-night operant learning task without food-restriction differentiates among mouse strains in an automated home-cage environment",
+  "citation": null,
+  "doi": "10.1016/j.bbr.2015.01.020",
+  "url": "https://doi.org/10.1016/j.bbr.2015.01.020",
+  "pdf_url": null,
+  "year": 2015,
+  "authors": [
+    "Esther Remmelink",
+    "Maarten Loos",
+    "Bastijn Koopmans",
+    "Emmeke Aarts",
+    "Sophie van der Sluis",
+    "August B. Smit",
+    "Matthijs Verhage"
+  ],
+  "journal": "Behavioural Brain Research",
+  "screening": {
+    "relevance_score": 2,
+    "decision": "maybe",
+    "reason": "The study uses automated home-cage monitoring but focuses on operant learning rather than social behavior.",
+    "matched_inclusion_criteria": [
+      "Primary research article or preprint",
+      "Studies mice in a home-cage setting",
+      "Reports behavioral outcomes"
+    ],
+    "matched_exclusion_criteria": [
+      "No automated monitoring of social behavior"
+    ]
+  },
+  "overall_concept_summary": "The study evaluates mouse strain differences using an operant learning task without food restriction in an automated home-cage environment.",
+  "detailed_summary": null,
+  "background_rationale": null,
+  "methods_summary": "Mice were monitored in a home-cage setting for one night, and the operant learning performance was assessed through a task that did not involve food restriction.",
+  "results_summary": "Different mouse strains showed varying performances on the operant learning task, indicating strain-specific differences in cognitive abilities.",
+  "conclusion_summary": "Automated home-cage monitoring can effectively differentiate among mouse strains based on their operant learning performance without the need for food restriction.",
+  "relevance_to_review": "Weakly relevant as it uses automated home-cage monitoring but focuses on operant learning rather than social behavior.",
+  "key_takeaways": [
+    "Automated home-cage monitoring is effective for differentiating mouse strains in cognitive tasks.",
+    "Food restriction is not necessary for such assessments."
+  ],
+  "objective": "To differentiate among mouse strains using an operant learning task without food restriction in an automated home-cage environment.",
+  "study_design": "Experimental study",
+  "population_or_sample": "Mouse strains",
+  "setting": "Automated home-cage monitoring environment",
+  "intervention_or_exposure": "Operant learning task without food restriction",
+  "comparator": null,
+  "methods": [
+    "Automated home-cage monitoring",
+    "Operant learning task"
+  ],
+  "outcomes_measured": [
+    "Operant learning performance across different mouse strains"
+  ],
+  "main_results": [
+    "Mouse strains showed varying performances on the operant learning task."
+  ],
+  "conclusions": [
+    "Automated home-cage monitoring can effectively differentiate among mouse strains based on their cognitive abilities without food restriction."
+  ],
+  "limitations": [
+    "The study focuses on cognitive rather than social behavior, limiting its relevance to the review question."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "No abstract or full text available for detailed summary and other specific information extraction."
+  ]
+}

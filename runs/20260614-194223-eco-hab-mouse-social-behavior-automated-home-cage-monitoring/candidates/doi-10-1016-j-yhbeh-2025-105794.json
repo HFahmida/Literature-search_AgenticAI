@@ -1,0 +1,1070 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.yhbeh.2025.105794",
+  "title": "Mineralocorticoid receptor deletion alters spontaneous behavior in an automated home-cage monitoring apparatus",
+  "abstract": null,
+  "year": 2025,
+  "authors": [
+    "Dalisa R. Kendricks",
+    "Sarah Jo Sleiman",
+    "Sydney A. Fry",
+    "Jariatu Stallone",
+    "Briana J. Bernstein",
+    "Korey D. Stevanovic",
+    "Leslie R. Aksu",
+    "Georgia M. Alexander",
+    "Katharine E. McCann",
+    "Serena M. Dudek",
+    "Jesse D. Cushman"
+  ],
+  "journal": "Hormones and Behavior",
+  "doi": "10.1016/j.yhbeh.2025.105794",
+  "url": "https://doi.org/10.1016/j.yhbeh.2025.105794",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T03:00:20Z",
+      "timestamp": 1780714820394,
+      "version": "3.54.1"
+    },
+    "reference-count": 58,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T00:00:00Z",
+          "timestamp": 1784592000000
+        },
+        "content-version": "am",
+        "delay-in-days": 354,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000066",
+        "name": "National Institute of Environmental Health Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1ZIA ES100221"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1ZIA ES100221"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000066",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000066",
+        "name": "National Institute of Environmental Health Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1ZIC ES103330"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1ZIC ES103330"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000066",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Hormones and Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.yhbeh.2025.105794",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2025-07-21T00:32:49Z",
+      "timestamp": 1753057969000
+    },
+    "page": "105794",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Mineralocorticoid receptor deletion alters spontaneous behavior in an automated home-cage monitoring apparatus"
+    ],
+    "prefix": "10.1016",
+    "volume": "174",
+    "author": [
+      {
+        "given": "Dalisa R.",
+        "family": "Kendricks",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah Jo",
+        "family": "Sleiman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sydney A.",
+        "family": "Fry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jariatu",
+        "family": "Stallone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Briana J.",
+        "family": "Bernstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Korey D.",
+        "family": "Stevanovic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leslie R.",
+        "family": "Aksu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Georgia M.",
+        "family": "Alexander",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katharine E.",
+        "family": "McCann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Serena M.",
+        "family": "Dudek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesse D.",
+        "family": "Cushman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/j.bbr.2015.06.011",
+        "article-title": "The light spot test: measuring anxiety in mice in an automated home-cage environment",
+        "volume": "294",
+        "author": "Aarts",
+        "year": "2015",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0010",
+        "first-page": "119",
+        "article-title": "Effects of destruction of the suprachiasmatic nuclei on the circadian rhythms in plasma corticosterone, body temperature, feeding and plasma thyrotropin",
+        "volume": "29",
+        "author": "Abe",
+        "year": "1979",
+        "journal-title": "Neuroendocrinology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "342",
+        "DOI": "10.1177/0023677218797974",
+        "article-title": "Automated monitoring of mouse feeding and body weight for continuous health assessment",
+        "volume": "53",
+        "author": "Ahloy-Dallaire",
+        "year": "2019",
+        "journal-title": "Lab. Anim."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7554/eLife.38052",
+        "article-title": "CA2 neuronal activity controls hippocampal low gamma and ripple oscillations",
+        "volume": "7",
+        "author": "Alexander",
+        "year": "2018",
+        "journal-title": "Elife"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0025",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.mce.2020.111125",
+        "article-title": "Long term effects of early life stress on HPA circuit in rodent models",
+        "volume": "521",
+        "author": "Babicola",
+        "year": "2021",
+        "journal-title": "Mol. Cell. Endocrinol."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.yhbeh.2016.04.010",
+        "article-title": "Early life stress accelerates behavioral and neural maturation of the hippocampus in male mice",
+        "volume": "82",
+        "author": "Bath",
+        "year": "2016",
+        "journal-title": "Horm. Behav."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1073/pnas.0503878102",
+        "article-title": "Loss of the limbic mineralocorticoid receptor impairs behavioral plasticity",
+        "volume": "103",
+        "author": "Berger",
+        "year": "2006",
+        "journal-title": "Proc. Natl. Acad. Sci."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1076",
+        "DOI": "10.1159/000533151",
+        "article-title": "Circadian clock genes are regulated by rhythmic corticosterone at physiological levels in the rat Hippocampus",
+        "volume": "113",
+        "author": "Bering",
+        "year": "2023",
+        "journal-title": "Neuroendocrinology"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0045",
+        "article-title": "Sex differences in spontaneous behavior and cognition in mice using an automated behavior monitoring system",
+        "volume": "114595",
+        "author": "Bernstein",
+        "year": "2024",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1677/joe.0.0680235",
+        "article-title": "Circadian rhythm of corticosterone levels in rat brain",
+        "volume": "68",
+        "author": "Butte",
+        "year": "1976",
+        "journal-title": "J. Endocrinol."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0055",
+        "first-page": "365",
+        "article-title": "Glucocorticoid and mineralocorticoid receptor mRNA expression in rat brain",
+        "volume": "50",
+        "author": "Chao",
+        "year": "1989",
+        "journal-title": "Neuroendocrinology"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0060",
+        "first-page": "81",
+        "article-title": "Stress amplifies memory for social hierarchy",
+        "volume": "1",
+        "author": "Cordero",
+        "year": "2007",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1016/0031-9384(87)90054-0",
+        "article-title": "Daily variations in plasma noradrenaline, adrenaline and corticosterone concentrations in rats",
+        "volume": "40",
+        "author": "De Boer",
+        "year": "1987",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "1329",
+        "DOI": "10.1046/j.1523-1755.2000.00971.x",
+        "article-title": "Brain mineralocorticoid receptors and centrally regulated functions",
+        "volume": "57",
+        "author": "De Kloet",
+        "year": "2000",
+        "journal-title": "Kidney Int."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/j.beem.2017.09.001",
+        "article-title": "Circadian and ultradian patterns of HPA-axis activity in rodents: significance for brain functionality",
+        "volume": "31",
+        "author": "den Boon",
+        "year": "2017",
+        "journal-title": "Best Pract. Res. Clin. Endocrinol. Metab."
+      },
+      {
+        "issue": "6211",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1126/science.1259652",
+        "article-title": "Dysrhythmia in the suprachiasmatic nucleus inhibits memory processing",
+        "volume": "346",
+        "author": "Fernandez",
+        "year": "2014",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1080/10253890.2018.1470238",
+        "article-title": "Role of glucocorticoid negative feedback in the regulation of HPA axis pulsatility",
+        "volume": "21",
+        "author": "Gjerstad",
+        "year": "2018",
+        "journal-title": "Stress"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0090",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0117503",
+        "article-title": "Dynamics and correlation of serum cortisol and corticosterone under different physiological or stressful conditions in mice",
+        "volume": "10",
+        "author": "Gong",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0095",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fnbeh.2021.735387",
+        "article-title": "Measuring behavior in the home cage: study design, applications, challenges, and perspectives",
+        "volume": "15",
+        "author": "Grieco",
+        "year": "2021",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0100",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.celrep.2020.107740",
+        "article-title": "Hippocampal interneuronal α7 nAChRs modulate theta oscillations in freely moving mice",
+        "volume": "31",
+        "author": "Gu",
+        "year": "2020",
+        "journal-title": "Cell Rep."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.psyneuen.2012.08.007",
+        "article-title": "Mineralocorticoid and glucocorticoid receptor balance in control of HPA axis and behaviour",
+        "volume": "38",
+        "author": "Harris",
+        "year": "2013",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1111/j.1365-2826.1994.tb00591.x",
+        "article-title": "Prenatal stress increases the hypothalamo-pituitary-adrenal axis response in young and adult rats",
+        "volume": "6",
+        "author": "Henry",
+        "year": "1994",
+        "journal-title": "J. Neuroendocrinol."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1007/BF00711577",
+        "article-title": "Regulation of adrenocorticosteroid receptor mRNA expression in the central nervous system",
+        "volume": "13",
+        "author": "Herman",
+        "year": "1993",
+        "journal-title": "Cell. Mol. Neurobiol."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1886",
+        "DOI": "10.1210/mend-3-11-1886",
+        "article-title": "Localization and regulation of glucocorticoid and mineralocorticoid receptor messenger RNAs in the hippocampal formation of the rat",
+        "volume": "3",
+        "author": "Herman",
+        "year": "1989",
+        "journal-title": "Mol. Endocrinol."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.1006/mcne.1993.1022",
+        "article-title": "Diurnal regulation of glucocorticoid receptor and mineralocorticoid receptor mRNAs in rat hippocampus",
+        "volume": "4",
+        "author": "Herman",
+        "year": "1993",
+        "journal-title": "Mol. Cell. Neurosci."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1016/S0306-4530(00)00006-8",
+        "article-title": "Increased activity of the hypothalamus–pituitary–adrenal system after treatment with the mineralocorticoid receptor antagonist spironolactone",
+        "volume": "25",
+        "author": "Heuser",
+        "year": "2000",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "issue": "7494",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "88",
+        "DOI": "10.1038/nature13028",
+        "article-title": "The hippocampal CA2 region is essential for social memory",
+        "volume": "508",
+        "author": "Hitti",
+        "year": "2014",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1007/BF00421118",
+        "article-title": "Circadian rhythm of corticosterone in mice: the effect of chronic consumption of alcohol",
+        "volume": "46",
+        "author": "Kakihana",
+        "year": "1976",
+        "journal-title": "Psychopharmacologia"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "4184",
+        "DOI": "10.1210/en.2002-220375",
+        "article-title": "Rapid corticosteroid-dependent regulation of mineralocorticoid receptor protein expression in rat brain",
+        "volume": "143",
+        "author": "Kalman",
+        "year": "2002",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0150",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.14814/phy2.12703",
+        "article-title": "The effects of group and single housing and automated animal monitoring on urinary corticosterone levels in male C57 BL/6 mice",
+        "volume": "4",
+        "author": "Kamakura",
+        "year": "2016",
+        "journal-title": "Physiol. Rep."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "527",
+        "DOI": "10.1038/mp.2016.120",
+        "article-title": "HPA axis in major depression: cortisol, clinical symptomatology and genetic variation predict cognition",
+        "volume": "22",
+        "author": "Keller",
+        "year": "2017",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0160",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bbr.2020.112620",
+        "article-title": "IntelliCage as a tool for measuring mouse behavior–20 years perspective",
+        "volume": "388",
+        "author": "Kiryk",
+        "year": "2020",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s12859-017-1612-1",
+        "article-title": "AHCODA-DB: a data repository with web-based mining tools for the analysis of automated high-content mouse phenomics data",
+        "volume": "18",
+        "author": "Koopmans",
+        "year": "2017",
+        "journal-title": "BMC Bioinform."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0170",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0108563",
+        "article-title": "Sheltering behavior and locomotor activity in 11 genetically diverse common inbred mouse strains using home-cage monitoring",
+        "volume": "9",
+        "author": "Loos",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0175",
+        "series-title": "StatPearls",
+        "article-title": "Neuroanatomy, nucleus Suprachiasmatic",
+        "author": "Ma",
+        "year": "2023"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1038/s41380-019-0598-7",
+        "article-title": "Novel role for mineralocorticoid receptors in control of a neuronal phenotype",
+        "volume": "26",
+        "author": "McCann",
+        "year": "2021",
+        "journal-title": "Mol. Psychiatry"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1429",
+        "DOI": "10.1038/nm.2891",
+        "article-title": "Direct regulation of blood pressure by smooth muscle cell mineralocorticoid receptors",
+        "volume": "18",
+        "author": "McCurley",
+        "year": "2012",
+        "journal-title": "Nat. Med."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0190",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ynstr.2021.100369",
+        "article-title": "Combinatorial actions of glucocorticoid and mineralocorticoid stress hormone receptors are required for preventing neurodegeneration of the mouse hippocampus",
+        "volume": "15",
+        "author": "Oakley",
+        "year": "2021",
+        "journal-title": "Neurobiol. Stress"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0195",
+        "article-title": "Imbalanced glucocorticoid and mineralocorticoid stress hormone receptor function has sex-dependent and independent regulatory effects in mouse hippocampus",
+        "volume": "28",
+        "author": "Oakley",
+        "year": "2023",
+        "journal-title": "Neurobiol. Stress"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "655",
+        "DOI": "10.1016/0306-4530(95)00003-7",
+        "article-title": "Corticosterone, brain mineralocorticoid receptors (MRs) and the activity of the hypothalamic-pituitary-adrenal (HPA) axis: the Lewis rat as an example of increased central MR capacity and a hyporesponsive HPA axis",
+        "volume": "20",
+        "author": "Oitzl",
+        "year": "1995",
+        "journal-title": "Psychoneuroendocrinology"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "B900",
+        "DOI": "10.1093/gerona/58.10.B900",
+        "article-title": "Mineralocorticoid receptor-mediated inhibition of the hypothalamic-pituitary-adrenal axis in aged humans",
+        "volume": "58",
+        "author": "Otte",
+        "year": "2003",
+        "journal-title": "J. Gerontol. A Biol. Sci. Med. Sci."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "725",
+        "DOI": "10.1080/j.1440-1614.2006.01877.x",
+        "article-title": "Stress, the hippocampus and the hypothalamic-pituitary-adrenal axis: implications for the development of psychotic disorders",
+        "volume": "40",
+        "author": "Phillips",
+        "year": "2006",
+        "journal-title": "Austr. N. Z. J. Psychiatry"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0215",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0014344",
+        "article-title": "Localization of mineralocorticoid receptors at mammalian synapses",
+        "volume": "5",
+        "author": "Prager",
+        "year": "2010",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "2505",
+        "DOI": "10.1210/endo-117-6-2505",
+        "article-title": "Two receptor systems for corticosterone in rat brain: microdistribution and differential occupation",
+        "volume": "117",
+        "author": "Reul",
+        "year": "1985",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.ynstr.2014.10.001",
+        "article-title": "Glucocorticoids, epigenetic control and stress resilience",
+        "volume": "1",
+        "author": "Reul",
+        "year": "2015",
+        "journal-title": "Neurobiol. Stress"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "525",
+        "DOI": "10.1007/s00441-017-2769-7",
+        "article-title": "Hippocampal area CA2: properties and contribution to hippocampal function",
+        "volume": "373",
+        "author": "Robert",
+        "year": "2018",
+        "journal-title": "Cell Tissue Res."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0235",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fnins.2021.642376",
+        "article-title": "Suppression of circadian timing and its impact on the hippocampus",
+        "volume": "15",
+        "author": "Ruby",
+        "year": "2021",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "E260",
+        "DOI": "10.1152/ajpendo.2001.280.2.E260",
+        "article-title": "Involvement of the suprachiasmatic nucleus in diurnal ACTH and corticosterone responsiveness to stress",
+        "volume": "280",
+        "author": "Sage",
+        "year": "2001",
+        "journal-title": "Am. J. Physiol. Endocrinol. Metabol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0245",
+        "first-page": "55",
+        "article-title": "How do glucocorticoids influence stress responses? Integrating permissive, suppressive, stimulatory, and preparative actions",
+        "volume": "21",
+        "author": "Sapolsky",
+        "year": "2000",
+        "journal-title": "Endocr. Rev."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1016/j.brainres.2008.10.048",
+        "article-title": "Subregion-specific differences in translocation patterns of mineralocorticoid and glucocorticoid receptors in rat hippocampus",
+        "volume": "1249",
+        "author": "Sarabdjitsingh",
+        "year": "2009",
+        "journal-title": "Brain Res."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.pneurobio.2013.04.001",
+        "article-title": "Brain development in rodents and humans: identifying benchmarks of maturation and vulnerability to injury across species",
+        "volume": "106",
+        "author": "Semple",
+        "year": "2013",
+        "journal-title": "Prog. Neurobiol."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "2718",
+        "DOI": "10.1210/endo.139.6.6029",
+        "article-title": "Evidence for mineralocorticoid receptor facilitation of glucocorticoid receptor-dependent regulation of hypothalamic-pituitary-adrenal axis activity",
+        "volume": "139",
+        "author": "Spencer",
+        "year": "1998",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.3389/fnbeh.2014.00026",
+        "article-title": "Deletion of the forebrain mineralocorticoid receptor impairs social discrimination and decision-making in male, but not in female mice",
+        "volume": "8",
+        "author": "Ter Horst",
+        "year": "2014",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "key": "10.1016/j.yhbeh.2025.105794_bb0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.3389/fnbeh.2019.00233",
+        "article-title": "Social memory and the role of the hippocampal CA2 region",
+        "volume": "13",
+        "author": "Tzakis",
+        "year": "2019",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "1763",
+        "DOI": "10.1016/j.neubiorev.2011.10.006",
+        "article-title": "Social memories in rodents: methods, mechanisms and modulation by stress",
+        "volume": "36",
+        "author": "van der Kooij",
+        "year": "2012",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "88",
+        "DOI": "10.1002/jnr.490210113",
+        "article-title": "Distribution of the mineralocorticoid and the glucocorticoid receptor mRNAs in the rat hippocampus",
+        "volume": "21",
+        "author": "Van Eekelen",
+        "year": "1988",
+        "journal-title": "J. Neurosci. Res."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0285",
+        "first-page": "3339",
+        "article-title": "The role of mineralocorticoid receptors in hypothalamic-pituitary-adrenal axis regulation in humans",
+        "volume": "83",
+        "author": "Young",
+        "year": "1998",
+        "journal-title": "J. Clin. Endocrinol. Metabol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.yhbeh.2025.105794_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1001/archpsyc.60.1.24",
+        "article-title": "Mineralocorticoid receptor function in major depression",
+        "volume": "60",
+        "author": "Young",
+        "year": "2003",
+        "journal-title": "Arch. Gen. Psychiatry"
+      }
+    ],
+    "container-title": [
+      "Hormones and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0018506X25001205?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0018506X25001205?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T02:18:25Z",
+      "timestamp": 1780712305000
+    },
+    "score": 24.85178,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0018506X25001205"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "references-count": 58,
+    "alternative-id": [
+      "S0018506X25001205"
+    ],
+    "URL": "https://doi.org/10.1016/j.yhbeh.2025.105794",
+    "ISSN": [
+      "0018-506X"
+    ],
+    "issn-type": [
+      {
+        "value": "0018-506X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Mineralocorticoid receptor deletion alters spontaneous behavior in an automated home-cage monitoring apparatus",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Hormones and Behavior",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.yhbeh.2025.105794",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "105794"
+  }
+}

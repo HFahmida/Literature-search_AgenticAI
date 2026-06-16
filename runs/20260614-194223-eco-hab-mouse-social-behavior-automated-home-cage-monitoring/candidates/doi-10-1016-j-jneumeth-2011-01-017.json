@@ -1,0 +1,489 @@
+{
+  "source": "crossref",
+  "source_id": "10.1016/j.jneumeth.2011.01.017",
+  "title": "A sorting system with automated gates permits individual operant experiments with mice from a social home cage",
+  "abstract": null,
+  "year": 2011,
+  "authors": [
+    "York Winter",
+    "Andrea T.U. Schaefers"
+  ],
+  "journal": "Journal of Neuroscience Methods",
+  "doi": "10.1016/j.jneumeth.2011.01.017",
+  "url": "https://doi.org/10.1016/j.jneumeth.2011.01.017",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T07:30:33Z",
+      "timestamp": 1776497433638,
+      "version": "3.51.2"
+    },
+    "reference-count": 16,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2011-03-01T00:00:00Z",
+          "timestamp": 1298937600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jneumeth.2011.01.017",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2011-01-22T04:34:48Z",
+      "timestamp": 1295670888000
+    },
+    "page": "276-280",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 47,
+    "title": [
+      "A sorting system with automated gates permits individual operant experiments with mice from a social home cage"
+    ],
+    "prefix": "10.1016",
+    "volume": "196",
+    "author": [
+      {
+        "given": "York",
+        "family": "Winter",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea T.U.",
+        "family": "Schaefers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1007/s00702-005-0317-1",
+        "article-title": "The maturation of the acetylcholine system in the dentate gyrus of gerbils (Meriones unguiculatus) is affected by epigenetic factors",
+        "volume": "13",
+        "author": "Busche",
+        "year": "2006",
+        "journal-title": "J Neural Transm"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1670",
+        "DOI": "10.1126/science.284.5420.1670",
+        "article-title": "Genetics of mouse behavior: interactions with laboratory environment",
+        "volume": "284",
+        "author": "Crabbe",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1175",
+        "DOI": "10.1038/nn1343",
+        "article-title": "Festina lente: late-night thoughts on high-throughput screening of mouse behavior",
+        "volume": "7",
+        "author": "Crabbe",
+        "year": "2004",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0020",
+        "series-title": "The principles of learning and behavior",
+        "year": "2003"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3724/SP.J.1041.2010.00138",
+        "article-title": "Screening of learning and memory mutations: a new approach",
+        "volume": "42",
+        "author": "Gallistel",
+        "year": "2010",
+        "journal-title": "Acta Psychol Sin"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "783",
+        "DOI": "10.1007/s10071-010-0327-8",
+        "article-title": "Does spatial learning ability of common voles (Microtus arvalis) and bank voles (Myodes glareolus) constrain foraging efficiency?",
+        "volume": "3",
+        "author": "Haupt",
+        "year": "2010",
+        "journal-title": "Anim Cogn"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0035",
+        "series-title": "Operant behavior: areas of research and application",
+        "year": "1966"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1111/j.1601-183X.2010.00606.x",
+        "article-title": "Consistent behavioral phenotype differences between inbred mouse strains in the IntelliCage",
+        "volume": "9",
+        "author": "Krackow",
+        "year": "2010",
+        "journal-title": "Genes Brain Behav"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0045",
+        "series-title": "Business Briefing: future drug discovery",
+        "first-page": "1",
+        "article-title": "High-throughput and automated behavioural screening of normal and genetically modified mice",
+        "author": "Lipp",
+        "year": "2005"
+      },
+      {
+        "issue": "3–4",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/j.applanim.2006.05.022",
+        "article-title": "More than numbers matter: the effects of social factors on behavior and welfare of laboratory rodents and non-human primates",
+        "volume": "103",
+        "author": "Olsson",
+        "year": "2007",
+        "journal-title": "Appl Anim Behav Sci"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1016/j.jneumeth.2005.10.025",
+        "article-title": "Individually dosed oral drug administration to socially-living transponder-tagged mice by a water dispenser under RFID control",
+        "volume": "53",
+        "author": "Santoso",
+        "year": "2006",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0060",
+        "series-title": "Society for Neuroscience meeting",
+        "article-title": "Automated home-cage behavioral phenotyping of mice with a vision-based computer vision system",
+        "author": "Serre",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1146/annurev.psych.54.101601.145124",
+        "article-title": "Operant conditioning",
+        "volume": "54",
+        "author": "Staddon",
+        "year": "2003",
+        "journal-title": "Ann Rev Psychol"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1038/nn1225",
+        "article-title": "Neurobehavioral assessment in the information age",
+        "volume": "7",
+        "author": "Tecott",
+        "year": "2004",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/S0166-2236(03)00033-X",
+        "article-title": "In search of a better mouse test",
+        "volume": "26",
+        "author": "Wahlsten",
+        "year": "2003",
+        "journal-title": "Trends Neurosci"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jneumeth.2011.01.017_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1002/(SICI)1097-4547(19980415)52:2<201::AID-JNR8>3.0.CO;2-E",
+        "article-title": "Social environment alters both ontogeny of dopamine innervation of the medial prefrontal cortex and maturation of working memory in gerbils (Meriones unguiculatus)",
+        "volume": "52",
+        "author": "Winterfeld",
+        "year": "1998",
+        "journal-title": "J Neurosci Res"
+      }
+    ],
+    "container-title": [
+      "Journal of Neuroscience Methods"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027011000434?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0165027011000434?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2025-09-28T00:23:30Z",
+      "timestamp": 1759019010000
+    },
+    "score": 20.903797,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0165027011000434"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0165027011000434"
+    ],
+    "URL": "https://doi.org/10.1016/j.jneumeth.2011.01.017",
+    "ISSN": [
+      "0165-0270"
+    ],
+    "issn-type": [
+      {
+        "value": "0165-0270",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A sorting system with automated gates permits individual operant experiments with mice from a social home cage",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Neuroscience Methods",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jneumeth.2011.01.017",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2011 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

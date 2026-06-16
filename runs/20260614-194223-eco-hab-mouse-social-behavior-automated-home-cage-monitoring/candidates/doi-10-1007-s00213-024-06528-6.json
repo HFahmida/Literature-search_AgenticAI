@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "38246893",
+  "title": "An automated group-housed oral fentanyl self-administration method in mice.",
+  "abstract": "Social factors play a critical role in human drug addiction, and humans often consume drugs together with their peers. In contrast, in traditional animal models of addiction, rodents consume or self-administer the drug in their homecage or operant self-administration chambers while isolated from their peers. Here, we describe HOMECAGE (\"Home-cage Observation and Measurement for Experimental Control and Analysis in a Group-housed Environment\"), a translationally relevant method for studying oral opioid self-administration in mice. This setting reduces experimental confounds introduced by social isolation or interaction with the experimenter. We have developed HOMECAGE, a method in which mice are group-housed and individually monitored for their consumption of a drug vs. a reference liquid. Mice in HOMECAGE preserve naturalistic aspects of behavior, including social interactions and circadian activity. The mice showed a preference for fentanyl and escalated their fentanyl intake over time. Mice preferred to consume fentanyl in bouts during the dark cycle. Mice entrained to the reinforcement schedule of the task, optimizing their pokes to obtain fentanyl rewards, and maintained responding for fentanyl under a progressive ratio schedule. HOMECAGE also enabled the detection of cage-specific and individual-specific behavior patterns and allowed the identification of differences in fentanyl consumption between co-housed control and experimental mice. HOMECAGE serves as a valuable procedure for translationally relevant studies on oral opioid intake under conditions that more closely mimic the human condition. The method enables naturalistic investigation of factors contributing to opioid addiction-related behaviors and can be used to identify novel treatments.",
+  "year": 2025,
+  "authors": [
+    "Noa Peretz-Rivlin",
+    "Idit Marsh-Yvgi",
+    "Yonatan Fatal",
+    "Anna Terem",
+    "Hagit Turm",
+    "Yavin Shaham",
+    "Ami Citri"
+  ],
+  "journal": "Psychopharmacology",
+  "doi": "10.1007/s00213-024-06528-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38246893/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "38246893"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "24792526",
+  "title": "Spontaneous behavior in the social homecage discriminates strains, lesions and mutations in mice.",
+  "abstract": "Modern molecular genetics create a rapidly growing number of mutant mouse lines, many of which need to be phenotyped behaviorally. Poor reliability and low efficiency of traditional behavioral tests have prompted the development of new approaches to behavioral phenotyping, such as fully automated analysis of behavior in the homecage. We asked whether the analysis of spontaneous behavior during the first week in the social homecage system IntelliCage could provide useful prescreening information before specialized and time consuming test batteries are run. To determine how much behavioral variation is captured in this data, we performed principal component analysis on free adaptation data of 1552 mice tested in the IntelliCage during the past years. We then computed individual component scores to characterize and compare groups of mice. We found 11 uncorrelated components which accounted for 82% of total variance. They characterize frequency and properties of corner visits and nosepokes, drinking activity, spatial distribution, as well as diurnal time course of activity. Behavioral profiles created using individual component scores were highly characteristic for different inbred strains or different lesion models of the nervous system. They were also remarkably stable across labs and experiments. Monitoring of mutant mice with known deficits in hippocampus-dependent tests produced profiles very similar to those of hippocampally lesioned mice. Taken together, our results suggest that already the monitoring of spontaneous behavior during a week of free adaptation in the IntelliCage can contribute significantly to high throughput prescreening of mutant mice.",
+  "year": 2014,
+  "authors": [
+    "Elisabetta Vannoni",
+    "Vootele Voikar",
+    "Giovanni Colacicco",
+    "María Alvarez Sánchez",
+    "Hans-Peter Lipp",
+    "David P Wolfer"
+  ],
+  "journal": "Journal of neuroscience methods",
+  "doi": "10.1016/j.jneumeth.2014.04.026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24792526/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "24792526"
+  }
+}
