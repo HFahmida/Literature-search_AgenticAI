@@ -14,6 +14,7 @@ ProviderName = Literal["ollama"]
 class ReviewConfig(BaseModel):
     topic: str
     review_question: str
+    run_label: str | None = None
     search_terms: list[str]
     inclusion_criteria: list[str] = Field(default_factory=list)
     exclusion_criteria: list[str] = Field(default_factory=list)

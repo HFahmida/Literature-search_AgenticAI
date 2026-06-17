@@ -39,7 +39,10 @@ class ScreeningDecision(BaseModel):
 
 class StudyExtraction(BaseModel):
     paper_id: str
+    source: str | None = None
+    source_id: str | None = None
     title: str
+    abstract: str | None = None
     citation: str | None = None
     doi: str | None = None
     url: str | None = None

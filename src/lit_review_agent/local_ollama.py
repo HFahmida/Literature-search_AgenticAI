@@ -55,13 +55,19 @@ class OllamaAgent:
         )
         payload = self._generate_json(self.config.extract_model, prompt, max_tokens=5000)
         payload.setdefault("paper_id", candidate.stable_id)
+        payload.setdefault("source", candidate.source)
+        payload.setdefault("source_id", candidate.source_id)
         payload.setdefault("title", candidate.title)
+        payload.setdefault("abstract", candidate.abstract)
         payload.setdefault("doi", candidate.doi)
         payload.setdefault("url", candidate.url)
         payload.setdefault("pdf_url", candidate.pdf_url)
         payload.setdefault("year", candidate.year)
         payload.setdefault("authors", candidate.authors)
         payload.setdefault("journal", candidate.journal)
+        payload["source"] = candidate.source
+        payload["source_id"] = candidate.source_id
+        payload["abstract"] = candidate.abstract
         _normalize_study_extraction_payload(payload)
         return StudyExtraction.model_validate(payload)
 
@@ -225,6 +231,8 @@ def _truncate(text: str | None, max_chars: int = 900) -> str:
 
 def _extraction_for_manuscript(extraction: StudyExtraction) -> dict[str, Any]:
     return {
+        "source": extraction.source,
+        "source_id": extraction.source_id,
         "title": extraction.title,
         "year": extraction.year,
         "authors": extraction.authors[:6],
@@ -266,7 +274,10 @@ Do not overclaim. If evidence is incomplete, say what remains for human verifica
 
 STUDY_EXTRACTION_TEMPLATE = {
     "paper_id": "string",
+    "source": "database name, e.g. pubmed, crossref, semantic_scholar",
+    "source_id": "database-specific identifier, e.g. PubMed PMID, DOI, or Semantic Scholar paperId",
     "title": "string",
+    "abstract": "source abstract text or null",
     "citation": "string or null",
     "doi": "string or null",
     "url": "string or null",

@@ -24,6 +24,7 @@ No Claude, OpenAI, Gemini, or paid LLM API is required.
 7. Extracts structured systematic-review information into JSON.
 8. Writes detailed paper-level Markdown summaries.
 9. Drafts a PRISMA-style systematic-review manuscript from included papers.
+10. Supports benchmark evaluation against open-access datasets such as CLEF TAR.
 
 ## Hardware Guidance
 
@@ -247,10 +248,46 @@ runs/YYYYMMDD-HHMMSS-topic-slug/
 Important files:
 
 - `ranked_candidates.json`: all deduplicated candidates ranked by relevance.
-- `extractions/*.json`: structured extraction for each processed paper.
+- `extractions/*.json`: structured extraction for each processed paper, including source database, source ID, and abstract when available.
 - `paper_summaries/*.md`: readable paper-level summaries.
 - `manuscripts/manuscript_final.md`: PRISMA-style manuscript draft, when included papers are found.
 - `logs/errors.jsonl`: failed searches or extraction errors.
+
+## Evaluation With Open-Access Data
+
+The repository includes evaluation scripts in:
+
+```text
+scripts/evaluation/
+```
+
+Use these scripts to evaluate the pipeline against public benchmark data such as CLEF TAR.
+
+CLEF TAR evaluation can measure:
+
+- search coverage against gold relevant PubMed IDs
+- PubMedBERT ranking performance using Recall@k, nDCG@k, average precision, and WSS@95
+- Qwen screening performance using precision, recall, F1, Cohen's kappa, and false negatives
+
+Generate CLEF TAR configs:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\evaluation\generate_clef_configs.py --topics-dir tar\2019-TAR\Task2\Testing\Intervention\topics --out-dir clef_configs --limit 3
+```
+
+Evaluate one completed run:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\evaluation\evaluate_clef_tar.py --run-dir "D:\Literature_Search\runs\YOUR_RUN_FOLDER" --qrels "D:\Literature_Search\tar\2019-TAR\Task2\Testing\Intervention\qrels"
+```
+
+Evaluate summary faithfulness against saved abstracts:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\evaluation\evaluate_faithfulness.py --extractions "D:\Literature_Search\runs\YOUR_RUN_FOLDER\extractions" --out paper_results\faithfulness_results.json
+```
+
+See [scripts/evaluation/README.md](scripts/evaluation/README.md) for the full evaluation workflow.
 
 ## Accuracy And Human Review
 
