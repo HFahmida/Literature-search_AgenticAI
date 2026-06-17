@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi:10.1097/mcp.0000000000000368",
+  "source": "pubmed",
+  "source_id": "28212153",
+  "title": "New therapies for the prevention and treatment of exacerbations of bronchiectasis.",
+  "abstract": "Exacerbations of bronchiectasis have a major impact on quality of life, healthcare costs, and long-term risk of complications. Preventing exacerbations is one of the major goals of treatment. Bronchiectasis is increasingly recognized and the impact of bronchiectasis exacerbations on daily clinical practice is also increasing. Preventing bronchiectasis exacerbations are dependent on appropriate risk assessment, identifying the patients at highest risk to rationally target preventive therapies. Inhaled and oral antibiotic treatments can target chronic bacterial infection which is one of the major risk factors for exacerbation. Although the data is weak, airway clearance is an important part of long-term management including in patients with frequent exacerbations. Anti-inflammatory therapies such as inhaled corticosteroids do not currently have a major role outside comorbid chronic obstructive pulmonary disease and asthma, but further studies are required. Treatment of acute exacerbations involves prompt administration of antibiotic therapy with usually 14 days of oral, or for severe exacerbations, intravenous antibiotics. The role of corticosteroids is not established and there is little data on the optimal management approach for acute exacerbations. Home intravenous therapy can reduce healthcare costs and improve patient satisfaction with care. A number of large randomized controlled trials are currently enrolling or have recently completed raising the possibility that the treatment paradigm may change in the near future.",
+  "citation": null,
+  "doi": "10.1097/MCP.0000000000000368",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28212153/",
+  "pdf_url": null,
+  "year": 2017,
+  "authors": [
+    "Hani Abo-Leyah",
+    "James D Chalmers"
+  ],
+  "journal": "Current opinion in pulmonary medicine",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper discusses the role of anti-inflammatory therapies, including inhaled corticosteroids, for bronchiectasis and mentions their limited use outside comorbid conditions.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The paper reviews new therapies for preventing and treating exacerbations of bronchiectasis, with a focus on inhaled corticosteroids.",
+  "detailed_summary": "This article discusses the impact of bronchiectasis exacerbations and highlights the role of anti-inflammatory therapies like inhaled corticosteroids. The authors note that while these therapies are not currently widely used for primary bronchiectasis, further studies are needed to explore their potential benefits. The paper also covers other preventive measures such as airway clearance and antibiotic treatments.",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The paper is relevant as it discusses inhaled corticosteroids for bronchiectasis, which aligns with the review objective.",
+  "key_takeaways": [
+    "Inhaled corticosteroids have limited use outside comorbid conditions like chronic obstructive pulmonary disease and asthma.",
+    "Further studies are needed to explore the role of anti-inflammatory therapies in primary bronchiectasis."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Anti-inflammatory therapies such as inhaled corticosteroids do not currently have a major role outside comorbid chronic obstructive pulmonary disease and asthma, but further studies are required."
+  ],
+  "extraction_confidence": "medium",
+  "missing_information": []
+}

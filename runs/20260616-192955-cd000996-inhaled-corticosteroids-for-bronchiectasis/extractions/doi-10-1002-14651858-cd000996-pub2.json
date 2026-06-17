@@ -1,0 +1,76 @@
+{
+  "paper_id": "doi:10.1002/14651858.cd000996.pub2",
+  "source": "pubmed",
+  "source_id": "19160186",
+  "title": "Inhaled steroids for bronchiectasis.",
+  "abstract": "Bronchiectasis is increasingly recognized as a major cause of respiratory morbidity especially in developing countries and in some ethnic populations of affluent countries. It is characterized by irreversible dilatation of airways, generally associated with chronic bacterial infection. Medical management largely aims to reduce morbidity by controlling the symptoms and by preventing the progression of bronchiectasis. To evaluate the efficacy of inhaled corticosteroids (ICS) in children and adults with bronchiectasis (a) during stable bronchiectasis; and for reducing; (b) the severity and frequency of acute respiratory exacerbations and (c) long term pulmonary decline. The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialized Register Collaboration and Cochrane Airways Group, MEDLINE and EMBASE databases were searched by the Cochrane Airways Group. The latest searches were performed in September 2007. All randomised controlled trials comparing ICS with a placebo or no medication. Children and adults with clinical or radiographic evidence of bronchiectasis were included, but patients with cystic fibrosis (CF) were excluded. Results of searches were reviewed against pre-determined criteria for inclusion. There were no paediatric studies. Six adult studies fulfilled the inclusion criteria. Of the 303 randomised, 278 subjects completed the trials. In the short term group (ICS for less then 6 months duration), adults on huge doses of ICS (2g per day of budesonide equivalent) had significantly improved forced expiratory volume in the first second (FEV(1)), forced vital capacity (FVC), Quality of life (QOL) score and sputum volume but no significant difference in peak flow, exacerbations, cough or wheeze, when compared to adults in the control arm (no ICS). When only placebo-controlled studies were included, there were no significant difference between groups in all outcomes examined (spirometry, clinical outcomes of exacerbation or sputum volume etc). The single study on long term outcomes showed no significant effect of inhaled steroids in any of the outcomes. The present review indicates that there is insufficient evidence to recommend the routine use of inhaled steroids in adults with stable state bronchiectasis. While a therapeutic trial may be justified in adults with difficult to control symptoms and in certain subgroups, this has to be balanced with adverse events especially if high doses are used. No recommendation can be made for the use of ICS in adults during an acute exacerbation or in children (for any state) as there were no studies.",
+  "citation": null,
+  "doi": "10.1002/14651858.CD000996.pub2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19160186/",
+  "pdf_url": null,
+  "year": 2009,
+  "authors": [
+    "Nitin Kapur",
+    "Scott Bell",
+    "John Kolbe",
+    "Anne B Chang"
+  ],
+  "journal": "The Cochrane database of systematic reviews",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "Clear relevance to the review objective, evaluating inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This systematic review evaluates the efficacy of inhaled corticosteroids (ICS) in managing bronchiectasis, focusing on acute exacerbations and long-term pulmonary decline.",
+  "detailed_summary": "The study reviewed six adult randomized controlled trials comparing ICS with placebo or no medication. It found that high doses of ICS improved spirometry measures but not clinical outcomes like exacerbations or sputum volume in the short term, and had no significant effect on long-term outcomes.",
+  "background_rationale": null,
+  "methods_summary": "The review included studies from databases searched by the Cochrane Airways Group up to September 2007. It focused on randomized controlled trials comparing ICS with placebo or no medication in adults with bronchiectasis, excluding those with cystic fibrosis.",
+  "results_summary": "ICS showed improvement in spirometry measures but not clinical outcomes like exacerbations or sputum volume in the short term; long-term studies found no significant effects of ICS on any outcome.",
+  "conclusion_summary": "There is insufficient evidence to recommend routine use of inhaled steroids for adults with stable bronchiectasis, though they may be justified in certain subgroups. No recommendation can be made for their use during acute exacerbations or in children.",
+  "relevance_to_review": "Highly relevant as it directly addresses the efficacy of ICS in managing bronchiectasis.",
+  "key_takeaways": [
+    "Inhaled corticosteroids may improve spirometry measures but not clinical outcomes like exacerbations or sputum volume in the short term for adults with stable bronchiectasis.",
+    "Long-term studies show no significant effects of ICS on any outcome."
+  ],
+  "objective": "To evaluate the efficacy of inhaled corticosteroids (ICS) in children and adults with bronchiectasis, specifically during stable state, reducing severity and frequency of acute respiratory exacerbations, and long term pulmonary decline.",
+  "study_design": "Systematic review of randomized controlled trials",
+  "population_or_sample": "Adults with clinical or radiographic evidence of bronchiectasis; no pediatric studies included.",
+  "setting": null,
+  "intervention_or_exposure": "Inhaled corticosteroids (ICS)",
+  "comparator": "Placebo or no medication",
+  "methods": [
+    "Searches of Cochrane databases, MEDLINE, and EMBASE up to September 2007.",
+    "Randomized controlled trials comparing ICS with placebo or no medication."
+  ],
+  "outcomes_measured": [
+    "Spirometry measures (FEV1, FVC)",
+    "Quality of life score",
+    "Sputum volume",
+    "Exacerbations",
+    "Cough and wheeze"
+  ],
+  "main_results": [
+    "High doses of ICS improved spirometry measures but not clinical outcomes like exacerbations or sputum volume in the short term.",
+    "Long-term studies showed no significant effects of ICS on any outcome."
+  ],
+  "conclusions": [
+    "Insufficient evidence to recommend routine use of inhaled steroids for adults with stable bronchiectasis.",
+    "May be justified in certain subgroups but balanced against adverse events, especially if high doses are used.",
+    "No recommendation can be made for their use during acute exacerbations or in children."
+  ],
+  "limitations": [
+    "Limited to adult studies; no pediatric data available.",
+    "Only six adult studies met inclusion criteria."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "The present review indicates that there is insufficient evidence to recommend the routine use of inhaled steroids in adults with stable state bronchiectasis."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi:10.1183/09031936.00119114",
+  "source": "pubmed",
+  "source_id": "25792635",
+  "title": "Management of bronchiectasis in adults.",
+  "abstract": "Formerly regarded as a rare disease, bronchiectasis is now increasingly recognised and a renewed interest in the condition is stimulating drug development and clinical research. Bronchiectasis represents the final common pathway of a number of infectious, genetic, autoimmune, developmental and allergic disorders and is highly heterogeneous in its aetiology, impact and prognosis. The goals of therapy should be: to improve airway mucus clearance through physiotherapy with or without adjunctive therapies; to suppress, eradicate and prevent airway bacterial colonisation; to reduce airway inflammation; and to improve physical functioning and quality of life. Fortunately, an increasing body of evidence supports interventions in bronchiectasis. The field has benefited greatly from the introduction of evidence-based guidelines in some European countries and randomised controlled trials have now demonstrated the benefit of long-term macrolide therapy, with accumulating evidence for inhaled therapies, physiotherapy and pulmonary rehabilitation. This review provides a critical update on the management of bronchiectasis focussing on emerging evidence and recent randomised controlled trials.",
+  "citation": null,
+  "doi": "10.1183/09031936.00119114",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25792635/",
+  "pdf_url": null,
+  "year": 2015,
+  "authors": [
+    "James D Chalmers",
+    "Stefano Aliberti",
+    "Francesco Blasi"
+  ],
+  "journal": "The European respiratory journal",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Discusses management strategies for bronchiectasis, including inhaled therapies which may include corticosteroids.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This article provides an overview of the management of bronchiectasis and discusses various therapeutic interventions, including inhaled therapies that could involve corticosteroids.",
+  "detailed_summary": "The paper reviews the current understanding and management strategies for bronchiectasis, highlighting the role of inhaled therapies such as macrolides, physiotherapy, and pulmonary rehabilitation. It emphasizes the importance of addressing airway inflammation and bacterial colonization to improve patient outcomes.",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The article discusses inhaled therapies, which may include corticosteroids, for managing bronchiectasis and is relevant to the review topic.",
+  "key_takeaways": [
+    "Bronchiectasis management includes airway clearance techniques, anti-infective strategies, and reducing inflammation.",
+    "Randomized controlled trials support long-term macrolide therapy in bronchiectasis."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "No specific studies or data on inhaled corticosteroids are mentioned."
+  ]
+}

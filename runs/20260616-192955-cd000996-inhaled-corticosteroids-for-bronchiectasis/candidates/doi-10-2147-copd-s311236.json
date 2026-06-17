@@ -1,0 +1,23 @@
+{
+  "source": "pubmed",
+  "source_id": "34295156",
+  "title": "Inhaled Corticosteroid Therapy in Bronchiectasis is Associated with All-Cause Mortality: A Prospective Cohort Study.",
+  "abstract": "Prescribing inhaled corticosteroids (ICS) for bronchiectasis (BE) in the absence of obstructive lung disease is controversial. Studies investigating ICS therapy and impact on morbidity and mortality in BE are sparse. This study comprises all patients with BE managed at respiratory outpatient clinics at two university hospitals in the Capital Region of Denmark 2014-2015. Baseline data were obtained from patient medical records, and patients were followed until April 2020. Out of 264 patients, 122 (46%) were prescribed ICS with no demographic differences between users/non-users of ICS. Among patients prescribed ICS, 21% did not have a concomitant diagnosis of asthma or COPD. Patients prescribed ICS had lower lung function (median FEV1 65.2 vs 80.9%pred, p<0.001) and a higher symptom burden in terms of cough (p 0.028), sputum production (p <0.001) and dyspnea (p <0.001). Pseudomonas-positive sputum cultures were more common in ICS-treated patients (6.5 vs 20%, p 0.010), as were previous severe exacerbations (41% vs 21%, p <0.001). In terms of mortality, high-dose ICS use was associated with increased mortality in multivariable Cox regression adjusted for age, sex, FEV1 and concomitant asthma/COPD (HR 4.93 [95% CI 1.73-14.0], p 0.003). In this cohort, close to one out of five patients with BE were prescribed ICS despite having no concomitant diagnosis of asthma or COPD. Overall, ICS treatment was associated with higher morbidity and mortality, though causation is difficult to establish.",
+  "year": 2021,
+  "authors": [
+    "Kjell E J Håkansson",
+    "Katrine Fjaellegaard",
+    "Andrea Browatzki",
+    "Melda Dönmez Sin",
+    "Charlotte Suppli Ulrik"
+  ],
+  "journal": "International journal of chronic obstructive pulmonary disease",
+  "doi": "10.2147/COPD.S311236",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34295156/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "34295156"
+  }
+}

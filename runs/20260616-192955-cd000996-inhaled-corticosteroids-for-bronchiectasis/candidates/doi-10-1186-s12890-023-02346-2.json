@@ -1,0 +1,29 @@
+{
+  "source": "pubmed",
+  "source_id": "36747237",
+  "title": "Risk factors and prognostic value of osteoporosis in hospitalized patients with bronchiectasis.",
+  "abstract": "The risk factors for osteoporosis and its prognostic value in patients with bronchiectasis is not well characterized. We explored the risk factors for osteoporosis and its prognostic impact in hospitalized non-cystic fibrosis bronchiectasis (NCFB) patients in Southeast China. This observational cohort study consecutively enrolled 179 hospitalized patients with NCFB bronchiectasis between 2017 and 2021. The risk factors and the impact of osteoporosis on all-cause mortality were assessed. 21.2% (38/179) of hospitalized NCFB patients were diagnosed with osteoporosis. Patients with osteoporosis had more severe symptoms (assessed by chronic airway assessment test, CAT, median 22 vs. 17, P = 0.017), poorer quality of life (assessed by St. George Respiratory Questionnaires, SQRC, median 42 vs. 27, P = 0.007), more severe disease stage (assessed by bronchiectasis severity index, BSI, median 14 vs. 11, P = 0.02), more comorbidities (assessed by Bronchiectasis Aetiology Comorbidity Index, BACI, median 5 vs. 4, P = 0.021) than patients without. Age, female sex, anemia, post-infection, and history of regular inhaled corticosteroid treatment were independent risk factors for osteoporosis in those patients. 21 patients (11.7%) died over a median follow-up period of 32 months. The all-cause mortality in NCFB patients with osteoporosis [28.94% (11/38)] was significantly higher than those without osteoporosis [7.09% (10/141)] [hazard ratio (HR) 5.34, 95% confidence interval (CI) 2.26-12.67, P < 0.001]. After adjusting for BSI and other confounding factors, osteoporosis was still independently associated with all-cause mortality in hospitalized NCFB patients (HR 4.29, 95% CI 1.75-10.49, P < 0.001). Osteoporosis had an independent effect on all-cause mortality in hospitalized NCFB patients. Management of comorbidities, including bone health, is a critical aspect of treating NCFB patients.",
+  "year": 2023,
+  "authors": [
+    "Xin Zou",
+    "Zhiyi Ma",
+    "Xiaohong Liu",
+    "Kaijun Zhang",
+    "Chenchen Qiu",
+    "Rongzhang Liang",
+    "Duanli Weng",
+    "Lingyan Xie",
+    "Xiaoming Cao",
+    "Yongquan Wu",
+    "Liwen Wen"
+  ],
+  "journal": "BMC pulmonary medicine",
+  "doi": "10.1186/s12890-023-02346-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36747237/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36747237"
+  }
+}

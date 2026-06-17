@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "34918623",
+  "title": "Chronic Cough.",
+  "abstract": "Chronic cough, i.e., cough lasting longer than eight weeks, affects approximately 10% of the population and is a common reason for outpatient medical consultation. Its differential diagnosis is extensive, and it is generally evaluated in poorly structured fashion with a variety of diagnostic techniques. The German Clinical Practice Guideline on Acute and Chronic Cough was updated in 2021 and contains a description of the recommended stepwise, patient-centered, and evidencebased procedure for the management of chronic cough. The guideline has been updated in accordance with the findings of a systematic search of the literature for international guidelines and systematic reviews. All recommendations were developed in an interdisciplinary manner and agreed upon by formal consensus. The target group consists of adult patients with cough. History-taking, after the exclusion of red flags, should include questioning about smoking status, medications, and relevant present and past illnesses (COPD, asthma). Subsequent diagnostic testing should include a chest x-ray and pulmonary function tests. If the patient is taking an ACE inhibitor, a test of drug discontinuation can be carried out first. Radiologically detected pulmonary masses or evidence of rare diseases (interstitial lung diseases, bronchiectasis) are an indication for chest CT or for direct referral to an appropriate specialist. If the imaging studies and pulmonary function tests are normal, the patient is most likely suffering from a disease entity that can be treated empirically, such as upper airway cough syndrome or cough variant asthma. Any patient with an unexplained or refractory cough must receive proper patient education; individual therapeutic trials of physiotherapeutic or speech-therapeutic methods are possible, as is the off-label use of gabapentin or morphine. Chronic cough should be evaluated according to an established diagnostic algorithm in collaboration with specialists. Treatments such as inhaled corticosteroids should be tested exhaustively in accordance with the guidelines, and the possibility of multiple causes as well as the role of patient compliance should be kept in mind before a diagnosis of unexplained or intractable cough is assigned.",
+  "year": 2022,
+  "authors": [
+    "Karen Krüger",
+    "Felix Holzinger",
+    "Janina Trauth",
+    "Myriam Koch",
+    "Christoph Heintze",
+    "Sabine Gehrke-Beck"
+  ],
+  "journal": "Deutsches Arzteblatt international",
+  "doi": "10.3238/arztebl.m2021.0396",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34918623/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "34918623"
+  }
+}

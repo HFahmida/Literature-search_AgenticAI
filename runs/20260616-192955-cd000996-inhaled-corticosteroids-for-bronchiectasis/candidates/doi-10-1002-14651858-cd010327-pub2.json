@@ -1,0 +1,20 @@
+{
+  "source": "pubmed",
+  "source_id": "24913725",
+  "title": "Combination inhaled corticosteroids and long-acting beta2-agonists for children and adults with bronchiectasis.",
+  "abstract": "Bronchiectasis is a major contributor to chronic respiratory morbidity and mortality worldwide. Wheeze and other asthma-like symptoms and bronchial hyperreactivity may occur in people with bronchiectasis. Physicians often use asthma treatments in patients with bronchiectasis. To assess the effects of inhaled long-acting beta2-agonists (LABA) combined with inhaled corticosteroids (ICS) in children and adults with bronchiectasis during (1) acute exacerbations and (2) stable state. The Cochrane Airways Group searched the the Cochrane Airways Group Specialised Register of Trials, which includes records identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and other databases. The Cochrane Airways Group performed the latest searches in October 2013. All randomised controlled trials (RCTs) of combined ICS and LABA compared with a control (placebo, no treatment, ICS as monotherapy) in children and adults with bronchiectasis not related to cystic fibrosis (CF). Two review authors extracted data independently using standard methodological procedures as expected by The Cochrane Collaboration. We found no RCTs comparing ICS and LABA combination with either placebo or usual care. We included one RCT that compared combined ICS and LABA with high-dose ICS in 40 adults with non-CF bronchiectasis without co-existent asthma. All participants received three months of high-dose budesonide dipropionate treatment (1600 micrograms). After three months, participants were randomly assigned to receive either high-dose budesonide dipropionate (1600 micrograms per day) or a combination of budesonide with formoterol (640 micrograms of budesonide and 18 micrograms of formoterol) for three months. The study was not blinded. We assessed it to be an RCT with overall high risk of bias. Data analysed in this review showed that those who received combined ICS-LABA (in stable state) had a significantly better transition dyspnoea index (mean difference (MD) 1.29, 95% confidence interval (CI) 0.40 to 2.18) and cough-free days (MD 12.30, 95% CI 2.38 to 22.2) compared with those receiving ICS after three months of treatment. No significant difference was noted between groups in quality of life (MD -4.57, 95% CI -12.38 to 3.24), number of hospitalisations (odds ratio (OR) 0.26, 95% CI 0.02 to 2.79) or lung function (forced expiratory volume in one second (FEV1) and forced vital capacity (FVC)). Investigators reported 37 adverse events in the ICS group versus 12 events in the ICS-LABA group but did not mention the number of individuals experiencing adverse events. Hence differences between groups were not included in the analyses. We assessed the overall evidence to be low quality. In adults with bronchiectasis without co-existent asthma, during stable state, a small single trial with a high risk of bias suggests that combined ICS-LABA may improve dyspnoea and increase cough-free days in comparison with high-dose ICS. No data are provided for or against, the use of combined ICS-LABA in adults with bronchiectasis during an acute exacerbation, or in children with bronchiectasis in a stable or acute state. The absence of high quality evidence means that decisions to use or discontinue combined ICS-LABA in people with bronchiectasis may need to take account of the presence or absence of co-existing airway hyper-responsiveness and consideration of adverse events associated with combined ICS-LABA.",
+  "year": 2014,
+  "authors": [
+    "Vikas Goyal",
+    "Anne B Chang"
+  ],
+  "journal": "The Cochrane database of systematic reviews",
+  "doi": "10.1002/14651858.CD010327.pub2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24913725/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "24913725"
+  }
+}

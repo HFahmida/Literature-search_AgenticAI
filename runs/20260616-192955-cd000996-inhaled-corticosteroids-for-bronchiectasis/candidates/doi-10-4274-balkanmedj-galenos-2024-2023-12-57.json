@@ -1,0 +1,32 @@
+{
+  "source": "pubmed",
+  "source_id": "38700365",
+  "title": "Bronchiectasis in Türkiye: Data from a Multicenter Registry (Turkish Adult Bronchiectasis Database).",
+  "abstract": "Bronchiectasis is a chronic lung disease characterized by permanent bronchial wall dilatation. Although it has been known as an orphan disease, it has recently gained attention because of registry-based studies and drug research. We aimed to use a multicenter database to analyze and compare data regarding the etiology, associated comorbidities, microbiological characteristics, and preventive strategies of bronchiectasis in Türkiye to those of other countries. A multicenter prospective cohort study. The multicenter, prospective cohort study was conducted between March 2019 and January 2022 using the Turkish Adult Bronchiectasis Database, in which 25 centers in Türkiye participated. Patients aged > 18 years who presented with respiratory symptoms such as cough, sputum, and dyspnea and were diagnosed with non-cystic fibrosis bronchiectasis using computed tomography were included in the study. Demographic information, etiologies, comorbidities, pulmonary functions, and microbiological, radiological, and clinical data were collected from the patients. Of the 1,035 study participants, 518 (50%) were females. The mean age of the patients was 56.1 ± 16.1 years. The underlying etiology was detected in 565 (54.6%) patients. While postinfectious origin was the most common cause of bronchiectasis (39.5%), tuberculosis was identified in 11.3% of the patients. An additional comorbidity was detected in 688 (66.5%) patients. The most common comorbidity was cardiovascular disease, and chronic obstructive pulmonary disease (COPD) and bronchiectasis was identified in 19.5% of the patients. The most commonly detected microbiological agent was Pseudomonas aeruginosa (29.4%). Inhaled corticosteroids (ICS) were used in 70.1% of the patients, and the frequency of exacerbations in the last year was significantly higher in patients using ICS than in nonusers (p < 0.0001). Age [odds ratio (OR): 1.028; 95% confidence interval (CI): 1.005-1.051], cachexia (OR: 4.774; 95% CI: 2,054-11,097), high modified medical research council dyspnea scale score (OR: 1,952; 95% CI: 1,459-2,611), presence of chronic renal failure (OR: 4,172; 95% CI: 1,249-13,938) and use of inhaled steroids (OR: 2,587; 95% CI: 1,098-6,098) were significant risk factors for mortality. Mortality rates were higher in patients with COPD than in those with no COPD (21.7-9.1%, p = 0.016). Patients with bronchiectasis and COPD exhibited more frequent exacerbations, exacerbation-related hospitalizations, and hospitalization in the intensive care unit in the previous year than patients without COPD. This is the first multicenter study of bronchiectasis in Türkiye. The study results will provide important data that can guide the development of health policies in Türkiye on issues such as infection control, vaccination, and the unnecessary use of antibiotics and steroids.",
+  "year": 2024,
+  "authors": [
+    "Ebru Çakır Edis",
+    "Aykut Çilli",
+    "Deniz Kızılırmak",
+    "Ayşın Şakar Coşkun",
+    "Nurcan Güler",
+    "Sedat Çiçek",
+    "Can Sevinç",
+    "Meltem Çoban Ağca",
+    "İnci Gülmez",
+    "Benan Çağlayan",
+    "Mehmet Kabak",
+    "Elif Yelda Özgün Niksarlıoğlu",
+    "Nurdan Köktürk",
+    "Abdullah Sayıner"
+  ],
+  "journal": "Balkan medical journal",
+  "doi": "10.4274/balkanmedj.galenos.2024.2023-12-57",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38700365/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "38700365"
+  }
+}

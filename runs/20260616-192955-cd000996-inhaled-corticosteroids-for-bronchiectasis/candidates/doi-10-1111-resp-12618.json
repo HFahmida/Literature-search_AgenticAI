@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "26293490",
+  "title": "Association between inhaler use and risk of haemoptysis in patients with non-cystic fibrosis bronchiectasis.",
+  "abstract": "Inhaled medications have been widely applied to patients with airflow limiting non-cystic fibrosis (non-CF) bronchiectasis. However, the association between the use of inhalers and the development of haemoptysis has rarely been explored. The objective of this study was to assess the association between the risk of haemoptysis and the use of inhalers in patients with non-CF bronchiectasis. A nested case-control study was performed using a national claims database from 1 January 2009 to 31 December 2011. Inhalers including inhaled corticosteroids (ICS), long-acting β2 agonists (LABA), long-acting muscarinic antagonists (LAMA), short-acting β2 agonists (SABA), short-acting muscarinic antagonists (SAMA) and their combinations were tested for the risk of clinically significant haemoptysis events. Among the 62 530 eligible new users of inhalers with non-CF bronchiectasis, 6180 patients with haemoptysis and 27 486 strictly matched controls were selected. In the unadjusted analyses, SAMA, LAMA, SABA and ICS/LABA significantly increased the risk of haemoptysis. After adjustment for other inhaled respiratory medications, comorbidities, health-care utilization and concomitant medications, SAMA, SABA and LAMA consistently increased the risk of haemoptysis (SAMA: odds ratio (OR), 1.6; 95% confidence interval (CI), 1.1-1.4; LAMA: OR, 1.2; 95% CI: 1.1-1.2; SABA: OR, 1.2; 95% CI: 1.1-1.2). The association between anticholinergics (SAMA and LAMA) and risk of haemoptysis showed a dose-dependent trend (P for trend, <0.001). The use of SABA and inhaled anticholinergics in patients with non-CF bronchiectasis increased the risk of haemoptysis. The risk-benefit ratio of inhaled bronchodilators should be considered in the haemoptysis-susceptible population.",
+  "year": 2015,
+  "authors": [
+    "Eun Jin Jang",
+    "Chang-Hoon Lee",
+    "Ho Il Yoon",
+    "Yun Jung Kim",
+    "Ji Min Kim",
+    "Seong Mi Choi",
+    "Jae-Joon Yim",
+    "Deog Kyeom Kim"
+  ],
+  "journal": "Respirology (Carlton, Vic.)",
+  "doi": "10.1111/resp.12618",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26293490/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "26293490"
+  }
+}

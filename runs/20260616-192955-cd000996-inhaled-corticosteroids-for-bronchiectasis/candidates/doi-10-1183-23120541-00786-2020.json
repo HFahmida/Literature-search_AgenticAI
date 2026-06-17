@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "35265701",
+  "title": "Comparative safety of inhaled corticosteroids and macrolides in Medicare enrolees with bronchiectasis.",
+  "abstract": "Bronchiectasis is an increasingly common chronic inflammatory airway disease. We evaluated secondary safety outcomes in a comparative effectiveness study of chronic inhaled corticosteroids (ICS) and macrolide monotherapy in bronchiectasis patients. We conducted a retrospective study using US Medicare Parts A, B and D (but not C) 2006-2014 datasets. Among those with a pulmonologist-associated bronchiectasis claim (ICD-9-CM 494.0 or 494.1), without cystic fibrosis, we identified the first new use of either chronic (>28 days) ICS or macrolide monotherapy. For each drug exposure, we calculated crude incidence rates of the secondary safety outcomes: arrhythmia, myocardial infarction, sensorineural hearing loss, hip fracture and opportunistic infections. We calculated a propensity score (PS) for ICS use using demographic, clinical and utilisation characteristics and compared risks of macrolides versus ICS for each outcome using PS decile-adjusted Cox regression models. Of 285 043 Medicare patients with bronchiectasis, we identified 6500 (2%) macrolide and 83 589 (29%) ICS new users. Key covariates were balanced across exposure groups within decile. Myocardial infarction, hip fracture and opportunistic infection were not significantly associated with treatment. Macrolides were associated with a decreased risk of arrhythmia (adjusted hazard ratio (aHR) 0.87, 95% CI 0.80-0.94) and an increased risk of sensorineural hearing loss (aHR 1.38, 95% CI 1.56-1.22) compared to ICS. Macrolides were not associated with an elevated risk of acute cardiac events compared to ICS. The increased risk of hearing loss in macrolide users compared to ICS users in older bronchiectasis patients should be balanced against known benefits of macrolides.",
+  "year": 2022,
+  "authors": [
+    "Emily Henkle",
+    "Charles L Daley",
+    "Jeffrey R Curtis",
+    "Benjamin Chan",
+    "Timothy R Aksamit",
+    "Kevin L Winthrop"
+  ],
+  "journal": "ERJ open research",
+  "doi": "10.1183/23120541.00786-2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35265701/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "35265701"
+  }
+}

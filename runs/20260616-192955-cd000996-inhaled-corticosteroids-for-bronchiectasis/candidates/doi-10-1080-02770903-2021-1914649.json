@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "33830849",
+  "title": "Elevated serum calprotectin (S100A8/A9) in patients with severe asthma.",
+  "abstract": "Asthma is a heterogeneous disease consisting of several inflammatory phenotypes of which neutrophilic asthma is associated with poorer responses to classic therapies, namely (inhaled) corticosteroids. The development of targeted therapies requires the identification of biomarkers to distinguish these phenotypes. Currently, we lack validated biomarkers for non-eosinophilic asthma. The aim of this study is to examine serum calprotectin (SC) in asthmatics and its potential as biomarker for neutrophilic asthma. Hundred-seventeen severe asthmatics were referred for sputum induction and data were obtained from their medical records. To evaluate the association between SC and asthma phenotypes, patients were divided into subgroups based on sputum cell count (3% eosinophils and 61% neutrophils). Additionally, SC levels of asthmatics were compared with these of patients with chronic obstructive pulmonary disease, non-cystic fibrosis bronchiectasis and healthy controls. Asthmatics (n = 45) had significantly higher levels of SC than healthy controls. No significant differences were found between the different asthma phenotypes and in comparison with COPD patients. SC was significantly higher in asthmatics with a lower FEV1/FVC ratio ( 2 in the last year). In conclusion, there was no difference in SC levels between the different inflammatory subtypes in asthmatics. Nevertheless, severe asthmatics seemed to have higher SC levels suggesting that SC may be a marker of disease severity rather than a marker for specific inflammatory subtypes in asthmatics. Further research in larger cohorts is necessary to validate SC as biomarker in severe asthmatics.",
+  "year": 2022,
+  "authors": [
+    "T Decaesteker",
+    "S Bos",
+    "N Lorent",
+    "S Everaerts",
+    "J Vanoirbeek",
+    "D Bullens",
+    "L J Dupont"
+  ],
+  "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+  "doi": "10.1080/02770903.2021.1914649",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33830849/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "33830849"
+  }
+}

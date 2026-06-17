@@ -1,0 +1,42 @@
+{
+  "source": "pubmed",
+  "source_id": "40757932",
+  "title": "First results from the international paediatric bronchiectasis registry (Child-BEAR-Net Registry) describing multicountry variations in childhood bronchiectasis and its management: a multicentre, cross-sectional study.",
+  "abstract": "Despite increasing recognition of bronchiectasis worldwide, there are no multicountry data characterising bronchiectasis in children. We aimed to describe clinical features, comparing inter-country and regional variations, and describe indices of overall quality-of-care standards assessed against international consensus statements for children and young people with bronchiectasis. Child-BEAR-Net is an international collaborative paediatric bronchiectasis network across several continents. Using our International Paediatric Bronchiectasis Registry data from secondary and tertiary hospitals across eight countries, we conducted a multicentre, cross-sectional cohort study of all patients in the registry younger than 18 years diagnosed with bronchiectasis. Data were grouped into four geographical regions: Australia, South Africa, Greece-Italy-Spain, and Albania-Türkiye-Ukraine. Patients with cystic fibrosis or a history of heart or lung transplantation were excluded. We assessed baseline clinical characteristics, causes, treatments, and quality-of-care indicators, and compared findings across regions. Data were analysed using descriptive statistics and non-parametric tests for between-group comparisons. Between June 1, 2020, and Feb 9, 2024, 408 patients were enrolled (median age at diagnosis 6·0 years [IQR 3·2-9·0]; 229 (56%) male and 179 (44%) female patients). The most common underlying causes were post-infection (127 [31%]), primary and secondary immunodeficiencies (79 [19%]), and known genetic disorders (55 [13%]). Common comorbidities included asthma (70 [17%]), otorhinolaryngeal disorders (58 [14%]), and congenital major airway malformation (51 [13%]). In the previous 12 months, 106 (38%) had at least three exacerbations and 89 (49%) required hospitalisation at least once. 107 (27%) of 400 reported daily sputum. Lung function was normal in 133 (59%) of 227 patients but with considerable between-group differences (median forced vital capacity Z score ranged from -0·12 [-0·95 to 0·65] in Australia to -1·54 [-3·39 to -0·04] in South Africa). We found marked inter-group differences in lower airway bacteria (Haemophilus influenzae in 56 [70%] of 80 patients in Australia to three [16%] of 19 in Albania-Türkiye-Ukraine; Pseudomonas aeruginosa in eight [24%] of 34 in South Africa to one [5%] in Albania-Türkiye-Ukraine), treatment (long-term azithromycin for 47 [50%] of 94 in Greece-Italy-Spain to 15 [19%] of 79 in Albania-Türkiye-Ukraine; and inhaled corticosteroids for 48 [61%] in Albania-Türkiye-Ukraine to 28 [22%] of 126 in Australia), and radiographic markers (cystic bronchiectasis in 49 [45%] of 109 in South Africa to three [2%] of 126 in Australia [p<0·0001]). In quality-of-care standard markers, the recommended panel of investigations was done in 66-95% of patients; only 78 (47%) of 167 saw a paediatric physiotherapist in the previous 12 months. Our study presents the first internationally derived paediatric registry data highlighting geographical variations in cause, lung function, bacteriology, and treatment in children and young people with bronchiectasis, as well as the need to improve quality care. None.",
+  "year": 2025,
+  "authors": [
+    "Laura Garriga-Grimau",
+    "Ahmad Kantar",
+    "Keith Grimwood",
+    "Charl Verwey",
+    "Refiloe Masekela",
+    "Diane Gray",
+    "Ameena Goga",
+    "Bulent Karadag",
+    "Ela Erdem Eralp",
+    "Yasemin Gokdemir",
+    "Konstantinos Douros",
+    "Dafni Moriki",
+    "Elpiniki Kartsiouni",
+    "Antonio Moreno-Galdó",
+    "Laura Petrarca",
+    "Fabio Midulla",
+    "Maria Elisa Di Cicco",
+    "Oleksandr Mazulov",
+    "Sonila Boriçi",
+    "Jeanette Boyd",
+    "Zena Powell",
+    "Andrew Bush",
+    "Stephanie T Yerkovich",
+    "Anne B Chang"
+  ],
+  "journal": "The Lancet. Respiratory medicine",
+  "doi": "10.1016/S2213-2600(25)00089-X",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40757932/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "40757932"
+  }
+}

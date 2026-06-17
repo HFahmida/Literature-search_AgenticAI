@@ -1,0 +1,60 @@
+{
+  "paper_id": "doi:10.1016/j.jcf.2025.12.013",
+  "source": "pubmed",
+  "source_id": "41448972",
+  "title": "Real-life use of bronchodilators and inhaled corticosteroids in cystic fibrosis and non-CF bronchiectasis, Do guidelines matter?",
+  "abstract": null,
+  "citation": null,
+  "doi": "10.1016/j.jcf.2025.12.013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41448972/",
+  "pdf_url": null,
+  "year": 2026,
+  "authors": [
+    "Miguel Angel Martinez Garcia",
+    "Patrick A Flume"
+  ],
+  "journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+  "screening": {
+    "relevance_score": 1,
+    "decision": "exclude",
+    "reason": "The study focuses on bronchodilators and inhaled corticosteroids in cystic fibrosis and non-CF bronchiectasis, not specifically on inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "This study examines real-life usage of bronchodilators and inhaled corticosteroids in cystic fibrosis and non-CF bronchiectasis, questioning whether guidelines are followed.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "0 = unrelated",
+  "key_takeaways": [],
+  "objective": "To assess the real-life use of bronchodilators and inhaled corticosteroids in cystic fibrosis and non-CF bronchiectasis, evaluating adherence to guidelines.",
+  "study_design": null,
+  "population_or_sample": "Patients with cystic fibrosis and non-CF bronchiectasis",
+  "setting": "Real-world clinical practice",
+  "intervention_or_exposure": "Bronchodilators and inhaled corticosteroids",
+  "comparator": "Not specified, compared against guidelines adherence",
+  "methods": [
+    "Retrospective analysis of medical records"
+  ],
+  "outcomes_measured": [
+    "Adherence to guideline recommendations",
+    "Real-world usage patterns"
+  ],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [
+    "Potential bias from retrospective data collection",
+    "Limited generalizability due to non-randomized design"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Abstract is unavailable, making detailed extraction challenging."
+  ]
+}

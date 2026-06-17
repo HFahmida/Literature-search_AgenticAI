@@ -1,0 +1,21 @@
+{
+  "source": "pubmed",
+  "source_id": "10796575",
+  "title": "Inhaled steroids for bronchiectasis.",
+  "abstract": "Bronchiectasis is a progressive condition characterised by irreversible destruction and dilatation of airways, generally associated with chronic bacterial infection. The two distinct therapeutic goals are: symptom control and reduction in morbidity; and prevention of progression of the underlying disease. To determine whether regular inhaled corticosteroids produce improvement in symptom control and whether they beneficially influence the natural history of the disease. The Cochrane Airways Group RCT register and Cochrane Controlled Clinical Trials Register were searched using the following search terms; bronchiectasis AND [corticosteroid* OR beclomethasone OR budesonide OR fluticasone OR triamcinolone OR flunisolide]. Bibliographies of each included RCT was searched for additional trials. Pharmaceutical companies that manufacture inhaled corticosteroids were also contacted. Only randomised double blind studies controlled trials were included. Patients with radiographic evidence of bronchiectasis were included, but patients with cystic fibrosis were excluded. Data was extracted by one of the reviewers (FR). Continuous outcomes were analysed as effect sizes (weighted mean difference or as standardised mean difference with 95% confidence intervals). Only two trials on a total of 54 patients could be included. The studies were of 4 and 6 weeks duration. Inhaled corticosteroids had no significant effect on any of the outcomes included in this review, however there was a trend towards improving: FEV1, FVC, PEFR, RV and DLco. In bronchiectasis, regular use of inhaled corticosteroids may improve lung function. The available studies were too short and too small to provide any clear evidence to guide practice. Larger and longer studies should include rate of decline of lung function, exacerbation frequency, hospitalisations and healthy status as outcomes.",
+  "year": 2000,
+  "authors": [
+    "J Kolbe",
+    "A Wells",
+    "F S Ram"
+  ],
+  "journal": "The Cochrane database of systematic reviews",
+  "doi": "10.1002/14651858.CD000996",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10796575/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "10796575"
+  }
+}

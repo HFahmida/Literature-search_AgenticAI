@@ -1,0 +1,51 @@
+{
+  "paper_id": "doi:10.3390/jcm12093322",
+  "source": "pubmed",
+  "source_id": "37176763",
+  "title": "Inhaled Corticosteroids and Bronchiectasis: Friend or Foe?",
+  "abstract": "The three most common chronic inflammatory airway diseases are asthma, chronic obstructive pulmonary disease (COPD), and bronchiectasis [...].",
+  "citation": null,
+  "doi": "10.3390/jcm12093322",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37176763/",
+  "pdf_url": null,
+  "year": 2023,
+  "authors": [
+    "Miguel Angel Martinez-Garcia"
+  ],
+  "journal": "Journal of clinical medicine",
+  "screening": {
+    "relevance_score": 1,
+    "decision": "maybe",
+    "reason": "The abstract is limited and does not provide specific information about inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "Inhaled Corticosteroids and Bronchiectasis: Friend or Foe?",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The abstract does not provide specific information about inhaled corticosteroids for bronchiectasis, making it unclear if the study is relevant to the review.",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No specific information about inhaled corticosteroids for bronchiectasis is provided in the abstract."
+  ]
+}

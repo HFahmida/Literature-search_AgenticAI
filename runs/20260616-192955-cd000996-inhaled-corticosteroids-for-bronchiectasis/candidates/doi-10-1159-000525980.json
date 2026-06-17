@@ -1,0 +1,21 @@
+{
+  "source": "pubmed",
+  "source_id": "35998604",
+  "title": "Inhaled Corticosteroids and Mycobacterial Infection in Patients with Chronic Airway Diseases: A Systematic Review and Meta-Analysis.",
+  "abstract": "Inhaled corticosteroids (ICSs) have been widely used in chronic airway diseases, such as asthma, chronic obstructive pulmonary disease (COPD), and bronchiectasis. However, whether ICS use causes mycobacterial infection is uncertain. Some conclusions of published studies were inconsistent. We aimed to investigate the association between the use of ICSs and mycobacterial infections in patients with chronic airway diseases. This review was registered on PROSPERO (CRD42021284607). We focused on examining the association between ICS use and mycobacterial infection (nontuberculous mycobacterial [NTM] infection as well as tuberculosis [TB]). We searched PubMed (MEDLINE), Sciencenet, Cochrane, and EMBASE databases for studies up to 2021 to retrieve articles. The enrollment conditions included gender, enrollment diagnosis and ICS use in chronic airway disease patients, and so on. Preclinical studies, review articles, editorials, reviews, conference abstracts, and book chapters were excluded. Methodologically, the study was assessed using the Newcastle Ottawa Scale, and Rev-man5 was used for statistical analysis. Ten studies (including 4 NTM and 6 TB articles) with 517,556 patients met the inclusion criteria and were included in this meta-analysis. From the NTM pooled analyses, ICS use was associated with increased odds of NTM infection in patients with chronic airway diseases (odds ratio [OR] = 3.93, 95% confidence interval [CI] 2.12-7.27), subgroup analysis showed that high-dose ICS use (OR = 2.27, 95% CI 2.08-2.48) and fluticasone use (OR = 2.42, 95% CI 2.23-2.63) were associated with increased odds of NTM infection risk in patients with chronic respiratory diseases. The TB pooled analyses showed a significant association between ICS use and risk of TB infection in patients with chronic respiratory diseases (OR = 2.01, 95% CI 1.23-3.29). Subgroup analysis showed that in chronic respiratory diseases, ICS use increased odds of TB infection in high-dose ICS use (OR = 1.70, 95% CI 1.56-1.86) and in COPD patients (OR = 1.45, 95% CI 1.29-1.63). Our meta-analysis indicated that ICS use may increase the odds of mycobacterial infection in chronic respiratory disease patients, and this conclusion is more applicable to patients with high dose of ICS or fluticasone in NTM infection subgroups. In addition, high-dose ICS use may have higher risk of TB infection in patients with chronic respiratory diseases, especially COPD. Therefore, we should be vigilant about the application of ICS use in chronic respiratory diseases to avoid infection.",
+  "year": 2022,
+  "authors": [
+    "Yajie You",
+    "Yingmeng Ni",
+    "Guochao Shi"
+  ],
+  "journal": "Respiration; international review of thoracic diseases",
+  "doi": "10.1159/000525980",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35998604/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "35998604"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "37429481",
+  "title": "Risk Factors for Nontuberculous Mycobacterial Pulmonary Disease: A Systematic Literature Review and Meta-Analysis.",
+  "abstract": "Nontuberculous mycobacterial pulmonary disease (NTM-PD) is widely underdiagnosed, and certain patient groups, such as those with underlying respiratory diseases, are at increased risk of developing the disease. Understanding patients at risk is essential to allow for prompt testing and diagnosis and appropriate management to prevent disease progression. What are the risk factors for NTM-PD that should prompt a physician to consider NTM testing and diagnosis? Electronic searches of PubMed and EMBASE were conducted in July 2021 for the period 2011-2021. Inclusion criteria were studies of patients with NTM-PD with associated risk factors. Data were extracted and assessed using the Newcastle-Ottawa Scale. Data analysis was conducted using the R-based \"meta\" package. Only studies that reported association outcomes for cases with NTM-PD compared with control participants (healthy populations or participants without NTM-PD) were considered for the meta-analysis. Of the 9,530 searched publications, 99 met the criteria for the study. Of these, 24 formally reported an association between possible risk factors and the presence of NTM-PD against a control population and were included in the meta-analysis. Comorbid respiratory disease was associated with a significant increase in the OR for NTM-PD (bronchiectasis [OR, 21.43; 95% CI, 5.90-77.82], history of TB [OR, 12.69; 95% CI, 2.39-67.26], interstitial lung disease [OR, 6.39; 95% CI, 2.65-15.37], COPD [OR, 6.63; 95% CI, 4.57-9.63], and asthma [OR, 4.15; 95% CI, 2.81-6.14]). Other factors noted to be associated with an increased risk of NTM-PD were the use of inhaled corticosteroids (OR 4.46; 95% CI, 2.13-9.35), solid tumors (OR, 4.66; 95% CI, 1.04-20.94) and the presence of pneumonia (OR, 5.54; 95% CI, 2.72-11.26). The greatest risk for NTM-PD is conferred by comorbid respiratory diseases such as bronchiectasis. These findings could help with identification of patient populations at risk for NTM-PD to drive prompt testing and appropriate initiation of therapy.",
+  "year": 2023,
+  "authors": [
+    "Michael R Loebinger",
+    "Jennifer K Quint",
+    "Roald van der Laan",
+    "Marko Obradovic",
+    "Rajinder Chawla",
+    "Amit Kishore",
+    "Jakko van Ingen"
+  ],
+  "journal": "Chest",
+  "doi": "10.1016/j.chest.2023.06.014",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37429481/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "37429481"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi:10.21037/jtd.2017.03.116",
+  "source": "pubmed",
+  "source_id": "28523172",
+  "title": "Roles of roflumilast, a selective phosphodiesterase 4 inhibitor, in airway diseases.",
+  "abstract": "Asthma and chronic obstructive pulmonary disease (COPD) are common chronic respiratory diseases. Both diseases have incompletely distinct pathophysiology, clinical manifestation, and treatment responsiveness. Pulmonary and systemic inflammations are the hallmarks of COPD. Most asthma responds to inhaled corticosteroid (ICS) treatment. In contrast, COPD is a corticosteroid-resistant disease. Bronchodilators are a preferred treatment method of COPD, with the aim of improving symptoms and preventing exacerbation. In addition, corticosteroid insensitivity is an underlying mechanism in severe asthma. An overlap of features between asthma and COPD, which was described as asthma-COPD overlap syndrome (ACOS) is not uncommon in practice. Novel nonsteroidal therapies focusing on inflammation in asthma and COPD have been developed. Selective phosphodiesterase 4 (PDE4) inhibitor is a promising class of drugs that has been studied for the treatment of COPD. Selective PDE4 inhibitor is different from xanthine in terms of mechanisms and pharmacokinetic profiles. This review focuses on clinical data on PDE4 inhibitors and its future roles in asthma, COPD, bronchiectasis, ACOS and other chronic non-pulmonary diseases.",
+  "citation": null,
+  "doi": "10.21037/jtd.2017.03.116",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28523172/",
+  "pdf_url": null,
+  "year": 2017,
+  "authors": [
+    "Theerasuk Kawamatawong"
+  ],
+  "journal": "Journal of thoracic disease",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The abstract does not mention inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "This article discusses PDE4 inhibitors, focusing on their role in COPD and other airway diseases but does not address inhaled corticosteroids for bronchiectasis.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [
+    "Review"
+  ],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No specific information on inhaled corticosteroids for bronchiectasis is provided."
+  ]
+}

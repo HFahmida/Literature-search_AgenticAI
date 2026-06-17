@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "34616149",
+  "title": "The Effects of Inhaled Airway Directed Pharmacotherapy on Decline in Lung Function Parameters Among Indigenous Australian Adults With and Without Underlying Airway Disease.",
+  "abstract": "The trajectory of lung function decline among Indigenous patients with or without underlying chronic airway disease (COPD and concomitant bronchiectasis) and with use of inhaled pharmacotherapy, including inhaled corticosteroids (ICS), has not been reported in the past. Adult Indigenous Australian patients identified to have undergone at least two or more lung function tests (LFTs) between 2012 and 2020 were assessed for changes in the lung function parameters (LFPs) between the first and last recorded LFTs. Of the total 1350 patients identified to have undergone LFTs, 965 were assessed to fulfil session quality, 115 (n=58 females) were eligible to be included with two or more LFTs. Among the 115 patients, 49% showed radiological evidence of airway diseases, and 77% were on airway directed inhaled pharmacotherapy. Median time between LFTs was 1.5 years (IQR 0.86,5.85), with no significant differences in LFPs noted between first and last LFT. Overall rate of change (mL/year) showed considerable variation for FVC (median -37.55 mL/year [IQR -159.88,92.67]) and FEV1 (-18.74 mL/year [-102.49,71.44]) with minimal change in FEV1/FVC (0.00 ratio/year [-0.03,0.01]). When stratified by inhaled pharmacotherapy group, however, patients using ICS showed significantly greater rate of FEV1 decline (-48.64 mL/year [-110.18,62.5]) compared to those using pharmacotherapy with no ICS (15.46 mL/year [-73.5,74.62]) and those using no pharmacotherapy (-5.76 mL/year [-63.19,67.34]) (p=0.022). Additionally, a greater proportion of these patients reached the threshold for excessive FEV1 decline (64%) compared to those using pharmacotherapy without ICS (44%) and those using no pharmacotherapy (52%). Decline in LFPs occurs commonly among adult Indigenous population, especially, excessive so among those using inhaled pharmacotherapy containing ICS.",
+  "year": 2021,
+  "authors": [
+    "Subash S Heraganahally",
+    "Tarun R Ponneri",
+    "Timothy P Howarth",
+    "Helmi Ben Saad"
+  ],
+  "journal": "International journal of chronic obstructive pulmonary disease",
+  "doi": "10.2147/COPD.S328137",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34616149/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "34616149"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-06-16T23:29:55.773849+00:00",
+  "records_identified": {
+    "pubmed": 198
+  },
+  "duplicate_records_removed": 1,
+  "unique_records_screened": 197,
+  "reports_retrieved_or_abstract_only": 33,
+  "reports_excluded": 18,
+  "studies_included": 15,
+  "extraction_errors": 4
+}

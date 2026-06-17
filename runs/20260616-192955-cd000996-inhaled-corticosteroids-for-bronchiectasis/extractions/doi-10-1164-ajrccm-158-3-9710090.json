@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi:10.1164/ajrccm.158.3.9710090",
+  "source": "pubmed",
+  "source_id": "9730996",
+  "title": "Inhaled fluticasone reduces sputum inflammatory indices in severe bronchiectasis.",
+  "abstract": "Although corticosteroid therapy might be clinically beneficial for bronchiectasis, very little is known of its effects on the inflammatory and infective markers in bronchiectasis. We have therefore performed a double-blind, placebo-controlled study to evaluate the effects of a 4-wk administration of inhaled fluticasone in bronchiectasis. Twenty-four patients (12 female; mean age 51 yr) were randomized into receiving either inhaled fluticasone (500 microgram twice daily) via the Accuhaler device (n = 12) or placebo. At each visit, spirometry, 24-h sputum volume, sputum leukocyte density, bacterial densities, and concentrations of interleukin (IL)-1beta, IL-8, tumor necrosis factor-alpha (TNF-alpha), and leukotriene B4 (LTB4) were determined. There was a significant (p 0.05) or any reported adverse reactions in either group. The results of this study show that high-dose fluticasone is effective in reducing the sputum inflammatory indices in bronchiectasis. Large-scale and long-term studies are indicated to evaluate the effects of inhaled steroid therapy on the inflammatory components in bronchiectasis.",
+  "citation": null,
+  "doi": "10.1164/ajrccm.158.3.9710090",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9730996/",
+  "pdf_url": null,
+  "year": 1998,
+  "authors": [
+    "K W Tsang",
+    "P L Ho",
+    "W K Lam",
+    "M S Ip",
+    "K N Chan",
+    "C S Ho",
+    "C C Ooi",
+    "K Y Yuen"
+  ],
+  "journal": "American journal of respiratory and critical care medicine",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study evaluates the effects of inhaled fluticasone on bronchiectasis, which is relevant to the review objective.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This double-blind, placebo-controlled trial investigates the impact of high-dose inhaled fluticasone on sputum inflammatory indices in severe bronchiectasis patients.",
+  "detailed_summary": "The study found that inhaled fluticasone significantly reduced sputum inflammatory markers in severe bronchiectasis patients over a four-week period, suggesting potential benefits for managing the condition through corticosteroid therapy.",
+  "background_rationale": null,
+  "methods_summary": "A double-blind, placebo-controlled trial with 24 participants (12 receiving fluticasone and 12 receiving placebo) was conducted to assess the effects of inhaled fluticasone on sputum inflammatory indices over a four-week period.",
+  "results_summary": "Fluticasone treatment led to significant reductions in sputum leukocyte density, bacterial densities, and concentrations of IL-1beta, IL-8, TNF-alpha, and LTB4 compared to the placebo group.",
+  "conclusion_summary": "High-dose fluticasone is effective in reducing sputum inflammatory indices in severe bronchiectasis patients, indicating potential benefits for managing the condition through corticosteroid therapy.",
+  "relevance_to_review": "Clearly eligible",
+  "key_takeaways": [
+    "Inhaled fluticasone reduces sputum inflammatory markers in severe bronchiectasis patients.",
+    "Further large-scale and long-term studies are needed to evaluate the effects of inhaled steroid therapy on bronchiectasis."
+  ],
+  "objective": null,
+  "study_design": "Double-blind, placebo-controlled trial",
+  "population_or_sample": "24 patients with severe bronchiectasis (12 female; mean age 51 yr)",
+  "setting": null,
+  "intervention_or_exposure": "Inhaled fluticasone (500 microgram twice daily) via the Accuhaler device",
+  "comparator": "Placebo",
+  "methods": [
+    "Randomized controlled trial design",
+    "Double-blind study"
+  ],
+  "outcomes_measured": [
+    "Sputum leukocyte density",
+    "Bacterial densities",
+    "Concentrations of IL-1beta, IL-8, TNF-alpha, and LTB4"
+  ],
+  "main_results": [
+    "Significant reductions in sputum inflammatory markers with fluticasone treatment compared to placebo."
+  ],
+  "conclusions": [
+    "High-dose fluticasone is effective in reducing sputum inflammatory indices in severe bronchiectasis patients.",
+    "Further large-scale and long-term studies are indicated."
+  ],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "The results of this study show that high-dose fluticasone is effective in reducing the sputum inflammatory indices in bronchiectasis."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

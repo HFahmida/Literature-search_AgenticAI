@@ -1,0 +1,30 @@
+{
+  "source": "pubmed",
+  "source_id": "41375860",
+  "title": "Inhaled Corticosteroid Use and Risk of",
+  "abstract": "Background: Non-cystic fibrosis bronchiectasis (BE) is a chronic lung condition characterized by irreversible bronchial dilation and presented with persistent respiratory symptoms, recurrent respiratory infections, and decreased quality of life. Inhaled corticosteroids (ICSs) are frequently prescribed in patients with bronchiectasis, despite limited evidence supporting their clinical efficacy. Inhaled corticosteroids have been associated with increased risk of respiratory infection with Haemophilus influenzae (H. influenzae) in other groups of lung diseases. We aimed to evaluate the association between ICS use and the risk of isolating H. influenzae from lower respiratory tract samples in patients with bronchiectasis. Methods: A retrospective cohort study was conducted using data from 2010 to 2018, encompassing all patients diagnosed with bronchiectasis in outpatient clinics in Eastern Denmark. ICS use was standardized in budesonide equivalent doses and categorized in tertiles: low (<210 μg/day), moderate (211-625 μg/day), and high (≥626 μg/day) based on cumulative budesonide equivalent doses redeemed in the 12 months before cohort entry. The primary outcome was the first isolation of H. influenzae from lower respiratory tract samples post-cohort entry. Cox proportional hazards models, adjusted for relevant confounders, estimated hazard ratios (HRs), and inverse probability-of-treatment weighting (IPTW) was used in sensitivity analyses. Results: Among 3663 patients (mean age 66 years; 61% female), 2175 (59.4%) did not use ICS, while 484 (13.2%), 508 (13.9%), and 496 (13.5%) were in the low-, moderate-, and high-dose ICS groups, respectively. Furthermore, 594 (16.22%) patients had a lower respiratory tract culture positive for H. influenzae during follow-up. High-dose ICS use was associated with an increased risk of H. influenzae; HR 1.63 (95% Cl, 1.19 to 2.12, p < 0.005) compared with no ICS use. No association for low or moderate ICS use was found: low-dose ICS HR 0.75 (95% Cl, 0.52 to 1.07, p = 0.11) and moderate-dose ICS HR 1.27 (95% Cl, 0.93 to 1.72, p = 0.12). IPTW analysis confirmed the main finding. Conclusions: High-dose ICS use in patients with bronchiectasis was associated with an increased risk of acquiring H. influenzae in the lower respiratory tract. Hence, patients with bronchiectasis should be cautiously prescribed high-dose ICS.",
+  "year": 2025,
+  "authors": [
+    "Dil Afrose",
+    "Christian Philip Rønn",
+    "Josefin Eklöf",
+    "Anna Kubel Vognsen",
+    "Louise Lindhardt Tønnesen",
+    "Barbara Bonnesen Bertelsen",
+    "Jonas Bredtoft Boel",
+    "Christian Østergaard Andersen",
+    "Ram Benny Christian Dessau",
+    "Mette Pinholt",
+    "Jens-Ulrik Jensen",
+    "Pradeesh Sivapalan"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm14238557",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41375860/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41375860"
+  }
+}

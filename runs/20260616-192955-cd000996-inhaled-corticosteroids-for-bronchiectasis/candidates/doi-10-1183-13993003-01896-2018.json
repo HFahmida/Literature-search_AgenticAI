@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "31000676",
+  "title": "Comparative risks of chronic inhaled corticosteroids and macrolides for bronchiectasis.",
+  "abstract": "Non-cystic fibrosis (CF) bronchiectasis (\"bronchiectasis\") is a chronic airway disease for which little data exist to inform treatment decisions. We sought to compare the risks of respiratory infections in chronic users of inhaled corticosteroids (ICSs) versus macrolide monotherapy. We identified a cohort of US Medicare enrollees with a bronchiectasis diagnosis (International Classification of Diseases, Ninth Revision, Clinical Modification code 494.0 or 494.1) between 2006 and 2014, excluding CF. We defined chronic new use as the first ≥28-day prescription of ICS therapy or macrolide monotherapy. We compared the characteristics of the exposure cohorts using standardised mean differences (SMDs) and computed a propensity score (PS) to account for treatment differences. The risks of acute exacerbation, hospitalised respiratory infection, all-cause hospitalisation and mortality were compared using PS decile-adjusted Cox regression models. We identified 83 589 new users of ICSs and 6500 new users of macrolides from 285 043 included Medicare enrollees with bronchiectasis. The crude incidence of hospitalised respiratory infection was 12.6 (ICS therapy) and 10.3 (macrolide monotherapy) per 100 patient-years. The PS-adjusted HRs comparing ICS with macrolide new users were 1.39 (95% CI 1.23-1.57) for hospitalised respiratory infection, 1.56 (95% 1.49-1.64) for acute exacerbation and 1.09 (95% 0.95-1.25) for mortality. Among patients with bronchiectasis, the use of ICSs was associated with an increased risk of hospitalised respiratory infections compared with macrolide monotherapy.",
+  "year": 2019,
+  "authors": [
+    "Emily Henkle",
+    "Jeffrey R Curtis",
+    "Lang Chen",
+    "Benjamin Chan",
+    "Timothy R Aksamit",
+    "Charles L Daley",
+    "David E Griffith",
+    "Kevin L Winthrop"
+  ],
+  "journal": "The European respiratory journal",
+  "doi": "10.1183/13993003.01896-2018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31000676/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "31000676"
+  }
+}

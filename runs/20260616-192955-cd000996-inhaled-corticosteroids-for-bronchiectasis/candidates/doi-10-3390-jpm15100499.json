@@ -1,0 +1,28 @@
+{
+  "source": "pubmed",
+  "source_id": "41149860",
+  "title": "Inflammatory Phenotypes of Bronchiectasis.",
+  "abstract": "Bronchiectasis is a heterogeneous chronic airway disease traditionally viewed as neutrophil-driven. Emerging evidence demonstrates distinct complex inflammatory phenotypes influencing clinical outcomes, prognosis and therapeutic options. A narrative review was conducted, informed by a structured literature search on PubMed and Google Scholar databases, focusing on inflammatory phenotypes in bronchiectasis. Based on the prevalent cellular population, four distinct phenotypes can be described. The most common is the neutrophilic phenotype, which is associated with frequent Pseudomonas infection, severe disease, exacerbations and poor prognosis. Targeted novel-agents for this group such as brensocatib (neutrophil protease inhibition) emerge. The eosinophilic phenotype is defined by elevated blood or sputum eosinophils and is associated with FeNO, IL-5/IL-13 signaling, a possible response to inhaled corticosteroids and biologic agents. The mixed phenotype demonstrates dual neutrophilic and Th2 inflammation. Paucigranulocytic phenotypes remain poorly characterized but with distinct characteristics. Finally, dysregulation of macrophages and lymphocytes as inflammation mediators needs to be studied further. Recent advances have introduced a variety of therapeutic strategies targeting specific inflammatory pathways. Bronchiectasis has a spectrum of inflammatory phenotypes with distinct biological and clinical implications. Recognition and better understanding of inflammatory phenotypes in bronchiectasis may enable opportunities for personalized precision medicine through the transition from empirical management to biomarker-guided, personalized care.",
+  "year": 2025,
+  "authors": [
+    "Evangelia Koukaki",
+    "Georgia Papaiakovou",
+    "Argyri Klironomou",
+    "Efthymia Theofani",
+    "Andreas M Matthaiou",
+    "Adamantia Liapikou",
+    "Nektarios Anagnostopoulos",
+    "Grigorios Stratakos",
+    "Petros Bakakos",
+    "Nikoletta Rovina"
+  ],
+  "journal": "Journal of personalized medicine",
+  "doi": "10.3390/jpm15100499",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41149860/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41149860"
+  }
+}

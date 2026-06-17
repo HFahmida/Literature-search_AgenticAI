@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "38263115",
+  "title": "Clinical outcomes of long-term inhaled combination therapies in patients with bronchiectasis and airflow obstruction.",
+  "abstract": "Few studies have reported which inhaled combination therapy, either bronchodilators and/or inhaled corticosteroids (ICSs), is beneficial in patients with bronchiectasis and airflow obstruction. Our study compared the efficacy and safety among different inhaled combination therapies in patients with bronchiectasis and airflow obstruction. Our retrospective study analyzed the patients with forced expiratory volume in 1 s (FEV1)/forced vital capacity < 0.7 and radiologically confirmed bronchiectasis in chest computed tomography between January 2005 and December 2021. The eligible patients underwent baseline and follow-up spirometric assessments. The primary endpoint was the development of a moderate-to-severe exacerbation. The secondary endpoints were the change in the annual FEV1 and the adverse events. Subgroup analyses were performed according to the blood eosinophil count (BEC). Among 179 patients, the ICS/long-acting beta-agonist (LABA)/long-acting muscarinic antagonist (LAMA), ICS/LABA, and LABA/LAMA groups were comprised of 58 (32.4%), 52 (29.1%), and 69 (38.5%) patients, respectively. ICS/LABA/LAMA group had a higher severity of bronchiectasis and airflow obstruction, than other groups. In the subgroup with BEC ≥ 300/uL, the risk of moderate-to-severe exacerbation was lower in the ICS/LABA/LAMA group (adjusted HR = 0.137 [95% CI = 0.034-0.553]) and the ICS/LABA group (adjusted HR = 0.196 [95% CI = 0.045-0.861]) compared with the LABA/LAMA group. The annual FEV1 decline rate was significantly worsened in the ICS/LABA group compared to the LABA/LAMA group (adjusted β-coefficient=-197 [95% CI=-307--87]) in the subgroup with BEC < 200/uL. In patients with bronchiectasis and airflow obstruction, the use of ICS/LABA/LAMA and ICS/LABA demonstrated a reduced risk of exacerbation compared to LABA/LAMA therapy in those with BEC ≥ 300/uL. Conversely, for those with BEC < 200/uL, the use of ICS/LABA was associated with an accelerated decline in FEV1 in comparison to LABA/LAMA therapy. Further assessment of BEC is necessary as a potential biomarker for the use of ICS in patients with bronchiectasis and airflow obstruction.",
+  "year": 2024,
+  "authors": [
+    "Hyo Jin Lee",
+    "Jung-Kyu Lee",
+    "Tae Yeon Park",
+    "Eun Young Heo",
+    "Deog Kyeom Kim",
+    "Hyun Woo Lee"
+  ],
+  "journal": "BMC pulmonary medicine",
+  "doi": "10.1186/s12890-024-02867-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38263115/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "38263115"
+  }
+}

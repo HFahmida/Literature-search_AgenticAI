@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "36159655",
+  "title": "Radiographic Phenotypes Affect the Risk of Inhaled Corticosteroid-Associated Pneumonia in Patients with COPD.",
+  "abstract": "Few studies have reported the association between the radiographic characteristics and the development of pneumonia in patients with chronic obstructive pulmonary disease (COPD) treated with inhaled corticosteroids (ICSs). Our study aimed to assess the effect of radiographic phenotypes on the risk of pneumonia in patients treated with ICSs. This study retrospectively analysed all patients with COPD treated with ICSs in a subset of the Korea Chronic Obstructive Pulmonary Disorders Subgroup Study registry between January 2017 and December 2019. The association between radiographic phenotypes including the presence and severity of emphysema, airway wall thickening, or bronchiectasis on chest computed tomography were determined visually/qualitatively and the risk of pneumonia was analyzed using the Cox regression model. Among the 90 patients with COPD treated with ICSs, 41 experienced pneumonia more than once during the median follow-up of 29 (interquartile range, 8-35) months. In univariate Cox regression analysis, older age, longer use of ICSs, use of fluticasone propionate or metered dose inhaler, and severe exacerbation events increased the risk of pneumonia. In multivariate analysis, the presence of emphysema (adjusted hazard ratio [aHR]=3.73, P=0.033), severity measured using the visual sum score (mild-to-moderate, aHR=8.58, P=0.016; severe, aHR=3.58, P=0.042), Goddard sum score (mild-to-moderate, aHR=3.31, P=0.058; severe, aHR=5.38, P=0.014), and the upper lobe distribution of emphysema (aHR=3.76, P=0.032) were associated with a higher risk of pneumonia. Subtypes of centrilobular and panlobular emphysema had a higher risk of pneumonia compared with paraseptal emphysema (aHR=3.98, P=0.033; HR=3.91, P=0.041 vs HR=2.74, P=0.304). The presence of bronchiectasis (aHR=2.41, P=0.02) and emphysema/bronchiectasis overlap phenotype (aHR=2.19, P=0.053) on chest CT was a risk factor for pneumonia in this population. However, severity of bronchiectasis and the presence or severity of bronchial wall thickening according to the visual sum score were not associated with the risk of pneumonia. Among patients with COPD treated with ICSs, radiographic phenotypes including the presence of emphysema, bronchiectasis or emphysema/bronchiectasis overlap phenotype, severity with emphysema, subtypes of centrilobular or panlobular emphysema, and upper lobe distribution of emphysema may help predict the risk of pneumonia.",
+  "year": 2022,
+  "authors": [
+    "Hyo Jin Lee",
+    "Kwang Nam Jin",
+    "Hyun Woo Lee",
+    "Jung-Kyu Lee",
+    "Tae Yeon Park",
+    "Eun Young Heo",
+    "Deog Kyeom Kim"
+  ],
+  "journal": "International journal of chronic obstructive pulmonary disease",
+  "doi": "10.2147/COPD.S372735",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36159655/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36159655"
+  }
+}

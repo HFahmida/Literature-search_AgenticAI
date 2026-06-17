@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "38448862",
+  "title": "Hospital admission rates and related outcomes among adult Aboriginal australians with bronchiectasis - a ten-year retrospective cohort study.",
+  "abstract": "This study assessed hospitalisation frequency and related clinical outcomes among adult Aboriginal Australians with bronchiectasis over a ten-year study period. This retrospective study included patients aged ≥ 18 years diagnosed with bronchiectasis between 2011 and 2020 in the Top End, Northern Territory of Australia. Hospital admissions restricted to respiratory conditions (International Classification of Diseases (ICD) code J) and relevant clinical parameters were assessed and compared between those with and without hospital admissions. Of the 459 patients diagnosed to have bronchiectasis, 398 (87%) recorded at least one respiratory related (ICD-J code) hospitalisation during the 10-year window. In comparison to patients with a recorded hospitalisation against those without-hospitalised patients were older (median 57 vs 53 years), predominantly females (54 vs 46%), had lower body mass index (23 vs 26 kg/m2) and had greater concurrent presence of chronic obstructive pulmonary disease (COPD) (88 vs 47%), including demonstrating lower spirometry values (forced vital capacity (FVC) and forced expiratory volume in 1 s (FEV1) (median FVC 49 vs 63% & FEV1 36 vs 55% respectively)). The total hospitalisations accounted for 3,123 admissions (median 4 per patient (IQR 2, 10)), at a median rate of 1 /year (IQR 0.5, 2.2) with a median length of 3 days (IQR 1, 6). Bronchiectasis along with COPD with lower respiratory tract infection (ICD code-J44) was the most common primary diagnosis code, accounting for 56% of presentations and 46% of days in hospital, which was also higher for patients using inhaled corticosteroids (81 vs 52%, p = 0.007). A total of 114 (29%) patients were recorded to have had an ICU admission, with a higher rate, including longer hospital stay among those patients with bronchiectasis and respiratory failure related presentations (32/35, 91%). In multivariate regression model, concurrent presence of COPD or asthma alongside bronchiectasis was associated with shorter times between subsequent hospitalisations (-423 days, p = 0.007 & -119 days, p = 0.02 respectively). Hospitalisation rates among adult Aboriginal Australians with bronchiectasis are high. Future interventions are required to explore avenues to reduce the overall morbidity associated with bronchiectasis among Aboriginal Australians.",
+  "year": 2024,
+  "authors": [
+    "Timothy Howarth",
+    "Claire Gibbs",
+    "Subash S Heraganahally",
+    "Asanga Abeyaratne"
+  ],
+  "journal": "BMC pulmonary medicine",
+  "doi": "10.1186/s12890-024-02909-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38448862/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "38448862"
+  }
+}

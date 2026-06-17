@@ -1,0 +1,31 @@
+{
+  "source": "pubmed",
+  "source_id": "39200899",
+  "title": "Therapeutic Management of Bronchiectasis in Children and Adolescents: A Concise Narrative Review.",
+  "abstract": "Introduction: Bronchiectasis, characterized by airway dilation, mucus hypersecretion, and recurrent exacerbations, is increasingly recognized in children and adolescents. Recent guidelines from the European Respiratory Society (ERS) and Thoracic Society of Australia and New Zealand (TSANZ) emphasize early diagnosis and optimized management. This review explores therapeutic strategies for pediatric bronchiectasis. Materials and methods: Our review involved a comprehensive search of English-language literature in the PubMed and EMBASE databases until December 2023, focusing on observational studies, interventions, reviews, and guidelines in pediatric bronchiectasis. Results: Management strategies encompass airway clearance techniques, mucoactive agents, pulmonary rehabilitation, bronchodilators and inhaled corticosteroids tailored to individual needs and age-appropriate techniques. Antibiotics play key roles in preventing exacerbations, eradicating pathogens, and managing acute exacerbations, which are guided by culture sensitivities and symptoms. Long-term antibiotic prophylaxis, particularly macrolides, aims to reduce exacerbations, although concerns about antibiotic resistance persist. Vaccinations, including pneumococcal and influenza vaccines, are crucial for preventing infections and complications. Surgery and lung transplantation are reserved to severe, refractory cases after failure of medical therapies. Conclusions: The optimal management of pediatric bronchiectasis requires a multidisciplinary approach, including physiotherapy, pharmacotherapy, and vaccinations, tailored to individual needs and guided by evidence-based guidelines. Further research is needed to refine diagnostic and therapeutic strategies and improve outcomes for affected children and adolescents.",
+  "year": 2024,
+  "authors": [
+    "Paola Faverio",
+    "Giovanni Franco",
+    "Valentina Landoni",
+    "Marta Nadalin",
+    "Davide Negri",
+    "Alessandro Tagliabue",
+    "Federica Acone",
+    "Francesca Cattaneo",
+    "Filippo Cipolla",
+    "Chiara Vimercati",
+    "Stefano Aliberti",
+    "Andrea Biondi",
+    "Fabrizio Luppi"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm13164757",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39200899/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "39200899"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "31117850",
+  "title": "Blood Eosinophil Counts, Withdrawal of Inhaled Corticosteroids and Risk of COPD Exacerbations and Mortality in the Clinical Practice Research Datalink (CPRD).",
+  "abstract": "Although recently introduced in the pharmacological treatment algorithm of chronic obstructive pulmonary disease (COPD), there is a need for more data supporting the use of blood eosinophil counts as a biomarker to guide inhaled corticosteroids (ICS) therapy. The aim of this study was to evaluate the risk of moderate and/or severe exacerbations and all-cause mortality in a large primary care population after withdrawal of ICS compared to continued users stratified by elevated blood eosinophil counts. In this population based cohort study, we used data from the Clinical Practice Research Datalink (CPRD) in the United Kingdom. We included subjects' aged 40 years or more who had a diagnosis of COPD. We excluded subjects with a history of asthma, pulmonary fibrosis, cardiac arrhythmia and bronchiectasis, COPD exacerbations occurring within 6 weeks prior to index date, or with a myocardial infarction within 3 months prior to index date. Continuous users were subjects who received their most recent ICS prescription within 3 months before the start of an interval. ICS withdrawals were those who discontinued ICS for more than 3 months. We evaluated the risk of moderate and/or severe exacerbations and all-cause mortality among subjects with various blood eosinophil thresholds who withdrew from ICS compared to continuous ICS users with elevated blood eosinophil levels using Cox regression analysis adjusted for potential confounders. We identified 48,157 subjects diagnosed with COPD between 1 January 2005 to 31 January 2014. Withdrawal of ICS was not associated with an increased risk of moderate-to-severe exacerbations among subjects with absolute blood eosinophil counts ≥0.34 × 109 cells/L [adjusted hazard ratio (adj. HR) 0.72; 95% confidence interval (CI) 0.63-0.81] or relative counts ≥ 4.0% (adj. HR 0.72; 95% CI: 0.66-0.78). Similarly, withdrawal of ICS was not associated with an increased risk of severe exacerbations among subjects with absolute blood eosinophil ≥0.34 × 109 cells/L (adj. HR 0.82; 95% CI: 0.61-1.10) or relative blood eosinophil counts ≥4.0% (adj. HR 0.80; 95% CI: 0.61-1.04). No increased risk of all-cause mortality was observed among subjects who withdrew from ICS irrespective of elevated absolute or relative blood eosinophil counts. In a real-world primary care population, we did not observe an increased risk of moderate and/or severe COPD exacerbations or all-cause mortality among subjects with eosinophilia who withdrew their use of ICS.",
+  "year": 2019,
+  "authors": [
+    "Olorunfemi A Oshagbemi",
+    "Frits M E Franssen",
+    "Suzanne van Kraaij",
+    "Dionne C W Braeken",
+    "Emiel F M Wouters",
+    "Anke H Maitland-van der Zee",
+    "Johanna H M Driessen",
+    "Frank de Vries"
+  ],
+  "journal": "COPD",
+  "doi": "10.1080/15412555.2019.1608172",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31117850/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "31117850"
+  }
+}

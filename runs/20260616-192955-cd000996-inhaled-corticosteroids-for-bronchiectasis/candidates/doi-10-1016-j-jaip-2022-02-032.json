@@ -1,0 +1,27 @@
+{
+  "source": "pubmed",
+  "source_id": "35272071",
+  "title": "Risk Factors for Persistent Chronic Cough During Consecutive Years: A Retrospective Database Analysis.",
+  "abstract": "The identification of patients at high risk for diseases provides clinicians essential information to better manage such patients. Persistent chronic cough (PCC) is a condition with high clinical burden and limited knowledge of the risk factors that drive the persistent symptoms. To understand the risk factors of PCC in patients with CC diagnosed by specialists. In this retrospective study, adults aged 18 to 85 years diagnosed with CC by a pulmonologist, allergist, otolaryngologist, or gastroenterologist in the period 2011 to 2016 were identified. PCC was defined by another CC code or at least 2 cough events at least 8 weeks but no more than 4 months apart in each of the 2 consecutive years beginning 1 year after the original CC diagnosis. Unadjusted and adjusted risk ratios with 95% CI for patient characteristics at baseline in relationship to PCC were estimated by Poisson regression models with robust error variance. Of the adults with CC, 3270 (27.4%) had PCC and 5302 (44.5%) did not have CC during follow-up; 3341 (28.1%) had CC in only 1 follow-up year and were excluded from the analysis. Compared with patients without PCC, patients with PCC were noted to have significantly increased adjusted risk ratios for the following baseline features: (1) demographic characteristics (elderly, females, and less educated); (2) comorbidities (chronic obstructive pulmonary disease, chronic sinusitis, bronchiectasis, pulmonary fibrosis, hypertension, depression, and cough complications); (3) medication dispensed (inhaled corticosteroids/long-acting beta-agonists, leukotriene modifiers, nasal corticosteroids, nasal short-acting muscarinic antagonists, proton pump inhibitors, antitussives with narcotics, and neuromodulators); and (4) specialist care, particularly with pulmonologists. Knowledge of the independent risk factors associated with PCC should aid clinicians in identifying such patients and improve their management.",
+  "year": 2022,
+  "authors": [
+    "Robert S Zeiger",
+    "Michael Schatz",
+    "Yichen Zhou",
+    "Fagen Xie",
+    "Vishal Bali",
+    "Jonathan Schelfhout",
+    "Amar Das",
+    "Julie A Stern",
+    "Wansu Chen"
+  ],
+  "journal": "The journal of allergy and clinical immunology. In practice",
+  "doi": "10.1016/j.jaip.2022.02.032",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35272071/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "35272071"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "pubmed",
+  "source_id": "36878611",
+  "title": "Exploring the appropriateness of prescribing practice of inhaled pharmacotherapy among Aboriginal Australians in the Top End Northern Territory of Australia: a retrospective cohort study.",
+  "abstract": "Aboriginal Australians are reported to have a high burden of chronic airway diseases. However, prescribing patterns and related outcomes of airway directed inhaled pharmacotherapy, (short-acting beta agonists (SABA), short-acting muscarinic antagonists (SAMA), long-acting β-agonists (LABA), long-acting muscarinic antagonists (LAMA) and inhaled corticosteroids (ICS)) among Aboriginal Australian patients with chronic airway disease have been sparsely reported in the past. A retrospective cohort study was conducted, using clinical, spirometry data, chest radiology, primary healthcare (PHC) presentations and hospital admission rates among Aboriginal patients identified to have been prescribed inhaled pharmacotherapy in remote and rural communities referred to the respiratory specialist service in the Top End, Northern Territory of Australia. Of the 372 identified active patients, 346 (93%) had inhaled pharmacotherapy prescribed (64% female, median age 57.7 years). ICS was the most common prescription (72% of the total cohort) and was recorded to be prescribed in 76% of patients with bronchiectasis, and 80% of patients with asthma or chronic obstructive pulmonary disease (COPD). Fifty-eight percent of patients had a respiratory hospital admission and 57% had a recorded PHC presentation for a respiratory issue during the study period, with a higher rate of hospital admissions among patients prescribed ICS compared with those on SAMA/SABA or LAMA/LABA without ICS (median rate (per person per year) 0.42 vs 0.21 and 0.21 (p=0.004). Regression models demonstrated that presence of COPD or bronchiectasis alongside ICS was associated with significantly increased hospitalisation rates (1.01 admissions/person/year (95% CI 0.15 to 1.87) and 0.71 admissions/person/year (95% CI 0.23 to 1.18) against patients without COPD/bronchiectasis, respectively). This study demonstrates that among Aboriginal patients with chronic airway diseases, ICS is the most common inhaled pharmacotherapy prescribed. Although LAMA/LABA and concurrent ICS use may be appropriate among patients with asthma and COPD, the use of ICS may have detrimental effects among those with underlying bronchiectasis either in isolation or concurrent COPD and bronchiectasis, potentially leading to higher hospital admission rates.",
+  "year": 2023,
+  "authors": [
+    "Subash Heraganahally",
+    "Timothy P Howarth",
+    "Siji Issac",
+    "Angus Lloyd",
+    "Shiidheshwar J Ravichandran",
+    "Asanga Abeyaratne",
+    "Bhavini Patel"
+  ],
+  "journal": "BMJ open respiratory research",
+  "doi": "10.1136/bmjresp-2022-001508",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36878611/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36878611"
+  }
+}

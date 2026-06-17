@@ -1,0 +1,20 @@
+{
+  "source": "pubmed",
+  "source_id": "41593454",
+  "title": "Anti-inflammatory therapies for bronchiectasis.",
+  "abstract": "Bronchiectasis is a condition that is characterized by chronic airway inflammation and usually infection, resulting in progressive airway damage. It results in a significant symptom burden and impacts both clinical and socioeconomic aspect of a patient's life. This review will detail anti-inflammatory treatment options for bronchiectasis, their benefits and possible side effects. Inflammation is the main driver of bronchiectasis disease progression and has been the focus of research for many years. Inhaled corticosteroids, though not routinely recommended in guidelines, are still commonly used even in patients without other indication for treatment such as asthma, chronic obstructive pulmonary disease (COPD) and allergic bronchopulmonary aspergillosis (ABPA), despite their association with some worsened outcomes. Macrolides, on the other hand, have been shown to decrease frequency of exacerbation and improve quality of life. The dipeptidyl peptidase-1 inhibitor, brensocatib, inhibits activation of neutrophil serine proteases, including neutrophil elastase. In a phase 3 trial, brensocatib decreased the frequency of exacerbation, delayed time to first exacerbation, slowed the decline in lung function and improved quality of life. It recently became the first pharmacologic treatment approved by the U.S. Food and Drug Administration (FDA) for the treatment of bronchiectasis. Other treatment options are being investigated. Anti-inflammatory therapy is one of the integral components of treatment for people with bronchiectasis.",
+  "year": 2026,
+  "authors": [
+    "Jennifer Bautista",
+    "Mark L Metersky"
+  ],
+  "journal": "Current opinion in infectious diseases",
+  "doi": "10.1097/QCO.0000000000001186",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41593454/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41593454"
+  }
+}

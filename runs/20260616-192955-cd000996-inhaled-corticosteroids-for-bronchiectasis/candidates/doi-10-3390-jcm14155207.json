@@ -1,0 +1,31 @@
+{
+  "source": "pubmed",
+  "source_id": "40806828",
+  "title": "Inhaled Corticosteroids and Risk of",
+  "abstract": "Objectives: Non-cystic fibrosis bronchiectasis (BE) is a chronic airway disease with increasing prevalence, reduced quality of life, and increased mortality. Inhaled corticosteroids (ICS) are used in BE despite limited evidence of effect on lung function parameters. ICS may increase the risk of Staphylococcus aureus (S. aureus) infections in patients with BE, but this is unexplored. We examined the association between ICS use prior to BE diagnosis at different doses and the risk of S. aureus isolation in patients with BE. Methods: We conducted a national register-based cohort study including Danish patients with a BE diagnosis code between 2001 and 2018 with a 1-year follow-up time from the date of diagnosis. ICS exposure was categorized based on accumulated prescriptions redeemed 365 days before BE diagnosis and divided into none, low, moderate, or high use based on clinically relevant doses. A cause-specific Cox proportional hazards regression model was used to estimate the risk of S. aureus isolation. A sensitivity analysis, an inverse probability of treatment weighted model (IPTW), was performed. Results: A total of 5093 patients were included in this study. S. aureus was isolated in 156 patients (3.1%). High-dose ICS was associated with an increased risk of S. aureus isolation, HR 3.81 (95% CI 2.51; 5.79). No association for low or moderate use was found, low-dose HR 1.22 (95% CI 0.77; 1.93), and moderate-dose HR 1.24 (95% CI 0.72; 2.16). IPTW analysis yielded similar results. Conclusions: High-dose ICS use in patients with BE was associated with an increased risk of S. aureus isolation. ICS should be used cautiously in patients with BE.",
+  "year": 2025,
+  "authors": [
+    "Andrea Arlund Filipsen",
+    "Karen Hougaard Frost",
+    "Josefin Eklöf",
+    "Louise Lindhardt Tønnesen",
+    "Anna Kubel Vognsen",
+    "Jonas Bredtoft Boel",
+    "Mette Pinholt",
+    "Christian Østergaard Andersen",
+    "Ram Benny Christian Dessau",
+    "Tor Biering-Sørensen",
+    "Sofie Lock Johansson",
+    "Jens-Ulrik Jensen",
+    "Pradeesh Sivapalan"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm14155207",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40806828/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "40806828"
+  }
+}

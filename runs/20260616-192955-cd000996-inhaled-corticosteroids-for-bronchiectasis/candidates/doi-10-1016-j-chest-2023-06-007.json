@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "37419145",
+  "title": "The Effect of Inhaled Corticosteroids on Pneumonia Risk in Patients With COPD-Bronchiectasis Overlap: A UK Population-Based Case-Control Study.",
+  "abstract": "Inhaled corticosteroids (ICS) increase the risk of pneumonia in COPD and commonly are used in patients with COPD-bronchiectasis overlap. Is the risk of pneumonia associated with ICS further heightened in COPD-bronchiectasis? Electronic health care records (from 2004-2019) were used to obtain a cohort of patients with COPD and a nested case-control group (age and sex matched 1:4). Analyses were conducted to determine the risk of hospitalization for pneumonia in COPD associated with ICS use in those with bronchiectasis. Findings were confirmed by several sensitivity analyses. Additionally, a smaller nested case-control group containing only patients with COPD-bronchiectasis overlap and those with recent blood eosinophil counts (BECs) was used to determine any association with BEC. Three hundred sixteen thousand six hundred sixty-three patients were eligible for the COPD cohort; bronchiectasis significantly increased the risk of pneumonia (adjusted hazard ratio, 1.24; 95% CI, 1.15-1.33). In the first nested case-control group of 84,316 patients with COPD, ICS was found to increase the odds of pneumonia (adjusted OR [AOR], 1.26; 95% CI, 1.19-1.32) only if used in the previous 180 days. However, bronchiectasis was a significant modifier such that ICS use did not augment further the already elevated bronchiectasis-associated pneumonia risk (COPD-bronchiectasis: AOR, 1.01; 95% CI, 0.8-1.28; no bronchiectasis: AOR, 1.27; 95% CI, 1.20-1.34). Several sensitivity analyses and a second smaller nested case-control group confirmed these findings. Finally, we found that BEC modified the ICS-associated pneumonia risk in COPD-bronchiectasis overlap, where lower BEC was associated significantly with pneumonia (BEC ≤ 3 × 109/L: AOR, 1.56; 95% CI, 1.05-2.31; BEC > 3 × 109/L: AOR, 0.89; 95% CI, 0.53-1.24). ICS use does not augment further the already increased risk of hospitalization for pneumonia associated with concomitant bronchiectasis in patients with COPD.",
+  "year": 2023,
+  "authors": [
+    "Andrew I Ritchie",
+    "Aran Singayagam",
+    "Sebastian Mitchell",
+    "Jadwiga A Wedzicha",
+    "Anand Shah",
+    "Chloë I Bloom"
+  ],
+  "journal": "Chest",
+  "doi": "10.1016/j.chest.2023.06.007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37419145/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "37419145"
+  }
+}

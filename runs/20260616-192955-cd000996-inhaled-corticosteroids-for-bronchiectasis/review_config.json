@@ -1,0 +1,46 @@
+{
+  "topic": "CD000996: Inhaled corticosteroids for bronchiectasis",
+  "review_question": "Identify studies relevant to this CLEF TAR topic: Inhaled corticosteroids for bronchiectasis\n\nOriginal CLEF query:\nexp Bronchiectasis/ bronchiect*.ti,ab (1 OR 2) exp Adrenal Cortex Hormones/ steroid*.ti,ab corticosteroid*.ti,ab glucocorticoid*.ti,ab beclomet*.ti,ab fluticasone.ti,ab ciclesonide.ti,ab flunisolide.ti,ab triamcinolone.ti,ab (4 OR 5 OR 6 OR 7 OR 8 OR 9 OR 10 OR 11 OR 12 OR 12) (3 AND 13) ((randomized controlled trial or controlled clinical trial).pt. or drug therapy.fs. or (randomized or randomised or placebo or randomly or trial or groups).ab.) not (exp animals/ not humans/) 14 AND 15 limit 16 to ed =\"19480101-20170630\"",
+  "run_label": "CD000996",
+  "search_terms": [
+    "Inhaled corticosteroids for bronchiectasis"
+  ],
+  "inclusion_criteria": [
+    "Studies matching the review objective."
+  ],
+  "exclusion_criteria": [
+    "Studies not matching the review objective.",
+    "Records without enough bibliographic information for screening."
+  ],
+  "databases": [
+    "pubmed"
+  ],
+  "max_results_per_source": 200,
+  "max_papers_to_extract": 50,
+  "min_relevance_score": 2,
+  "extract_full_text_when_pdf_available": true,
+  "output_dir": "runs",
+  "llm_provider": "ollama",
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "extract_model": "qwen2.5:7b",
+  "draft_model": "qwen2.5:7b",
+  "use_pubmedbert_ranking": true,
+  "pubmedbert_model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "max_ranked_candidates": 100,
+  "extraction_detail_instructions": [
+    "Screen the abstract against the systematic review eligibility criteria.",
+    "Extract PICO-style information where available: population, intervention or exposure, comparator, outcomes, study design, and main findings.",
+    "Flag abstract-limited evidence in missing_information rather than inventing details."
+  ],
+  "custom_extraction_questions": [
+    "Does this article match the review objective?",
+    "What population or sample is studied?",
+    "What intervention, exposure, or comparison is evaluated?",
+    "What outcomes are measured?",
+    "What result details are available in the abstract?"
+  ],
+  "draft_during_extraction": false,
+  "draft_manuscript": false,
+  "draft_interval_seconds": 120,
+  "concurrency": 1
+}

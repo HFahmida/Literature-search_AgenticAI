@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "41421559",
+  "title": "Bronchiectasis and treatable traits: the journey from concept to clinical practice.",
+  "abstract": "Bronchiectasis is a chronic and heterogeneous airway disease characterized by abnormal bronchial dilation, impaired mucus clearance, and recurrent infections. Despite advances in understanding its pathophysiology, current treatment strategies are still limited. Treatable traits (TT) approach, initially proposed for other chronic airway diseases such as Chronic Obstructive Pulmonary Disease and asthma, offers a precision medicine strategy focused on identifying and targeting clinically relevant, measurable, and modifiable traits. We conducted a comprehensive update on the TT framework in bronchiectasis by searching on PubMed the recent literature until July 1, 2025, including clinical and translational studies and drawing comparisons with other pulmonary diseases. Historically, TT in bronchiectasis have been classified into pulmonary, extrapulmonary, etiological, and lifestyle domains. We reviewed diagnostic and monitoring tools, as well as biological pathways and emerging treatments as part of the TT framework. Multiple traits, including daily sputum production, chronic infection, frequent exacerbations, T2-high inflammation, and comorbidities, coexist in most patients. Available treatments, such as antibiotics, airway bronchodilators, inhaled corticosteroids, chest physiotherapy and pulmonary rehabilitation, can address some traits, but evidence remains limited. Emerging therapies mainly targeting neutrophilic pathways represent promising avenues for selected endotypes. However, challenges persist in prioritizing traits, managing complex interventions, and designing clinical trials that balance scientific rigor with real-life complexity. The TT approach represents a paradigm shift toward precision medicine in bronchiectasis, with potential to improve patient-centered outcomes and prognosis. Future research should focus on validating this strategy through dedicated clinical studies always considering patient preferences and treatment goals.",
+  "year": 2026,
+  "authors": [
+    "Pau Marrades",
+    "Alessandro De Angelis",
+    "Alessandra Iorfida",
+    "Lidia Perea",
+    "Antonio Voza",
+    "Stefano Aliberti",
+    "James D Chalmers",
+    "Oriol Sibila"
+  ],
+  "journal": "Respiratory medicine",
+  "doi": "10.1016/j.rmed.2025.108593",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41421559/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41421559"
+  }
+}

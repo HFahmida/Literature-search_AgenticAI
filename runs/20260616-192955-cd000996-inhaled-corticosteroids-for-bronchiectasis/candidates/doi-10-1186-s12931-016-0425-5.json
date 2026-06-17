@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "27613392",
+  "title": "Pharmacological strategies to reduce exacerbation risk in COPD: a narrative review.",
+  "abstract": "Identifying patients at risk of exacerbations and managing them appropriately to reduce this risk represents an important clinical challenge. Numerous treatments have been assessed for the prevention of exacerbations and their efficacy may differ by patient phenotype. Given their centrality in the treatment of COPD, there is strong rationale for maximizing bronchodilation as an initial strategy to reduce exacerbation risk irrespective of patient phenotype. Therefore, in patients assessed as frequent exacerbators (>1 exacerbation/year) we propose initial bronchodilator treatment with a long-acting muscarinic antagonist (LAMA)/ long-acting β2-agonist (LABA). For those patients who continue to experience >1 exacerbation/year despite maximal bronchodilation, we advocate treating according to patient phenotype. Based on currently available data on adding inhaled corticosteroids (ICS) to a LABA, ICS might be added to a LABA/LAMA combination in exacerbating patients who have an asthma-COPD overlap syndrome or high blood eosinophil counts, while in exacerbators with chronic bronchitis, consideration should be given to treating with a phosphodiesterase (PDE)-4 inhibitor (roflumilast) or high-dose mucolytic agents. For those patients who experience frequent bacterial exacerbations and/or bronchiectasis, addition of mucolytic agents or a macrolide antibiotic (e.g. azithromycin) should be considered. In all patients at risk of exacerbations, pulmonary rehabilitation should be included as part of a comprehensive management plan.",
+  "year": 2016,
+  "authors": [
+    "Marc Miravitlles",
+    "Anthony D'Urzo",
+    "Dave Singh",
+    "Vladimir Koblizek"
+  ],
+  "journal": "Respiratory research",
+  "doi": "10.1186/s12931-016-0425-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27613392/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "27613392"
+  }
+}

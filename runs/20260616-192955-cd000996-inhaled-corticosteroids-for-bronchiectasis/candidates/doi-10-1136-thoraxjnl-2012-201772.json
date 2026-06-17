@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "22781123",
+  "title": "Chronic respiratory disease, inhaled corticosteroids and risk of non-tuberculous mycobacteriosis.",
+  "abstract": "Chronic respiratory disease and inhaled corticosteroid (ICS) therapy for chronic obstructive pulmonary disease (COPD) increase the risk of pneumonia. Few data are available on the association of these risk factors with non-tuberculous mycobacterial (NTM) pulmonary disease. This study examined chronic respiratory diseases and ICS use as risk factors in a population-based case-control study encompassing all adults in Denmark with microbiologically confirmed NTM pulmonary disease between 1997 and 2008. The study included 10 matched population controls per case. Conditional logistic regression was used to compute adjusted ORs for NTM pulmonary disease with regard to chronic respiratory disease history. Overall, chronic respiratory disease was associated with a 16.5-fold (95% CI 12.2 to 22.2) increased risk of NTM pulmonary disease. The adjusted OR for NTM disease was 15.7 (95% CI 11.4 to 21.5) for COPD, 7.8 (95% CI 5.2 to 11.6) for asthma, 9.8 (95% CI 2.03 to 52.8) for pneumoconiosis, 187.5 (95% CI 24.8 to 1417.4) for bronchiectasis, and 178.3 (95% CI 55.4 to 574.3) for tuberculosis history. ORs were 29.1 (95% CI 13.3 to 63.8) for patients with COPD on current ICS therapy and 7.6 (95% CI 3.4 to 16.8) for patients with COPD who had never received ICS therapy. Among patients with COPD, ORs increased according to ICS dose, from 28.1 for low-dose intake to 47.5 for high-dose intake (more than 800 μg/day). The OR was higher for fluticasone than for budesonide. Chronic respiratory disease, particularly COPD treated with ICS therapy, is a strong risk factor for NTM pulmonary disease.",
+  "year": 2013,
+  "authors": [
+    "Claire Andréjak",
+    "Rikke Nielsen",
+    "Vibeke Ø Thomsen",
+    "Pierre Duhaut",
+    "Henrik Toft Sørensen",
+    "Reimar Wernich Thomsen"
+  ],
+  "journal": "Thorax",
+  "doi": "10.1136/thoraxjnl-2012-201772",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22781123/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "22781123"
+  }
+}

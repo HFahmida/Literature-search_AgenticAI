@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "36543714",
+  "title": "Anti-inflammatory effects of medications used for viral infection-induced respiratory diseases.",
+  "abstract": "Respiratory viruses like rhinovirus, influenza virus, respiratory syncytial virus, and coronavirus cause several respiratory diseases, such as bronchitis, pneumonia, pulmonary fibrosis, and coronavirus disease 2019, and exacerbate bronchial asthma, chronic obstructive pulmonary disease, bronchiectasis, and diffuse panbronchiolitis. The production of inflammatory mediators and mucin and the accumulation of inflammatory cells have been reported in patients with viral infection-induced respiratory diseases. Interleukin (IL)-1β, IL-6, IL-8, tumor necrosis factor-α, granulocyte-macrophage colony-stimulating factor, and regulated on activation normal T-cell expressed and secreted are produced in the cells, including human airway and alveolar epithelial cells, partly through the activation of toll-like receptors, nuclear factor kappa B and p44/42 mitogen-activated protein kinase. These mediators are associated with the development of viral infection-induced respiratory diseases through the induction of inflammation and injury in the airway and lung, airway remodeling and hyperresponsiveness, and mucus secretion. Medications used to treat respiratory diseases, including corticosteroids, long-acting β2-agonists, long-acting muscarinic antagonists, mucolytic agents, antiviral drugs for severe acute respiratory syndrome coronavirus 2 and influenza virus, macrolides, and Kampo medicines, reduce the production of viral infection-induced mediators, including cytokines and mucin, as determined in clinical, in vivo, or in vitro studies. These results suggest that the anti-inflammatory effects of these medications on viral infection-induced respiratory diseases may be associated with clinical benefits, such as improvements in symptoms, quality of life, and mortality rate, and can prevent hospitalization and the exacerbation of chronic obstructive pulmonary disease, bronchial asthma, bronchiectasis, and diffuse panbronchiolitis.",
+  "year": 2023,
+  "authors": [
+    "Mutsuo Yamaya",
+    "Akiko Kikuchi",
+    "Mitsuru Sugawara",
+    "Hidekazu Nishimura"
+  ],
+  "journal": "Respiratory investigation",
+  "doi": "10.1016/j.resinv.2022.11.002",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36543714/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36543714"
+  }
+}

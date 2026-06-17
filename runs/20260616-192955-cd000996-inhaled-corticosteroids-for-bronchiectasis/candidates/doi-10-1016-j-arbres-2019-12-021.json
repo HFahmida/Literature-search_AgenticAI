@@ -1,0 +1,33 @@
+{
+  "source": "pubmed",
+  "source_id": "32081438",
+  "title": "RIBRON: The spanish Online Bronchiectasis Registry. Characterization of the First 1912 Patients.",
+  "abstract": "The SEPAR Spanish Bronchiectasis Registry (RIBRON) began as a platform for the collection of longitudinal data on patients with this disease. The objective of this study is to describe its operation and to analyze the characteristics of bronchiectasis patients according to sex. A total of 1912 adult patients diagnosed with bronchiectasis in 43 centers were included between February 2015 and 2019. All patients had complete data consisting of at least 79 basic required variables, controlled by an external audit. Mean age was 67.6 (15.2) years; 63.9% were women. The most common symptom was productive cough (78.3%) which was mucopurulent-purulent in 45.9% of cases. The most common etiology was post-infectious (40.4%), while 18.5% were idiopathic. Pseudomonas aeruginosa was the most frequently isolated microorganism (40.4%), of which 25.6% were associated with chronic infection. The annual number of mild-to-moderate/severe exacerbations was 1.62 (1.9)/0.59 (1.3). Half of the patients (50%) presented with airflow obstruction (17% severe). The most frequent radiological localization was lower lobes. The average FACED/E-FACED/BSI values were 2.06 (1.7)/2.67 (2.2)/7.8 (4.5), respectively. Overall, 66.7% of patients were taking inhaled corticosteroids, 19.2% macrolides, and 19.5% inhaled antibiotics. Women presented a less severe profile than men in clinical and functional terms, and a similar infectious, radiological and therapeutic profile. RIBRON represents an excellent map of the characteristics of bronchiectasis in our country. Two thirds of patients are women who presented lower disease severity as a specific characteristic.",
+  "year": 2021,
+  "authors": [
+    "Miguel Angel Martinez-García",
+    "Carmen Villa",
+    "Yadira Dobarganes",
+    "Rosa Girón",
+    "Luis Maíz",
+    "Marta García-Clemente",
+    "Oriol Sibila",
+    "Rafael Golpe",
+    "Juan Rodríguez",
+    "Esther Barreiro",
+    "Juan Luis Rodriguez",
+    "Rosario Menéndez",
+    "Concepción Prados",
+    "David de la Rosa",
+    "Casilda Olveira"
+  ],
+  "journal": "Archivos de bronconeumologia",
+  "doi": "10.1016/j.arbres.2019.12.021",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32081438/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "32081438"
+  }
+}

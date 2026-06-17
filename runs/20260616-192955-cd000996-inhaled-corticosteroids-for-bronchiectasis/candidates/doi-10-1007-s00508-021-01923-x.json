@@ -1,0 +1,35 @@
+{
+  "source": "pubmed",
+  "source_id": "34402990",
+  "title": "Risk factors for nontuberculous mycobacterial pulmonary disease (NTM-PD) in Croatia.",
+  "abstract": "The incidence, geographical distribution and clinical relevance of different nontuberculous mycobacteria (NTM) in Croatia are well described. There are few data on the risk factors for developing NTM pulmonary disease (NTM-PD) in this setting. We conducted a retrospective cohort study on all Croatian residents with NTM isolated from respiratory samples in the period from 2006 to 2015 with follow-up to 2018. The American Thoracic Society/Infectious Diseases Society of America (ATS/IDSA) guidelines were used to establish NTM-PD diagnosis. Clinical, radiological and treatment data were collected from hospital records. Risk analysis calculations were made on the 439 isolation episodes that were classified as definitive NTM-PD (n = 137) or no disease (n = 302). Female gender, presence of bronchiectasis, low BMI and long-term systemic corticosteroid treatment were independent risk factors associated with NTM-PD. Hemoptysis and malaise were presenting symptoms independently associated with NTM-PD. Chronic obstructive pulmonary disease (COPD) and low/moderate dose inhaled corticosteroid (ICS) treatment were not associated with NTM-PD. High dose ICS treatment was a significant risk factor for developing NTM-PD (aOR = 4.73, CI 1.69-13.23 p = 0.003). The NTM-PD patients in Croatia are similar to those in other published cohorts in terms of their characteristics and risk factors. The significant dose-dependent association between ICS use and NTM-PD adds to the body of evidence suggesting that high dose ICS use is associated with NTM-PD.",
+  "year": 2021,
+  "authors": [
+    "Goran Glodić",
+    "Miroslav Samaržija",
+    "Ivan Sabol",
+    "Ljiljana Bulat Kardum",
+    "Vesna Carević Vladić",
+    "Feđa Džubur",
+    "Marko Jakopović",
+    "Ivana Kuhtić",
+    "Ante Marušić",
+    "Dina Mihelčić",
+    "Sanja Popović Grle",
+    "Dražen Strelec",
+    "Tomislav Šklebar",
+    "Ana Marija Šola",
+    "Ljiljana Žmak",
+    "Jakko van Ingen",
+    "Mateja Janković Makek"
+  ],
+  "journal": "Wiener klinische Wochenschrift",
+  "doi": "10.1007/s00508-021-01923-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34402990/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "34402990"
+  }
+}

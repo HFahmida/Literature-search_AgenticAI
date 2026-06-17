@@ -1,0 +1,65 @@
+{
+  "paper_id": "doi:10.1177/10600280241279602",
+  "source": "pubmed",
+  "source_id": "39297217",
+  "title": "Inhaled Medications for Maintenance Therapy in Pediatric Noncystic Fibrosis Bronchiectasis.",
+  "abstract": "This review focuses on evaluating literature for the use of inhaled mucolytics (hypertonic saline, mannitol, and dornase alfa), inhaled antibiotics (tobramycin, aztreonam, colistin, and amikacin), and inhaled corticosteroids in pediatric noncystic fibrosis bronchiectasis. A literature search via PubMed was conducted using the search terms \"non-cystic fibrosis bronchiectasis,\" \"primary ciliary dyskinesia,\" and \"bronchiectasis\" in combination with each inhaled agent of interest. Studies were included if they were specific to patients with a clinical diagnosis of noncystic fibrosis bronchiectasis published from 1998 to July 2024. Several inhaled medications can be considered as maintenance therapies for pediatric patients with noncystic fibrosis bronchiectasis. Hypertonic saline could be considered for its potential airway clearance benefits and low risk of causing harm. Inhaled antipseudomonal antibiotics should be considered in patients who are colonized with Pseudomonas aeruginosa. Inhaled corticosteroid therapy should be reserved for patients with concomitant asthma. Dornase alfa has shown worse outcomes in adults with noncystic fibrosis bronchiectasis and should be used with caution. Risks and benefits should be carefully considered when evaluating these therapies for use in noncystic fibrosis bronchiectasis, and patient-specific treatment regimens should be developed. Chronic management of pediatric noncystic fibrosis bronchiectasis remains challenging due to paucity of applicable literature. Risks and benefits of different agents are discussed in this article with recommendations for application to clinical practice based on studies performed in both adult and pediatric patients with noncystic fibrosis bronchiectasis. Several inhaled medications could be considered as maintenance therapies for pediatric patients with noncystic fibrosis bronchiectasis, with more robust evidence to support use of inhaled antipseudomonal antibiotics and hypertonic saline compared with other available agents. Further investigation is needed to identify a clear place in therapy for inhaled therapies in pediatric noncystic fibrosis bronchiectasis.",
+  "citation": null,
+  "doi": "10.1177/10600280241279602",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39297217/",
+  "pdf_url": null,
+  "year": 2025,
+  "authors": [
+    "Emily M Harvath Gray",
+    "Rebecca S Pettit",
+    "Samantha Engdahl"
+  ],
+  "journal": "The Annals of pharmacotherapy",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "The paper discusses inhaled corticosteroids for pediatric noncystic fibrosis bronchiectasis, which is relevant to the review topic.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This review evaluates the use of inhaled medications, including corticosteroids, for managing pediatric noncystic fibrosis bronchiectasis.",
+  "detailed_summary": "The paper reviews literature on inhaled medications such as mucolytics and antibiotics for treating pediatric noncystic fibrosis bronchiectasis. It includes a discussion on the use of inhaled corticosteroids, noting their potential benefits and risks, particularly for patients with concomitant asthma.",
+  "background_rationale": null,
+  "methods_summary": "A literature search was conducted using PubMed terms related to noncystic fibrosis bronchiectasis and various inhaled agents. Studies were included if they pertained to pediatric patients diagnosed with noncystic fibrosis bronchiectasis from 1998 to July 2024.",
+  "results_summary": "",
+  "conclusion_summary": "Several inhaled medications can be considered for maintenance therapy, with hypertonic saline and antipseudomonal antibiotics showing more robust evidence compared to corticosteroids. The review highlights the need for careful consideration of risks and benefits when selecting therapies.",
+  "relevance_to_review": "Highly relevant as it discusses inhaled corticosteroids for noncystic fibrosis bronchiectasis, a key topic in the CLEF TAR.",
+  "key_takeaways": [
+    "Inhaled corticosteroids should be reserved for patients with concomitant asthma.",
+    "Hypertonic saline and antipseudomonal antibiotics have more robust evidence supporting their use."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": "Pediatric patients diagnosed with noncystic fibrosis bronchiectasis",
+  "setting": null,
+  "intervention_or_exposure": "Inhaled corticosteroids, mucolytics, and inhaled antibiotics",
+  "comparator": "Other inhaled medications such as antipseudomonal antibiotics and mucolytics",
+  "methods": [
+    "Literature review"
+  ],
+  "outcomes_measured": [
+    "Effectiveness of different inhaled medications for managing noncystic fibrosis bronchiectasis"
+  ],
+  "main_results": [],
+  "conclusions": [
+    "Inhaled corticosteroids should be used cautiously and reserved for patients with concomitant asthma.",
+    "Hypertonic saline and antipseudomonal antibiotics have more robust evidence supporting their use."
+  ],
+  "limitations": [
+    "Limited by the paucity of applicable literature, especially regarding inhaled therapies in pediatric noncystic fibrosis bronchiectasis."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Detailed results and specific study details are not provided in the abstract."
+  ]
+}

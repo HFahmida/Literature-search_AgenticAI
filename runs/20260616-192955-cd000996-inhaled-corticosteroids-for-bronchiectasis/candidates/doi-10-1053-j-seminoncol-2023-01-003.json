@@ -1,0 +1,27 @@
+{
+  "source": "pubmed",
+  "source_id": "36759235",
+  "title": "Airway disorders associated with immune checkpoint inhibitor therapy: Two case reports and a systematic review.",
+  "abstract": "Immune checkpoint inhibitors (ICI) are widely used for the treatment of various malignant neoplasms. Interstitial lung disease is a well-known immune-related adverse event, however, ICI-induced airway disease remains under-recognized. Herein, we report two similar cases of pembrolizumab-induced tracheobronchitis presenting as persistent chronic cough and dyspnea. Blood tests revealed elevated C-reactive protein levels without eosinophilia. Spirometry demonstrated mild airflow obstruction. Computed tomography revealed diffuse thickening of the tracheobronchial walls and bronchiectasis predominantly in the lower lobes. Bronchoscopy revealed edematous and erythematous tracheobronchial mucosa, and bronchial biopsy tissue exhibited marked inflammation with predominant infiltration of CD8+ lymphocytes. Subsequently, pembrolizumab-induced tracheobronchitis was diagnosed in both cases. Cessation of pembrolizumab and initiation of erythromycin, inhaled corticosteroids, and long-acting beta-agonists gradually improved the symptoms, airflow obstruction, and radiographic findings. These were completely resolved in one case. The other case initially showed a poor response to systemic corticosteroids combined with the aforementioned drugs, but improved gradually and almost completely. These cases exemplify ICI-induced airway disease that is, an under-recognized manifestation of immune-related adverse events. In addition, we have systematically searched the PubMed database for articles on ICI-induced airway disease, categorized the retrieved articles as eosinophilic and non-eosinophilic airway diseases, and reviewed the differences in treatment and prognoses between these two categories.",
+  "year": 2022,
+  "authors": [
+    "Naoki Kawakami",
+    "Hiroaki Saito",
+    "Susumu Takahashi",
+    "Shinpei Kajie",
+    "Rina Kato",
+    "Kazuhiro Shimaya",
+    "Yoko Wakai",
+    "Kazuhito Saito",
+    "Mai Sakashita"
+  ],
+  "journal": "Seminars in oncology",
+  "doi": "10.1053/j.seminoncol.2023.01.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36759235/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "36759235"
+  }
+}

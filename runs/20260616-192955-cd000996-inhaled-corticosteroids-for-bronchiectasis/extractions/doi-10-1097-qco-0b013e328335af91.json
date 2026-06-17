@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi:10.1097/QCO.0b013e328335af91",
+  "source": "pubmed",
+  "source_id": "19996746",
+  "title": "Respiratory infection in noncystic fibrosis bronchiectasis.",
+  "abstract": "We highlight some of the main developments in the investigation and management of bronchiectasis, a condition causing susceptibility to airway infections and in more severe cases chronic bronchial suppuration. Chronic infection with Pseudomonas aeruginosa and poor lung function adversely influence long-term prognosis. Investigation of the underlying cause of bronchiectasis leads to additional therapy in a higher proportion of patients than previously thought. Based on current data, inhaled corticosteroid cannot be recommended for routine use in patients with bronchiectasis. Nontuberculous mycobacterial infections have been associated with both aspergillus and gastrooesophageal reflux. There is new evidence supporting the practice of regular chest physiotherapy. Despite some improvement in the evidence-based guide to management in noncystic fibrosis bronchiectasis, there remains a serious lack of randomized controlled trials directing therapy.",
+  "citation": null,
+  "doi": "10.1097/QCO.0b013e328335af91",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19996746/",
+  "pdf_url": null,
+  "year": 2010,
+  "authors": [
+    "Zaid Zoumot",
+    "Robert Wilson"
+  ],
+  "journal": "Current opinion in infectious diseases",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "maybe",
+    "reason": "The paper discusses bronchiectasis and mentions the use of inhaled corticosteroids, but does not provide specific evidence for their efficacy.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This article reviews developments in the management of bronchiectasis and mentions the use of inhaled corticosteroids, but does not provide specific evidence for their efficacy.",
+  "detailed_summary": "",
+  "background_rationale": "The paper highlights the susceptibility to respiratory infections in bronchiectasis patients and discusses various therapeutic approaches including inhaled corticosteroids.",
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "Inhaled corticosteroids are not recommended for routine use in bronchiectasis based on current data, though there is a lack of randomized controlled trials to direct therapy.",
+  "relevance_to_review": "The paper discusses the topic but does not provide specific evidence relevant to the review question.",
+  "key_takeaways": [
+    "Inhaled corticosteroids are not recommended for routine use in bronchiectasis based on current data."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [
+    "Inhaled corticosteroids are not recommended for routine use in bronchiectasis based on current data."
+  ],
+  "limitations": [
+    "Lack of randomized controlled trials to direct therapy."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Specific evidence for the efficacy or lack thereof of inhaled corticosteroids in bronchiectasis."
+  ]
+}

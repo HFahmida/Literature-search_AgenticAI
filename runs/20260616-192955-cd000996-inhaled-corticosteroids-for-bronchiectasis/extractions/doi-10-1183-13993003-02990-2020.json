@@ -1,0 +1,68 @@
+{
+  "paper_id": "doi:10.1183/13993003.02990-2020",
+  "source": "pubmed",
+  "source_id": "33542057",
+  "title": "European Respiratory Society guidelines for the management of children and adolescents with bronchiectasis.",
+  "abstract": "There is increasing awareness of bronchiectasis in children and adolescents, a chronic pulmonary disorder associated with poor quality of life for the child/adolescent and their parents, recurrent exacerbations, and costs to the family and health systems. Optimal treatment improves clinical outcomes. Several national guidelines exist, but there are no international guidelines.The European Respiratory Society (ERS) Task Force for the management of paediatric bronchiectasis sought to identify evidence-based management (investigation and treatment) strategies. It used the ERS standardised methodology that included a systematic review of the literature and application of the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach to define the quality of the evidence and level of recommendations.A multidisciplinary team of specialists in paediatric and adult respiratory medicine, infectious disease, physiotherapy, primary care, nursing, radiology, immunology, methodology, patient advocacy and parents of children/adolescents with bronchiectasis considered the most relevant clinical questions (for both clinicians and patients) related to managing paediatric bronchiectasis. 14 key clinical questions (seven PICO (Patient, Intervention, Comparison, Outcome) and seven narrative) were generated. The outcomes for each PICO were decided by voting by the panel and parent/patient advisory group.This guideline addresses the definition, diagnostic approach and antibiotic treatment of exacerbations, pathogen eradication, long-term antibiotic therapy, asthma-type therapies (inhaled corticosteroids and bronchodilators), mucoactive drugs, airway clearance, investigation of underlying causes of bronchiectasis, disease monitoring, factors to consider before surgical treatment, and the reversibility and prevention of bronchiectasis in children/adolescents. Benchmarking quality of care for children/adolescents with bronchiectasis to improve clinical outcomes and evidence gaps for future research could be based on these recommendations.",
+  "citation": null,
+  "doi": "10.1183/13993003.02990-2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33542057/",
+  "pdf_url": null,
+  "year": 2021,
+  "authors": [
+    "Anne B Chang",
+    "Rebecca Fortescue",
+    "Keith Grimwood",
+    "Efthymia Alexopoulou",
+    "Leanne Bell",
+    "Jeanette Boyd",
+    "Andrew Bush",
+    "James D Chalmers",
+    "Adam T Hill",
+    "Bulent Karadag",
+    "Fabio Midulla",
+    "Gabrielle B McCallum"
+  ],
+  "journal": "The European respiratory journal",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Addresses management strategies for bronchiectasis in children and adolescents, including inhaled corticosteroids.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This guideline provides evidence-based recommendations for managing bronchiectasis in children and adolescents, including treatment strategies such as inhaled corticosteroids.",
+  "detailed_summary": "The European Respiratory Society (ERS) developed guidelines for the management of bronchiectasis in children and adolescents. The guidelines cover various aspects of care, including the use of inhaled corticosteroids among other treatments. These recommendations are based on a systematic review using GRADE methodology.",
+  "background_rationale": null,
+  "methods_summary": "The ERS Task Force used a standardized methodology that included a systematic literature review and application of the GRADE approach to define evidence quality and recommendation levels.",
+  "results_summary": "",
+  "conclusion_summary": "The guidelines provide comprehensive recommendations for managing bronchiectasis in children and adolescents, including the use of inhaled corticosteroids as part of treatment strategies.",
+  "relevance_to_review": "Relevant as it includes evidence-based management strategies for bronchiectasis, which may include inhaled corticosteroids.",
+  "key_takeaways": [
+    "The ERS guidelines provide comprehensive recommendations for managing bronchiectasis in children and adolescents.",
+    "Inhaled corticosteroids are part of the treatment strategies recommended."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [
+    "Systematic review",
+    "GRADE methodology"
+  ],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Detailed results and main findings not available in the abstract."
+  ]
+}

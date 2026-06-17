@@ -1,0 +1,33 @@
+{
+  "source": "pubmed",
+  "source_id": "35887723",
+  "title": "Impact of Chronic Bronchial Infection by",
+  "abstract": "The objective of the study was to analyze the factors associated with chronic bronchial infection (CBI) due to methicillin-susceptible Staphylococcus aureus (SA) and assess the clinical impact on severity, exacerbations, hospitalizations, and loss of lung function compared to patients with no isolation of PPMs in a large longitudinal series of patients from the Spanish bronchiectasis registry (RIBRON). Material and methods: A prospective, longitudinal, multicenter study was conducted with patients included in the RIBRON registry between January 2015 and October 2020. The inclusion criteria were an age of 18 years or older and an initial diagnosis of bronchiectasis. Patients recorded in the registry had a situation of clinical stability in the absence of an exacerbation in the four weeks before their inclusion. All patients were encouraged to provide a sputum sample at each visit for microbiological culture. Annual pulmonary function tests were performed according to the national spirometry guidelines. Results: A total of 426 patients were ultimately included in the study: 77 patients (18%) with CBI due to SA and 349 (82%) who did not present any isolation of PPMs in sputum. The mean age was 66.9 years (16.2), and patients 297 (69.7%) were female, with an average BMI of 25.1 (4.7) kg/m2 and an average Charlson index of 1.74 (1.33). The mean baseline value of FEV1 2 L was 0.76, with a mean FEV1% of 78.8% (23.1). One hundred and seventy-two patients (40.4%) had airflow obstruction with FEV1/FVC < 0.7. The mean predictive FACED score was 1.62 (1.41), with a mean value of 2.62 (2.07) for the EFACED score and 7.3 (4.5) for the BSI score. Patients with CBI caused by SA were younger (p < 0.0001), and they had a lower BMI (p = 0.024) and more exacerbations in the previous year (p = 0.019), as well as in the first, second, and third years of follow-up (p = 0.020, p = 0.001, and p = 0.018, respectively). As regards lung function, patients with CBI due to SA had lower levels of FEV1% at the time of inclusion in the registry (p = 0.021), and they presented more frequently with bronchial obstruction (p = 0.042). A lower age (OR: 0.97; 95% CI: 0.94−0.99; p < 0.001), lower FEV1 value% (OR: 0.98; 95% CI: 0.97−0.99; p = 0.035), higher number of affected lobes (OR: 1.53; 95% CI: 1.2−1.95; p < 0.001), and the presence of two or more exacerbations in the previous year (OR: 2.33; 95% CI: 1.15−4.69; p = 0.018) were observed as independent factors associated with CBI due to SA. The reduction in FEv1% in all patients included in the study was −0.31%/year (95% CI: −0.7; −0.07) (p = 0.110). When the reduction in FEv1% is analyzed in the group of patients with CBI due to SA and the group without pathogens, we observed that the reduction in FEV1% was −1.19% (95% CI: −2.09, −0.69) (p < 0.001) in the first group and −0.02% (95% CI: −0.07, −0.01) (p = 0.918) in the second group. According to a linear regression model (mixed effects) applied to determine which factors were associated with a more pronounced reduction in FEv1% in the overall group (including those with CBI due to SA and those with no PPM isolation), age (p = 0.0019), use of inhaled corticosteroids (p = 0.004), presence of CBI due to SA (p = 0.007), female gender (p < 0.001), and the initial value of FEV1 (p < 0.001) were significantly related. Conclusions: Patients with non-CF bronchiectasis with CBI due to SA were younger, with lower FEV1% values, more significant extension of bronchiectasis, and a higher number of exacerbations of mild to moderate symptoms than those with no PPM isolation in respiratory secretions. The reduction in FEV1% was −1.19% (95% CI: −2.09, −0.69) (p < 0.001) in patients with CBI caused by SA.",
+  "year": 2022,
+  "authors": [
+    "Marta García Clemente",
+    "Casilda Olveira",
+    "Rosa Girón",
+    "Luis Máiz",
+    "Oriol Sibila",
+    "Rafael Golpe",
+    "Rosario Menéndez",
+    "Juan Rodríguez",
+    "Esther Barreiro",
+    "Juan Luis Rodríguez Hermosa",
+    "Concepción Prados",
+    "David De la Rosa",
+    "Claudia Madrid Carbajal",
+    "Marta Solís",
+    "Miguel Ángel Martínez-García"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm11143960",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35887723/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "35887723"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "paper_id": "doi:10.1016/j.alit.2023.07.003",
+  "source": "pubmed",
+  "source_id": "37544851",
+  "title": "Poorly controlled asthma - Easy wins and future prospects for addressing fungal allergy.",
+  "abstract": "Poorly controlled asthma is especially common in low resource countries. Aside from lack of access to, or poor technique with, inhaled beta-2 agonists and corticosteroids, the most problematic forms of asthma are frequently associated with both fungal allergy and exposure, especially in adults leading to more asthma exacerbations and worse asthma. The umbrella term 'fungal asthma' describes many disorders linked to fungal exposure and/or allergy to fungi. One fungal asthma endotype, ABPA, is usually marked by a very high IgE and its differential diagnosis is reviewed. Both ABPA and fungal bronchitis in bronchiectasis are marked by thick excess airway mucus production. Dermatophyte skin infection can worsen asthma and eradication of the skin infection improves asthma. Exposure to fungi in the workplace, home and schools, often in damp or water-damaged buildings worsens asthma, and remediation improves symptom control and reduces exacerbations. Antifungal therapy is beneficial for fungal asthma as demonstrated in nine of 13 randomised controlled studies, reducing symptoms, corticosteroid need and exacerbations while improving lung function. Other useful therapies include azithromycin and some biologics approved for the treatment of severe asthma. If all individuals with poorly controlled and severe asthma could be 'relieved' of their fungal allergy and infection through antifungal therapy without systemic corticosteroids, the health benefits would be enormous and relatively inexpensive, improving the long term health of over 20 million adults and many children. Antifungal therapy carries some toxicity, drug interactions and triazole resistance risks, and data are incomplete. Here we summarise what is known and what remains uncertain about this complex topic.",
+  "citation": null,
+  "doi": "10.1016/j.alit.2023.07.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37544851/",
+  "pdf_url": null,
+  "year": 2023,
+  "authors": [
+    "David W Denning",
+    "Lorraine T Pfavayi"
+  ],
+  "journal": "Allergology international : official journal of the Japanese Society of Allergology",
+  "screening": {
+    "relevance_score": 1,
+    "decision": "exclude",
+    "reason": "The paper does not focus on inhaled corticosteroids for bronchiectasis, but rather on fungal allergy and its impact on asthma.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "This article discusses the role of fungi in poorly controlled asthma, particularly focusing on antifungal therapy as a potential treatment approach.",
+  "detailed_summary": "",
+  "background_rationale": "The paper highlights the prevalence and impact of fungal allergy in poorly controlled asthma, especially in low-resource settings.",
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "Antifungal therapy is beneficial for certain forms of fungal asthma, but its application to bronchiectasis with inhaled corticosteroids is not the focus of this paper.",
+  "relevance_to_review": "The paper does not directly address inhaled corticosteroids for bronchiectasis and thus is not relevant to the review question.",
+  "key_takeaways": [
+    "Fungal allergy significantly impacts poorly controlled asthma, especially in low-resource settings.",
+    "Antifungal therapy can be beneficial for certain forms of fungal asthma."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [
+    "Antifungal therapy is beneficial for certain forms of fungal asthma, but its application to bronchiectasis with inhaled corticosteroids is not the focus of this paper."
+  ],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "The paper does not provide specific details on inhaled corticosteroids for bronchiectasis."
+  ]
+}

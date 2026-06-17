@@ -1,0 +1,52 @@
+{
+  "paper_id": "doi:10.1016/j.chest.2023.07.013",
+  "source": "pubmed",
+  "source_id": "37805235",
+  "title": "Inhaled Corticosteroids in COPD and Bronchiectasis: Use Biomarkers Rather Than Disease Labels.",
+  "abstract": null,
+  "citation": null,
+  "doi": "10.1016/j.chest.2023.07.013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37805235/",
+  "pdf_url": null,
+  "year": 2023,
+  "authors": [
+    "James D Chalmers",
+    "Amelia Shoemark"
+  ],
+  "journal": "Chest",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The paper does not focus on inhaled corticosteroids for bronchiectasis, but rather discusses the use of biomarkers over disease labels.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "Inhaled Corticosteroids in COPD and Bronchiectasis: Use Biomarkers Rather Than Disease Labels.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "0 = unrelated",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Abstract is null, making detailed summary and other structured information unavailable."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source": "pubmed",
+  "source_id": "39848410",
+  "title": "Challenges in treating patients with comorbid asthma and bronchiectasis.",
+  "abstract": "The management of patients with overlapping asthma and bronchiectasis requires a tailored approach, starting with a comprehensive assessment of the patient's clinical profile, including the severity of asthma and the extent of bronchiectasis. Inhaled corticosteroids (ICS) are often recommended, but their use should be carefully monitored because of the risk of increased infection. If asthma is well controlled and bronchiectasis remains stable, a gradual reduction in the dose of ICS may be considered. Adjunctive therapies such as macrolides, which have anti-inflammatory and antimicrobial effects, or leukotriene receptor antagonists (LTRAs) may be beneficial. However, LTRAs should be used with caution in patients with bronchiectasis. Long-acting muscarinic antagonists (LAMA), especially in combination with ICS and long-acting beta-agonists (LABA), can improve bronchodilation and reduce inflammation. Although triple therapy (ICS/LABA/LAMA) is promising, its efficacy in bronchiectasis has not yet been confirmed by randomised controlled trials (RCTs). Ongoing monitoring is essential to adjust treatment as the patient's condition evolves. Preventive measures, including vaccination and regular sputum cultures, are important to minimize the risk of infection. Further research and RCTs are needed to better understand the role of dual bronchodilators and triple therapy in the management of overlapping asthma-bronchiectasis.",
+  "year": 2025,
+  "authors": [
+    "Mario Cazzola",
+    "Luigino Calzetta",
+    "Maria Gabriella Matera",
+    "Paola Rogliani",
+    "Vincenzo Patella"
+  ],
+  "journal": "Respiratory medicine",
+  "doi": "10.1016/j.rmed.2025.107957",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39848410/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "39848410"
+  }
+}

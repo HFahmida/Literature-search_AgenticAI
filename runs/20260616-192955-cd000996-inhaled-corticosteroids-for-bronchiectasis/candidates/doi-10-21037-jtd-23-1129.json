@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "38505074",
+  "title": "Differential response to roflumilast in patients with chronic obstructive pulmonary disease: real-world evidence.",
+  "abstract": "Roflumilast is effective in reducing acute exacerbation in patients with chronic obstructive pulmonary disease (COPD) at high risk of severe exacerbation. Clinical traits related to the benefits of roflumilast need to be evaluated in patients with COPD. A longitudinal observational study in patients newly diagnosed with COPD was conducted using claims data from the Health Insurance Review and Assessment Service in South Korea from 2012-2020 after a 2-year washout period. The primary outcome was to estimate the ratio of hazard ratio (RHR) of roflumilast for moderate-to-severe exacerbation in prespecified subgroups. A time-dependent Cox regression model was used to estimate the hazard ratio (HR) for moderate-to-severe exacerbations. Among 823,862 patients with COPD, 0.6% used roflumilast. The adjusted HR of roflumilast for moderate-to-severe exacerbations was reduced when treated for ≥3 months (RHR =0.558). Interaction effects of the variables on the HR of roflumilast for moderate-to-severe exacerbation were identified. The adjusted HR of roflumilast for moderate-to-severe exacerbation was significantly reduced in several subgroups: older age (65 years > age ≥50 years, RHR =0.838; age ≥65 years, RHR =0.818), a higher Charlson comorbidity index (1, RHR =0.832; 2, RHR =0.798; ≥3, RHR =0.790), history of exacerbation (RHR =0.886), bronchiectasis (RHR =0.774), chronic bronchitis (RHR =0.793), inhaled therapy [mono-bronchodilator, RHR =0.824; inhaled corticosteroid (ICS)/long-acting beta-agonist (LABA), RHR =0.591; LABA/long-acting muscarinic antagonist (LAMA), RHR =0.822; ICS/LABA/LAMA, RHR =0.570], methylxanthine (RHR =0.853), and statin (RHR =0.888). The benefit of roflumilast in moderate-to-severe exacerbations was estimated to be greater in specific subgroups of patients with COPD. Personalised approaches to roflumilast based on clinical phenotypes would be effective for COPD.",
+  "year": 2024,
+  "authors": [
+    "Hyun Woo Lee",
+    "Jiyu Sun",
+    "Hyo-Jin Lee",
+    "Jung-Kyu Lee",
+    "Tae Yeon Park",
+    "Eun Young Heo",
+    "Chin Kook Rhee",
+    "Deog Kyeom Kim"
+  ],
+  "journal": "Journal of thoracic disease",
+  "doi": "10.21037/jtd-23-1129",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38505074/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "38505074"
+  }
+}

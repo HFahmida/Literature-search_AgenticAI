@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi:10.1111/cea.12141",
+  "source": "pubmed",
+  "source_id": "23889240",
+  "title": "Allergic bronchopulmonary aspergillosis: review of literature and proposal of new diagnostic and classification criteria.",
+  "abstract": "Allergic bronchopulmonary aspergillosis (ABPA) is an immunological pulmonary disorder caused by hypersensitivity to Aspergillus fumigatus, manifesting with poorly controlled asthma, recurrent pulmonary infiltrates and bronchiectasis. There are estimated to be in excess of four million patients affected world-wide. The importance of recognizing ABPA relates to the improvement of patient symptoms, and delay in development or prevention of bronchiectasis, one manifestation of permanent lung damage in ABPA. Environmental factors may not be the only pathogenetic factors because not all asthmatics develop ABPA despite being exposed to the same environment. Allergic bronchopulmonary aspergillosis is probably a polygenic disorder, which does not remit completely once expressed, although long-term remissions do occur. In a genetically predisposed individual, inhaled conidia of A. fumigatus germinate into hyphae with release of antigens that activate the innate and adaptive immune responses (Th2 CD4(+) T cell responses) of the lung. The International Society for Human and Animal Mycology (ISHAM) has constituted a working group on ABPA complicating asthma (www.abpaworkinggroup.org), which convened an international conference to summarize the current state of knowledge, and formulate consensus-based guidelines for diagnosis and therapy. New diagnosis and staging criteria for ABPA are proposed. Although a small number of randomized controlled trials have been conducted, long-term management remains poorly studied. Primary therapy consists of oral corticosteroids to control exacerbations, itraconazole as a steroid-sparing agent and optimized asthma therapy. Uncertainties surround the prevention and management of bronchiectasis, chronic pulmonary aspergillosis and aspergilloma as complications, concurrent rhinosinusitis and environmental control. There is need for new oral antifungal agents and immunomodulatory therapy.",
+  "citation": null,
+  "doi": "10.1111/cea.12141",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23889240/",
+  "pdf_url": null,
+  "year": 2013,
+  "authors": [
+    "R Agarwal",
+    "A Chakrabarti",
+    "A Shah",
+    "D Gupta",
+    "J F Meis",
+    "R Guleria",
+    "R Moss",
+    "D W Denning"
+  ],
+  "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The paper focuses on allergic bronchopulmonary aspergillosis (ABPA) rather than inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "Allergic bronchopulmonary aspergillosis: review of literature and proposal of new diagnostic and classification criteria.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No relevant information for the review topic is present in the abstract."
+  ]
+}

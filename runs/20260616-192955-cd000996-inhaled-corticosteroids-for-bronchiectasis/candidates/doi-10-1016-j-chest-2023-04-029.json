@@ -1,0 +1,33 @@
+{
+  "source": "pubmed",
+  "source_id": "37088355",
+  "title": "The U-Shaped Relationship Between Eosinophil Count and Bronchiectasis Severity: The Effect of Inhaled Corticosteroids.",
+  "abstract": "Although a proven relationship exists between the blood eosinophil count (BEC) and the severity of both asthma and COPD, its relationship with bronchiectasis has not been well established. The objective of this study was to analyze the relationship between BEC and the number and severity of exacerbations, and patients' responses to inhaled corticosteroid (IC) treatment in bronchiectasis RESEARCH QUESTION: Does an association exist among BEC, the number of exacerbations and severity of bronchiectasis, and IC treatment? This was a multicenter (43 centers) prospective observational study derived from the Spanish Bronchiectasis Registry. Patients with proven bronchiectasis and a known BEC were included, whereas those with asthma or antieosinophilic treatments were excluded. Patients were divided into four groups according to the BEC at the time of inclusion in the study in a steady-state situation: (1) eosinopenic bronchiectasis ( 300 eosinophils/μL). Nine hundred twenty-eight patients finally were included: 123 patients (13.3%) with 300 eosinophils/μL (eosinophilic group). BEC showed a significant U-shaped relationship with severity, exacerbations, lung function, microbiologic profile, and IC treatment (these being higher in the eosinopenic group compared with the eosinophilic group). IC treatment significantly decreased the number and severity of exacerbations only in the group of bronchiectasis patients with > 300 eosinophils/μL. A significant U-shaped relationship was found between BEC and severity and exacerbations in bronchiectasis that was more pronounced in the eosinopenic group. IC treatment decreased the number and severity of exacerbations only in the eosinophilic group.",
+  "year": 2023,
+  "authors": [
+    "Miguel Ángel Martínez-García",
+    "Raúl Méndez",
+    "Casilda Olveira",
+    "Rosa Girón",
+    "Marta García-Clemente",
+    "Luis Máiz",
+    "Oriol Sibila",
+    "Rafael Golpe",
+    "Juan Luis Rodríguez-Hermosa",
+    "Esther Barreiro",
+    "Concepción Prados",
+    "Juan Rodríguez-López",
+    "Grace Oscullo",
+    "Gonzalo Labarca",
+    "David de la Rosa"
+  ],
+  "journal": "Chest",
+  "doi": "10.1016/j.chest.2023.04.029",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37088355/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "37088355"
+  }
+}

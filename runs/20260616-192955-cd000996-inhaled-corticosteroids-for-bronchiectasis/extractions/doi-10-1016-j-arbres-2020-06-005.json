@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi:10.1016/j.arbres.2020.06.005",
+  "source": "pubmed",
+  "source_id": "32660708",
+  "title": "Repeteability of Circulating Eosinophil Measures and Inhaled Corticosteroids Effect in Bronchiectasis. A Post Hoc Analysis of a Randomized Clinical Trial.",
+  "abstract": null,
+  "citation": null,
+  "doi": "10.1016/j.arbres.2020.06.005",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32660708/",
+  "pdf_url": null,
+  "year": 2020,
+  "authors": [
+    "Miguel Angel Martinez-Garcia",
+    "Tomás Posadas",
+    "Giovanni Sotgiu",
+    "Francesco Blasi",
+    "Laura Saderi",
+    "Stefano Aliberti"
+  ],
+  "journal": "Archivos de bronconeumologia",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The study does not focus on inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "Repeteability of Circulating Eosinophil Measures and Inhaled Corticosteroids Effect in Bronchiectasis. A Post Hoc Analysis of a Randomized Clinical Trial.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Abstract is null, making it difficult to assess relevance."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi:10.1080/17512433.2024.2306218",
+  "source": "pubmed",
+  "source_id": "38224017",
+  "title": "Comparative effectiveness and safety of inhaled corticosteroid plus long-acting β",
+  "abstract": "This study aimed to evaluate the effectiveness and safety of fixed-dose combination (FDC) inhaled corticosteroids/long-acting β2-agonists (ICS/LABA) in bronchiectasis. A retrospective cohort study analyzed electronic medical records of bronchiectasis patients initiating ICS/LABA FDC or LAMA between 2007 and 2021. All bronchiectasis diagnoses were made by radiologists using high-resolution computed tomography. Of the 1,736 patients, 1,281 took ICS/LABA FDC and 455 LAMA. Among the 694 propensity score matched patients, ICS/LABA FDC had comparable outcomes to LAMA, with HRs of 1.22 (95% CI 0.81-1.83) for hospitalized respiratory infection, 1.06 (95% CI 0.84-1.33) for acute exacerbation, and 1.06 (95% CI 0.66-1.02) for all-cause hospitalization. Beclomethasone/formoterol (BEC/FOR) or budesonide/formoterol (BUD/FOR) led to a lower risk of acute exacerbation compared to fluticasone/salmeterol (FLU/SAL) (BEC/FOR HR 0.59, 95% CI 0.43-0.81; BUD/FOR HR 0.68, 95% CI 0.50-0.93). BEC/FOR resulted in lower risks of hospitalized respiratory infection (HR 0.48, 95% 0.26-0.86) and all-cause hospitalization (HR 0.55, 95% 0.37-0.80) compared to FLU/SAL. Our findings provide important evidence on the effectiveness and safety of ICS/LABA FDC compared with LAMA for bronchiectasis. BEC/FOR and BUD/FOR were associated with better outcomes than FLU/SAL.",
+  "citation": null,
+  "doi": "10.1080/17512433.2024.2306218",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38224017/",
+  "pdf_url": null,
+  "year": 2024,
+  "authors": [
+    "Vincent Yi-Fong Su",
+    "Ting-Lin Ding",
+    "Yuh-Lih Chang",
+    "Yueh-Ching Chou",
+    "Hsuen-En Hwang",
+    "Chian-Ying Chou",
+    "Chia-Chen Hsu"
+  ],
+  "journal": "Expert review of clinical pharmacology",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study evaluates the effectiveness and safety of inhaled corticosteroids (ICS) for bronchiectasis, which is directly relevant to the CLEF TAR topic.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "The study compares fixed-dose combination inhaled corticosteroids/long-acting β2-agonists (ICS/LABA) with long-acting muscarinic antagonists (LAMA) for bronchiectasis.",
+  "detailed_summary": "This retrospective cohort study analyzed the effectiveness and safety of ICS/LABA FDC compared to LAMA in bronchiectasis patients. The study found comparable outcomes between the two groups, but fixed-dose combinations like beclomethasone/formoterol (BEC/FOR) or budesonide/formoterol (BUD/FOR) showed better results than fluticasone/salmeterol (FLU/SAL).",
+  "background_rationale": null,
+  "methods_summary": "A retrospective cohort study analyzed electronic medical records of bronchiectasis patients initiating ICS/LABA FDC or LAMA between 2007 and 2021.",
+  "results_summary": "ICS/LABA FDC had comparable outcomes to LAMA, with HRs for hospitalized respiratory infection, acute exacerbation, and all-cause hospitalization. BEC/FOR and BUD/FOR led to lower risks of acute exacerbation, hospitalized respiratory infection, and all-cause hospitalization compared to FLU/SAL.",
+  "conclusion_summary": "The study provides evidence on the effectiveness and safety of ICS/LABA FDC for bronchiectasis, with some fixed-dose combinations showing better outcomes than others.",
+  "relevance_to_review": "Highly relevant as it directly addresses inhaled corticosteroids for bronchiectasis.",
+  "key_takeaways": [
+    "ICS/LABA FDC had comparable outcomes to LAMA",
+    "BEC/FOR and BUD/FOR showed better results than FLU/SAL"
+  ],
+  "objective": "To evaluate the effectiveness and safety of ICS/LABA FDC in bronchiectasis.",
+  "study_design": "Retrospective cohort study",
+  "population_or_sample": "1,736 bronchiectasis patients initiating ICS/LABA FDC or LAMA between 2007 and 2021",
+  "setting": null,
+  "intervention_or_exposure": "ICS/LABA FDC (BEC/FOR, BUD/FOR) vs. LAMA (FLU/SAL)",
+  "comparator": "LAMA (FLU/SAL)",
+  "methods": [
+    "Retrospective cohort study",
+    "Analysis of electronic medical records"
+  ],
+  "outcomes_measured": [
+    "Hospitalized respiratory infection",
+    "Acute exacerbation",
+    "All-cause hospitalization"
+  ],
+  "main_results": [
+    "HRs for hospitalized respiratory infection, acute exacerbation, and all-cause hospitalization were comparable between ICS/LABA FDC and LAMA.",
+    "BEC/FOR and BUD/FOR had lower risks of acute exacerbation, hospitalized respiratory infection, and all-cause hospitalization compared to FLU/SAL."
+  ],
+  "conclusions": [
+    "ICS/LABA FDC is effective and safe for bronchiectasis",
+    "Some fixed-dose combinations (BEC/FOR, BUD/FOR) show better outcomes than others (FLU/SAL)"
+  ],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Among the 694 propensity score matched patients, ICS/LABA FDC had comparable outcomes to LAMA, with HRs of 1.22 (95% CI 0.81-1.83) for hospitalized respiratory infection, 1.06 (95% CI 0.84-1.33) for acute exacerbation, and 1.06 (95% CI 0.66-1.02) for all-cause hospitalization."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

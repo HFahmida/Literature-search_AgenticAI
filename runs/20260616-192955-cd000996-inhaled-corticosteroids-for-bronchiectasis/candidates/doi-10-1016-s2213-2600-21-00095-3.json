@@ -1,0 +1,31 @@
+{
+  "source": "pubmed",
+  "source_id": "33812494",
+  "title": "Association between pre-existing respiratory disease and its treatment, and severe COVID-19: a population cohort study.",
+  "abstract": "Previous studies suggested that the prevalence of chronic respiratory disease in patients hospitalised with COVID-19 was lower than its prevalence in the general population. The aim of this study was to assess whether chronic lung disease or use of inhaled corticosteroids (ICS) affects the risk of contracting severe COVID-19. In this population cohort study, records from 1205 general practices in England that contribute to the QResearch database were linked to Public Health England's database of SARS-CoV-2 testing and English hospital admissions, intensive care unit (ICU) admissions, and deaths for COVID-19. All patients aged 20 years and older who were registered with one of the 1205 general practices on Jan 24, 2020, were included in this study. With Cox regression, we examined the risks of COVID-19-related hospitalisation, admission to ICU, and death in relation to respiratory disease and use of ICS, adjusting for demographic and socioeconomic status and comorbidities associated with severe COVID-19. Between Jan 24 and April 30, 2020, 8 256 161 people were included in the cohort and observed, of whom 14 479 (0·2%) were admitted to hospital with COVID-19, 1542 (<0·1%) were admitted to ICU, and 5956 (0·1%) died. People with some respiratory diseases were at an increased risk of hospitalisation (chronic obstructive pulmonary disease [COPD] hazard ratio [HR] 1·54 [95% CI 1·45-1·63], asthma 1·18 [1·13-1·24], severe asthma 1·29 [1·22-1·37; people on three or more current asthma medications], bronchiectasis 1·34 [1·20-1·50], sarcoidosis 1·36 [1·10-1·68], extrinsic allergic alveolitis 1·35 [0·82-2·21], idiopathic pulmonary fibrosis 1·59 [1·30-1·95], other interstitial lung disease 1·66 [1·30-2·12], and lung cancer 2·24 [1·89-2·65]) and death (COPD 1·54 [1·42-1·67], asthma 0·99 [0·91-1·07], severe asthma 1·08 [0·98-1·19], bronchiectasis 1·12 [0·94-1·33], sarcoidosis 1·41 [0·99-1·99), extrinsic allergic alveolitis 1·56 [0·78-3·13], idiopathic pulmonary fibrosis 1·47 [1·12-1·92], other interstitial lung disease 2·05 [1·49-2·81], and lung cancer 1·77 [1·37-2·29]) due to COVID-19 compared with those without these diseases. Admission to ICU was rare, but the HR for people with asthma was 1·08 (0·93-1·25) and severe asthma was 1·30 (1·08-1·58). In a post-hoc analysis, relative risks of severe COVID-19 in people with respiratory disease were similar before and after shielding was introduced on March 23, 2020. In another post-hoc analysis, people with two or more prescriptions for ICS in the 150 days before study start were at a slightly higher risk of severe COVID-19 compared with all other individuals (ie, no or one ICS prescription): HR 1·13 (1·03-1·23) for hospitalisation, 1·63 (1·18-2·24) for ICU admission, and 1·15 (1·01-1·31) for death. The risk of severe COVID-19 in people with asthma is relatively small. People with COPD and interstitial lung disease appear to have a modestly increased risk of severe disease, but their risk of death from COVID-19 at the height of the epidemic was mostly far lower than the ordinary risk of death from any cause. Use of inhaled steroids might be associated with a modestly increased risk of severe COVID-19. National Institute for Health Research Oxford Biomedical Research Centre and the Wellcome Trust.",
+  "year": 2021,
+  "authors": [
+    "Paul Aveyard",
+    "Min Gao",
+    "Nicola Lindson",
+    "Jamie Hartmann-Boyce",
+    "Peter Watkinson",
+    "Duncan Young",
+    "Carol A C Coupland",
+    "Pui San Tan",
+    "Ashley K Clift",
+    "David Harrison",
+    "Doug W Gould",
+    "Ian D Pavord",
+    "Julia Hippisley-Cox"
+  ],
+  "journal": "The Lancet. Respiratory medicine",
+  "doi": "10.1016/S2213-2600(21)00095-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33812494/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "33812494"
+  }
+}

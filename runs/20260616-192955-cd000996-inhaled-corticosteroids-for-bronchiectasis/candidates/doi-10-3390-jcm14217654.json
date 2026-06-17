@@ -1,0 +1,23 @@
+{
+  "source": "pubmed",
+  "source_id": "41227050",
+  "title": "Inhaled Corticosteroids and the Risk of Lung Cancer in Patients with Bronchiectasis.",
+  "abstract": "Background/Objectives: Prescribing inhaled corticosteroids (ICS) to patients with bronchiectasis may be controversial. Studies investigating the association between ICS and the risk of lung cancer in patients with bronchiectasis are rare. Methods: Patients with bronchiectasis were enrolled from the National Sample Cohort Data of the National Health Insurance Service (NHIS-NSC) in Korea. Among them, patients with lung cancer were selected as the case group, and the control group was selected by matching the patient group with the propensity score at 1:5 for age, sex, and recruitment year. Kaplan-Meier analysis and Cox proportional hazards model analysis were performed to determine the risk of lung cancer associated with ICS use in patients with bronchiectasis. In addition, ICS dose-response analysis was performed to determine the risk of lung cancer in patients with bronchiectasis. Results: A total of 19,043 patients with bronchiectasis were included in the study. In patients with bronchiectasis, ICS use was associated with an increased risk of lung cancer. After adjusting for age, sex, pack-years of smoking, body mass index (BMI), household income, region of residence, and Charlson comorbidity index (CCI), ICS use was found to be significantly associated with an increased risk of lung cancer (aHR 1.40, 95% CI 1.17 to 1.67). Furthermore, we found that the cumulative incidence of lung cancer increased with the cumulative dose of ICS in patients with bronchiectasis. Subgroup analysis of lung cancer risk in patients with bronchiectasis using ICS showed that the risk of lung cancer was significantly higher in those aged 70 years or older, male, with a BMI of 23 kg/m2 or higher, with a history of smoking, with a higher number of pack-years of smoking, and with a higher CCI. Conclusions: In patients with bronchiectasis, the use of ICS is associated with an increased risk of lung cancer, which is affected by the cumulative dose of ICS.",
+  "year": 2025,
+  "authors": [
+    "Chaiyoung Lee",
+    "Ga Young Lee",
+    "Jiyoung Shin",
+    "Ji Young Lee",
+    "Jin Hwa Lee"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm14217654",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41227050/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41227050"
+  }
+}

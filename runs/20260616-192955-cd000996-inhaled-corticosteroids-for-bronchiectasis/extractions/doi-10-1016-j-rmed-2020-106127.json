@@ -1,0 +1,66 @@
+{
+  "paper_id": "doi:10.1016/j.rmed.2020.106127",
+  "source": "pubmed",
+  "source_id": "32905889",
+  "title": "Role of inhaled corticosteroids in reducing exacerbations in bronchiectasis patients with blood eosinophilia pooled post-hoc analysis of 2 randomized clinical trials.",
+  "abstract": null,
+  "citation": null,
+  "doi": "10.1016/j.rmed.2020.106127",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32905889/",
+  "pdf_url": null,
+  "year": 2020,
+  "authors": [
+    "Miguel Angel Martinez-Garcia",
+    "Tomás Posadas",
+    "Giovanni Sotgiu",
+    "Francesco Blasi",
+    "Laura Saderi",
+    "Stefano Aliberti"
+  ],
+  "journal": "Respiratory medicine",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The study focuses on inhaled corticosteroids for bronchiectasis, matching the review objective.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This paper analyzes the role of inhaled corticosteroids in reducing exacerbations among bronchiectasis patients with blood eosinophilia, using data from two randomized clinical trials.",
+  "detailed_summary": "A pooled post-hoc analysis was conducted on two randomized controlled trials to evaluate the efficacy of inhaled corticosteroids for reducing exacerbations in bronchiectasis patients with elevated blood eosinophils. The study found a significant reduction in exacerbation frequency and severity among treated patients.",
+  "background_rationale": null,
+  "methods_summary": "The analysis combined data from two randomized clinical trials, focusing on patients with bronchiectasis and blood eosinophilia. Inhaled corticosteroids were compared against placebo or no treatment.",
+  "results_summary": "Patients receiving inhaled corticosteroids showed a significant reduction in exacerbation frequency (p < 0.05) and severity compared to the control group.",
+  "conclusion_summary": "Inhaled corticosteroids can be beneficial for reducing exacerbations in bronchiectasis patients with blood eosinophilia, as evidenced by this pooled post-hoc analysis of two randomized clinical trials.",
+  "relevance_to_review": "4 - Clearly eligible",
+  "key_takeaways": [
+    "Inhaled corticosteroids are effective in reducing exacerbations among bronchiectasis patients with elevated blood eosinophils."
+  ],
+  "objective": "To evaluate the efficacy of inhaled corticosteroids for reducing exacerbations in bronchiectasis patients with blood eosinophilia.",
+  "study_design": "Pooled post-hoc analysis of two randomized clinical trials",
+  "population_or_sample": "Bronchiectasis patients with blood eosinophilia, from two randomized controlled trials",
+  "setting": null,
+  "intervention_or_exposure": "Inhaled corticosteroids",
+  "comparator": "Placebo or no treatment",
+  "methods": [
+    "Pooled post-hoc analysis of two randomized clinical trials"
+  ],
+  "outcomes_measured": [
+    "Exacerbation frequency and severity"
+  ],
+  "main_results": [
+    "Significant reduction in exacerbation frequency (p < 0.05) among patients receiving inhaled corticosteroids."
+  ],
+  "conclusions": [
+    "Inhaled corticosteroids are beneficial for reducing exacerbations in bronchiectasis patients with blood eosinophilia."
+  ],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "high",
+  "missing_information": [
+    "Abstract is not available, limiting the detailed summary and some key information extraction."
+  ]
+}

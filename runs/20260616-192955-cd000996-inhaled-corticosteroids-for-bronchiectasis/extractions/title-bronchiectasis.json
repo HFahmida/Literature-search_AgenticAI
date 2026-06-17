@@ -1,0 +1,60 @@
+{
+  "paper_id": "title:bronchiectasis.",
+  "source": "pubmed",
+  "source_id": "25715965",
+  "title": "Bronchiectasis.",
+  "abstract": "Bronchiectasis is usually a complication of previous lower respiratory infection and/or inflammation. It causes chronic cough, copious production of sputum (often purulent), and recurrent infections, and may cause airway obstruction bearing some similarities with that seen in COPD. It may complicate respiratory conditions such as asthma or COPD. It can be associated with primary ciliary dyskinesia, primary immunodeficiencies, certain systemic diseases such as inflammatory bowel disease and rheumatoid arthritis, and foreign body inhalation. Bronchiectasis can be due to cystic fibrosis but this is excluded from this review. We conducted a systematic review and aimed to answer the following clinical question: What are the effects of treatments in people with non-cystic fibrosis (non-CF) bronchiectasis? We searched: Medline, Embase, The Cochrane Library, and other important databases up to January 2014 (Clinical Evidence reviews are updated periodically; please check our website for the most up-to-date version of this review). We included harms alerts from relevant organisations such as the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare products Regulatory Agency (MHRA). We performed a GRADE evaluation of the quality of evidence for interventions. We found 23 studies that met our inclusion criteria. In this systematic review we present information relating to the effectiveness and safety of the following interventions: airway clearance techniques, corticosteroids (inhaled), exercise or physical training, hyperosmolar agents (inhaled), mucolytics, prolonged-use antibiotics, and surgery.",
+  "citation": null,
+  "doi": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25715965/",
+  "pdf_url": null,
+  "year": 2015,
+  "authors": [
+    "Cecile Magis-Escurra",
+    "Monique He Reijers"
+  ],
+  "journal": "BMJ clinical evidence",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper provides a systematic review of treatments for non-cystic fibrosis bronchiectasis, including inhaled corticosteroids.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This paper reviews various interventions for managing non-cystic fibrosis bronchiectasis, focusing on airway clearance techniques and inhaled corticosteroids.",
+  "detailed_summary": "The study provides a comprehensive review of treatments for non-cystic fibrosis bronchiectasis, including the use of inhaled corticosteroids. It covers various interventions such as airway clearance techniques, exercise or physical training, hyperosmolar agents, mucolytics, prolonged-use antibiotics, and surgery.",
+  "background_rationale": null,
+  "methods_summary": "A systematic review was conducted using Medline, Embase, The Cochrane Library, and other databases up to January 2014. The quality of evidence for interventions was evaluated using the GRADE method.",
+  "results_summary": "The paper presents information on the effectiveness and safety of various treatments including inhaled corticosteroids, but specific results are not detailed in the abstract.",
+  "conclusion_summary": "",
+  "relevance_to_review": "Central paper",
+  "key_takeaways": [
+    "Reviews non-cystic fibrosis bronchiectasis treatments",
+    "Includes inhaled corticosteroids among interventions"
+  ],
+  "objective": "To answer the clinical question: What are the effects of treatments in people with non-cystic fibrosis (non-CF) bronchiectasis?",
+  "study_design": "Systematic review",
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": "Inhaled corticosteroids, among other interventions",
+  "comparator": null,
+  "methods": [
+    "Search of Medline, Embase, The Cochrane Library, and other databases up to January 2014",
+    "GRADE evaluation of the quality of evidence for interventions"
+  ],
+  "outcomes_measured": [
+    "Effectiveness and safety of treatments"
+  ],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Specific results for inhaled corticosteroids"
+  ]
+}

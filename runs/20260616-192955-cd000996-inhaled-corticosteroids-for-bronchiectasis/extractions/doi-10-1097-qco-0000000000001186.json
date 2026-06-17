@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi:10.1097/QCO.0000000000001186",
+  "source": "pubmed",
+  "source_id": "41593454",
+  "title": "Anti-inflammatory therapies for bronchiectasis.",
+  "abstract": "Bronchiectasis is a condition that is characterized by chronic airway inflammation and usually infection, resulting in progressive airway damage. It results in a significant symptom burden and impacts both clinical and socioeconomic aspect of a patient's life. This review will detail anti-inflammatory treatment options for bronchiectasis, their benefits and possible side effects. Inflammation is the main driver of bronchiectasis disease progression and has been the focus of research for many years. Inhaled corticosteroids, though not routinely recommended in guidelines, are still commonly used even in patients without other indication for treatment such as asthma, chronic obstructive pulmonary disease (COPD) and allergic bronchopulmonary aspergillosis (ABPA), despite their association with some worsened outcomes. Macrolides, on the other hand, have been shown to decrease frequency of exacerbation and improve quality of life. The dipeptidyl peptidase-1 inhibitor, brensocatib, inhibits activation of neutrophil serine proteases, including neutrophil elastase. In a phase 3 trial, brensocatib decreased the frequency of exacerbation, delayed time to first exacerbation, slowed the decline in lung function and improved quality of life. It recently became the first pharmacologic treatment approved by the U.S. Food and Drug Administration (FDA) for the treatment of bronchiectasis. Other treatment options are being investigated. Anti-inflammatory therapy is one of the integral components of treatment for people with bronchiectasis.",
+  "citation": null,
+  "doi": "10.1097/QCO.0000000000001186",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41593454/",
+  "pdf_url": null,
+  "year": 2026,
+  "authors": [
+    "Jennifer Bautista",
+    "Mark L Metersky"
+  ],
+  "journal": "Current opinion in infectious diseases",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "The paper discusses anti-inflammatory therapies for bronchiectasis, including inhaled corticosteroids.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This review article covers various anti-inflammatory treatments for bronchiectasis, focusing on their benefits and side effects.",
+  "detailed_summary": "The paper reviews anti-inflammatory therapies for bronchiectasis, highlighting inhaled corticosteroids as commonly used despite limited evidence. Macrolides are noted to reduce exacerbations and improve quality of life. Brensocatib, a new inhibitor, showed promising results in reducing exacerbation frequency and improving lung function.",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "4 = clearly eligible",
+  "key_takeaways": [
+    "Inhaled corticosteroids are commonly used but not routinely recommended for bronchiectasis.",
+    "Macrolides have shown benefits in reducing exacerbations and improving quality of life.",
+    "Brensocatib, a new anti-inflammatory therapy, demonstrated positive outcomes."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "study design, population or sample details, specific methods, detailed outcomes and conclusions"
+  ]
+}

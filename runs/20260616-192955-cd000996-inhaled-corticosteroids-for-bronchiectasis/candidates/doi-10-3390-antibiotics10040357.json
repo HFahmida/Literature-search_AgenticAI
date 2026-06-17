@@ -1,0 +1,20 @@
+{
+  "source": "pubmed",
+  "source_id": "33800658",
+  "title": "Allergic Diseases Caused by",
+  "abstract": "Aspergillus spp. are spore forming molds; a subset of which are clinically relevant to humans and can cause significant morbidity and mortality. A. fumigatus causes chronic infection in patients with chronic lung disease such as asthma, chronic obstructive pulmonary disease (COPD) and cystic fibrosis (CF). In patients with CF, A. fumigatus infection can lead to allergic disease, such as allergic bronchopulmonary aspergillosis (ABPA) which is associated with high rates of hospitalizations for acute exacerbations and lower lung function. ABPA results from TH2 immune response to Aspergillus antigens produced during hyphal growth, marked by high levels of IgE and eosinophil activation. Clinically, patients with ABPA experience difficulty breathing; exacerbations of disease and are at high risk for bronchiectasis and lung fibrosis. Oral corticosteroids are used to manage aspects of the inflammatory response and antifungal agents are used to reduce fungal burden and lower the exposure to fungal antigens. As the appreciation for the severity of fungal infections has grown, new therapies have emerged that aim to improve treatment and outcomes for patients with CF.",
+  "year": 2021,
+  "authors": [
+    "Aidan K Curran",
+    "David L Hava"
+  ],
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics10040357",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33800658/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "33800658"
+  }
+}

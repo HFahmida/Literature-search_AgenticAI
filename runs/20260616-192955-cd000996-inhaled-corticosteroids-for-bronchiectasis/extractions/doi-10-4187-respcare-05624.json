@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi:10.4187/respcare.05624",
+  "source": "pubmed",
+  "source_id": "28559466",
+  "title": "Inhaled Drug Therapy 2016: The Year in Review.",
+  "abstract": "Some recent salient publications related to inhaled drug therapy are discussed. Unexpectedly, a 2.5-μg once-daily dose of tiotropium (Respimat) had greater efficacy than the 5.0-μg daily dose. Occurrence of a reverse dose response serves to caution us that administering more drug is not always beneficial. Small-airway inflammation contributes to pathogenesis of asthma, especially severe asthma. However, there is no conclusive evidence that the use of small-particle aerosols to target small airways improves clinical outcomes in controlled clinical trials. Clinical outcomes of patients with symptomatic asthma have been better in \"real-life\" studies when fine-particle aerosols were compared with conventional (large-particle) aerosols. In subjects with COPD, the FLAME study indicates that a long-acting antimuscarinic agent/long-acting β-agonist combination was superior to an inhaled corticosteroid/long-acting β-agonist combination in preventing exacerbations. Another study in children with asthma and adults with asthma or COPD showed that peak inhalation flow must be considered in the context of the dry powder inhaler resistance. Investigators from the United Kingdom have shown modest success in replacing the defective cystic fibrosis transmembrane regulator gene in subjects with cystic fibrosis with a plasmid encoding the normal cystic fibrosis transmembrane regulator gene packaged within a non-viral vector. Also, inhaled antibiotics in patients with non-cystic fibrosis bronchiectasis and inhaled interferon-γ in patients with idiopathic pulmonary fibrosis have shown encouraging results but are investigational at this time. Compared to combustion cigarettes, use of e-cigarettes reduces exposure to carcinogens and volatile organic compounds. However, high levels of benzaldehyde in the vapor from cherry-flavored cigarettes raise concerns about the safety of some food flavorings in e-cigarettes.",
+  "citation": null,
+  "doi": "10.4187/respcare.05624",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28559466/",
+  "pdf_url": null,
+  "year": 2017,
+  "authors": [
+    "Rajiv Dhand"
+  ],
+  "journal": "Respiratory care",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "maybe",
+    "reason": "The paper discusses inhaled corticosteroids but does not focus on bronchiectasis.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": [
+      "Records without enough bibliographic information for screening."
+    ]
+  },
+  "overall_concept_summary": "This review article covers various aspects of inhaled drug therapy, including corticosteroids, but does not specifically address bronchiectasis.",
+  "detailed_summary": "The paper reviews recent publications on inhaled drug therapies. It mentions a study indicating that lower doses of tiotropium may be more effective than higher doses and discusses the challenges in targeting small airways with aerosols for asthma treatment. The review also highlights the FLAME study, which found that long-acting antimuscarinic agents/long-acting β-agonists were superior to corticosteroid/long-acting β-agonist combinations in preventing COPD exacerbations.",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The paper is tangentially relevant as it discusses corticosteroids, but does not focus on bronchiectasis.",
+  "key_takeaways": [
+    "Lower doses of tiotropium may be more effective than higher doses.",
+    "There is no conclusive evidence that small-particle aerosols improve clinical outcomes in asthma."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Unexpectedly, a 2.5-μg once-daily dose of tiotropium (Respimat) had greater efficacy than the 5.0-μg daily dose."
+  ],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Specific details on inhaled corticosteroids for bronchiectasis are not provided."
+  ]
+}

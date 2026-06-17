@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi:10.1136/bmjopen-2023-071906",
+  "source": "pubmed",
+  "source_id": "37562935",
+  "title": "Dual bronchodilators in Bronchiectasis study (DIBS): protocol for a pragmatic, multicentre, placebo-controlled, three-arm, double-blinded, randomised controlled trial studying bronchodilators in preventing exacerbations of bronchiectasis.",
+  "abstract": "Bronchiectasis is a long-term lung condition, with dilated bronchi, chronic inflammation, chronic infection and acute exacerbations. Recurrent exacerbations are associated with poorer clinical outcomes such as increased severity of lung disease, further exacerbations, hospitalisations, reduced quality of life and increased risk of death. Despite an increasing prevalence of bronchiectasis, there is a critical lack of high-quality studies into the disease and no treatments specifically approved for its treatment. This trial aims to establish whether inhaled dual bronchodilators (long acting beta agonist (LABA) and long acting muscarinic antagonist (LAMA)) taken as either a stand-alone therapy or in combination with inhaled corticosteroid (ICS) reduce the number of exacerbations of bronchiectasis requiring treatment with antibiotics during a 12 month treatment period. This is a multicentre, pragmatic, double-blind, randomised controlled trial, incorporating an internal pilot and embedded economic evaluation. 600 adult patients (≥18 years) with CT confirmed bronchiectasis will be recruited and randomised to either inhaled dual therapy (LABA+LAMA), triple therapy (LABA+LAMA+ICS) or matched placebo, in a 2:2:1 ratio (respectively). The primary outcome is the number of protocol defined exacerbations requiring treatment with antibiotics during the 12 month treatment period. Favourable ethical opinion was received from the North East-Newcastle and North Tyneside 2 Research Ethics Committee (reference: 21/NE/0020). Results will be disseminated in peer-reviewed publications, at national and international conferences, in the NIHR Health Technology Assessments journal and to participants and the public (using lay language). ISRCTN15988757.",
+  "citation": null,
+  "doi": "10.1136/bmjopen-2023-071906",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37562935/",
+  "pdf_url": null,
+  "year": 2023,
+  "authors": [
+    "Miranda Morton",
+    "Nina Wilson",
+    "Tara Marie Homer",
+    "Laura Simms",
+    "Alison Steel",
+    "Rebecca Maier",
+    "James Wason",
+    "Laura Ternent",
+    "Alaa Abouhajar",
+    "Maria Allen",
+    "Richard Joyce",
+    "Victoria Hildreth"
+  ],
+  "journal": "BMJ open",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The study focuses on dual bronchodilators (LABA and LAMA) in combination with or without ICS, which is not directly related to the review objective of inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "Dual bronchodilators in Bronchiectasis study (DIBS): protocol for a pragmatic, multicentre, placebo-controlled, three-arm, double-blinded, randomised controlled trial studying bronchodilators in preventing exacerbations of bronchiectasis.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "",
+  "key_takeaways": [],
+  "objective": "To establish whether inhaled dual bronchodilators (LABA and LAMA) taken as either a stand-alone therapy or in combination with ICS reduce the number of exacerbations of bronchiectasis requiring treatment with antibiotics during a 12 month treatment period.",
+  "study_design": "Multicentre, pragmatic, double-blind, randomised controlled trial",
+  "population_or_sample": "600 adult patients (≥18 years) with CT confirmed bronchiectasis",
+  "setting": null,
+  "intervention_or_exposure": "Inhaled dual therapy (LABA+LAMA), triple therapy (LABA+LAMA+ICS), or matched placebo",
+  "comparator": "Matched placebo",
+  "methods": [
+    "Randomised controlled trial",
+    "Double-blind",
+    "Internal pilot",
+    "Embedded economic evaluation"
+  ],
+  "outcomes_measured": [
+    "Number of protocol defined exacerbations requiring treatment with antibiotics during the 12 month treatment period"
+  ],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "Detailed results and conclusions are not available in the abstract."
+  ]
+}

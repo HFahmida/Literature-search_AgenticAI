@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi:10.7759/cureus.27132",
+  "source": "pubmed",
+  "source_id": "36017299",
+  "title": "Can Phosphodiesterase 4 Inhibitor Therapy Be Used in Respiratory Diseases Other Than Chronic Obstructive Pulmonary Disease?",
+  "abstract": "Selective phosphodiesterase 4 (PDE4) inhibitors have been extensively studied for the treatment of various respiratory diseases due to their broad anti-inflammatory and/or bronchodilator effects. Roflumilast, an oral selective PDE4 inhibitor, is currently used as a second-line treatment in patients with chronic obstructive pulmonary disease (COPD) with chronic bronchitis. Despite its proven efficacy in other respiratory disorders, including asthma, no other PDE4 inhibitor is approved for respiratory pathologies. This systematic review summarizes the therapeutic action of PDE4 inhibitors, their limitations, recent therapeutic success, and future targets for their use in respiratory diseases other than COPD. An electronic literature search was conducted on four databases, namely, PubMed, PubMed Central, Google Scholar, and ScienceDirect, to collect data on related studies done in humans and published in the English language in the last five years. After extensive analysis and quality appraisal, 11 studies were eligible and thus included in this review, consisting of two randomized controlled trials (RCT), one systematic review and meta-analysis, and eight literature reviews. Roflumilast is not approved for the treatment of asthma due to associated adverse effects and comparable efficacy to inhaled corticosteroids, which are considered the mainstay of asthma maintenance therapy. Hence, the importance of balancing the efficacy with minimizing the side effects is highlighted. Tanimilast (CHF6001), an inhalational selective PDE4 inhibitor, and ensifentrine, a combined PDE3/4 inhibitor, demonstrate the recent therapeutic success in asthma and warrant further large-scale clinical studies. Future researchers will focus on the specific endotype than the phenotype in asthma as a meaningful therapeutic approach due to the high heterogeneity noted in asthma. Current evidence suggests the possibility of PDE4 inhibitors as a novel therapeutic option for chronic cough, allergic rhinitis, and cystic fibrosis. Further evidence from new studies is eagerly anticipated to better understand the efficacy and safety of PDE4 inhibitors in these respiratory diseases.",
+  "citation": null,
+  "doi": "10.7759/cureus.27132",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36017299/",
+  "pdf_url": null,
+  "year": 2022,
+  "authors": [
+    "Mastiyage R Goonathilake",
+    "Sara Waqar",
+    "Sheeba George",
+    "Wilford Jean-Baptiste",
+    "Amina Yusuf Ali",
+    "Bithaiah Inyang",
+    "Feeba Sam Koshy",
+    "Kitty George",
+    "Prakar Poudel",
+    "Roopa Chalasani",
+    "Lubna Mohammed"
+  ],
+  "journal": null,
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The paper focuses on phosphodiesterase 4 inhibitors and their use in respiratory diseases other than COPD, which is not directly relevant to the review of inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "Can Phosphodiesterase 4 Inhibitor Therapy Be Used in Respiratory Diseases Other Than Chronic Obstructive Pulmonary Disease?",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No relevant information for the review of inhaled corticosteroids for bronchiectasis."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "paper_id": "doi:10.1177/20420986241279213",
+  "source": "pubmed",
+  "source_id": "39372891",
+  "title": "Safety profile of drugs used in non-cystic fibrosis bronchiectasis: a narrative review.",
+  "abstract": "Non-cystic fibrosis bronchiectasis is a long-term lung disease characterised by abnormal dilatation of the bronchi, with patients experiencing chronic productive cough and recurrent exacerbations. Currently, there are no licensed drugs for use in bronchiectasis while clinical trials have been conducted to either test new drugs or repurpose existing ones. These drugs target the underlying pathophysiology of bronchiectasis which is known to include infection, inflammation, mucus hypersecretion and retention. Most of the drugs used in daily clinical practice for bronchiectasis are off-label with no randomised trials exploring their safety. This review aims at exploring the safety profile of drugs frequently used in clinical practice to manage bronchiectasis, including antibiotics (e.g. macrolides, aminoglycosides, polymyxins, fluoroquinolones, aztreonam), mucoactive therapy (e.g. hypertonic saline, mannitol, DNase and carbocisteine), anti-inflammatory therapy (inhaled corticosteroids) and drugs currently in development for use in bronchiectasis (e.g. brensocatib, benralizumab and itepekimab).",
+  "citation": null,
+  "doi": "10.1177/20420986241279213",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39372891/",
+  "pdf_url": null,
+  "year": 2024,
+  "authors": [
+    "Henil Upadhyay",
+    "Stefano Aliberti",
+    "Andrew Husband",
+    "James D Chalmers",
+    "Katy Hester",
+    "Anthony De Soyza"
+  ],
+  "journal": "Therapeutic advances in drug safety",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "The review includes a discussion on inhaled corticosteroids for bronchiectasis, which is relevant to the CLEF TAR topic.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This narrative review explores the safety profile of various drugs used in managing non-cystic fibrosis bronchiectasis, including inhaled corticosteroids.",
+  "detailed_summary": "The paper provides a comprehensive overview of the safety profiles of different medications used for non-cystic fibrosis bronchiectasis. It includes a section on inhaled corticosteroids, which are discussed as part of anti-inflammatory therapy. The review highlights that most drugs used clinically for bronchiectasis are off-label and lack randomized trials exploring their safety.",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The paper is relevant as it discusses inhaled corticosteroids, which are a key intervention for bronchiectasis.",
+  "key_takeaways": [
+    "Inhaled corticosteroids are part of the anti-inflammatory therapy discussed in the review.",
+    "Most drugs used clinically for bronchiectasis lack randomized safety trials."
+  ],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "No specific details on the safety or efficacy of inhaled corticosteroids are provided in the abstract."
+  ]
+}

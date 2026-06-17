@@ -1,0 +1,68 @@
+{
+  "paper_id": "doi:10.1002/14651858.cd002162",
+  "source": "pubmed",
+  "source_id": "11687146",
+  "title": "Oral steroids for bronchiectasis (stable and acute exacerbations).",
+  "abstract": "Inflammation plays a significant role in the pathophysiology of bronchiectasis. Two small studies have shown small benefits from inhaled corticosteroids and oral corticosteroids may be of benefit in bronchiectasis To determine the efficacy of oral corticosteroids in acute and stable bronchiectasis The Cochrane Airways Group clinical trials register, derived from MEDLINE, EMBASE and hand searching of major journals, was searched using the terms bronchiectasis AND corticosteroid* OR (beclomethasone, cortisone, deflazacort, hydrocortisone, methylprednisolone, prednisolone, dexamethasone and triamcinolone Only randomised controlled trials were considered No trials met the inclusion criteria for the review No randomised controlled trials were identified There are no randomised trials upon which to make recommendations about the use of oral corticosteroids in acute or stable bronchiectasis.",
+  "citation": null,
+  "doi": "10.1002/14651858.CD002162",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11687146/",
+  "pdf_url": null,
+  "year": 2001,
+  "authors": [
+    "T Lasserson",
+    "K Holt",
+    "M Greenstone"
+  ],
+  "journal": "The Cochrane database of systematic reviews",
+  "screening": {
+    "relevance_score": 3,
+    "decision": "include",
+    "reason": "Eligible but limited due to lack of randomized controlled trials.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "This systematic review evaluates the efficacy of oral corticosteroids in managing acute and stable bronchiectasis, focusing on randomized controlled trials.",
+  "detailed_summary": "The study searched for randomized controlled trials evaluating oral corticosteroids for bronchiectasis but found none. It suggests that while there is some evidence from small studies supporting the use of inhaled corticosteroids, no randomized trials exist to make recommendations regarding oral corticosteroid use.",
+  "background_rationale": null,
+  "methods_summary": "The review searched major databases using specific terms related to bronchiectasis and corticosteroids. Only randomised controlled trials were considered for inclusion.",
+  "results_summary": "No randomized controlled trials met the inclusion criteria, indicating a lack of evidence supporting oral corticosteroid use in managing acute or stable bronchiectasis.",
+  "conclusion_summary": "Due to the absence of randomized controlled trials, no recommendations can be made regarding the use of oral corticosteroids for bronchiectasis management.",
+  "relevance_to_review": "Tangentially relevant as it addresses a key intervention (oral corticosteroids) in managing bronchiectasis but lacks sufficient evidence from RCTs.",
+  "key_takeaways": [
+    "No randomized controlled trials were found to evaluate the use of oral corticosteroids for bronchiectasis management."
+  ],
+  "objective": null,
+  "study_design": "Systematic review",
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": "Oral corticosteroids",
+  "comparator": null,
+  "methods": [
+    "Search of major databases using specific terms related to bronchiectasis and corticosteroids.",
+    "Inclusion criteria: Randomized controlled trials."
+  ],
+  "outcomes_measured": [],
+  "main_results": [
+    "No randomized controlled trials were identified for inclusion in the review."
+  ],
+  "conclusions": [
+    "Due to the absence of RCTs, no recommendations can be made regarding oral corticosteroid use in bronchiectasis management."
+  ],
+  "limitations": [
+    "Lack of randomized controlled trials limits the strength of evidence.",
+    "The search was comprehensive but may have missed unpublished or non-indexed studies."
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "No randomised controlled trials were identified for the review."
+  ],
+  "extraction_confidence": "medium",
+  "missing_information": [
+    "Population characteristics and sample size details are not provided.",
+    "Detailed outcome measures and results are missing."
+  ]
+}

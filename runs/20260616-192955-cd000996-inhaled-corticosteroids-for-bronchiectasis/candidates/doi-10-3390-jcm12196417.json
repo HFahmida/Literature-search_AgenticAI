@@ -1,0 +1,26 @@
+{
+  "source": "pubmed",
+  "source_id": "37835060",
+  "title": "Bronchiectasis-COPD Overlap Syndrome: Role of Peripheral Eosinophil Count and Inhaled Corticosteroid Treatment.",
+  "abstract": "Both chronic obstructive pulmonary disease and bronchiectasis are highly prevalent diseases. In both cases, inhaled corticosteroids (ICs) are associated with a decrease in exacerbations in patients with a high peripheral blood eosinophil count (BEC), but it is still not known what occurs in bronchiectasis-COPD overlap syndrome (BCOS). The present study aimed to assess the effect of ICs on various outcomes in patients with BCOS, according to BEC values. We undertook a post-hoc analysis of a cohort of 201 GOLD II-IV COPD patients with a long-term follow-up (median 74 [IQR: 40-106] months). All participants underwent computerized tomography and 115 (57.2%) had confirmed BCOS. A standardized clinical protocol was followed and two sputum samples were collected at each medical visit (every 3-6 months), whenever possible. During follow-up, there were 68 deaths (59.1%), and the mean rate of exacerbations and hospitalizations per year was 1.42 (1.2) and 0.57 (0.83), respectively. A total of 44.3% of the patients presented at least one pneumonic episode per year. The mean value of eosinophils was 402 (112) eosinophils/µL, with 27 (23.5%), 63 (54.8%), and 25 patients (21.7%) presenting, respectively, less than 100, 101-300, and more than 300 eosinophils/µL. A total of 84 patients (73.1%) took ICs. The higher the BEC, the higher the annual rate of exacerbations and hospitalizations. Patients with less than 100 eosinophils/µL presented more infectious events (incident exacerbations, pneumonic episodes, and chronic bronchial infection via pathogenic bacteria). Only those patients with eosinophilia (>300 eosinophils/µL) treated with ICs decreased the number (1.77 (1.2) vs. 1.08 (0.6), p < 0.001) and the severity (0.67 (0.8) vs. 0.35 (0.5), p = 0.011) of exacerbations, without any changes in the other infectious outcomes or mortality. In conclusion, ICs treatment in patients with BCOS with increased BEC decreased the number and severity of incident exacerbations without any negative influence on other infectious outcomes (incidence of pneumonia or chronic bronchial infection).",
+  "year": 2023,
+  "authors": [
+    "Grace Oscullo",
+    "Jose Daniel Gómez-Olivas",
+    "Marina Ingles",
+    "Sergio Mompean",
+    "Rosalia Martinez-Perez",
+    "Guillermo Suarez-Cuartin",
+    "David la Rosa-Carrillo",
+    "Miguel Angel Martinez-Garcia"
+  ],
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm12196417",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37835060/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "37835060"
+  }
+}

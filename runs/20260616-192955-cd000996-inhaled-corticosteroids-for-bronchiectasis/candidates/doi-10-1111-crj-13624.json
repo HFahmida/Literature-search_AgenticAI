@@ -1,0 +1,23 @@
+{
+  "source": "pubmed",
+  "source_id": "37186375",
+  "title": "Blood eosinophil percentage as a predictor of response to inhaled corticosteroid in bronchiectasis.",
+  "abstract": "The role of inhaled corticosteroid (ICS) among patients with bronchiectasis remains controversial. There is limited evidence of using baseline eosinophil count (absolute and percentage) as a marker to predict the role of ICS among patients with bronchiectasis. A retrospective case-control study was conducted in a major regional hospital and tertiary respiratory referral centre in Hong Kong, including 140 Chinese patients with noncystic fibrosis (CF) bronchiectasis, to investigate the exacerbation risks of bronchiectasis among ICS users and nonusers with different baseline eosinophil counts. ICS user had significantly lower risk to develop bronchiectasis exacerbation with adjusted odds ratio (OR) of 0.461 (95% confidence interval [CI] 0.225-0.945, p-value 0.035). Univariate logistic regression was performed for different cut-offs of blood eosinophil count (by percentage) from 2% to 4% (with a 0.5% grid each time). Baseline eosinophil 3.5% was found to be the best cut-off among all with adjusted OR of 0.138 (95% CI = 0.023-0.822, p-value = 0.030). Baseline eosinophil count of 3.5% might serve as a marker to predict the benefits of ICS on exacerbation risk among patients with non-CF bronchiectasis.",
+  "year": 2023,
+  "authors": [
+    "Wang Chun Kwok",
+    "Terence Chi Chun Tam",
+    "David Chi Leung Lam",
+    "Mary Sau Man Ip",
+    "James Chung Man Ho"
+  ],
+  "journal": "The clinical respiratory journal",
+  "doi": "10.1111/crj.13624",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37186375/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "37186375"
+  }
+}

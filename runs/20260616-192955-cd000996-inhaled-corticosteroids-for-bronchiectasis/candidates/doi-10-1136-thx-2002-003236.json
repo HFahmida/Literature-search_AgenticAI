@@ -1,0 +1,29 @@
+{
+  "source": "pubmed",
+  "source_id": "15741443",
+  "title": "Inhaled fluticasone in bronchiectasis: a 12 month study.",
+  "abstract": "The clinical efficacy of inhaled corticosteroid (ICS) treatment has not been evaluated in bronchiectasis, despite the presence of chronic airway inflammation. After three consecutive weekly visits, 86 patients were randomised to receive either fluticasone 500 mug twice daily (n = 43, 23F, mean (SD) age 57.7 (14.4) years) or matched placebo (n = 43, 34F, 59.2 (14.2) years) and reviewed regularly for 52 weeks in a double blind fashion. 35 and 38 patients in the fluticasone and placebo groups completed the study. Significantly more patients on ICS than on placebo showed improvement in 24 hour sputum volume (OR 2.5, 95% CI 1.1 to 6.0, p = 0.03) but not in exacerbation frequency, forced expiratory volume in 1 second, forced vital capacity, or sputum purulence score. Significantly more patients with Pseudomonas aeruginosa infection receiving fluticasone showed improvement in 24 hour sputum volume (OR 13.5, 95% CI 1.8 to 100.2, p = 0.03) and exacerbation frequency (OR 13.3, 95% CI 1.8 to 100.2, p = 0.01) than those given placebo. Logistic regression models revealed a significantly better response in sputum volume with fluticasone treatment than with placebo among subgroups of patients with 24 hour sputum volume 5 (p = 0.03). ICS treatment is beneficial to patients with bronchiectasis, particularly those with P. aerurginosa infection.",
+  "year": 2005,
+  "authors": [
+    "K W Tsang",
+    "K C Tan",
+    "P L Ho",
+    "G C Ooi",
+    "J C Ho",
+    "J Mak",
+    "G L Tipoe",
+    "C Ko",
+    "C Yan",
+    "W K Lam",
+    "M Chan-Yeung"
+  ],
+  "journal": "Thorax",
+  "doi": "10.1136/thx.2002.003236",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15741443/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "15741443"
+  }
+}

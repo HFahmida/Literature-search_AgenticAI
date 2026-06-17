@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "source_id": "40066862",
+  "title": "Sputum microbiology data and related clinical outcomes among adult Aboriginal Australians with bronchiectasis.",
+  "abstract": "Sputum microbiology is an integral aspect of managing patients with bronchiectasis. Adult Aboriginal Australians have a high bronchiectasis disease burden; however, as yet there is sparce literature detailing the sputum microbiology profile in this population. To assess the sputum microbiology profile among Aboriginal patients aged ≥18 years with chest computed tomography-confirmed bronchiectasis in the Top End Northern Territory of Australia. All available sputum samples processed in a single laboratory service with established protocols for examining and reporting sputum microbiology results between 2011 through 2020 were assessed in relation to demographics, lung function parameters, chest radiology, inhaled pharmacotherapy, hospital admissions restricted to respiratory conditions and all-cause mortality. Four hundred twenty-eight patients (median age 47 years, 56% female) had sputum cultures available to assess. Haemophilus spp. was the most common (64%), followed by yeast/Candida spp. (53%) and Pseudomonas spp. (36%). Polymicrobial cultures were noted in 92% of patients. There were significant geographic differences on a region-wise and community-wise basis. Patients with yeast/Candida spp. and Pseudomonas spp. recorded more hospitalisations (median 7 (interquartile range (IQR) 3-14) and 8 (IQR 4-16)). In multivariate models, both yeast/Candida spp. (odds ratio (OR) 2.63 (95% confidence interval (CI) 1.68-4.14)) and Pseudomonas spp. (OR 1.95 (95% CI 1.25-3.04)) were associated with increased odds for mortality. Other than higher Pseudomonas spp. isolated with the use of inhaled corticosteroids, no significant association was observed either with lung function or chest radiology. Adult Aboriginal Australians with bronchiectasis harbour a significant microorganism load that may play a role in overall morbidity and mortality.",
+  "year": 2025,
+  "authors": [
+    "Claire Gibbs",
+    "Timothy Howarth",
+    "Sudharsan Venkatesan",
+    "Sanjana S Heraganahally",
+    "Asanga Abeyaratne",
+    "Subash S Heraganahally"
+  ],
+  "journal": "Internal medicine journal",
+  "doi": "10.1111/imj.70020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40066862/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "40066862"
+  }
+}

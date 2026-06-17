@@ -1,0 +1,22 @@
+{
+  "source": "pubmed",
+  "source_id": "41633474",
+  "title": "The importance of biomarkers in the treatable-trait approach to chronic airway diseases.",
+  "abstract": "Chronic airway diseases (CAD), including asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis, and cystic fibrosis, are increasingly recognized as heterogeneous and overlapping syndromes that share treatable biological and clinical characteristics. The Treatable Traits (TT) approach is a precision medicine framework that transcends diagnostic labels. It identifies and targets modifiable pulmonary, extrapulmonary, and behavioral characteristics in each patient. Biomarkers are central to this paradigm, translating latent endotypes into measurable traits that inform diagnosis, treatment selection, and longitudinal monitoring. This review synthesizes contemporary evidence on the role of biomarkers in implementing the TT model across CAD. Peripheral and airway biomarkers, including blood eosinophil count (BEC), fractional exhaled nitric oxide (FeNO), and sputum cell profiles, enable the identification of type 2 inflammatory traits and the prediction of corticosteroid or biologic responsiveness. Imaging and quantitative computed tomography metrics extend trait definition to structural and functional domains. Meanwhile, multi-omic and microbiome signatures reveal the molecular endotypes that underpin disease heterogeneity. Canonical examples include BEC predicting the benefit of inhaled corticosteroids in COPD and FeNO indicating steroid responsiveness in asthma. Additionally, emerging data suggest that rapid trait identification during acute exacerbations may facilitate targeted biologic therapy, extending precision care into acute management contexts. Integrating biomarker-guided assessment with individualized therapy redefines the management of CAD by offering a pathway toward biologically precise, dynamically adaptive care. Continued research should focus on standardizing biomarker thresholds, validating composite panels, and translating omic and imaging discoveries into routine clinical tools to optimize outcomes across the chronic airway disease spectrum.",
+  "year": 2026,
+  "authors": [
+    "Mario Cazzola",
+    "Mauro Maniscalco",
+    "Maria Gabriella Matera",
+    "Paola Rogliani"
+  ],
+  "journal": "Pulmonary pharmacology & therapeutics",
+  "doi": "10.1016/j.pupt.2026.102410",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41633474/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "41633474"
+  }
+}

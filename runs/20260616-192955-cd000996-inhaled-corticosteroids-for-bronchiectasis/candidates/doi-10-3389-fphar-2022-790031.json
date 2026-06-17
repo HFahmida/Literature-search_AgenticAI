@@ -1,0 +1,23 @@
+{
+  "source": "pubmed",
+  "source_id": "35431916",
+  "title": "Asthma Therapies on Pulmonary Tuberculosis Pneumonia in Predominant Bronchiectasis-Asthma Combination.",
+  "abstract": "Background: It is sometimes difficult to distinguish between asthma and bronchiectasis as their symptoms overlap, and these two diseases are associated with pulmonary tuberculosis (PTB) or pneumonia. Objective: The purpose of this study is to determine the effects of bronchodilator drugs, steroids, antidepressants drugs, and antianxiety drugs on the risks of PTB or pneumonia in patients with bronchiectasis-asthma combination or bronchiectasis-asthma-chronic obstructive pulmonary disease combination-BCAS cohort. Methods: After propensity score matching, we retrospectively studied patients with BCAS (N = 620) and without BCAS (N = 2,314) through an analysis. The cumulative incidence of PTB or pneumonia was analyzed through Cox proportional regression. After adjustment for sex, age, comorbidities, and medications [including long-acting beta2 agonist/muscarinic antagonists (LABAs/LAMAs), short-acting beta2 agonist/muscarinic antagonists (SABAs/SAMAs), leukotriene receptor antagonist, montelukast, steroids (inhaled corticosteroids, ICSs; oral steroids, OSs), anti-depressants (fluoxetine), and anti-anxiety drugs (benzodiazepines, BZDs)], we calculated the adjusted hazard ratios (aHR) and their 95% confidence intervals (95% CI) for these risks. Similar to OSs, ICSs are associated with an increased risk of PTB or pneumonia, lumping these two as steroids (ICSs/OSs). Results: For the aHR (95% CI), with non-LABAs/non-OSs as the reference 1, the use of LABAs [0.70 (0.52-0.94)]/OSs [0.35 (0.29-0.44)] was associated with a lower risk of PTB or pneumonia. However, the current use of LABAs [2.39 (1.31-4.34)]/SABAs [1.61 (1.31-1.96)], steroids [ICSs 3.23 (1.96-5.29)]/OSs 1.76 (1.45-2.14)], and BZDs [alprazolam 1.73 (1.08-2.75)/fludiazepam 7.48 (1.93-28.9)] was associated with these risks. The current use of LAMAs [0.52 (0.14-1.84)]/SAMAs [1.45 (0.99-2.11)] was not associated with these risks. Conclusion: The current use of LAMAs/SAMAs is relatively safe with respect to PTB or pneumonia risks, but LABAs/SABAs, steroids, and BZDs could be used after evaluation of the benefit for the BCAS cohort. However, we must take the possible protopathic bias into account.",
+  "year": 2022,
+  "authors": [
+    "Jun-Jun Yeh",
+    "Hui-Chuan Lin",
+    "Yu-Cih Yang",
+    "Chung-Y Hsu",
+    "Chia-Hung Kao"
+  ],
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2022.790031",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35431916/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "35431916"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "pubmed",
+  "source_id": "29678900",
+  "title": "Prevention of exacerbations in patients with stable non-cystic fibrosis bronchiectasis: a systematic review and meta-analysis of pharmacological and non-pharmacological therapies.",
+  "abstract": "Several pharmacological and non-pharmacological therapies are used to treat stable bronchiectasis of non-cystic fibrosis (CF) aetiology. We conducted a systematic review and meta-analysis to assess the evidence of the effectiveness of pharmacological and non-pharmacological treatment options in patients with stable non-CF bronchiectasis with a focus on reducing exacerbations. Multiple databases were searched through September 2017. Outcomes included the number of patients with exacerbation events, mean number of exacerbations, hospitalisations, mortality, quality of life measures, and safety and adverse effects. Meta-analysis was conducted using the random effects model. 30 randomised controlled trials enrolled subjects with non-CF bronchiectasis using different interventions. Moderate-quality evidence supported the effect of long-term antibiotics (≥3 months) on lowering the number of patients experiencing exacerbation events (relative risk 0.77 (95% CI 0.68 to 0.89)), reducing number of exacerbations (incidence rate ratio 0.62 (95% CI 0.49 to 0.78)), improving forced expiratory volume (litre) in the first second (FEV1) (weighted mean difference (WMD); 0.02 (95% CI 0.00 to 0.04)), decreasing sputum purulence scores (numerical scale of 1-8) (WMD -0.90 (95% CI -1.58 to -0.22)) and improving quality of life scores assessed by the St George's Respiratory Questionnaire (WMD -6.07 (95% CI -10.7 to -1.43)). Bronchospasm increased with inhaled antibiotics while diarrhoea increased particularly with oral macrolide therapy. Moderate-quality evidence supports long-term antibiotic therapy for preventing exacerbations in stable non-CF bronchiectasis. However, data about the optimum agent, mode of therapy and length of treatment are limited. There is paucity of high-quality evidence to support the management of stable non-CF bronchiectasis including prevention of exacerbations.",
+  "year": 2018,
+  "authors": [
+    "Abd Moain Abu Dabrh",
+    "Adam T Hill",
+    "Claudia C Dobler",
+    "Noor Asi",
+    "Wigdan H Farah",
+    "Qusay Haydour",
+    "Zhen Wang",
+    "Khalid Benkhadra",
+    "Larry J Prokop",
+    "Mohammad Hassan Murad"
+  ],
+  "journal": "BMJ evidence-based medicine",
+  "doi": "10.1136/bmjebm-2018-110893",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29678900/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "29678900"
+  }
+}

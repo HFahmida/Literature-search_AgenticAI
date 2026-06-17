@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi:10.1002/14651858.cd000996",
+  "source": "pubmed",
+  "source_id": "10796575",
+  "title": "Inhaled steroids for bronchiectasis.",
+  "abstract": "Bronchiectasis is a progressive condition characterised by irreversible destruction and dilatation of airways, generally associated with chronic bacterial infection. The two distinct therapeutic goals are: symptom control and reduction in morbidity; and prevention of progression of the underlying disease. To determine whether regular inhaled corticosteroids produce improvement in symptom control and whether they beneficially influence the natural history of the disease. The Cochrane Airways Group RCT register and Cochrane Controlled Clinical Trials Register were searched using the following search terms; bronchiectasis AND [corticosteroid* OR beclomethasone OR budesonide OR fluticasone OR triamcinolone OR flunisolide]. Bibliographies of each included RCT was searched for additional trials. Pharmaceutical companies that manufacture inhaled corticosteroids were also contacted. Only randomised double blind studies controlled trials were included. Patients with radiographic evidence of bronchiectasis were included, but patients with cystic fibrosis were excluded. Data was extracted by one of the reviewers (FR). Continuous outcomes were analysed as effect sizes (weighted mean difference or as standardised mean difference with 95% confidence intervals). Only two trials on a total of 54 patients could be included. The studies were of 4 and 6 weeks duration. Inhaled corticosteroids had no significant effect on any of the outcomes included in this review, however there was a trend towards improving: FEV1, FVC, PEFR, RV and DLco. In bronchiectasis, regular use of inhaled corticosteroids may improve lung function. The available studies were too short and too small to provide any clear evidence to guide practice. Larger and longer studies should include rate of decline of lung function, exacerbation frequency, hospitalisations and healthy status as outcomes.",
+  "citation": null,
+  "doi": "10.1002/14651858.CD000996",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10796575/",
+  "pdf_url": null,
+  "year": 2000,
+  "authors": [
+    "J Kolbe",
+    "A Wells",
+    "F S Ram"
+  ],
+  "journal": "The Cochrane database of systematic reviews",
+  "screening": {
+    "relevance_score": 4,
+    "decision": "include",
+    "reason": "Directly relevant to the CLEF TAR topic on inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [
+      "Studies matching the review objective."
+    ],
+    "matched_exclusion_criteria": []
+  },
+  "overall_concept_summary": "A systematic review evaluating the effects of regular inhaled corticosteroids on symptom control and natural history of bronchiectasis.",
+  "detailed_summary": "This study reviewed two randomized controlled trials involving a total of 54 patients with radiographic evidence of bronchiectasis. The primary outcomes included lung function measures such as FEV1, FVC, PEFR, RV, and DLco. While there was a trend towards improved lung function, the short duration (4 and 6 weeks) and small sample size did not provide clear evidence to support regular use of inhaled corticosteroids for symptom control or disease progression.",
+  "background_rationale": null,
+  "methods_summary": "The review included only two randomized double-blind controlled trials. Data was extracted by one reviewer, with continuous outcomes analyzed as effect sizes (weighted mean difference or standardised mean difference).",
+  "results_summary": "Inhaled corticosteroids showed a trend towards improving lung function measures but did not produce significant effects on the primary outcomes.",
+  "conclusion_summary": "The available studies were too short and too small to provide clear evidence for the use of inhaled corticosteroids in bronchiectasis. Larger and longer studies are needed to assess their impact on disease progression, exacerbation frequency, hospitalizations, and health status.",
+  "relevance_to_review": "Central paper",
+  "key_takeaways": [
+    "Inhaled corticosteroids may improve lung function trends but lack clear evidence for symptom control or disease progression in bronchiectasis.",
+    "Further research with larger sample sizes and longer durations is needed."
+  ],
+  "objective": null,
+  "study_design": "Systematic review of randomized controlled trials",
+  "population_or_sample": "54 patients with radiographic evidence of bronchiectasis, excluding those with cystic fibrosis",
+  "setting": null,
+  "intervention_or_exposure": "Regular inhaled corticosteroids",
+  "comparator": "Placebo or no treatment",
+  "methods": [
+    "Searches of Cochrane Airways Group RCT register and Cochrane Controlled Clinical Trials Register.",
+    "Bibliographies of included studies searched for additional trials.",
+    "Pharmaceutical companies contacted."
+  ],
+  "outcomes_measured": [
+    "FEV1",
+    "FVC",
+    "PEFR",
+    "RV",
+    "DLco"
+  ],
+  "main_results": [
+    "Trend towards improved lung function measures but no significant effects on primary outcomes.",
+    "Studies too short and small to provide clear evidence for practice."
+  ],
+  "conclusions": [
+    "Inhaled corticosteroids may improve lung function trends in bronchiectasis.",
+    "Further research needed with larger sample sizes and longer durations."
+  ],
+  "limitations": [
+    "Short duration of studies, small sample size"
+  ],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [
+    "Inhaled corticosteroids had no significant effect on any of the outcomes included in this review, however there was a trend towards improving: FEV1, FVC, PEFR, RV and DLco."
+  ],
+  "extraction_confidence": "high",
+  "missing_information": []
+}

@@ -1,0 +1,21 @@
+{
+  "source": "pubmed",
+  "source_id": "1519835",
+  "title": "Sputum ECP levels correlate with parameters of airflow obstruction.",
+  "abstract": "Growing evidence suggests that eosinophils play an important role as proinflammatory cells in asthma, possibly by releasing toxic cationic proteins. In this study concentrations of serum and sputum eosinophil cationic protein (ECP) from 134 patients with productive cough and a history suggestive of airflow obstruction were measured by radioimmunoassay. Small sputum volumes were suspended in saline, vortexed, and centrifuged and ECP measured in the supernatant. Serum ECP levels ranged from 0.002 to 0.095 mg/L (0.016 +/- 0.0014), whereas sputum ECP concentrations were between 0.024 and 5.66 mg/L ECP per g sputum (0.878 +/- 0.092). Only 17 of the 134 patients (14 asthma, one cystic fibrosis, one bronchiectasis, and one bronchitis) had not been pretreated with corticosteroids. Sputum but not serum ECP levels of the 14 patients with asthma were inversely correlated with impairment of FEV1 (r = -0.73). Airway resistance (Raw) (r = 0.71) as well as the change in FEV1 (r = 0.79) and Raw (r = 0.84) after inhalation of 0.2 mg albuterol were positively correlated. This relationship was not observed in the remaining 117 patients on topical and/or systemic corticosteroids, suggesting that corticosteroid treatment influences sputum ECP levels. Also, sputum ECP levels and the degree of sputum eosinophilia were not correlated in any of the patient groups. Neither did serum ECP levels predict sputum ECP concentrations. We conclude that sputum ECP concentrations serve as a marker of eosinophil degranulation in the sputum, and this marker correlates with airflow obstruction. Sputum ECP levels are more closely related to lung function parameters than serum ECP concentrations and/or microscopic sputum analysis.",
+  "year": 1992,
+  "authors": [
+    "J C Virchow",
+    "U Hölscher",
+    "C Virchow"
+  ],
+  "journal": "The American review of respiratory disease",
+  "doi": "10.1164/ajrccm/146.3.604",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1519835/",
+  "pdf_url": null,
+  "keywords": [],
+  "citation_count": null,
+  "raw": {
+    "pmid": "1519835"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi:10.5578/tt.20219610",
+  "source": "pubmed",
+  "source_id": "34957746",
+  "title": "[Long-term macrolide therapy in asthma].",
+  "abstract": "Macrolides are antibiotics with antiviral, anti-inflammatory and immunomodulatory effects in together with their bacteriostatic effects. In addition to its beneficial effects on chronic respiratory diseases such as COPD, cystic fibrosis, diffuse panbronchiolitis, and bronchiectasis, its effects on uncontrolled severe asthma and asthma exacerbations have been the subject of research in recent years. In randomized controlled trials, azithromycin, a macrolide, has been shown to reduce asthma exacerbations and significantly improve asthma-related quality of life in both eosinophilic and non-eosinophilic asthma phenotypes. However, there are also differences such as doses, durations and some studies not showing its effectiveness in severe eosinophilic asthma. In the GINA report, azithromycin can be recommended as an add-on therapy in patients with uncontrolled non-T2 severe asthma despite high-dose inhaled corticosteroid/ long-acting beta2-agonist/long-acting antimuscariniric treatments, or in T2 severe asthma patients whose asthma is not under control despite biologic therapy. In this review, the use of macrolides, especially azithromycin, in the treatment of asthma, immunomodulatory activities and safety profiles are discussed on the basis of current studies and guidelines.",
+  "citation": null,
+  "doi": "10.5578/tt.20219610",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34957746/",
+  "pdf_url": null,
+  "year": 2021,
+  "authors": [
+    "Gülden Paçacı Çetin",
+    "Bahar Arslan",
+    "İnsu Yılmaz"
+  ],
+  "journal": "Tuberkuloz ve toraks",
+  "screening": {
+    "relevance_score": 0,
+    "decision": "exclude",
+    "reason": "The study focuses on macrolide therapy for asthma, not inhaled corticosteroids for bronchiectasis.",
+    "matched_inclusion_criteria": [],
+    "matched_exclusion_criteria": [
+      "Studies not matching the review objective."
+    ]
+  },
+  "overall_concept_summary": "This article discusses the use of macrolides, particularly azithromycin, in managing asthma and its immunomodulatory effects.",
+  "detailed_summary": "",
+  "background_rationale": null,
+  "methods_summary": "",
+  "results_summary": "",
+  "conclusion_summary": "",
+  "relevance_to_review": "The study is unrelated to the review topic of inhaled corticosteroids for bronchiectasis.",
+  "key_takeaways": [],
+  "objective": null,
+  "study_design": null,
+  "population_or_sample": null,
+  "setting": null,
+  "intervention_or_exposure": null,
+  "comparator": null,
+  "methods": [
+    "Review of current studies and guidelines"
+  ],
+  "outcomes_measured": [],
+  "main_results": [],
+  "conclusions": [],
+  "limitations": [],
+  "risk_of_bias_notes": [],
+  "extracted_numeric_results": [],
+  "evidence_quotes_or_locations": [],
+  "extraction_confidence": "low",
+  "missing_information": [
+    "No specific information on inhaled corticosteroids or bronchiectasis"
+  ]
+}
